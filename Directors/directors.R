@@ -53,13 +53,16 @@ for (i in 1:n) {
     time.b <- as.numeric(gsub('([a-z]*|\\s*|\n)','',time.a))
     time.c <- ifelse(is.na(time.b),0,time.b)
     
-    films <- films+ifelse(time.c>=80,1,0)
+    films <- films+ifelse(time.c>=80,1,NA)
     
     release_date.a <- xpathSApply(pp,"//div[@class='infobar']/span[@class='nobr']",xmlValue)
-    release_date <- str_trim(gsub('(\\n|USA|\\(|\\))','',release_date.a))
+    release_date.b <- str_trim(gsub('(\\n|USA|\\(|\\))','',release_date.a))
+    release_date <-   ifelse(length(release_date)>0,release_date.b,NA)
     
     rating <-  as.numeric(str_trim(xpathSApply(pp,"//div[@class='titlePageSprite star-box-giga-star']",xmlValue)))
-    reviews <- as.numeric(str_trim(xpathSApply(pp,"//span[@itemprop='ratingCount']",xmlValue)))
+    reviews.a <- str_trim(xpathSApply(pp,"//span[@itemprop='ratingCount']",xmlValue))
+    reviews.b <- sub(',','',reviews.a)
+    reviews <- as.numeric(reviews.b)
     
     title <- xpathSApply(pp,"//h1[@class='header']/span[@class='itemprop']",xmlValue)
     
