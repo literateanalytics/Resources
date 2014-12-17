@@ -1,0 +1,91 @@
+"name"	"nominations"	"wins"	"films"	"director_credits"	"win_nom_pct"	"win_film_pct"	"nom_film_pct"	"films_credit_pct"
+"John Ford"	5	4	65	145	0.8	0.06	0.08	0.45
+"William Wyler"	12	3	32	71	0.25	0.09	0.38	0.45
+"Frank Capra"	6	3	26	54	0.5	0.12	0.23	0.48
+"Billy Wilder"	8	2	25	27	0.25	0.08	0.32	0.93
+"David Lean"	7	2	18	19	0.29	0.11	0.39	0.95
+"Steven Spielberg"	7	2	33	52	0.29	0.06	0.21	0.63
+"Fred Zinnemann"	7	2	22	47	0.29	0.09	0.32	0.47
+"Elia Kazan"	5	2	19	21	0.4	0.11	0.26	0.9
+"George Stevens"	5	2	24	57	0.4	0.08	0.21	0.42
+"Clint Eastwood"	4	2	34	37	0.5	0.06	0.12	0.92
+"Frank Lloyd"	4	2	34	135	0.5	0.06	0.12	0.25
+"Joseph L. Mankiewicz"	4	2	21	22	0.5	0.1	0.19	0.95
+"Milos Forman"	3	2	14	20	0.67	0.14	0.21	0.7
+"Ang Lee"	3	2	12	14	0.67	0.17	0.25	0.86
+"Leo McCarey"	3	2	15	106	0.67	0.13	0.2	0.14
+"Lewis Milestone"	3	2	37	52	0.67	0.05	0.08	0.71
+"Oliver Stone"	3	2	19	29	0.67	0.11	0.16	0.66
+"Robert Wise"	3	2	34	41	0.67	0.06	0.09	0.83
+"Frank Borzage"	2	2	48	107	1	0.04	0.04	0.45
+"Martin Scorsese"	8	1	32	59	0.12	0.03	0.25	0.54
+"Woody Allen"	7	1	44	50	0.14	0.02	0.16	0.88
+"George Cukor"	5	1	58	67	0.2	0.02	0.09	0.87
+"Michael Curtiz"	5	1	81	172	0.2	0.01	0.06	0.47
+"John Huston"	5	1	40	47	0.2	0.02	0.12	0.85
+"Francis Ford Coppola"	4	1	27	34	0.25	0.04	0.15	0.79
+"Mike Nichols"	4	1	21	22	0.25	0.05	0.19	0.95
+"Joel Coen"	3	1	18	19	0.33	0.06	0.17	0.95
+"Bob Fosse"	3	1	5	8	0.33	0.2	0.6	0.62
+"Roman Polanski"	3	1	23	35	0.33	0.04	0.13	0.66
+"Sydney Pollack"	3	1	22	37	0.33	0.05	0.14	0.59
+"Carol Reed"	3	1	23	33	0.33	0.04	0.13	0.7
+"John Schlesinger"	3	1	21	28	0.33	0.05	0.14	0.75
+"Warren Beatty"	2	1	4	6	0.5	0.25	0.5	0.67
+"Robert Benton"	2	1	10	11	0.5	0.1	0.2	0.91
+"Bernardo Bertolucci"	2	1	21	25	0.5	0.05	0.1	0.84
+"James Cameron"	2	1	10	22	0.5	0.1	0.2	0.45
+"Ethan Coen"	2	1	18	19	0.5	0.06	0.11	0.95
+"William Friedkin"	2	1	23	35	0.5	0.04	0.09	0.66
+"Ron Howard"	2	1	24	36	0.5	0.04	0.08	0.67
+"Peter Jackson"	2	1	14	20	0.5	0.07	0.14	0.7
+"Barry Levinson"	2	1	23	37	0.5	0.04	0.09	0.62
+"Vincente Minnelli"	2	1	37	38	0.5	0.03	0.05	0.97
+"Robert Redford"	2	1	9	10	0.5	0.11	0.22	0.9
+"George Roy Hill"	2	1	15	19	0.5	0.07	0.13	0.79
+"Steven Soderbergh"	2	1	25	37	0.5	0.04	0.08	0.68
+"Norman Taurog"	2	1	67	183	0.5	0.01	0.03	0.37
+"Robert Altman"	5	0	42	87	0	0	0.12	0.48
+"Clarence Brown"	5	0	36	53	0	0	0.14	0.68
+"Alfred Hitchcock"	5	0	46	70	0	0	0.11	0.66
+"King Vidor"	5	0	36	78	0	0	0.14	0.46
+"Federico Fellini"	4	0	21	25	0	0	0.19	0.84
+"Stanley Kubrick"	4	0	11	16	0	0	0.36	0.69
+"Sidney Lumet"	4	0	51	73	0	0	0.08	0.7
+"Peter Weir"	4	0	14	30	0	0	0.29	0.47
+"Ingmar Bergman"	3	0	52	67	0	0	0.06	0.78
+"Richard Brooks"	3	0	1	1	0	0	3	1
+"Stephen Daldry"	3	0	7	10	0	0	0.43	0.7
+"James Ivory"	3	0	27	33	0	0	0.11	0.82
+"Norman Jewison"	3	0	26	42	0	0	0.12	0.62
+"Stanley Kramer"	3	0	19	20	0	0	0.16	0.95
+"Ernst Lubitsch"	3	0	33	76	0	0	0.09	0.43
+"David Lynch"	3	0	16	45	0	0	0.19	0.36
+"Alexander Payne"	3	0	9	12	0	0	0.33	0.75
+"Arthur Penn"	3	0	20	27	0	0	0.15	0.74
+"David O. Russell"	3	0	7	12	0	0	0.43	0.58
+"Ridley Scott"	3	0	23	34	0	0	0.13	0.68
+"William A. Wellman"	3	0	45	83	0	0	0.07	0.54
+"Sam Wood"	3	0	47	82	0	0	0.06	0.57
+"John Boorman"	2	0	19	28	0	0	0.11	0.68
+"David Fincher"	2	0	17	24	0	0	0.12	0.71
+"Stephen Frears"	2	0	28	61	0	0	0.07	0.46
+"Lasse Hallström"	2	0	25	35	0	0	0.08	0.71
+"Roland Joffé"	2	0	10	23	0	0	0.2	0.43
+"Henry King"	2	0	55	116	0	0	0.04	0.47
+"Gregory La Cava"	2	0	16	174	0	0	0.12	0.09
+"Mike Leigh"	2	0	14	22	0	0	0.14	0.64
+"Robert Z. Leonard"	2	0	48	162	0	0	0.04	0.3
+"George Lucas"	2	0	6	18	0	0	0.33	0.33
+"Terrence Malick"	2	0	6	10	0	0	0.33	0.6
+"Alan Parker"	2	0	15	19	0	0	0.13	0.79
+"Otto Preminger"	2	0	35	42	0	0	0.06	0.83
+"Jason Reitman"	2	0	7	14	0	0	0.29	0.5
+"Mark Robson"	2	0	25	33	0	0	0.08	0.76
+"Robert Rossen"	2	0	10	10	0	0	0.2	1
+"Jim Sheridan"	2	0	8	9	0	0	0.25	0.89
+"Josef von Sternberg"	2	0	21	35	0	0	0.1	0.6
+"Quentin Tarantino"	2	0	11	16	0	0	0.18	0.69
+"W. S. Van Dyke"	2	0	0	0	0	0	0	0
+"Gus Van Sant"	2	0	18	34	0	0	0.11	0.53
+"Peter Yates"	2	0	26	28	0	0	0.08	0.93

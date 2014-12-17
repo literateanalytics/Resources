@@ -1,0 +1,91 @@
+4,John Ford,5
+3,William Wyler,12
+3,Frank Capra,6
+2,Billy Wilder,8
+2,David Lean,7
+2,Steven Spielberg,7
+2,Fred Zinnemann,7
+2,Elia Kazan,5
+2,George Stevens,5
+2,Clint Eastwood,4
+2,Frank Lloyd,4
+2,Joseph L. Mankiewicz,4
+2,Miloš Forman,3
+2,Ang Lee,3
+2,Leo McCarey,3
+2,Lewis Milestone,3
+2,Oliver Stone,3
+2,Robert Wise,3
+2,Frank Borzage,2
+1,Martin Scorsese,8
+1,Woody Allen,7
+1,George Cukor,5
+1,Michael Curtiz,5
+1,John Huston,5
+1,Francis Ford Coppola,4
+1,Mike Nichols,4
+1,Joel Coen,3
+1,Bob Fosse,3
+1,Roman Polanski,3
+1,Sydney Pollack,3
+1,Carol Reed,3
+1,John Schlesinger,3
+1,Warren Beatty,2
+1,Robert Benton,2
+1,Bernardo Bertolucci,2
+1,James Cameron,2
+1,Ethan Coen,2
+1,William Friedkin,2
+1,Ron Howard,2
+1,Peter Jackson,2
+1,Barry Levinson,2
+1,Vincente Minnelli,2
+1,Robert Redford,2
+1,George Roy Hill,2
+1,Steven Soderbergh,2
+1,Norman Taurog,2
+0,Robert Altman,5
+0,Clarence Brown,5
+0,Alfred Hitchcock,5
+0,King Vidor,5
+0,Federico Fellini,4
+0,Stanley Kubrick,4
+0,Sidney Lumet,4
+0,Peter Weir,4
+0,Ingmar Bergman,3
+0,Richard Brooks,3
+0,Stephen Daldry,3
+0,James Ivory,3
+0,Norman Jewison,3
+0,Stanley Kramer,3
+0,Ernst Lubitsch,3
+0,David Lynch,3
+0,Alexander Payne,3
+0,Arthur Penn,3
+0,David O. Russell,3
+0,Ridley Scott,3
+0,William A. Wellman,3
+0,Sam Wood,3
+0,John Boorman,2
+0,David Fincher,2
+0,Stephen Frears,2
+0,Lasse Hallström,2
+0,Roland Joffé,2
+0,Henry King,2
+0,Gregory La Cava,2
+0,Mike Leigh,2
+0,Robert Z. Leonard,2
+0,Joshua Logan,2
+0,George Lucas,2
+0,Terrence Malick,2
+0,Alan Parker,2
+0,Otto Preminger,2
+0,Jason Reitman,2
+0,Mark Robson,2
+0,Robert Rossen,2
+0,Jim Sheridan,2
+0,Josef von Sternberg,2
+0,Quentin Tarantino,2
+0,W. S. Van Dyke,2
+0,Gus Van Sant,2
+0,Peter Yates,2

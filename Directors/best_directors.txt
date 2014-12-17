@@ -1,0 +1,91 @@
+name	nominations	wins	win_pct	films	nom_pct
+9	Bob Fosse	3	1	0.33	8	0.38
+14	David Lean	7	2	0.29	19	0.37
+86	Warren Beatty	2	1	0.5	6	0.33
+8	Billy Wilder	8	2	0.25	27	0.3
+79	Stephen Daldry	3	0	0	10	0.3
+2	Alexander Payne	3	0	0	12	0.25
+16	David O. Russell	3	0	0	12	0.25
+78	Stanley Kubrick	4	0	0	16	0.25
+17	Elia Kazan	5	2	0.4	21	0.24
+37	Jim Sheridan	2	0	0	9	0.22
+4	Ang Lee	3	2	0.67	14	0.21
+68	Robert Redford	2	1	0.5	10	0.2
+69	Robert Rossen	2	0	0	10	0.2
+84	Terrence Malick	2	0	0	10	0.2
+44	Joseph L. Mankiewicz	4	2	0.5	22	0.18
+45	Joshua Logan	2	0	0	11	0.18
+54	Mike Nichols	4	1	0.25	22	0.18
+67	Robert Benton	2	1	0.5	11	0.18
+89	William Wyler	12	3	0.25	71	0.17
+20	Federico Fellini	4	0	0	25	0.16
+38	Joel Coen	3	1	0.33	19	0.16
+25	Fred Zinnemann	7	2	0.29	47	0.15
+55	Milos Forman	3	2	0.67	20	0.15
+77	Stanley Kramer	3	0	0	20	0.15
+36	Jason Reitman	2	0	0	14	0.14
+51	Martin Scorsese	8	1	0.12	59	0.14
+90	Woody Allen	7	1	0.14	50	0.14
+61	Peter Weir	4	0	0	30	0.13
+82	Steven Spielberg	7	2	0.29	52	0.13
+21	Francis Ford Coppola	4	1	0.25	34	0.12
+63	Quentin Tarantino	2	0	0	16	0.12
+64	Richard Brooks	3	0	0	25	0.12
+1	Alan Parker	2	0	0	19	0.11
+5	Arthur Penn	3	0	0	27	0.11
+12	Clint Eastwood	4	2	0.5	37	0.11
+19	Ethan Coen	2	1	0.5	19	0.11
+23	Frank Capra	6	3	0.5	54	0.11
+27	George Lucas	2	0	0	18	0.11
+28	George Roy Hill	2	1	0.5	19	0.11
+41	John Huston	5	1	0.2	47	0.11
+42	John Schlesinger	3	1	0.33	28	0.11
+58	Oliver Stone	3	2	0.67	29	0.1
+60	Peter Jackson	2	1	0.5	20	0.1
+10	Carol Reed	3	1	0.33	33	0.09
+11	Clarence Brown	5	0	0	53	0.09
+29	George Stevens	5	2	0.4	57	0.09
+34	James Cameron	2	1	0.5	22	0.09
+35	James Ivory	3	0	0	33	0.09
+53	Mike Leigh	2	0	0	22	0.09
+65	Ridley Scott	3	0	0	34	0.09
+72	Roland Joffé	2	0	0	23	0.09
+73	Roman Polanski	3	1	0.33	35	0.09
+7	Bernardo Bertolucci	2	1	0.5	25	0.08
+13	David Fincher	2	0	0	24	0.08
+83	Sydney Pollack	3	1	0.33	37	0.08
+3	Alfred Hitchcock	5	0	0	70	0.07
+15	David Lynch	3	0	0	45	0.07
+26	George Cukor	5	1	0.2	67	0.07
+39	John Boorman	2	0	0	28	0.07
+56	Norman Jewison	3	0	0	42	0.07
+62	Peter Yates	2	0	0	28	0.07
+70	Robert Wise	3	2	0.67	41	0.07
+31	Gus Van Sant	2	0	0	34	0.06
+43	Josef von Sternberg	2	0	0	35	0.06
+46	King Vidor	5	0	0	78	0.06
+47	Lasse Hallström	2	0	0	35	0.06
+49	Lewis Milestone	3	2	0.67	52	0.06
+50	Mark Robson	2	0	0	33	0.06
+66	Robert Altman	5	0	0	87	0.06
+74	Ron Howard	2	1	0.5	36	0.06
+88	William Friedkin	2	1	0.5	35	0.06
+6	Barry Levinson	2	1	0.5	37	0.05
+59	Otto Preminger	2	0	0	42	0.05
+76	Sidney Lumet	4	0	0	73	0.05
+81	Steven Soderbergh	2	1	0.5	37	0.05
+85	Vincente Minnelli	2	1	0.5	38	0.05
+18	Ernst Lubitsch	3	0	0	76	0.04
+33	Ingmar Bergman	3	0	0	67	0.04
+75	Sam Wood	3	0	0	82	0.04
+87	William A. Wellman	3	0	0	83	0.04
+24	Frank Lloyd	4	2	0.5	135	0.03
+40	John Ford	5	4	0.8	145	0.03
+48	Leo McCarey	3	2	0.67	106	0.03
+52	Michael Curtiz	5	1	0.2	172	0.03
+80	Stephen Frears	2	0	0	61	0.03
+22	Frank Borzage	2	2	1	107	0.02
+32	Henry King	2	0	0	116	0.02
+30	Gregory La Cava	2	0	0	174	0.01
+57	Norman Taurog	2	1	0.5	183	0.01
+71	Robert Z. Leonard	2	0	0	162	0.01

@@ -1,0 +1,91 @@
+"director"	"films"	"director_credits"
+"John Ford"	65	145
+"William Wyler"	32	71
+"Frank Capra"	26	54
+"Billy Wilder"	25	27
+"David Lean"	18	19
+"Steven Spielberg"	33	52
+"Fred Zinnemann"	22	47
+"Elia Kazan"	19	21
+"George Stevens"	24	57
+"Clint Eastwood"	34	37
+"Frank Lloyd"	34	135
+"Joseph L. Mankiewicz"	21	22
+"Milos Forman"	14	20
+"Ang Lee"	12	14
+"Leo McCarey"	15	106
+"Lewis Milestone"	37	52
+"Oliver Stone"	19	29
+"Robert Wise"	34	41
+"Frank Borzage"	48	107
+"Martin Scorsese"	32	59
+"Woody Allen"	44	50
+"George Cukor"	58	67
+"Michael Curtiz"	81	172
+"John Huston"	40	47
+"Francis Ford Coppola"	27	34
+"Mike Nichols"	21	22
+"Joel Coen"	18	19
+"Bob Fosse"	5	8
+"Roman Polanski"	23	35
+"Sydney Pollack"	22	37
+"Carol Reed"	23	33
+"John Schlesinger"	21	28
+"Warren Beatty"	4	6
+"Robert Benton"	10	11
+"Bernardo Bertolucci"	21	25
+"James Cameron"	10	22
+"Ethan Coen"	18	19
+"William Friedkin"	23	35
+"Ron Howard"	24	36
+"Peter Jackson"	14	20
+"Barry Levinson"	23	37
+"Vincente Minnelli"	37	38
+"Robert Redford"	9	10
+"George Roy Hill"	15	19
+"Steven Soderbergh"	25	37
+"Norman Taurog"	67	183
+"Robert Altman"	42	87
+"Clarence Brown"	36	53
+"Alfred Hitchcock"	46	70
+"King Vidor"	36	78
+"Federico Fellini"	21	25
+"Stanley Kubrick"	11	16
+"Sidney Lumet"	51	73
+"Peter Weir"	14	30
+"Ingmar Bergman"	52	67
+"Richard Brooks"	1	1
+"Stephen Daldry"	7	10
+"James Ivory"	27	33
+"Norman Jewison"	26	42
+"Stanley Kramer"	19	20
+"Ernst Lubitsch"	33	76
+"David Lynch"	16	45
+"Alexander Payne"	9	12
+"Arthur Penn"	20	27
+"David O. Russell"	7	12
+"Ridley Scott"	23	34
+"William A. Wellman"	45	83
+"Sam Wood"	47	82
+"John Boorman"	19	28
+"David Fincher"	17	24
+"Stephen Frears"	28	61
+"Lasse Hallström"	25	35
+"Roland Joffé"	10	23
+"Henry King"	55	116
+"Gregory La Cava"	16	174
+"Mike Leigh"	14	22
+"Robert Z. Leonard"	48	162
+"George Lucas"	6	18
+"Terrence Malick"	6	10
+"Alan Parker"	15	19
+"Otto Preminger"	35	42
+"Jason Reitman"	7	14
+"Mark Robson"	25	33
+"Robert Rossen"	10	10
+"Jim Sheridan"	8	9
+"Josef von Sternberg"	21	35
+"Quentin Tarantino"	11	16
+"W.S. Van Dyke"	44	91
+"Gus Van Sant"	18	34
+"Peter Yates"	26	28
