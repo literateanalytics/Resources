@@ -1,0 +1,19 @@
+player_pos	num_players	draft_type	total_prod	avg_prod
+Player1	Four players	Sequential	22922.63	22.92263
+Player2	Four players	Sequential	21650.81	21.65081
+Player3	Four players	Sequential	20334.29	20.33429
+Player4	Four players	Sequential	18780.05	18.78005
+Player1	Three players	Sequential	23511.88	23.51188
+Player2	Three players	Sequential	22320.32	22.32032
+Player3	Three players	Sequential	21055.31	21.05531
+Player1	Two players	Sequential	24154.05	24.15405
+Player2	Two players	Sequential	22901.35	22.90135
+Player1	Four players	Serpentine	20768.51	20.76851
+Player2	Four players	Serpentine	20994.73	20.99473
+Player3	Four players	Serpentine	20990.37	20.99037
+Player4	Four players	Serpentine	20934.17	20.93417
+Player1	Three players	Serpentine	22275.01	22.27501
+Player2	Three players	Serpentine	22320.32	22.32032
+Player3	Three players	Serpentine	22292.18	22.29218
+Player1	Two players	Serpentine	23463.42	23.46342
+Player2	Two players	Serpentine	23591.98	23.59198
