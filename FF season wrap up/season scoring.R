@@ -23,7 +23,7 @@ score_links$weeknum <- gsub('.*scoringPeriodId=([0-9]{1,2}).*','\\1',score_links
 scoring <- NULL
 n <- nrow(score_links)
 
-for (i in 1:n) {
+for (i in 1:6) {
     
     cat('processing',i,'of',n,'matchups','\n',sep=' ')
     parse <- htmlParse(score_links$name[i])
@@ -100,7 +100,7 @@ scoring$team <- gsub('Bea','Chi',scoring$team)
 scoring$info <- NULL
 scoring$score <- as.numeric(as.character(scoring$score))
 scoring$week <- as.numeric(scoring$week)
-scoring <- scoring[,c(5,1,4,2,7,6,3)]
+scoring <- scoring[,c(5,6,1,4,2,8,7,3)]
 scoring <- filter(scoring,week<=13)
 
 ###########################################################
