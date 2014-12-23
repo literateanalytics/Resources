@@ -1,7 +1,11 @@
 library(XML)
+library(ggplot2)
+library(dplyr)
 
+league_id <- 1681423
+year <- 2014
+home <- htmlParse(paste('http://games.espn.go.com/ffl/schedule?leagueId=',league_id,'&seasonId=',year,sep=''))
 
-home <- htmlParse('http://games.espn.go.com/ffl/schedule?leagueId=1681423&seasonId=2014')
 
 ###########################################################
 # create basis for following loop. All hrefs for matchups this season.
@@ -14,11 +18,14 @@ score_links <- droplevels(score_links)
 score_links <- data.frame(score_links)
 names(score_links) <- c('name')
 score_links$name <- paste('http://games.espn.go.com',score_links$name,sep='')
+score_links$weeknum <- gsub('.*scoringPeriodId=([0-9]{1,2}).*','\\1',score_links$name)
 
 scoring <- NULL
+n <- nrow(score_links)
 
-for (i in 1:3) {
+for (i in 1:n) {
     
+    cat('processing',i,'of',n,'matchups','\n',sep=' ')
     parse <- htmlParse(score_links$name[i])
     
     #######################################################
@@ -46,15 +53,94 @@ for (i in 1:3) {
     p1$opponent <- rep(p2_name,nrow(p1))
     p2$opponent <- rep(p1_name,nrow(p2))
     matchup <- rbind(p1,p2)
+    matchup$week <- rep(score_links$weeknum[i],nrow(matchup))
+    matchup$link_num <- rep(i,nrow(matchup))
     scoring <- rbind(scoring,matchup)
 }    
 
 
 
+###########################################################
+# parse players, teams, positions, clean up a bit
+scoring$info <- scoring$player
+scoring$position <- scoring$info
+scoring$player <- gsub('^(([A-z]| |[0-9]|\'|\\/|\\.)+).*','\\1',scoring$info)
+scoring$position <- gsub('.*,*.*(RB|QB|WR|K|TE|D\\/ST).*','\\1',scoring$info)
+scoring$team <- gsub('^.*, ([A-z]{2,3}).*','\\1',scoring$info)
+scoring$team <- gsub('D\\/ST','',scoring$team)
+scoring$team <- gsub('\\s*','',scoring$team)
+scoring$team <- gsub('^([A-z]{1,3}).*','\\1',scoring$team)
+###########################################################
+# lots of crap in the team section
+scoring$team <- gsub('49ers','SF',scoring$team)
+scoring$team <- gsub('Ram','StL',scoring$team)
+scoring$team <- gsub('Pat','NE',scoring$team)
+scoring$team <- gsub('Buc','TB',scoring$team)
+scoring$team <- gsub('Ben','Cin',scoring$team)
+scoring$team <- gsub('Bro','Cle',scoring$team)
+scoring$team <- gsub('Tex','Hou',scoring$team)
+scoring$team <- gsub('Sai','NO',scoring$team)
+scoring$team <- gsub('Pan','Car',scoring$team)
+scoring$team <- gsub('Tit','Ten',scoring$team)
+scoring$team <- gsub('Ste','Pit',scoring$team)
+scoring$team <- gsub('Vik','Min',scoring$team)
+scoring$team <- gsub('Red','Wsh',scoring$team)
+scoring$team <- gsub('Rav','Bal',scoring$team)
+scoring$team <- gsub('Rai','Oak',scoring$team)
+scoring$team <- gsub('Pac','GB',scoring$team)
+scoring$team <- gsub('Lio','Det',scoring$team)
+scoring$team <- gsub('Gia','NYG',scoring$team)
+scoring$team <- gsub('Eag','Phi',scoring$team)
+scoring$team <- gsub('Dol','Mia',scoring$team)
+scoring$team <- gsub('Cow','Dal',scoring$team)
+scoring$team <- gsub('Col','Ind',scoring$team)
+scoring$team <- gsub('Cha','SD',scoring$team)
+scoring$team <- gsub('Bil','Buf',scoring$team)
+scoring$team <- gsub('Bea','Chi',scoring$team)
+scoring$info <- NULL
+scoring$score <- as.numeric(as.character(scoring$score))
+scoring$week <- as.numeric(scoring$week)
+scoring <- scoring[,c(5,1,4,2,7,6,3)]
+scoring <- filter(scoring,week<=13)
+
+###########################################################
+###########################################################
+##########-------------GRAPHING-----------------###########
+###########################################################
+###########################################################
+
 
 
 
 ###########################################################
-# parse players, teams, positions
-scoring$position <- scoring$player
-scoring$position <- gsub('(([A-z]| )+), [A-z]{3} ([A-z]{1,2}).*','\\1',scoring$position)
+# first graph - bar plot of total season score by team
+teamagg <- aggregate(score~team,data=scoring,sum)
+teamreo <- select(arrange(teamagg,score),team)
+teamagg$team <- factor(teamagg$team,levels=teamreo$team)
+qplot(data=teamagg,x=team,weight=score)+
+  coord_flip()+
+  labs(x='Aggregate fantasy points over season',y='Team',title='Total fantasy points per team')+
+  theme(plot.title=element_text(size=18,face='bold',vjust=2,hjust=0))
+
+
+###########################################################
+# second graph - manager-position deviations from average
+posagg <- summarise(group_by(scoring,position,manager),sum=sum(score),count=length(score))
+posagg.a <- summarise(group_by(scoring,position),pos_sum=sum(score),pos_count=length(score))
+posagg$avg_score <- posagg$sum/posagg$count
+posagg.a$pos_avg_score <- posagg.a$pos_sum/posagg.a$pos_count
+posagg <- left_join(posagg,posagg.a,by=c('position'='position'))
+posagg$avg_score_dev <- posagg$avg_score-posagg$pos_avg_score
+posagg$score_dev <- posagg$sum-(posagg$pos_sum/12)
+posagg$position <- factor(posagg$position,levels=c('QB','WR','RB','TE','D/ST','K'))
+qplot(data=posagg,x=position,weight=score_dev)+
+  facet_wrap(~manager)+
+  labs(x='Player position',y='Points deviating from league average',title='Season aggregate score variances by manager by position')+
+  theme(plot.title=element_text(size=18,face='bold',vjust=2,hjust=0))
+
+
+###########################################################
+# third graph - total points by manager by week
+managg <- summarise(group_by(scoring,week,manager),sum=sum(score))
+manreo <- select(arrange(managg,week,sum),manager)
+managg$manager <- factor(managg$manager,levels=manreo$manager)
