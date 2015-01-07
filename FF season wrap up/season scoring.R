@@ -23,7 +23,7 @@ score_links$weeknum <- gsub('.*scoringPeriodId=([0-9]{1,2}).*','\\1',score_links
 scoring <- NULL
 n <- nrow(score_links)
 
-for (i in 1:n) {
+for (i in 1:30) {
   
     cat('processing',i,'of',n,'matchups','\n',sep=' ')
     parse <- htmlParse(score_links$name[i])
@@ -211,15 +211,33 @@ ggplot(mvp,aes(x=player_rank,weight=player_pct,fill=position,label=player_abv))+
 ###########################################################
 # sixth (and final?) graph - manager "luckiness"
 # opponent pts scored in match vs avg pts scored in previous 3 matches
-wkagg <- aggregate(score~manager+week,data=scoring,sum)
-ma <- function(x,n=3){stats::filter(x,rep(1/n,n), sides=1)}
-# ^^^ can use EWMA method instead? to weight toward more recent scoring
+# possibly use EWMA method instead - to weight toward more recent scoring
 # see link for EWMA details in TTR package
 # http://stackoverflow.com/questions/12557697/using-ttr-package-to-calculate-exponential-moving-average
-arrange(filter(w,manager=='Sunil Acharya'),week) -> y
-arrange(filter(w,manager=='Sunil Acharya'),week)$rolling_score <- ma(select(arrange(filter(w,manager=='Sunil Acharya'),week),score))
-y$rolling_score <- ma(select(arrange(filter(w,manager=='Sunil Acharya'),week),score))
-
+library(data.table)
+wkagg <- aggregate(score~manager+week+opponent,data=scoring,sum)
+manrank <- aggregate(score~manager,data=wkagg,sum)
+manrank$rnk <- rank(-manrank$score)
+manrank <- select(manrank,manager,rnk)
+wkagg <- left_join(wkagg,manrank,by=c('manager'='manager'))
+ma <- function(x,n=2){stats::filter(x,rep(1/n,n), sides=1)}
+r <- max(wkagg$rnk)
+manscore <- NULL
+for (i in 1:r) {
+    w <- arrange(filter(wkagg,rnk == i),week)
+    w$rolling_score <- ma(select(w,score))
+    manscore <- rbind(manscore,w)
+}
+manscore <- select(manscore,manager,week,rolling_score)
+manscore$week <- manscore$week+1
+wkagg <- left_join(wkagg,manscore,by=c('opponent'='manager','week'='week'))
+setnames(wkagg,'rolling_score','opponent_rolling_score')
+wkagg$luckiness <- wkagg$score-wkagg$opponent_rolling_score
+ggplot(data=wkagg,aes(x=week,weight=luckiness))+
+    geom_bar(binwidth=0.5)+
+    facet_wrap(~manager,ncol=1)+
+    xlim(0,max(wkagg$week)+1)+
+    labs(title='Manager "luckiness": opponent score vs opponent rolling avg score')
 
 
 
