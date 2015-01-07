@@ -27,7 +27,6 @@ for (i in 1:n) {
   
     cat('processing',i,'of',n,'matchups','\n',sep=' ')
     parse <- htmlParse(score_links$name[i])
-    
 
     #######################################################
     # parse player 1 info
@@ -107,7 +106,8 @@ scoring$info <- NULL
 scoring$score <- as.numeric(as.character(scoring$score))
 scoring$week <- as.numeric(scoring$week)
 scoring <- scoring[,c(5,6,1,4,2,8,7,3)]
-scoring <- filter(scoring,week<=13)
+# here is a filter for regular season only, commented out for now
+# scoring <- filter(scoring,week<=13)
 
 ###########################################################
 ###########################################################
@@ -172,27 +172,47 @@ qplot(data=uniagg,x=manager,weight=num)+
 
 ###########################################################
 # fifth graph - manager top 3 MVPs (player % of total scoring)
-# playagg <- summarise(group_by(scoring,manager,player),player_pts=sum(score))
-# topagg <-  summarise(group_by(scoring,manager),total_pts=sum(score))
-playagg <- aggregate(score~manager+player+position,data=scoring,sum)
-  names(playagg)[4] <- c('player_pts')
-topagg <-  aggregate(score~manager,data=scoring,sum)
-  names(topagg)[2] <- c('total_pts')
-topagg$mgr_rank <- rank(-topagg$total_pts,ties='first')
-playagg <- left_join(playagg,topagg,by=c('manager'='manager'))
+library(RColorBrewer)
+scoring_div <- scoring
+scoring_div$season_section <- ifelse(scoring_div$week <= ceiling(max(scoring_div$week)/2),'First half of season', 'Second half of season')
+scoring_div$season_sec_num <- ifelse(scoring_div$week <= ceiling(max(scoring_div$week)/2),1,2)
+playagg <- aggregate(score~manager+player+position+season_section+season_sec_num,data=scoring_div,sum)
+  names(playagg)[6] <- c('player_pts')
+topagg <-  aggregate(score~manager+season_section+season_sec_num,data=scoring_div,sum)
+  names(topagg)[4] <- c('total_pts')
+topagg$mgr_rank <- NA
+r <- max(topagg$season_sec_num)
+for (i in 1:r) {
+  topagg[which(topagg$season_sec_num == i), 'mgr_rank'] <- rank(-topagg[which(topagg$season_sec_num == i),'total_pts'],ties='first')
+}
+playagg <- left_join(playagg,topagg,by=c('manager'='manager','season_section'='season_section','season_sec_num'='season_sec_num'))
 playagg$player_pct <- round(playagg$player_pts/playagg$total_pts,2)
 playagg$first_initial <- paste(substring(playagg$player,0,1),'.',sep='')
-playagg$last_name <- substring()
-r <- max(playagg$mgr_rank)
+playagg$last_name <- gsub('^.* ([A-z]+)$','\\1',playagg$player)
+playagg$player_abv <- ifelse(grepl('D/ST',playagg$last_name),playagg$last_name,paste(playagg$first_initial,playagg$last_name,sep=' '))
+s <- max(playagg$mgr_rank)
 playagg$player_rank <- NA
-for (i in 1:r) {
-  playagg[which(playagg$mgr_rank == i), 'player_rank'] <- rank(-playagg[which(playagg$mgr_rank == i), 'player_pct'],ties.method='first')
+for (j in 1:s) {
+  for (i in 1:r) {
+    playagg[which(playagg$mgr_rank == j & playagg$season_sec_num == i), 'player_rank'] <- rank(-playagg[which(playagg$mgr_rank == j & playagg$season_sec_num == i), 'player_pct'],ties.method='first')
+  }
 }
 mvp <- filter(playagg,player_rank <= 3)
-ggplot(mvp,aes(x=player_rank,weight=player_pct,fill=position,label=player))+
+ggplot(mvp,aes(x=player_rank,weight=player_pct,fill=position,label=player_abv))+
   geom_bar(binwidth=0.5)+
-  geom_text(aes(y=player_pct),angle=90,size=4)+
-  facet_wrap(~manager)
+  scale_fill_manual(values=brewer.pal(6,'YlOrRd'))+
+  geom_text(aes(y=player_pct),angle=90,size=2.5,hjust=1.05,vjust=2)+
+  facet_grid(season_section~manager)+
+  xlim(1,4)+
+  labs(x='Player rank as % of manager\'s total points', y='% of manager\'s total points',title='Manager MVPs for first and second halves of season')+
+  theme(plot.title=element_text(size=18,face='bold',vjust=2,hjust=0))
+
+
+###########################################################
+# sixth (and final?) graph - manager "luckiness"
+# opponent pts scored in match vs avg pts scored in previous 3 matches
+
+
 
 # .~.~.~*~.~* just ~ testing ~ things *~.~*~.~.~.
 # 
