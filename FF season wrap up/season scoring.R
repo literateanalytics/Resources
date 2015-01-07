@@ -222,18 +222,22 @@ manrank <- select(manrank,manager,rnk)
 wkagg <- left_join(wkagg,manrank,by=c('manager'='manager'))
 ma <- function(x,n=2){stats::filter(x,rep(1/n,n), sides=1)}
 r <- max(wkagg$rnk)
-manscore <- NULL
+manroll <- NULL
 for (i in 1:r) {
     w <- arrange(filter(wkagg,rnk == i),week)
     w$rolling_score <- ma(select(w,score))
-    manscore <- rbind(manscore,w)
+    manroll <- rbind(manroll,w)
 }
-manscore <- select(manscore,manager,week,rolling_score)
-manscore$week <- manscore$week+1
+manscore <- select(manroll,manager,week,score)
+manroll <- select(manroll,manager,week,rolling_score)
+setnames(manscore,'score','opponent_score')
+manroll$week <- manroll$week+1
+wkagg <- left_join(wkagg,manroll,by=c('opponent'='manager','week'='week'))
 wkagg <- left_join(wkagg,manscore,by=c('opponent'='manager','week'='week'))
 setnames(wkagg,'rolling_score','opponent_rolling_score')
 wkagg$luckiness <- wkagg$score-wkagg$opponent_rolling_score
-ggplot(data=wkagg,aes(x=week,weight=luckiness))+
+wkagg$is_win <- ifelse(wkagg$score > wkagg$opponent_score,'Y','N')
+ggplot(data=wkagg,aes(x=week,weight=luckiness,fill=is_win))+
     geom_bar(binwidth=0.5)+
     facet_wrap(~manager,ncol=1)+
     xlim(0,max(wkagg$week)+1)+
