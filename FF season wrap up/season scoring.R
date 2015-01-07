@@ -211,6 +211,13 @@ ggplot(mvp,aes(x=player_rank,weight=player_pct,fill=position,label=player_abv))+
 ###########################################################
 # sixth (and final?) graph - manager "luckiness"
 # opponent pts scored in match vs avg pts scored in previous 3 matches
+wkagg <- aggregate(score~manager+week,data=scoring,sum)
+ma <- function(x,n=3){stats::filter(x,rep(1/n,n), sides=1)}
+# ^^^ can use EWMA method instead? to weight toward more recent scoring
+arrange(filter(w,manager=='Sunil Acharya'),week) -> y
+arrange(filter(w,manager=='Sunil Acharya'),week)$rolling_score <- ma(select(arrange(filter(w,manager=='Sunil Acharya'),week),score))
+y$rolling_score <- ma(select(arrange(filter(w,manager=='Sunil Acharya'),week),score))
+
 
 
 
