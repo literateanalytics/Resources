@@ -2,6 +2,8 @@ library(XML)
 library(ggplot2)
 library(dplyr)
 
+# FFBA = league id 1214613
+# Action Baws = league id 1681423
 league_id <- 1681423
 year <- 2014
 home <- htmlParse(paste('http://games.espn.go.com/ffl/schedule?leagueId=',league_id,'&seasonId=',year,sep=''))
@@ -23,7 +25,7 @@ score_links$weeknum <- gsub('.*scoringPeriodId=([0-9]{1,2}).*','\\1',score_links
 scoring <- NULL
 n <- nrow(score_links)
 
-for (i in 1:30) {
+for (i in 1:n) {
   
     cat('processing',i,'of',n,'matchups','\n',sep=' ')
     parse <- htmlParse(score_links$name[i])
@@ -140,7 +142,7 @@ posagg$avg_score_dev <- posagg$avg_score-posagg$pos_avg_score
 posagg$score_dev <- posagg$sum-(posagg$pos_sum/12)
 posagg$position <- factor(posagg$position,levels=c('QB','WR','RB','TE','D/ST','K'))
 qplot(data=posagg,x=position,weight=score_dev)+
-  facet_wrap(~manager)+
+  facet_wrap(~manager,ncol=2)+
   labs(x='Player position',y='Points deviating from league average',title='Season aggregate score variances by manager by position')+
   theme(plot.title=element_text(size=18,face='bold',vjust=2,hjust=0))
 
@@ -152,7 +154,7 @@ manreo <- select(arrange(managg,week,sum),manager)
 managg$manager <- factor(managg$manager,levels=manreo$manager)
 ggplot(data=managg,aes(x=week,y=sum))+
   geom_point()+
-  facet_wrap(~manager)+
+  facet_wrap(~manager,ncol=2)+
   geom_smooth(method='loess',se=TRUE)+
   labs(x='Season week',y='Total fantasy points',title='Total weekly points trends by manager')+
   theme(plot.title=element_text(size=18,face='bold',vjust=2,hjust=0))
@@ -217,7 +219,7 @@ ggplot(mvp,aes(x=player_rank,weight=player_pct,fill=position,label=player_abv))+
 library(data.table)
 wkagg <- aggregate(score~manager+week+opponent,data=scoring,sum)
 manrank <- aggregate(score~manager,data=wkagg,sum)
-manrank$rnk <- rank(-manrank$score)
+manrank$rnk <- rank(-manrank$score,ties='first')
 manrank <- select(manrank,manager,rnk)
 wkagg <- left_join(wkagg,manrank,by=c('manager'='manager'))
 ma <- function(x,n=2){stats::filter(x,rep(1/n,n), sides=1)}
@@ -235,41 +237,15 @@ manroll$week <- manroll$week+1
 wkagg <- left_join(wkagg,manroll,by=c('opponent'='manager','week'='week'))
 wkagg <- left_join(wkagg,manscore,by=c('opponent'='manager','week'='week'))
 setnames(wkagg,'rolling_score','opponent_rolling_score')
-wkagg$luckiness <- wkagg$score-wkagg$opponent_rolling_score
+wkagg$luckiness <- wkagg$opponent_rolling_score-wkagg$opponent_score
 wkagg$is_win <- ifelse(wkagg$score > wkagg$opponent_score,'Y','N')
 ggplot(data=wkagg,aes(x=week,weight=luckiness,fill=is_win))+
     geom_bar(binwidth=0.5)+
-    facet_wrap(~manager,ncol=1)+
-    xlim(0,max(wkagg$week)+1)+
-    labs(title='Manager "luckiness": opponent score vs opponent rolling avg score')
+    geom_hline(yintercept=0)+
+    facet_wrap(~manager,ncol=2)+
+    scale_fill_discrete(name='Is Win?')+
+    xlim(2,14)+
+    labs(title='Manager opponent score variance vs expected score',y='Opponent expected minus actual score (positive numbers are favorable)',x='Week (regular season)')+
+    theme(plot.title=element_text(size=18,face='bold',vjust=2,hjust=0))
 
 
-
-# .~.~.~*~.~* just ~ testing ~ things *~.~*~.~.~.
-# 
-# r1 <- c('rob williams',1182)
-# r2 <- c('Kelly Steinbrecher',1171)
-# r3 <- c('Patrick Gowey',1166)
-# r4 <- c('Jason Wardwell',1155)
-# r5 <- c('Jiagen Eep',1110)
-# r6 <- c('Randy Bacon',1065)
-# r7 <- c('Adhitya Mouli',1164)
-# r8 <- c('Sunil Acharya',1151)
-# r9 <- c('Marjory Reiter',1118)
-# r10 <- c('Kevin Li',1090)
-# r11 <- c('todd voelker',1084)
-# r12 <- c('Bjarni Runolfson',841)
-# a <- data.frame(rbind(r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,r12))
-# names(a) <- c('manager','score')
-# a$score <- as.numeric(as.character(a$score))
-# 
-# b <- aggregate(score~manager,data=scoring,sum)
-# c <- left_join(b,a,by=c('manager'='manager'))
-# names(c) <- c('manager','scraped_score','actual_score')
-# c$diff <- c$scraped_score-c$actual_score
-# 
-# 
-# d <- filter(scoring,manager=='Sunil Acharya' & week==10)
-# 
-# 
-# arrange(c,diff)
