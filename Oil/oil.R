@@ -2,6 +2,7 @@ library(data.table)
 library(ggplot2)
 library(reshape2)
 library(dplyr)
+library(RColorBrewer)
 
 monthnums <- function(x) {
   x <- toupper(x)
@@ -52,7 +53,7 @@ for (i in 1:nrow(oil)) {
 oil$total_production <- apply(oil[,2:(ncol(oil)-1)],1,'sum',na.rm=TRUE)
 oil_regions <- filter(oil,is_region=='Y')
 oil <- filter(oil,is_region=='N')
-top_countries <- head(select(arrange(oil,desc(total_production)),country),8)
+top_countries <- head(select(arrange(oil,desc(total_production)),country),6)
 oil$total_production <- NULL
 oil$is_region <- NULL
 oil_regions$total_production <- NULL
@@ -83,10 +84,12 @@ for (i in 1:nrow(oil_plot)) {
   oil_plot[i,'month_num'] <- monthnums(oil_plot[i,'month_date'])
 }
 oil_plot$date <- as.Date(paste(oil_plot$year_date,oil_plot$month_num,1,sep='/'))
+oil_plot$variable <- gsub("_"," ",oil_plot$variable)
 ggplot(data=oil_plot,aes(x=date,y=value,group=variable,color=variable))+
-  geom_line()+
+  geom_line(size=1)+
   theme(axis.text.x = element_text(angle = 90, hjust = 1),plot.title=element_text(size=18,face='bold',vjust=2,hjust=0))+
-  labs(x='Date of production',y='Barrels per day (000s)',title='Total oil production by country')
+  labs(x='Date of production',y='Barrels per day (000s)',title='Total oil production by country')+
+  scale_color_manual(values=brewer.pal(6,"Dark2"),name="Country")
 
 
 
@@ -120,6 +123,7 @@ for (i in 1:nrow(regions_plot)) {
 regions_plot$date <- as.Date(paste(regions_plot$year_date,regions_plot$month_num,1,sep='/'))
 regions_plot$variable <- gsub('_',' ',gsub('\\._','& ',regions_plot$variable))
 ggplot(data=filter(regions_plot,variable!='World'),aes(x=date,y=value,group=variable,color=variable))+
-  geom_line()+
+  geom_line(size=1)+
   theme(axis.text.x = element_text(angle = 90, hjust = 1),plot.title=element_text(size=18,face='bold',vjust=2,hjust=0))+
-  labs(x='Date of production',y='Barrels per day (000s)',title='Total oil production by country')
+  labs(x='Date of production',y='Barrels per day (000s)',title='Total oil production by region')+
+  scale_color_manual(values=brewer.pal(7,"Dark2"),name="Country")
