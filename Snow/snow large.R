@@ -10,7 +10,11 @@ washington <- paste('washington/',c('stevens-pass-resort','alpental','mission-ri
 bc <- paste('british-columbia/',c('whistler-blackcomb'),sep='')
 resorts <- c(washington,bc)
 
-for (resort in resorts) {
+na_link <- c('http://www.onthesnow.com/northern-america/profile.html')
+north_america <- htmlParse(na_link)
+
+
+for (resort in 1:length(resorts)) {
     for (year in years) {
         cat('working on link',year,'out of',max(years),'for',resort,'\n',sep=' ')
         snow_link <- paste("http://www.onthesnow.com/",resort,"/historical-snowfall.html?&y=",year,"&q=snow&v=list",sep="")
