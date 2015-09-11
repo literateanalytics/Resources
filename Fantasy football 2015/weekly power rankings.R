@@ -6,7 +6,7 @@ library(RColorBrewer)
 
 league.list <- c("1390327",  # Epic Bar Graphs
                  #"1637123",  # Belicheck Your Balls  # Belicheck won't work yet because not all the IDP positions are filled in
-                 #"1702312",  # CAmazonians  # won't work because viewable by public = F
+                 "1702312",  # CAmazonians
                  "1765344"   # Won't Get Fined
                  )
 
@@ -97,10 +97,11 @@ for (h in 1:length(league.list)) {
     
         
     base.dir   <- file.path('/Users/pgowey/Github/Resources/Fantasy football 2015', league.name)
+    dir.create(base.dir, showWarnings = F)
     
     data.dir   <- file.path(base.dir, 'Data')
     data.file  <- paste(data.dir, '/', league.name, ' week ', nfl.week, ' roster snapshot.txt', sep = '')
-    dir.create(data.dir, showWarnings = F)  # don't show the warning if dir already exists
+    dir.create(data.dir, showWarnings = T)  # don't show the warning if dir already exists
     write.table(snapshot, data.file, sep = '\t', row.names = F, col.names = T, quote = F)
     
     graph.dir  <- file.path(base.dir, 'Graphs')
