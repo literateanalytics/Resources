@@ -1,0 +1,193 @@
+player.info	week	link_num	manager	opponent	player	team	position	score	proj.pts
+Cam Newton, Car QB	1	1	Randy Bacon	Patrick Gowey	Cam Newton	Car	QB	16.5	20
+Tom Brady, NE QB	1	1	Randy Bacon	Patrick Gowey	Tom Brady	NE	QB	30.2	23.2
+Eddie Lacy, GB RB  Q	1	1	Randy Bacon	Patrick Gowey	Eddie Lacy	GB	RB	21.3	21.6
+Brandin Cooks, NO WR	1	1	Randy Bacon	Patrick Gowey	Brandin Cooks	NO	WR	7	14.3
+Rob Gronkowski, NE TE	1	1	Randy Bacon	Patrick Gowey	Rob Gronkowski	NE	TE	29	15.2
+C.J. Anderson, Den RB	1	1	Randy Bacon	Patrick Gowey	C.J. Anderson	Den	RB	9.2	20.3
+Jarvis Landry, Mia WR	1	1	Randy Bacon	Patrick Gowey	Jarvis Landry	Mia	WR	22.8	19.8
+Isaiah Crowell, Cle RB	1	1	Randy Bacon	Patrick Gowey	Isaiah Crowell	Cle	RB	6.8	15.2
+Aaron Donald, StL DT	1	1	Randy Bacon	Patrick Gowey	Aaron Donald	StL	Aaron Donald, StL DT	15.5	NA
+Michael Bennett, Sea DE	1	1	Randy Bacon	Patrick Gowey	Michael Bennett	Sea	Michael Bennett, Sea DE	13	NA
+NaVorro Bowman, SF LB	1	1	Randy Bacon	Patrick Gowey	NaVorro Bowman	SF	NaVorro Bowman, SF LB	11.5	NA
+Johnathan Joseph, Hou CB	1	1	Randy Bacon	Patrick Gowey	Johnathan Joseph	Hou	Johnathan Joseph, Hou CB	8	NA
+Morgan Burnett, GB S	1	1	Randy Bacon	Patrick Gowey	Morgan Burnett	GB	Morgan Burnett, GB S	0	NA
+Steven Hauschka, Sea K	1	1	Randy Bacon	Patrick Gowey	Steven Hauschka	Sea	K	11	9.5
+Shane Lechler, Hou P	1	1	Randy Bacon	Patrick Gowey	Shane Lechler	Hou	Shane Lechler, Hou P	20.2	NA
+Colts Coach HC	1	1	Randy Bacon	Patrick Gowey	Colts Coach	Ind	Colts Coach HC	-8.6	NA
+Russell Wilson, Sea QB	1	1	Patrick Gowey	Randy Bacon	Russell Wilson	Sea	QB	19.4	21.1
+Drew Brees, NO QB  Q	1	1	Patrick Gowey	Randy Bacon	Drew Brees	NO	QB	21	22.8
+Adrian Peterson, Min RB	1	1	Patrick Gowey	Randy Bacon	Adrian Peterson	Min	RB	8.5	22.2
+Dez Bryant*, Dal WR  O	1	1	Patrick Gowey	Randy Bacon	Dez Bryant	Dal	WR	6.3	16.4
+Greg Olsen, Car TE	1	1	Patrick Gowey	Randy Bacon	Greg Olsen	Car	TE	3.1	8.5
+LeSean McCoy, Buf RB  P	1	1	Patrick Gowey	Randy Bacon	LeSean McCoy	Buf	RB	13.8	21.1
+Emmanuel Sanders, Den WR	1	1	Patrick Gowey	Randy Bacon	Emmanuel Sanders	Den	WR	10.9	12.4
+Frank Gore, Ind RB	1	1	Patrick Gowey	Randy Bacon	Frank Gore	Ind	RB	5.7	15.2
+Ndamukong Suh, Mia DT	1	1	Patrick Gowey	Randy Bacon	Ndamukong Suh	Mia	Ndamukong Suh, Mia DT	2	NA
+Julius Peppers, GB DE, LB	1	1	Patrick Gowey	Randy Bacon	Julius Peppers	LB	Julius Peppers, GB DE, LB	8	NA
+Lavonte David, TB LB	1	1	Patrick Gowey	Randy Bacon	Lavonte David	TB	Lavonte David, TB LB	7.5	NA
+Adam Jones, Cin CB	1	1	Patrick Gowey	Randy Bacon	Adam Jones	Cin	Adam Jones, Cin CB	21.3	NA
+T.J. McDonald, StL S	1	1	Patrick Gowey	Randy Bacon	T.J. McDonald	StL	T.J. McDonald, StL S	7.5	NA
+Blair Walsh, Min K	1	1	Patrick Gowey	Randy Bacon	Blair Walsh	Min	K	3	10.6
+Marquette King, Oak P	1	1	Patrick Gowey	Randy Bacon	Marquette King	Oak	K	15.7	NA
+Seahawks Coach HC	1	1	Patrick Gowey	Randy Bacon	Seahawks Coach	Sea	Seahawks Coach HC	1.1	NA
+Peyton Manning, Den QB	1	2	trevor lemmons	Kelly Steinbrecher	Peyton Manning	Den	QB	6	21.1
+Ryan Tannehill, Mia QB  Q	1	2	trevor lemmons	Kelly Steinbrecher	Ryan Tannehill	Mia	QB	15	21.4
+Chris Ivory, NYJ RB  P	1	2	trevor lemmons	Kelly Steinbrecher	Chris Ivory	NYJ	RB	27.3	16
+Demaryius Thomas, Den WR	1	2	trevor lemmons	Kelly Steinbrecher	Demaryius Thomas	Den	WR	8.2	16.7
+Martellus Bennett, Chi TE	1	2	trevor lemmons	Kelly Steinbrecher	Martellus Bennett	Chi	TE	13	9
+Matt Forte, Chi RB	1	2	trevor lemmons	Kelly Steinbrecher	Matt Forte	Chi	RB	30.2	16.2
+Alshon Jeffery, Chi WR  Q	1	2	trevor lemmons	Kelly Steinbrecher	Alshon Jeffery	Chi	WR	9.7	13.7
+T.Y. Hilton, Ind WR	1	2	trevor lemmons	Kelly Steinbrecher	T.Y. Hilton	Ind	WR	11.3	11.1
+Jurrell Casey, Ten DT	1	2	trevor lemmons	Kelly Steinbrecher	Jurrell Casey	Ten	Jurrell Casey, Ten DT	7.5	NA
+Chandler Jones, NE DE	1	2	trevor lemmons	Kelly Steinbrecher	Chandler Jones	NE	Chandler Jones, NE DE	6.5	NA
+C.J. Mosley, Bal LB  Q	1	2	trevor lemmons	Kelly Steinbrecher	C.J. Mosley	Bal	C.J. Mosley, Bal LB  Q	12	NA
+Charles Tillman, Car CB	1	2	trevor lemmons	Kelly Steinbrecher	Charles Tillman	Car	Charles Tillman, Car CB	6	NA
+Reshad Jones, Mia S	1	2	trevor lemmons	Kelly Steinbrecher	Reshad Jones	Mia	Reshad Jones, Mia S	17	NA
+Stephen Gostkowski, NE K	1	2	trevor lemmons	Kelly Steinbrecher	Stephen Gostkowski	NE	K	4	9.4
+Bradley Pinion, SF P, K	1	2	trevor lemmons	Kelly Steinbrecher	Bradley Pinion	SF	K	9.9	NA
+Broncos Coach HC	1	2	trevor lemmons	Kelly Steinbrecher	Broncos Coach	Cle	Broncos Coach HC	5.9	NA
+Aaron Rodgers, GB QB	1	2	Kelly Steinbrecher	trevor lemmons	Aaron Rodgers	GB	QB	26.4	20.8
+Ben Roethlisberger, Pit QB	1	2	Kelly Steinbrecher	trevor lemmons	Ben Roethlisberger	Pit	QB	22.4	21.3
+Marshawn Lynch, Sea RB	1	2	Kelly Steinbrecher	trevor lemmons	Marshawn Lynch	Sea	RB	19.9	20.7
+Calvin Johnson, Det WR	1	2	Kelly Steinbrecher	trevor lemmons	Calvin Johnson	Det	WR	4.7	16.4
+Travis Kelce, KC TE	1	2	Kelly Steinbrecher	trevor lemmons	Travis Kelce	KC	TE	26.1	8.7
+Julio Jones, Atl WR	1	2	Kelly Steinbrecher	trevor lemmons	Julio Jones	Atl	WR	28.6	18.8
+Mark Ingram, NO RB	1	2	Kelly Steinbrecher	trevor lemmons	Mark Ingram	NO	RB	16.6	16.2
+Latavius Murray, Oak RB	1	2	Kelly Steinbrecher	trevor lemmons	Latavius Murray	Oak	RB	12.5	16.2
+Bennie Logan, Phi DT	1	2	Kelly Steinbrecher	trevor lemmons	Bennie Logan	Phi	Bennie Logan, Phi DT	8	NA
+J.J. Watt, Hou DE	1	2	Kelly Steinbrecher	trevor lemmons	J.J. Watt	Hou	J.J. Watt, Hou DE	23.5	NA
+K.J. Wright, Sea LB	1	2	Kelly Steinbrecher	trevor lemmons	K.J. Wright	Sea	K	5	NA
+Tyrann Mathieu, Ari CB, S	1	2	Kelly Steinbrecher	trevor lemmons	Tyrann Mathieu	Ari	Tyrann Mathieu, Ari CB, S	20	NA
+Barry Church, Dal S	1	2	Kelly Steinbrecher	trevor lemmons	Barry Church	Dal	Barry Church, Dal S	8	NA
+Adam Vinatieri, Ind K	1	2	Kelly Steinbrecher	trevor lemmons	Adam Vinatieri	Ind	K	2	9.5
+Jon Ryan, Sea P	1	2	Kelly Steinbrecher	trevor lemmons	Jon Ryan	Sea	Jon Ryan, Sea P	19.8	NA
+Steelers Coach HC	1	2	Kelly Steinbrecher	trevor lemmons	Steelers Coach	Pit	Steelers Coach HC	-1.9	NA
+Tony Romo*, Dal QB  IR	1	3	Lawrence Shin	Andrew Phares	Tony Romo	Dal	QB	28.1	21
+Sam Bradford, Phi QB	1	3	Lawrence Shin	Andrew Phares	Sam Bradford	Phi	QB	18.4	19.5
+Jamaal Charles, KC RB	1	3	Lawrence Shin	Andrew Phares	Jamaal Charles	KC	RB	21.9	20.4
+Odell Beckham Jr., NYG WR	1	3	Lawrence Shin	Andrew Phares	Odell Beckham Jr.	NYG	WR	6	18.3
+Jordan Cameron, Mia TE  Q	1	3	Lawrence Shin	Andrew Phares	Jordan Cameron	Mia	TE	8.6	7.2
+DeMarco Murray, Phi RB	1	3	Lawrence Shin	Andrew Phares	DeMarco Murray	Phi	RB	17.1	18.8
+A.J. Green, Cin WR	1	3	Lawrence Shin	Andrew Phares	A.J. Green	Cin	WR	7.9	15.8
+Amari Cooper, Oak WR	1	3	Lawrence Shin	Andrew Phares	Amari Cooper	Oak	WR	6.4	10.5
+Marcell Dareus, Buf DT	1	3	Lawrence Shin	Andrew Phares	Marcell Dareus	Buf	Marcell Dareus, Buf DT	0	NA
+Mario Williams, Buf DE	1	3	Lawrence Shin	Andrew Phares	Mario Williams	Buf	Mario Williams, Buf DE	0	NA
+Luke Kuechly, Car LB  Q	1	3	Lawrence Shin	Andrew Phares	Luke Kuechly	Car	K	11.5	NA
+Aqib Talib, Den CB	1	3	Lawrence Shin	Andrew Phares	Aqib Talib	Den	Aqib Talib, Den CB	16.5	NA
+Harrison Smith, Min S	1	3	Lawrence Shin	Andrew Phares	Harrison Smith	Min	Harrison Smith, Min S	9.5	NA
+Justin Tucker, Bal K	1	3	Lawrence Shin	Andrew Phares	Justin Tucker	Bal	K	14	10
+Tom Hornsey, Dal P	1	3	Lawrence Shin	Andrew Phares	Tom Hornsey	Dal	Tom Hornsey, Dal P	0	NA
+Packers Coach HC	1	3	Lawrence Shin	Andrew Phares	Packers Coach	GB	Packers Coach HC	7.1	NA
+Andrew Luck, Ind QB	1	3	Andrew Phares	Lawrence Shin	Andrew Luck	Ind	QB	20.5	20.4
+Matt Ryan, Atl QB	1	3	Andrew Phares	Lawrence Shin	Matt Ryan	Atl	QB	19.1	22.9
+Jeremy Hill, Cin RB	1	3	Andrew Phares	Lawrence Shin	Jeremy Hill	Cin	RB	23.1	20.7
+Antonio Brown, Pit WR	1	3	Andrew Phares	Lawrence Shin	Antonio Brown	Pit	WR	22.1	21.8
+Jimmy Graham, Sea TE	1	3	Andrew Phares	Lawrence Shin	Jimmy Graham	Sea	TE	12.8	12.1
+Alfred Morris, Wsh RB	1	3	Andrew Phares	Lawrence Shin	Alfred Morris	Wsh	RB	18.4	12.7
+Lamar Miller, Mia RB  Q	1	3	Andrew Phares	Lawrence Shin	Lamar Miller	Mia	RB	11	17.4
+Joique Bell, Det RB	1	3	Andrew Phares	Lawrence Shin	Joique Bell	Det	RB	7.6	10.7
+Gerald McCoy, TB DT	1	3	Andrew Phares	Lawrence Shin	Gerald McCoy	TB	Gerald McCoy, TB DT	5.5	NA
+Robert Quinn, StL DE	1	3	Andrew Phares	Lawrence Shin	Robert Quinn	StL	Robert Quinn, StL DE	7.5	NA
+Bobby Wagner, Sea LB	1	3	Andrew Phares	Lawrence Shin	Bobby Wagner	Sea	Bobby Wagner, Sea LB	8.5	NA
+Prince Amukamara, NYG CB	1	3	Andrew Phares	Lawrence Shin	Prince Amukamara	NYG	Prince Amukamara, NYG CB	10	NA
+Eric Weddle, SD S	1	3	Andrew Phares	Lawrence Shin	Eric Weddle	SD	Eric Weddle, SD S	17.5	NA
+Matt Bryant, Atl K	1	3	Andrew Phares	Lawrence Shin	Matt Bryant	Atl	K	20	10.7
+Andrew Wilder, TB P	1	3	Andrew Phares	Lawrence Shin	Andrew Wilder	TB	Andrew Wilder, TB P	0	NA
+Patriots Coach HC	1	3	Andrew Phares	Lawrence Shin	Patriots Coach	NE	Patriots Coach HC	6.8	NA
+Tony Romo*, Dal QB  IR	2	4	Lawrence Shin	trevor lemmons	Tony Romo	Dal	QB	8.1	20.9
+Sam Bradford, Phi QB	2	4	Lawrence Shin	trevor lemmons	Sam Bradford	Phi	QB	10.8	18.5
+Jamaal Charles, KC RB	2	4	Lawrence Shin	trevor lemmons	Jamaal Charles	KC	RB	22.6	17.7
+Odell Beckham Jr., NYG WR	2	4	Lawrence Shin	trevor lemmons	Odell Beckham Jr.	NYG	WR	28.9	14.9
+Jordan Cameron, Mia TE  Q	2	4	Lawrence Shin	trevor lemmons	Jordan Cameron	Mia	TE	7.1	7.1
+A.J. Green, Cin WR	2	4	Lawrence Shin	trevor lemmons	A.J. Green	Cin	WR	11.4	13.1
+DeAndre Hopkins, Hou WR	2	4	Lawrence Shin	trevor lemmons	DeAndre Hopkins	Hou	WR	7.2	12.6
+Justin Forsett, Bal RB	2	4	Lawrence Shin	trevor lemmons	Justin Forsett	Bal	RB	12.8	18.6
+Marcell Dareus, Buf DT	2	4	Lawrence Shin	trevor lemmons	Marcell Dareus	Buf	Marcell Dareus, Buf DT	1.5	NA
+Mario Williams, Buf DE	2	4	Lawrence Shin	trevor lemmons	Mario Williams	Buf	Mario Williams, Buf DE	5.5	NA
+Luke Kuechly, Car LB  Q	2	4	Lawrence Shin	trevor lemmons	Luke Kuechly	Car	K	0	NA
+Aqib Talib, Den CB	2	4	Lawrence Shin	trevor lemmons	Aqib Talib	Den	Aqib Talib, Den CB	10	NA
+Harrison Smith, Min S	2	4	Lawrence Shin	trevor lemmons	Harrison Smith	Min	Harrison Smith, Min S	11	NA
+Justin Tucker, Bal K	2	4	Lawrence Shin	trevor lemmons	Justin Tucker	Bal	K	15	10
+Tom Hornsey, Dal P	2	4	Lawrence Shin	trevor lemmons	Tom Hornsey	Dal	Tom Hornsey, Dal P	0	NA
+Packers Coach HC	2	4	Lawrence Shin	trevor lemmons	Packers Coach	GB	Packers Coach HC	12.7	NA
+Peyton Manning, Den QB	2	4	trevor lemmons	Lawrence Shin	Peyton Manning	Den	QB	20.9	18.7
+Ryan Tannehill, Mia QB  Q	2	4	trevor lemmons	Lawrence Shin	Ryan Tannehill	Mia	QB	29.4	20.1
+Chris Ivory, NYJ RB  P	2	4	trevor lemmons	Lawrence Shin	Chris Ivory	NYJ	RB	10	15.2
+Demaryius Thomas, Den WR	2	4	trevor lemmons	Lawrence Shin	Demaryius Thomas	Den	WR	14.2	13.5
+Martellus Bennett, Chi TE	2	4	trevor lemmons	Lawrence Shin	Martellus Bennett	Chi	TE	6	8.6
+Matt Forte, Chi RB	2	4	trevor lemmons	Lawrence Shin	Matt Forte	Chi	RB	15.4	22
+Alshon Jeffery, Chi WR  Q	2	4	trevor lemmons	Lawrence Shin	Alshon Jeffery	Chi	WR	0	0
+Tre Mason, StL RB	2	4	trevor lemmons	Lawrence Shin	Tre Mason	StL	RB	5.6	14.6
+Jurrell Casey, Ten DT	2	4	trevor lemmons	Lawrence Shin	Jurrell Casey	Ten	Jurrell Casey, Ten DT	0	NA
+Chandler Jones, NE DE	2	4	trevor lemmons	Lawrence Shin	Chandler Jones	NE	Chandler Jones, NE DE	11	NA
+C.J. Mosley, Bal LB  Q	2	4	trevor lemmons	Lawrence Shin	C.J. Mosley	Bal	C.J. Mosley, Bal LB  Q	14.5	NA
+Charles Tillman, Car CB	2	4	trevor lemmons	Lawrence Shin	Charles Tillman	Car	Charles Tillman, Car CB	4.5	NA
+Reshad Jones, Mia S	2	4	trevor lemmons	Lawrence Shin	Reshad Jones	Mia	Reshad Jones, Mia S	15.5	NA
+Stephen Gostkowski, NE K	2	4	trevor lemmons	Lawrence Shin	Stephen Gostkowski	NE	K	23	8.9
+Bryan Anger, Jac P	2	4	trevor lemmons	Lawrence Shin	Bryan Anger	Jac	Bryan Anger, Jac P	15.1	NA
+Broncos Coach HC	2	4	trevor lemmons	Lawrence Shin	Broncos Coach	Cle	Broncos Coach HC	7.1	NA
+Russell Wilson, Sea QB	2	5	Patrick Gowey	Kelly Steinbrecher	Russell Wilson	Sea	QB	25.3	21.3
+Drew Brees, NO QB  Q	2	5	Patrick Gowey	Kelly Steinbrecher	Drew Brees	NO	QB	13.4	23.1
+Adrian Peterson, Min RB	2	5	Patrick Gowey	Kelly Steinbrecher	Adrian Peterson	Min	RB	25	19
+Emmanuel Sanders, Den WR	2	5	Patrick Gowey	Kelly Steinbrecher	Emmanuel Sanders	Den	WR	23.6	13.9
+Greg Olsen, Car TE	2	5	Patrick Gowey	Kelly Steinbrecher	Greg Olsen	Car	TE	9.3	8.2
+LeSean McCoy, Buf RB  P	2	5	Patrick Gowey	Kelly Steinbrecher	LeSean McCoy	Buf	RB	16.1	15.2
+Frank Gore, Ind RB	2	5	Patrick Gowey	Kelly Steinbrecher	Frank Gore	Ind	RB	8.1	15.4
+Ameer Abdullah, Det RB	2	5	Patrick Gowey	Kelly Steinbrecher	Ameer Abdullah	Det	RB	13.5	19
+Ndamukong Suh, Mia DT	2	5	Patrick Gowey	Kelly Steinbrecher	Ndamukong Suh	Mia	Ndamukong Suh, Mia DT	1.5	NA
+Julius Peppers, GB DE, LB	2	5	Patrick Gowey	Kelly Steinbrecher	Julius Peppers	LB	Julius Peppers, GB DE, LB	2.5	NA
+Lavonte David, TB LB	2	5	Patrick Gowey	Kelly Steinbrecher	Lavonte David	TB	Lavonte David, TB LB	12	NA
+Adam Jones, Cin CB	2	5	Patrick Gowey	Kelly Steinbrecher	Adam Jones	Cin	Adam Jones, Cin CB	20	NA
+T.J. McDonald, StL S	2	5	Patrick Gowey	Kelly Steinbrecher	T.J. McDonald	StL	T.J. McDonald, StL S	7	NA
+Blair Walsh, Min K	2	5	Patrick Gowey	Kelly Steinbrecher	Blair Walsh	Min	K	8	10.7
+Marquette King, Oak P	2	5	Patrick Gowey	Kelly Steinbrecher	Marquette King	Oak	K	7.4	NA
+Seahawks Coach HC	2	5	Patrick Gowey	Kelly Steinbrecher	Seahawks Coach	Sea	Seahawks Coach HC	-8.3	NA
+Aaron Rodgers, GB QB	2	5	Kelly Steinbrecher	Patrick Gowey	Aaron Rodgers	GB	QB	25.5	20.7
+Ben Roethlisberger, Pit QB	2	5	Kelly Steinbrecher	Patrick Gowey	Ben Roethlisberger	Pit	QB	35.4	21.1
+Marshawn Lynch, Sea RB	2	5	Kelly Steinbrecher	Patrick Gowey	Marshawn Lynch	Sea	RB	11	18.2
+Calvin Johnson, Det WR	2	5	Kelly Steinbrecher	Patrick Gowey	Calvin Johnson	Det	WR	19	12.5
+Travis Kelce, KC TE	2	5	Kelly Steinbrecher	Patrick Gowey	Travis Kelce	KC	TE	6.9	9.5
+Julio Jones, Atl WR	2	5	Kelly Steinbrecher	Patrick Gowey	Julio Jones	Atl	WR	17	15
+Mark Ingram, NO RB	2	5	Kelly Steinbrecher	Patrick Gowey	Mark Ingram	NO	RB	14.6	18
+Tyler Lockett, Sea WR	2	5	Kelly Steinbrecher	Patrick Gowey	Tyler Lockett	Sea	WR	12.3	15.5
+Bennie Logan, Phi DT	2	5	Kelly Steinbrecher	Patrick Gowey	Bennie Logan	Phi	Bennie Logan, Phi DT	6.5	NA
+J.J. Watt, Hou DE	2	5	Kelly Steinbrecher	Patrick Gowey	J.J. Watt	Hou	J.J. Watt, Hou DE	11.5	NA
+K.J. Wright, Sea LB	2	5	Kelly Steinbrecher	Patrick Gowey	K.J. Wright	Sea	K	14.5	NA
+Tyrann Mathieu, Ari CB, S	2	5	Kelly Steinbrecher	Patrick Gowey	Tyrann Mathieu	Ari	Tyrann Mathieu, Ari CB, S	8	NA
+Barry Church, Dal S	2	5	Kelly Steinbrecher	Patrick Gowey	Barry Church	Dal	Barry Church, Dal S	11	NA
+Adam Vinatieri, Ind K	2	5	Kelly Steinbrecher	Patrick Gowey	Adam Vinatieri	Ind	K	0	9.8
+Jon Ryan, Sea P	2	5	Kelly Steinbrecher	Patrick Gowey	Jon Ryan	Sea	Jon Ryan, Sea P	12	NA
+Steelers Coach HC	2	5	Kelly Steinbrecher	Patrick Gowey	Steelers Coach	Pit	Steelers Coach HC	24.3	NA
+Cam Newton, Car QB	2	6	Randy Bacon	Andrew Phares	Cam Newton	Car	QB	29.8	20.4
+Tom Brady, NE QB	2	6	Randy Bacon	Andrew Phares	Tom Brady	NE	QB	37.2	19.5
+Eddie Lacy, GB RB  Q	2	6	Randy Bacon	Andrew Phares	Eddie Lacy	GB	RB	1.7	18.9
+Brandin Cooks, NO WR	2	6	Randy Bacon	Andrew Phares	Brandin Cooks	NO	WR	7.5	12.2
+Rob Gronkowski, NE TE	2	6	Randy Bacon	Andrew Phares	Rob Gronkowski	NE	TE	19.7	12.2
+C.J. Anderson, Den RB	2	6	Randy Bacon	Andrew Phares	C.J. Anderson	Den	RB	6.2	14.5
+Jarvis Landry, Mia WR	2	6	Randy Bacon	Andrew Phares	Jarvis Landry	Mia	WR	16.5	17.7
+Isaiah Crowell, Cle RB	2	6	Randy Bacon	Andrew Phares	Isaiah Crowell	Cle	RB	17	15
+Aaron Donald, StL DT	2	6	Randy Bacon	Andrew Phares	Aaron Donald	StL	Aaron Donald, StL DT	7	NA
+Michael Bennett, Sea DE	2	6	Randy Bacon	Andrew Phares	Michael Bennett	Sea	Michael Bennett, Sea DE	3	NA
+NaVorro Bowman, SF LB	2	6	Randy Bacon	Andrew Phares	NaVorro Bowman	SF	NaVorro Bowman, SF LB	2	NA
+Johnathan Joseph, Hou CB	2	6	Randy Bacon	Andrew Phares	Johnathan Joseph	Hou	Johnathan Joseph, Hou CB	6.5	NA
+Morgan Burnett, GB S	2	6	Randy Bacon	Andrew Phares	Morgan Burnett	GB	Morgan Burnett, GB S	4.5	NA
+Steven Hauschka, Sea K	2	6	Randy Bacon	Andrew Phares	Steven Hauschka	Sea	K	10	8.3
+Shane Lechler, Hou P	2	6	Randy Bacon	Andrew Phares	Shane Lechler	Hou	Shane Lechler, Hou P	21.6	NA
+Colts Coach HC	2	6	Randy Bacon	Andrew Phares	Colts Coach	Ind	Colts Coach HC	-9.3	NA
+Andrew Luck, Ind QB	2	6	Andrew Phares	Randy Bacon	Andrew Luck	Ind	QB	11.4	21.7
+Matt Ryan, Atl QB	2	6	Andrew Phares	Randy Bacon	Matt Ryan	Atl	QB	23.1	19.5
+Jeremy Hill, Cin RB	2	6	Andrew Phares	Randy Bacon	Jeremy Hill	Cin	RB	2.9	18.6
+Antonio Brown, Pit WR	2	6	Andrew Phares	Randy Bacon	Antonio Brown	Pit	WR	31.6	20.1
+Jimmy Graham, Sea TE	2	6	Andrew Phares	Randy Bacon	Jimmy Graham	Sea	TE	1.5	9.4
+Alfred Morris, Wsh RB	2	6	Andrew Phares	Randy Bacon	Alfred Morris	Wsh	RB	12.2	14.7
+Lamar Miller, Mia RB  Q	2	6	Andrew Phares	Randy Bacon	Lamar Miller	Mia	RB	8.1	18.6
+Tevin Coleman, Atl RB  D	2	6	Andrew Phares	Randy Bacon	Tevin Coleman	Atl	RB	11.5	14.1
+Gerald McCoy, TB DT	2	6	Andrew Phares	Randy Bacon	Gerald McCoy	TB	Gerald McCoy, TB DT	6	NA
+Robert Quinn, StL DE	2	6	Andrew Phares	Randy Bacon	Robert Quinn	StL	Robert Quinn, StL DE	8	NA
+Bobby Wagner, Sea LB	2	6	Andrew Phares	Randy Bacon	Bobby Wagner	Sea	Bobby Wagner, Sea LB	16	NA
+Prince Amukamara, NYG CB	2	6	Andrew Phares	Randy Bacon	Prince Amukamara	NYG	Prince Amukamara, NYG CB	8	NA
+Eric Weddle, SD S	2	6	Andrew Phares	Randy Bacon	Eric Weddle	SD	Eric Weddle, SD S	12	NA
+Matt Bryant, Atl K	2	6	Andrew Phares	Randy Bacon	Matt Bryant	Atl	K	8	10.2
+Andrew Wilder, TB P	2	6	Andrew Phares	Randy Bacon	Andrew Wilder	TB	Andrew Wilder, TB P	0	NA
+Patriots Coach HC	2	6	Andrew Phares	Randy Bacon	Patriots Coach	NE	Patriots Coach HC	8	NA

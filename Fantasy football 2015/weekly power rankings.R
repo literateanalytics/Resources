@@ -39,6 +39,7 @@ for (h in 1:length(league.list)) {
     
     snapshot <- NULL
     
+    ###########    Parse manager active players    ##########
     for (i in 1:nrow(league)) {
         cat('processing league id ', league.id, ': team ', i, ' out of ', nrow(league), '\n', sep = '')
         players <- readHTMLTable(league$link[i], as.data.frame = T, stringsAsFactors = F)[1] %>% as.data.frame()
@@ -52,7 +53,7 @@ for (h in 1:length(league.list)) {
         players$bench.pts <- with(players, ifelse(starting == 'Bench', proj.pts, 0))
     
         snapshot <- rbind(snapshot, players)
-    }
+    }    
     
     # change values to numeric
     snapshot$player.rank <- gsub('[^(-|0-9|\\.|\\+|\\,)]|--|[A-z]', '', snapshot$player.rank) %>% as.numeric()

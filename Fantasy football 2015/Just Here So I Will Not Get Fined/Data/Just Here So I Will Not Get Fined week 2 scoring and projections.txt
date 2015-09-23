@@ -1,0 +1,181 @@
+player.info	week	link_num	manager	opponent	player	team	position	score	proj.pts
+Tom Brady, NE QB	1	1	Marjory Reiter	Kelly Steinbrecher	Tom Brady	NE	QB	27.6	19.9
+Alfred Morris, Wsh RB	1	1	Marjory Reiter	Kelly Steinbrecher	Alfred Morris	Wsh	RB	12.1	8.6
+Jonathan Stewart, Car RB	1	1	Marjory Reiter	Kelly Steinbrecher	Jonathan Stewart	Car	RB	8.1	10.5
+Julio Jones, Atl WR	1	1	Marjory Reiter	Kelly Steinbrecher	Julio Jones	Atl	WR	26.1	15.9
+Vincent Jackson, TB WR	1	1	Marjory Reiter	Kelly Steinbrecher	Vincent Jackson	TB	WR	5.1	9.5
+Rob Gronkowski, NE TE	1	1	Marjory Reiter	Kelly Steinbrecher	Rob Gronkowski	NE	TE	27.4	13.1
+Doug Martin, TB RB	1	1	Marjory Reiter	Kelly Steinbrecher	Doug Martin	TB	RB	5.4	9.5
+Lions D/ST D/ST	1	1	Marjory Reiter	Kelly Steinbrecher	Lions D/ST	Det	D/ST	8	6.5
+Adam Vinatieri, Ind K	1	1	Marjory Reiter	Kelly Steinbrecher	Adam Vinatieri	Ind	K	-1	7.9
+Ryan Tannehill, Mia QB  Q	1	1	Kelly Steinbrecher	Marjory Reiter	Ryan Tannehill	Mia	QB	11.7	18.2
+Jamaal Charles, KC RB	1	1	Kelly Steinbrecher	Marjory Reiter	Jamaal Charles	KC	RB	16.3	15.5
+Devonta Freeman, Atl RB	1	1	Kelly Steinbrecher	Marjory Reiter	Devonta Freeman	Atl	RB	4.7	7.7
+Demaryius Thomas, Den WR	1	1	Kelly Steinbrecher	Marjory Reiter	Demaryius Thomas	Den	WR	6	14.3
+Jarvis Landry, Mia WR	1	1	Kelly Steinbrecher	Marjory Reiter	Jarvis Landry	Mia	WR	15.7	12.1
+Greg Olsen, Car TE	1	1	Kelly Steinbrecher	Marjory Reiter	Greg Olsen	Car	TE	1.1	7
+Tyler Lockett, Sea WR	1	1	Kelly Steinbrecher	Marjory Reiter	Tyler Lockett	Sea	WR	14.2	7.3
+Seahawks D/ST D/ST	1	1	Kelly Steinbrecher	Marjory Reiter	Seahawks D/ST	Sea	D/ST	18	12.4
+Steven Hauschka, Sea K	1	1	Kelly Steinbrecher	Marjory Reiter	Steven Hauschka	Sea	K	11	8.2
+Tony Romo*, Dal QB  IR	1	2	Patrick Gowey	Andrew Phares	Tony Romo	Dal	QB	22.1	18.6
+C.J. Anderson, Den RB	1	2	Patrick Gowey	Andrew Phares	C.J. Anderson	Den	RB	4.8	15.1
+Frank Gore, Ind RB	1	2	Patrick Gowey	Andrew Phares	Frank Gore	Ind	RB	3.1	10.4
+Randall Cobb, GB WR  P	1	2	Patrick Gowey	Andrew Phares	Randall Cobb	GB	WR	9.8	14.6
+Julian Edelman, NE WR	1	2	Patrick Gowey	Andrew Phares	Julian Edelman	NE	WR	10.6	11.1
+Travis Kelce, KC TE	1	2	Patrick Gowey	Andrew Phares	Travis Kelce	KC	TE	22.6	7.2
+Odell Beckham Jr., NYG WR	1	2	Patrick Gowey	Andrew Phares	Odell Beckham Jr.	NYG	WR	4.4	15.4
+Dolphins D/ST D/ST	1	2	Patrick Gowey	Andrew Phares	Dolphins D/ST	Mia	D/ST	14	9.1
+Dan Bailey, Dal K	1	2	Patrick Gowey	Andrew Phares	Dan Bailey	Dal	K	9	7.8
+Matt Ryan, Atl QB	1	2	Andrew Phares	Patrick Gowey	Matt Ryan	Atl	QB	16.6	19.2
+Adrian Peterson, Min RB	1	2	Andrew Phares	Patrick Gowey	Adrian Peterson	Min	RB	5.2	16.5
+Jeremy Hill, Cin RB	1	2	Andrew Phares	Patrick Gowey	Jeremy Hill	Cin	RB	18.3	15.2
+A.J. Green, Cin WR	1	2	Andrew Phares	Patrick Gowey	A.J. Green	Cin	WR	6.3	13.7
+Amari Cooper, Oak WR	1	2	Andrew Phares	Patrick Gowey	Amari Cooper	Oak	WR	4.7	8.5
+Tyler Eifert, Cin TE	1	2	Andrew Phares	Patrick Gowey	Tyler Eifert	Cin	TE	22.4	5.4
+Andre Johnson, Ind WR	1	2	Andrew Phares	Patrick Gowey	Andre Johnson	Ind	WR	2.4	7.9
+Jets D/ST D/ST	1	2	Andrew Phares	Patrick Gowey	Jets D/ST	Jet	D/ST	16	7.6
+Matt Bryant, Atl K	1	2	Andrew Phares	Patrick Gowey	Matt Bryant	Atl	K	17	8.7
+Ben Roethlisberger, Pit QB	1	3	Jason Wardwell	Adam Bohnett	Ben Roethlisberger	Pit	QB	18	17.8
+LeSean McCoy, Buf RB  P	1	3	Jason Wardwell	Adam Bohnett	LeSean McCoy	Buf	RB	8.7	15.7
+T.J. Yeldon, Jac RB	1	3	Jason Wardwell	Adam Bohnett	T.J. Yeldon	Jac	RB	6.7	9.2
+Alshon Jeffery, Chi WR  Q	1	3	Jason Wardwell	Adam Bohnett	Alshon Jeffery	Chi	WR	7.8	11.5
+Jordan Matthews, Phi WR	1	3	Jason Wardwell	Adam Bohnett	Jordan Matthews	Phi	WR	10.2	8.9
+Heath Miller, Pit TE	1	3	Jason Wardwell	Adam Bohnett	Heath Miller	Pit	TE	8.4	7.2
+Sammy Watkins, Buf WR	1	3	Jason Wardwell	Adam Bohnett	Sammy Watkins	Buf	WR	0	8.1
+Panthers D/ST D/ST	1	3	Jason Wardwell	Adam Bohnett	Panthers D/ST	Car	D/ST	22	12.4
+Cody Parkey, Phi K	1	3	Jason Wardwell	Adam Bohnett	Cody Parkey	Phi	K	5	7.5
+Peyton Manning, Den QB	1	3	Adam Bohnett	Jason Wardwell	Peyton Manning	Den	QB	4.9	17.7
+Matt Forte, Chi RB	1	3	Adam Bohnett	Jason Wardwell	Matt Forte	Chi	RB	22.6	10.7
+Justin Forsett, Bal RB	1	3	Adam Bohnett	Jason Wardwell	Justin Forsett	Bal	RB	5.6	11.2
+Antonio Brown, Pit WR	1	3	Adam Bohnett	Jason Wardwell	Antonio Brown	Pit	WR	19.4	17.7
+Golden Tate, Det WR	1	3	Adam Bohnett	Jason Wardwell	Golden Tate	Det	WR	3.8	8.7
+Jason Witten, Dal TE  Q	1	3	Adam Bohnett	Jason Wardwell	Jason Witten	Dal	TE	18	7
+Giovani Bernard, Cin RB	1	3	Adam Bohnett	Jason Wardwell	Giovani Bernard	Cin	RB	8.8	8.4
+Rams D/ST D/ST	1	3	Adam Bohnett	Jason Wardwell	Rams D/ST	StL	D/ST	13	6
+Justin Tucker, Bal K	1	3	Adam Bohnett	Jason Wardwell	Justin Tucker	Bal	K	10	8.2
+Drew Brees, NO QB  Q	1	4	Randy Bacon	Adhi Vidyasankar	Drew Brees	NO	QB	16.5	18.8
+Eddie Lacy, GB RB  Q	1	4	Randy Bacon	Adhi Vidyasankar	Eddie Lacy	GB	RB	15.9	15.9
+Joseph Randle, Dal RB	1	4	Randy Bacon	Adhi Vidyasankar	Joseph Randle	Dal	RB	10.7	10.1
+T.Y. Hilton, Ind WR	1	4	Randy Bacon	Adhi Vidyasankar	T.Y. Hilton	Ind	WR	8.8	9.1
+Brandin Cooks, NO WR	1	4	Randy Bacon	Adhi Vidyasankar	Brandin Cooks	NO	WR	5.3	11.2
+Jimmy Graham, Sea TE	1	4	Randy Bacon	Adhi Vidyasankar	Jimmy Graham	Sea	TE	11.1	10.7
+Roddy White, Atl WR	1	4	Randy Bacon	Adhi Vidyasankar	Roddy White	Atl	WR	8.4	8.4
+Texans D/ST D/ST	1	4	Randy Bacon	Adhi Vidyasankar	Texans D/ST	Hou	D/ST	2	7.1
+Mason Crosby, GB K	1	4	Randy Bacon	Adhi Vidyasankar	Mason Crosby	GB	K	7	8
+Aaron Rodgers, GB QB	1	4	Adhi Vidyasankar	Randy Bacon	Aaron Rodgers	GB	QB	23.1	17.9
+Mark Ingram, NO RB	1	4	Adhi Vidyasankar	Randy Bacon	Mark Ingram	NO	RB	12.2	11.6
+Lamar Miller, Mia RB  Q	1	4	Adhi Vidyasankar	Randy Bacon	Lamar Miller	Mia	RB	7.5	12.4
+Calvin Johnson, Det WR	1	4	Adhi Vidyasankar	Randy Bacon	Calvin Johnson	Det	WR	3.9	14.2
+Keenan Allen, SD WR	1	4	Adhi Vidyasankar	Randy Bacon	Keenan Allen	SD	WR	16.6	9.7
+Martellus Bennett, Chi TE	1	4	Adhi Vidyasankar	Randy Bacon	Martellus Bennett	Chi	TE	11.5	7.4
+Rashad Jennings, NYG RB	1	4	Adhi Vidyasankar	Randy Bacon	Rashad Jennings	NYG	RB	11.2	9
+Bills D/ST D/ST	1	4	Adhi Vidyasankar	Randy Bacon	Bills D/ST	Buf	D/ST	9	7.4
+Stephen Gostkowski, NE K	1	4	Adhi Vidyasankar	Randy Bacon	Stephen Gostkowski	NE	K	4	8.4
+Sam Bradford, Phi QB	1	5	Lawrence Shin	Jiagen Eep	Sam Bradford	Phi	QB	13.4	17.1
+Marshawn Lynch, Sea RB	1	5	Lawrence Shin	Jiagen Eep	Marshawn Lynch	Sea	RB	12.4	15.4
+Latavius Murray, Oak RB	1	5	Lawrence Shin	Jiagen Eep	Latavius Murray	Oak	RB	8	10.7
+Dez Bryant*, Dal WR  O	1	5	Lawrence Shin	Jiagen Eep	Dez Bryant	Dal	WR	4.8	14.2
+Davante Adams, GB WR  P	1	5	Lawrence Shin	Jiagen Eep	Davante Adams	GB	WR	5.9	8.2
+Larry Donnell, NYG TE	1	5	Lawrence Shin	Jiagen Eep	Larry Donnell	NYG	TE	2.1	6.6
+Carlos Hyde, SF RB  Q	1	5	Lawrence Shin	Jiagen Eep	Carlos Hyde	SF	RB	30.2	11.5
+Cardinals D/ST D/ST	1	5	Lawrence Shin	Jiagen Eep	Cardinals D/ST	Car	D/ST	1	4.6
+Nick Folk, NYJ K	1	5	Lawrence Shin	Jiagen Eep	Nick Folk	NYJ	K	7	7.5
+Andrew Luck, Ind QB	1	5	Jiagen Eep	Lawrence Shin	Andrew Luck	Ind	QB	17.7	17.7
+DeMarco Murray, Phi RB	1	5	Jiagen Eep	Lawrence Shin	DeMarco Murray	Phi	RB	14	14.3
+Chris Ivory, NYJ RB  P	1	5	Jiagen Eep	Lawrence Shin	Chris Ivory	NYJ	RB	22	11
+Emmanuel Sanders, Den WR	1	5	Jiagen Eep	Lawrence Shin	Emmanuel Sanders	Den	WR	7.3	10.2
+Brandon Marshall, NYJ WR	1	5	Jiagen Eep	Lawrence Shin	Brandon Marshall	NYJ	WR	12.2	8.4
+Jordan Cameron, Mia TE  Q	1	5	Jiagen Eep	Lawrence Shin	Jordan Cameron	Mia	TE	7.3	6.1
+DeSean Jackson*, Wsh WR  O	1	5	Jiagen Eep	Lawrence Shin	DeSean Jackson	Wsh	WR	0	8.3
+Broncos D/ST D/ST	1	5	Jiagen Eep	Lawrence Shin	Broncos D/ST	Cle	D/ST	18	6.2
+Matt Prater, Det K	1	5	Jiagen Eep	Lawrence Shin	Matt Prater	Det	K	4	8.3
+Ben Roethlisberger, Pit QB	2	6	Jason Wardwell	Patrick Gowey	Ben Roethlisberger	Pit	QB	30.7	18
+LeSean McCoy, Buf RB  P	2	6	Jason Wardwell	Patrick Gowey	LeSean McCoy	Buf	RB	11.6	10.7
+T.J. Yeldon, Jac RB	2	6	Jason Wardwell	Patrick Gowey	T.J. Yeldon	Jac	RB	8.3	8.9
+Alshon Jeffery, Chi WR  Q	2	6	Jason Wardwell	Patrick Gowey	Alshon Jeffery	Chi	WR	0	NA
+Jordan Matthews, Phi WR	2	6	Jason Wardwell	Patrick Gowey	Jordan Matthews	Phi	WR	14	8.7
+Heath Miller, Pit TE	2	6	Jason Wardwell	Patrick Gowey	Heath Miller	Pit	TE	9.5	7.3
+Isaiah Crowell, Cle RB	2	6	Jason Wardwell	Patrick Gowey	Isaiah Crowell	Cle	RB	13.2	10.3
+Panthers D/ST D/ST	2	6	Jason Wardwell	Patrick Gowey	Panthers D/ST	Car	D/ST	4	6.2
+Cody Parkey, Phi K	2	6	Jason Wardwell	Patrick Gowey	Cody Parkey	Phi	K	5	7.7
+Tony Romo*, Dal QB  IR	2	6	Patrick Gowey	Jason Wardwell	Tony Romo	Dal	QB	7	18
+C.J. Anderson, Den RB	2	6	Patrick Gowey	Jason Wardwell	C.J. Anderson	Den	RB	2.9	10.3
+Frank Gore, Ind RB	2	6	Patrick Gowey	Jason Wardwell	Frank Gore	Ind	RB	4.1	10.7
+Randall Cobb, GB WR  P	2	6	Patrick Gowey	Jason Wardwell	Randall Cobb	GB	WR	11.6	9.3
+Odell Beckham Jr., NYG WR	2	6	Patrick Gowey	Jason Wardwell	Odell Beckham Jr.	NYG	WR	20.6	12.3
+Travis Kelce, KC TE	2	6	Patrick Gowey	Jason Wardwell	Travis Kelce	KC	TE	5.8	7.8
+Danny Woodhead, SD RB	2	6	Patrick Gowey	Jason Wardwell	Danny Woodhead	SD	RB	10.4	8.9
+Dolphins D/ST D/ST	2	6	Patrick Gowey	Jason Wardwell	Dolphins D/ST	Mia	D/ST	-1	12.5
+Dan Bailey, Dal K	2	6	Patrick Gowey	Jason Wardwell	Dan Bailey	Dal	K	8	8.1
+Russell Wilson, Sea QB	2	7	Kelly Steinbrecher	Randy Bacon	Russell Wilson	Sea	QB	22	18.6
+Jamaal Charles, KC RB	2	7	Kelly Steinbrecher	Randy Bacon	Jamaal Charles	KC	RB	14.7	12.9
+Darren Sproles, Phi RB	2	7	Kelly Steinbrecher	Randy Bacon	Darren Sproles	Phi	RB	2.7	7.8
+Demaryius Thomas, Den WR	2	7	Kelly Steinbrecher	Randy Bacon	Demaryius Thomas	Den	WR	11.6	11.2
+Jarvis Landry, Mia WR	2	7	Kelly Steinbrecher	Randy Bacon	Jarvis Landry	Mia	WR	12.6	11.5
+Greg Olsen, Car TE	2	7	Kelly Steinbrecher	Randy Bacon	Greg Olsen	Car	TE	7	6.7
+Tyler Lockett, Sea WR	2	7	Kelly Steinbrecher	Randy Bacon	Tyler Lockett	Sea	WR	5.7	9.1
+Seahawks D/ST D/ST	2	7	Kelly Steinbrecher	Randy Bacon	Seahawks D/ST	Sea	D/ST	3	8.5
+Steven Hauschka, Sea K	2	7	Kelly Steinbrecher	Randy Bacon	Steven Hauschka	Sea	K	7	7.4
+Drew Brees, NO QB  Q	2	7	Randy Bacon	Kelly Steinbrecher	Drew Brees	NO	QB	12.1	19.6
+Eddie Lacy, GB RB  Q	2	7	Randy Bacon	Kelly Steinbrecher	Eddie Lacy	GB	RB	0.9	13.2
+Joseph Randle, Dal RB	2	7	Randy Bacon	Kelly Steinbrecher	Joseph Randle	Dal	RB	6.5	10.6
+Brandin Cooks, NO WR	2	7	Randy Bacon	Kelly Steinbrecher	Brandin Cooks	NO	WR	5.8	10
+Roddy White, Atl WR	2	7	Randy Bacon	Kelly Steinbrecher	Roddy White	Atl	WR	0	8.1
+Jimmy Graham, Sea TE	2	7	Randy Bacon	Kelly Steinbrecher	Jimmy Graham	Sea	TE	1.1	8
+Ameer Abdullah, Det RB	2	7	Randy Bacon	Kelly Steinbrecher	Ameer Abdullah	Det	RB	5.2	12.4
+Texans D/ST D/ST	2	7	Randy Bacon	Kelly Steinbrecher	Texans D/ST	Hou	D/ST	5	8.4
+Mason Crosby, GB K	2	7	Randy Bacon	Kelly Steinbrecher	Mason Crosby	GB	K	16	7.7
+Tom Brady, NE QB	2	8	Marjory Reiter	Lawrence Shin	Tom Brady	NE	QB	28.2	16.6
+Alfred Morris, Wsh RB	2	8	Marjory Reiter	Lawrence Shin	Alfred Morris	Wsh	RB	7.2	10.1
+Jonathan Stewart, Car RB	2	8	Marjory Reiter	Lawrence Shin	Jonathan Stewart	Car	RB	5.9	11.5
+Julio Jones, Atl WR	2	8	Marjory Reiter	Lawrence Shin	Julio Jones	Atl	WR	13.5	12.3
+Larry Fitzgerald, Ari WR	2	8	Marjory Reiter	Lawrence Shin	Larry Fitzgerald	Ari	WR	29.2	8.3
+Rob Gronkowski, NE TE	2	8	Marjory Reiter	Lawrence Shin	Rob Gronkowski	NE	TE	17.3	10.2
+Doug Martin, TB RB	2	8	Marjory Reiter	Lawrence Shin	Doug Martin	TB	RB	7.8	10
+Patriots D/ST D/ST	2	8	Marjory Reiter	Lawrence Shin	Patriots D/ST	NE	D/ST	13	7.7
+Adam Vinatieri, Ind K	2	8	Marjory Reiter	Lawrence Shin	Adam Vinatieri	Ind	K	0	8.2
+Sam Bradford, Phi QB	2	8	Lawrence Shin	Marjory Reiter	Sam Bradford	Phi	QB	7.9	16.4
+Marshawn Lynch, Sea RB	2	8	Lawrence Shin	Marjory Reiter	Marshawn Lynch	Sea	RB	6.2	13
+Latavius Murray, Oak RB	2	8	Lawrence Shin	Marjory Reiter	Latavius Murray	Oak	RB	14.7	10.4
+DeAndre Hopkins, Hou WR	2	8	Lawrence Shin	Marjory Reiter	DeAndre Hopkins	Hou	WR	5.3	10.2
+Davante Adams, GB WR  P	2	8	Lawrence Shin	Marjory Reiter	Davante Adams	GB	WR	3.3	7.4
+Austin Seferian-Jenkins*, TB TE  O	2	8	Lawrence Shin	Marjory Reiter	Austin Seferian	TB	TE	2.9	5.8
+Carlos Hyde, SF RB  Q	2	8	Lawrence Shin	Marjory Reiter	Carlos Hyde	SF	RB	6.1	11.9
+Cardinals D/ST D/ST	2	8	Lawrence Shin	Marjory Reiter	Cardinals D/ST	Car	D/ST	18	9.6
+Nick Folk, NYJ K	2	8	Lawrence Shin	Marjory Reiter	Nick Folk	NYJ	K	8	8
+Matt Ryan, Atl QB	2	9	Andrew Phares	Adhi Vidyasankar	Matt Ryan	Atl	QB	18.4	16.6
+Adrian Peterson, Min RB	2	9	Andrew Phares	Adhi Vidyasankar	Adrian Peterson	Min	RB	17.2	13.6
+Jeremy Hill, Cin RB	2	9	Andrew Phares	Adhi Vidyasankar	Jeremy Hill	Cin	RB	0.1	13.4
+A.J. Green, Cin WR	2	9	Andrew Phares	Adhi Vidyasankar	A.J. Green	Cin	WR	10.5	11
+Amari Cooper, Oak WR	2	9	Andrew Phares	Adhi Vidyasankar	Amari Cooper	Oak	WR	16.9	8.1
+Tyler Eifert, Cin TE	2	9	Andrew Phares	Adhi Vidyasankar	Tyler Eifert	Cin	TE	10.9	6.9
+Tevin Coleman, Atl RB  D	2	9	Andrew Phares	Adhi Vidyasankar	Tevin Coleman	Atl	RB	9.2	10
+Jets D/ST D/ST	2	9	Andrew Phares	Adhi Vidyasankar	Jets D/ST	Jet	D/ST	13	6.3
+Matt Bryant, Atl K	2	9	Andrew Phares	Adhi Vidyasankar	Matt Bryant	Atl	K	7	8.3
+Aaron Rodgers, GB QB	2	9	Adhi Vidyasankar	Andrew Phares	Aaron Rodgers	GB	QB	22.3	18.1
+Mark Ingram, NO RB	2	9	Adhi Vidyasankar	Andrew Phares	Mark Ingram	NO	RB	9.8	13.2
+Lamar Miller, Mia RB  Q	2	9	Adhi Vidyasankar	Andrew Phares	Lamar Miller	Mia	RB	4.2	13
+Calvin Johnson, Det WR	2	9	Adhi Vidyasankar	Andrew Phares	Calvin Johnson	Det	WR	14.3	10.5
+Keenan Allen, SD WR	2	9	Adhi Vidyasankar	Andrew Phares	Keenan Allen	SD	WR	-0.4	10.3
+Martellus Bennett, Chi TE	2	9	Adhi Vidyasankar	Andrew Phares	Martellus Bennett	Chi	TE	4.8	7.1
+Rashad Jennings, NYG RB	2	9	Adhi Vidyasankar	Andrew Phares	Rashad Jennings	NYG	RB	2.4	10.5
+Ravens D/ST D/ST	2	9	Adhi Vidyasankar	Andrew Phares	Ravens D/ST	Bal	D/ST	-3	12.2
+Stephen Gostkowski, NE K	2	9	Adhi Vidyasankar	Andrew Phares	Stephen Gostkowski	NE	K	19	7.9
+Cam Newton, Car QB	2	10	Adam Bohnett	Jiagen Eep	Cam Newton	Car	QB	27.4	17.4
+Matt Forte, Chi RB	2	10	Adam Bohnett	Jiagen Eep	Matt Forte	Chi	RB	10.5	15.7
+Justin Forsett, Bal RB	2	10	Adam Bohnett	Jiagen Eep	Justin Forsett	Bal	RB	8	13.2
+Antonio Brown, Pit WR	2	10	Adam Bohnett	Jiagen Eep	Antonio Brown	Pit	WR	28.1	15.5
+Golden Tate, Det WR	2	10	Adam Bohnett	Jiagen Eep	Golden Tate	Det	WR	8.1	9.3
+Jason Witten, Dal TE  Q	2	10	Adam Bohnett	Jiagen Eep	Jason Witten	Dal	TE	5.6	8.3
+Giovani Bernard, Cin RB	2	10	Adam Bohnett	Jiagen Eep	Giovani Bernard	Cin	RB	13.9	8
+Rams D/ST D/ST	2	10	Adam Bohnett	Jiagen Eep	Rams D/ST	StL	D/ST	3	11.2
+Justin Tucker, Bal K	2	10	Adam Bohnett	Jiagen Eep	Justin Tucker	Bal	K	15	8.4
+Andrew Luck, Ind QB	2	10	Jiagen Eep	Adam Bohnett	Andrew Luck	Ind	QB	8.4	19.1
+DeMarco Murray, Phi RB	2	10	Jiagen Eep	Adam Bohnett	DeMarco Murray	Phi	RB	5.5	12.6
+Tre Mason, StL RB	2	10	Jiagen Eep	Adam Bohnett	Tre Mason	StL	RB	3	10.1
+Emmanuel Sanders, Den WR	2	10	Jiagen Eep	Adam Bohnett	Emmanuel Sanders	Den	WR	20.7	10.7
+Brandon Marshall, NYJ WR	2	10	Jiagen Eep	Adam Bohnett	Brandon Marshall	NYJ	WR	16.1	7.8
+Jordan Cameron, Mia TE  Q	2	10	Jiagen Eep	Adam Bohnett	Jordan Cameron	Mia	TE	6.2	5.9
+Bishop Sankey, Ten RB	2	10	Jiagen Eep	Adam Bohnett	Bishop Sankey	Ten	RB	4.2	9.4
+Broncos D/ST D/ST	2	10	Jiagen Eep	Adam Bohnett	Broncos D/ST	Cle	D/ST	20	9.7
+Matt Prater, Det K	2	10	Jiagen Eep	Adam Bohnett	Matt Prater	Det	K	4	8.2
