@@ -1,0 +1,217 @@
+player.info	week	link_num	manager	opponent	player	team	position	score	proj.pts
+Peyton Manning, Den QB	1	1	Patrick OBerry	Patrick Gowey	Peyton Manning	Den	QB	4.9	17.7
+Eddie Lacy, GB RB  P	1	1	Patrick OBerry	Patrick Gowey	Eddie Lacy	GB	RB	15.9	15.9
+LeSean McCoy, Buf RB  Q	1	1	Patrick OBerry	Patrick Gowey	LeSean McCoy	Buf	RB	8.7	15.7
+Julio Jones, Atl WR	1	1	Patrick OBerry	Patrick Gowey	Julio Jones	Atl	WR	26.1	15.9
+Emmanuel Sanders, Den WR	1	1	Patrick OBerry	Patrick Gowey	Emmanuel Sanders	Den	WR	6.5	10.2
+Zach Ertz, Phi TE	1	1	Patrick OBerry	Patrick Gowey	Zach Ertz	Phi	TE	4.6	5.1
+Charles Johnson, Min WR  Q	1	1	Patrick OBerry	Patrick Gowey	Charles Johnson	Min	WR	2.7	7.5
+Rams D/ST D/ST	1	1	Patrick OBerry	Patrick Gowey	Rams D/ST	StL	D/ST	13	6
+Cody Parkey*, Phi K  IR	1	1	Patrick OBerry	Patrick Gowey	Cody Parkey	Phi	K	5	7.7
+Aaron Rodgers, GB QB	1	1	Patrick Gowey	Patrick OBerry	Aaron Rodgers	GB	QB	23.1	17.9
+Matt Forte, Chi RB	1	1	Patrick Gowey	Patrick OBerry	Matt Forte	Chi	RB	22.6	10.7
+Jeremy Hill, Cin RB	1	1	Patrick Gowey	Patrick OBerry	Jeremy Hill	Cin	RB	18.3	15.2
+Randall Cobb, GB WR  P	1	1	Patrick Gowey	Patrick OBerry	Randall Cobb	GB	WR	9.8	14.6
+Jarvis Landry, Mia WR	1	1	Patrick Gowey	Patrick OBerry	Jarvis Landry	Mia	WR	12.7	8.2
+Travis Kelce, KC TE	1	1	Patrick Gowey	Patrick OBerry	Travis Kelce	KC	TE	22.6	7.2
+Alfred Morris, Wsh RB	1	1	Patrick Gowey	Patrick OBerry	Alfred Morris	Wsh	RB	12.1	8.6
+Texans D/ST D/ST	1	1	Patrick Gowey	Patrick OBerry	Texans D/ST	Hou	D/ST	2	7.1
+Stephen Gostkowski, NE K	1	1	Patrick Gowey	Patrick OBerry	Stephen Gostkowski	NE	K	4	8.5
+Andrew Luck, Ind QB	1	2	trevor lemmons	Reece Wade	Andrew Luck	Ind	QB	17.7	17.7
+DeMarco Murray*, Phi RB  O	1	2	trevor lemmons	Reece Wade	DeMarco Murray	Phi	RB	14	14.3
+Jonathan Stewart, Car RB  P	1	2	trevor lemmons	Reece Wade	Jonathan Stewart	Car	RB	8.1	10.5
+Dez Bryant*, Dal WR  O	1	2	trevor lemmons	Reece Wade	Dez Bryant	Dal	WR	4.8	14.2
+T.Y. Hilton, Ind WR	1	2	trevor lemmons	Reece Wade	T.Y. Hilton	Ind	WR	8.8	9.1
+Martellus Bennett, Chi TE	1	2	trevor lemmons	Reece Wade	Martellus Bennett	Chi	TE	11.5	7.4
+DeAndre Hopkins, Hou WR	1	2	trevor lemmons	Reece Wade	DeAndre Hopkins	Hou	WR	23.8	8.8
+Seahawks D/ST D/ST	1	2	trevor lemmons	Reece Wade	Seahawks D/ST	Sea	D/ST	18	12.4
+Mason Crosby, GB K	1	2	trevor lemmons	Reece Wade	Mason Crosby	GB	K	7	8.1
+Drew Brees*, NO QB  O	1	2	Reece Wade	trevor lemmons	Drew Brees	NO	QB	16.5	18.8
+Marshawn Lynch, Sea RB  Q	1	2	Reece Wade	trevor lemmons	Marshawn Lynch	Sea	RB	12.4	15.4
+Justin Forsett, Bal RB	1	2	Reece Wade	trevor lemmons	Justin Forsett	Bal	RB	5.6	11.2
+Calvin Johnson, Det WR	1	2	Reece Wade	trevor lemmons	Calvin Johnson	Det	WR	3.9	14.2
+Demaryius Thomas, Den WR	1	2	Reece Wade	trevor lemmons	Demaryius Thomas	Den	WR	6	14.3
+Jason Witten, Dal TE	1	2	Reece Wade	trevor lemmons	Jason Witten	Dal	TE	18	7
+DeSean Jackson*, Wsh WR  O	1	2	Reece Wade	trevor lemmons	DeSean Jackson	Wsh	WR	0	8.3
+Broncos D/ST D/ST	1	2	Reece Wade	trevor lemmons	Broncos D/ST	Cle	D/ST	18	6.2
+Justin Tucker, Bal K	1	2	Reece Wade	trevor lemmons	Justin Tucker	Bal	K	10	8.3
+Russell Wilson, Sea QB	1	3	Lauren Manibusan	Samiha Verma	Russell Wilson	Sea	QB	15.1	18.2
+Le'Veon Bell, Pit RB	1	3	Lauren Manibusan	Samiha Verma	Le'Veon Bell	Pit	RB	0	NA
+Lamar Miller, Mia RB	1	3	Lauren Manibusan	Samiha Verma	Lamar Miller	Mia	RB	7.5	12.4
+Davante Adams, GB WR  Q	1	3	Lauren Manibusan	Samiha Verma	Davante Adams	GB	WR	5.9	8.2
+Jeremy Maclin, KC WR  P	1	3	Lauren Manibusan	Samiha Verma	Jeremy Maclin	KC	WR	5.2	8.2
+Greg Olsen, Car TE	1	3	Lauren Manibusan	Samiha Verma	Greg Olsen	Car	TE	1.1	7
+Amari Cooper, Oak WR	1	3	Lauren Manibusan	Samiha Verma	Amari Cooper	Oak	WR	4.7	8.5
+Patriots D/ST D/ST	1	3	Lauren Manibusan	Samiha Verma	Patriots D/ST	NE	D/ST	0	4.3
+Steven Hauschka, Sea K	1	3	Lauren Manibusan	Samiha Verma	Steven Hauschka	Sea	K	11	8.2
+Tom Brady, NE QB	1	3	Samiha Verma	Lauren Manibusan	Tom Brady	NE	QB	27.6	19.9
+C.J. Anderson, Den RB	1	3	Samiha Verma	Lauren Manibusan	C.J. Anderson	Den	RB	4.8	15.1
+Carlos Hyde, SF RB	1	3	Samiha Verma	Lauren Manibusan	Carlos Hyde	SF	RB	30.2	11.5
+Odell Beckham Jr., NYG WR	1	3	Samiha Verma	Lauren Manibusan	Odell Beckham Jr.	NYG	WR	4.4	15.4
+Julian Edelman, NE WR	1	3	Samiha Verma	Lauren Manibusan	Julian Edelman	NE	WR	10.6	10.1
+Rob Gronkowski, NE TE	1	3	Samiha Verma	Lauren Manibusan	Rob Gronkowski	NE	TE	27.4	13.1
+Joique Bell, Det RB	1	3	Samiha Verma	Lauren Manibusan	Joique Bell	Det	RB	4.1	7.4
+Ravens D/ST D/ST	1	3	Samiha Verma	Lauren Manibusan	Ravens D/ST	Bal	D/ST	14	3.8
+Adam Vinatieri, Ind K	1	3	Samiha Verma	Lauren Manibusan	Adam Vinatieri	Ind	K	-1	8
+Ben Roethlisberger*, Pit QB  O	1	4	Andy Vu	Alonso Prato	Ben Roethlisberger	Pit	QB	18	17.8
+Adrian Peterson, Min RB	1	4	Andy Vu	Alonso Prato	Adrian Peterson	Min	RB	5.2	16.5
+Mark Ingram, NO RB	1	4	Andy Vu	Alonso Prato	Mark Ingram	NO	RB	12.2	11.6
+A.J. Green, Cin WR	1	4	Andy Vu	Alonso Prato	A.J. Green	Cin	WR	6.3	13.7
+Jordan Matthews, Phi WR	1	4	Andy Vu	Alonso Prato	Jordan Matthews	Phi	WR	10.2	8.9
+Jordan Cameron, Mia TE	1	4	Andy Vu	Alonso Prato	Jordan Cameron	Mia	TE	7.3	6.1
+Frank Gore, Ind RB	1	4	Andy Vu	Alonso Prato	Frank Gore	Ind	RB	3.1	10.4
+Jets D/ST D/ST	1	4	Andy Vu	Alonso Prato	Jets D/ST	Jet	D/ST	16	7.6
+Dan Bailey, Dal K	1	4	Andy Vu	Alonso Prato	Dan Bailey	Dal	K	9	8
+Matt Ryan, Atl QB	1	4	Alonso Prato	Andy Vu	Matt Ryan	Atl	QB	16.6	19.2
+Jamaal Charles, KC RB	1	4	Alonso Prato	Andy Vu	Jamaal Charles	KC	RB	16.3	15.5
+Joseph Randle, Dal RB	1	4	Alonso Prato	Andy Vu	Joseph Randle	Dal	RB	10.7	10.1
+Antonio Brown, Pit WR	1	4	Alonso Prato	Andy Vu	Antonio Brown	Pit	WR	19.3	17
+Alshon Jeffery*, Chi WR  O	1	4	Alonso Prato	Andy Vu	Alshon Jeffery	Chi	WR	7.8	11.5
+Jimmy Graham, Sea TE	1	4	Alonso Prato	Andy Vu	Jimmy Graham	Sea	TE	11.1	10.7
+Latavius Murray, Oak RB	1	4	Alonso Prato	Andy Vu	Latavius Murray	Oak	RB	8	10
+Dolphins D/ST D/ST	1	4	Alonso Prato	Andy Vu	Dolphins D/ST	Mia	D/ST	14	9.1
+Matt Bryant, Atl K	1	4	Alonso Prato	Andy Vu	Matt Bryant	Atl	K	17	8.8
+Andrew Luck, Ind QB	2	5	trevor lemmons	Patrick OBerry	Andrew Luck	Ind	QB	8.4	19.1
+DeMarco Murray*, Phi RB  O	2	5	trevor lemmons	Patrick OBerry	DeMarco Murray	Phi	RB	5.5	12.6
+Jonathan Stewart, Car RB  P	2	5	trevor lemmons	Patrick OBerry	Jonathan Stewart	Car	RB	5.9	11.5
+DeAndre Hopkins, Hou WR	2	5	trevor lemmons	Patrick OBerry	DeAndre Hopkins	Hou	WR	5.3	10.2
+Larry Fitzgerald, Ari WR	2	5	trevor lemmons	Patrick OBerry	Larry Fitzgerald	Ari	WR	29.2	8.3
+Martellus Bennett, Chi TE	2	5	trevor lemmons	Patrick OBerry	Martellus Bennett	Chi	TE	4.8	7.1
+Chris Ivory, NYJ RB  Q	2	5	trevor lemmons	Patrick OBerry	Chris Ivory	NYJ	RB	6	10.6
+Seahawks D/ST D/ST	2	5	trevor lemmons	Patrick OBerry	Seahawks D/ST	Sea	D/ST	3	8.5
+Mason Crosby, GB K	2	5	trevor lemmons	Patrick OBerry	Mason Crosby	GB	K	16	7.8
+Peyton Manning, Den QB	2	5	Patrick OBerry	trevor lemmons	Peyton Manning	Den	QB	20.2	16.2
+Eddie Lacy, GB RB  P	2	5	Patrick OBerry	trevor lemmons	Eddie Lacy	GB	RB	0.9	13.2
+LeSean McCoy, Buf RB  Q	2	5	Patrick OBerry	trevor lemmons	LeSean McCoy	Buf	RB	11.6	10.7
+Julio Jones, Atl WR	2	5	Patrick OBerry	trevor lemmons	Julio Jones	Atl	WR	13.5	12.3
+Emmanuel Sanders, Den WR	2	5	Patrick OBerry	trevor lemmons	Emmanuel Sanders	Den	WR	20.7	9.9
+Zach Ertz, Phi TE	2	5	Patrick OBerry	trevor lemmons	Zach Ertz	Phi	TE	1.7	6.5
+Charles Johnson, Min WR  Q	2	5	Patrick OBerry	trevor lemmons	Charles Johnson	Min	WR	1	7.3
+Rams D/ST D/ST	2	5	Patrick OBerry	trevor lemmons	Rams D/ST	StL	D/ST	3	11.2
+Cody Parkey*, Phi K  IR	2	5	Patrick OBerry	trevor lemmons	Cody Parkey	Phi	K	5	7.9
+Aaron Rodgers, GB QB	2	6	Patrick Gowey	Reece Wade	Aaron Rodgers	GB	QB	22.3	18.1
+Matt Forte, Chi RB	2	6	Patrick Gowey	Reece Wade	Matt Forte	Chi	RB	10.5	15.7
+Jeremy Hill, Cin RB	2	6	Patrick Gowey	Reece Wade	Jeremy Hill	Cin	RB	0.1	13.4
+Randall Cobb, GB WR  P	2	6	Patrick Gowey	Reece Wade	Randall Cobb	GB	WR	11.6	9.3
+Jarvis Landry, Mia WR	2	6	Patrick Gowey	Reece Wade	Jarvis Landry	Mia	WR	11.6	8.8
+Travis Kelce, KC TE	2	6	Patrick Gowey	Reece Wade	Travis Kelce	KC	TE	5.8	7.8
+Brandin Cooks, NO WR	2	6	Patrick Gowey	Reece Wade	Brandin Cooks	NO	WR	5.8	10
+Texans D/ST D/ST	2	6	Patrick Gowey	Reece Wade	Texans D/ST	Hou	D/ST	5	8.4
+Stephen Gostkowski, NE K	2	6	Patrick Gowey	Reece Wade	Stephen Gostkowski	NE	K	19	8
+Drew Brees*, NO QB  O	2	6	Reece Wade	Patrick Gowey	Drew Brees	NO	QB	12.1	19.6
+Marshawn Lynch, Sea RB  Q	2	6	Reece Wade	Patrick Gowey	Marshawn Lynch	Sea	RB	6.2	13
+Justin Forsett, Bal RB	2	6	Reece Wade	Patrick Gowey	Justin Forsett	Bal	RB	8	13.2
+Calvin Johnson, Det WR	2	6	Reece Wade	Patrick Gowey	Calvin Johnson	Det	WR	14.3	10.5
+Demaryius Thomas, Den WR	2	6	Reece Wade	Patrick Gowey	Demaryius Thomas	Den	WR	11.6	11.2
+Jason Witten, Dal TE	2	6	Reece Wade	Patrick Gowey	Jason Witten	Dal	TE	5.6	8.3
+DeSean Jackson*, Wsh WR  O	2	6	Reece Wade	Patrick Gowey	DeSean Jackson	Wsh	WR	0	0
+Broncos D/ST D/ST	2	6	Reece Wade	Patrick Gowey	Broncos D/ST	Cle	D/ST	21	9.7
+Justin Tucker, Bal K	2	6	Reece Wade	Patrick Gowey	Justin Tucker	Bal	K	15	8.4
+Ben Roethlisberger*, Pit QB  O	2	7	Andy Vu	Lauren Manibusan	Ben Roethlisberger	Pit	QB	30.7	18
+Adrian Peterson, Min RB	2	7	Andy Vu	Lauren Manibusan	Adrian Peterson	Min	RB	17.2	13.6
+Mark Ingram, NO RB	2	7	Andy Vu	Lauren Manibusan	Mark Ingram	NO	RB	9.8	13.2
+A.J. Green, Cin WR	2	7	Andy Vu	Lauren Manibusan	A.J. Green	Cin	WR	10.5	11
+Jordan Matthews, Phi WR	2	7	Andy Vu	Lauren Manibusan	Jordan Matthews	Phi	WR	14	8.7
+Jordan Cameron, Mia TE	2	7	Andy Vu	Lauren Manibusan	Jordan Cameron	Mia	TE	6.2	5.9
+Frank Gore, Ind RB	2	7	Andy Vu	Lauren Manibusan	Frank Gore	Ind	RB	4.1	10.7
+Jets D/ST D/ST	2	7	Andy Vu	Lauren Manibusan	Jets D/ST	Jet	D/ST	13	6.3
+Dan Bailey, Dal K	2	7	Andy Vu	Lauren Manibusan	Dan Bailey	Dal	K	8	8.2
+Russell Wilson, Sea QB	2	7	Lauren Manibusan	Andy Vu	Russell Wilson	Sea	QB	22	18.6
+Le'Veon Bell, Pit RB	2	7	Lauren Manibusan	Andy Vu	Le'Veon Bell	Pit	RB	0	NA
+Lamar Miller, Mia RB	2	7	Lauren Manibusan	Andy Vu	Lamar Miller	Mia	RB	4.2	13
+Davante Adams, GB WR  Q	2	7	Lauren Manibusan	Andy Vu	Davante Adams	GB	WR	3.3	7.4
+Jeremy Maclin, KC WR  P	2	7	Lauren Manibusan	Andy Vu	Jeremy Maclin	KC	WR	5.5	8.6
+Greg Olsen, Car TE	2	7	Lauren Manibusan	Andy Vu	Greg Olsen	Car	TE	7	6.7
+Amari Cooper, Oak WR	2	7	Lauren Manibusan	Andy Vu	Amari Cooper	Oak	WR	16.9	8.1
+Patriots D/ST D/ST	2	7	Lauren Manibusan	Andy Vu	Patriots D/ST	NE	D/ST	13	7.7
+Steven Hauschka, Sea K	2	7	Lauren Manibusan	Andy Vu	Steven Hauschka	Sea	K	7	7.4
+Tom Brady, NE QB	2	8	Samiha Verma	Alonso Prato	Tom Brady	NE	QB	28.2	16.6
+C.J. Anderson, Den RB	2	8	Samiha Verma	Alonso Prato	C.J. Anderson	Den	RB	2.9	10.3
+Carlos Hyde, SF RB	2	8	Samiha Verma	Alonso Prato	Carlos Hyde	SF	RB	6.1	11.9
+Odell Beckham Jr., NYG WR	2	8	Samiha Verma	Alonso Prato	Odell Beckham Jr.	NYG	WR	20.6	12.3
+Steve Smith Sr., Bal WR	2	8	Samiha Verma	Alonso Prato	Steve Smith Sr.	Bal	WR	15	8
+Rob Gronkowski, NE TE	2	8	Samiha Verma	Alonso Prato	Rob Gronkowski	NE	TE	17.3	10.2
+Rashad Jennings, NYG RB	2	8	Samiha Verma	Alonso Prato	Rashad Jennings	NYG	RB	2.4	10.5
+Ravens D/ST D/ST	2	8	Samiha Verma	Alonso Prato	Ravens D/ST	Bal	D/ST	-3	12.2
+Adam Vinatieri, Ind K	2	8	Samiha Verma	Alonso Prato	Adam Vinatieri	Ind	K	0	8.3
+Matt Ryan, Atl QB	2	8	Alonso Prato	Samiha Verma	Matt Ryan	Atl	QB	18.4	16.6
+Jamaal Charles, KC RB	2	8	Alonso Prato	Samiha Verma	Jamaal Charles	KC	RB	14.7	12.9
+Joseph Randle, Dal RB	2	8	Alonso Prato	Samiha Verma	Joseph Randle	Dal	RB	6.5	10.6
+Keenan Allen, SD WR	2	8	Alonso Prato	Samiha Verma	Keenan Allen	SD	WR	-0.4	10
+Vincent Jackson, TB WR	2	8	Alonso Prato	Samiha Verma	Vincent Jackson	TB	WR	11.4	8.2
+Delanie Walker, Ten TE	2	8	Alonso Prato	Samiha Verma	Delanie Walker	Ten	TE	0	0
+Latavius Murray, Oak RB	2	8	Alonso Prato	Samiha Verma	Latavius Murray	Oak	RB	14.7	10.4
+Bills D/ST D/ST	2	8	Alonso Prato	Samiha Verma	Bills D/ST	Buf	D/ST	-3	6.2
+Matt Bryant, Atl K	2	8	Alonso Prato	Samiha Verma	Matt Bryant	Atl	K	7	8.4
+Peyton Manning, Den QB	3	9	Patrick OBerry	Reece Wade	Peyton Manning	Den	QB	18.9	17.9
+Eddie Lacy, GB RB  P	3	9	Patrick OBerry	Reece Wade	Eddie Lacy	GB	RB	8.7	NA
+LeSean McCoy, Buf RB  Q	3	9	Patrick OBerry	Reece Wade	LeSean McCoy	Buf	RB	8.6	11.4
+Julio Jones, Atl WR	3	9	Patrick OBerry	Reece Wade	Julio Jones	Atl	WR	28.4	12.9
+Emmanuel Sanders, Den WR	3	9	Patrick OBerry	Reece Wade	Emmanuel Sanders	Den	WR	8.7	12
+Zach Ertz, Phi TE	3	9	Patrick OBerry	Reece Wade	Zach Ertz	Phi	TE	3	5.8
+Charles Johnson, Min WR  Q	3	9	Patrick OBerry	Reece Wade	Charles Johnson	Min	WR	0.9	6.6
+Rams D/ST D/ST	3	9	Patrick OBerry	Reece Wade	Rams D/ST	StL	D/ST	12	6.9
+Cody Parkey*, Phi K  IR	3	9	Patrick OBerry	Reece Wade	Cody Parkey	Phi	K	6	8
+Cam Newton, Car QB	3	9	Reece Wade	Patrick OBerry	Cam Newton	Car	QB	29.9	18.8
+Marshawn Lynch, Sea RB  Q	3	9	Reece Wade	Patrick OBerry	Marshawn Lynch	Sea	RB	2.3	16.4
+Justin Forsett, Bal RB	3	9	Reece Wade	Patrick OBerry	Justin Forsett	Bal	RB	2.9	12.3
+Calvin Johnson, Det WR	3	9	Reece Wade	Patrick OBerry	Calvin Johnson	Det	WR	7.7	12.1
+Demaryius Thomas, Den WR	3	9	Reece Wade	Patrick OBerry	Demaryius Thomas	Den	WR	13.2	12.8
+Jason Witten, Dal TE	3	9	Reece Wade	Patrick OBerry	Jason Witten	Dal	TE	6.5	7.1
+Shane Vereen, NYG RB	3	9	Reece Wade	Patrick OBerry	Shane Vereen	NYG	RB	2.3	8.1
+Broncos D/ST D/ST	3	9	Reece Wade	Patrick OBerry	Broncos D/ST	Cle	D/ST	17	8.4
+Justin Tucker, Bal K	3	9	Reece Wade	Patrick OBerry	Justin Tucker	Bal	K	5	8.2
+Aaron Rodgers, GB QB	3	10	Patrick Gowey	trevor lemmons	Aaron Rodgers	GB	QB	34.9	20.2
+Matt Forte, Chi RB	3	10	Patrick Gowey	trevor lemmons	Matt Forte	Chi	RB	7.4	12.5
+Jeremy Hill, Cin RB	3	10	Patrick Gowey	trevor lemmons	Jeremy Hill	Cin	RB	2.1	10.8
+Randall Cobb, GB WR  P	3	10	Patrick Gowey	trevor lemmons	Randall Cobb	GB	WR	28.3	12.2
+Jarvis Landry, Mia WR	3	10	Patrick Gowey	trevor lemmons	Jarvis Landry	Mia	WR	8.6	9.1
+Travis Kelce, KC TE	3	10	Patrick Gowey	trevor lemmons	Travis Kelce	KC	TE	10	7.9
+Chris Johnson, Ari RB	3	10	Patrick Gowey	trevor lemmons	Chris Johnson	Ari	RB	27	10.5
+Texans D/ST D/ST	3	10	Patrick Gowey	trevor lemmons	Texans D/ST	Hou	D/ST	5	11
+Stephen Gostkowski, NE K	3	10	Patrick Gowey	trevor lemmons	Stephen Gostkowski	NE	K	17	9.2
+Andrew Luck, Ind QB	3	10	trevor lemmons	Patrick Gowey	Andrew Luck	Ind	QB	16.5	18.8
+T.J. Yeldon, Jax RB	3	10	trevor lemmons	Patrick Gowey	T.J. Yeldon	Jax	RB	4.2	10.5
+DeAngelo Williams, Pit RB	3	10	trevor lemmons	Patrick Gowey	DeAngelo Williams	Pit	RB	0.2	3.9
+Larry Fitzgerald, Ari WR	3	10	trevor lemmons	Patrick Gowey	Larry Fitzgerald	Ari	WR	25.4	9.9
+Travis Benjamin, Cle WR	3	10	trevor lemmons	Patrick Gowey	Travis Benjamin	Cle	WR	8.5	6.1
+Tyler Eifert, Cin TE	3	10	trevor lemmons	Patrick Gowey	Tyler Eifert	Cin	TE	0	7.4
+Jonathan Stewart, Car RB  P	3	10	trevor lemmons	Patrick Gowey	Jonathan Stewart	Car	RB	5.2	12.9
+Seahawks D/ST D/ST	3	10	trevor lemmons	Patrick Gowey	Seahawks D/ST	Sea	D/ST	16	12.8
+Mason Crosby, GB K	3	10	trevor lemmons	Patrick Gowey	Mason Crosby	GB	K	9	8.1
+Russell Wilson, Sea QB	3	11	Lauren Manibusan	Alonso Prato	Russell Wilson	Sea	QB	16.2	19.6
+Le'Veon Bell, Pit RB	3	11	Lauren Manibusan	Alonso Prato	Le'Veon Bell	Pit	RB	19.2	14.9
+Lamar Miller, Mia RB	3	11	Lauren Manibusan	Alonso Prato	Lamar Miller	Mia	RB	6.5	10.5
+Davante Adams, GB WR  Q	3	11	Lauren Manibusan	Alonso Prato	Davante Adams	GB	WR	0	7.5
+Jeremy Maclin, KC WR  P	3	11	Lauren Manibusan	Alonso Prato	Jeremy Maclin	KC	WR	20.1	9.1
+Greg Olsen, Car TE	3	11	Lauren Manibusan	Alonso Prato	Greg Olsen	Car	TE	25.4	7.2
+Amari Cooper, Oak WR	3	11	Lauren Manibusan	Alonso Prato	Amari Cooper	Oak	WR	11.4	7.9
+Patriots D/ST D/ST	3	11	Lauren Manibusan	Alonso Prato	Patriots D/ST	NE	D/ST	7	14.8
+Steven Hauschka, Sea K	3	11	Lauren Manibusan	Alonso Prato	Steven Hauschka	Sea	K	16	8
+Carson Palmer, Ari QB	3	11	Alonso Prato	Lauren Manibusan	Carson Palmer	Ari	QB	18.5	17.5
+Jamaal Charles, KC RB	3	11	Alonso Prato	Lauren Manibusan	Jamaal Charles	KC	RB	26.2	13.9
+Joseph Randle, Dal RB	3	11	Alonso Prato	Lauren Manibusan	Joseph Randle	Dal	RB	28.5	11.3
+Antonio Brown, Pit WR	3	11	Alonso Prato	Lauren Manibusan	Antonio Brown	Pit	WR	10.8	14.6
+Keenan Allen, SD WR	3	11	Alonso Prato	Lauren Manibusan	Keenan Allen	SD	WR	25.3	8.4
+Jimmy Graham, Sea TE	3	11	Alonso Prato	Lauren Manibusan	Jimmy Graham	Sea	TE	14.3	7.4
+Latavius Murray, Oak RB	3	11	Alonso Prato	Lauren Manibusan	Latavius Murray	Oak	RB	20.9	12.6
+Bills D/ST D/ST	3	11	Alonso Prato	Lauren Manibusan	Bills D/ST	Buf	D/ST	14	11.1
+Matt Bryant, Atl K	3	11	Alonso Prato	Lauren Manibusan	Matt Bryant	Atl	K	7	8.4
+Tom Brady, NE QB	3	12	Samiha Verma	Andy Vu	Tom Brady	NE	QB	22.7	18.9
+C.J. Anderson, Den RB	3	12	Samiha Verma	Andy Vu	C.J. Anderson	Den	RB	2.7	11.7
+Rashad Jennings, NYG RB	3	12	Samiha Verma	Andy Vu	Rashad Jennings	NYG	RB	5.7	7.8
+Odell Beckham Jr., NYG WR	3	12	Samiha Verma	Andy Vu	Odell Beckham Jr.	NYG	WR	13.9	11.9
+Julian Edelman, NE WR	3	12	Samiha Verma	Andy Vu	Julian Edelman	NE	WR	8.5	10.5
+Rob Gronkowski, NE TE	3	12	Samiha Verma	Andy Vu	Rob Gronkowski	NE	TE	10.1	10.5
+Carlos Hyde, SF RB	3	12	Samiha Verma	Andy Vu	Carlos Hyde	SF	RB	6.1	11.5
+Ravens D/ST D/ST	3	12	Samiha Verma	Andy Vu	Ravens D/ST	Bal	D/ST	6	5.9
+Brandon McManus, Den K	3	12	Samiha Verma	Andy Vu	Brandon McManus	Den	K	7	7.4
+Ben Roethlisberger*, Pit QB  O	3	12	Andy Vu	Samiha Verma	Ben Roethlisberger	Pit	QB	5.7	18
+Adrian Peterson, Min RB	3	12	Andy Vu	Samiha Verma	Adrian Peterson	Min	RB	24.6	15.7
+Doug Martin, TB RB	3	12	Andy Vu	Samiha Verma	Doug Martin	TB	RB	4.6	9.5
+A.J. Green, Cin WR	3	12	Andy Vu	Samiha Verma	A.J. Green	Cin	WR	34.7	10.6
+Brandon Marshall, NYJ WR	3	12	Andy Vu	Samiha Verma	Brandon Marshall	NYJ	WR	14.9	11.2
+Jordan Cameron, Mia TE	3	12	Andy Vu	Samiha Verma	Jordan Cameron	Mia	TE	1.6	6
+Frank Gore, Ind RB	3	12	Andy Vu	Samiha Verma	Frank Gore	Ind	RB	21.4	11.4
+Jets D/ST D/ST	3	12	Andy Vu	Samiha Verma	Jets D/ST	Jet	D/ST	5	6.5
+Dan Bailey, Dal K	3	12	Andy Vu	Samiha Verma	Dan Bailey	Dal	K	4	8

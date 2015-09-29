@@ -1,4 +1,4 @@
-manager	slot	info	opponent	gametime	player.rank	prev.pts.total	prev.pts.avg	prev.pts.last	proj.pts	opp.rank	pct.start	pct.own	pct.own.change	starting	starter.pts	bench.pts	nfl.week	matchup.id
+Imanager	slot	info	opponent	gametime	player.rank	prev.pts.total	prev.pts.avg	prev.pts.last	proj.pts	opp.rank	pct.start	pct.own	pct.own.change	starting	starter.pts	bench.pts	nfl.week	matchup.id
 Patrick Gowey	QB	Aaron Rodgers, GB<U+00A0>QB	@Chi	Sun 1:00	1	354.1	22.1	NA	17.9	31	96	99.9	0	Starter	17.9	0	1	1
 Patrick Gowey	RB	DeMarco Murray, Phi<U+00A0>RB	@Atl	Mon 6:55	1	294.1	18.4	NA	14.3	30	99.5	99.9	0	Starter	14.3	0	1	1
 Patrick Gowey	RB	Joseph Randle, Dal<U+00A0>RB	NYG	Sun 8:30	67	50.6	3.2	NA	10.1	26	53.7	95.8	-0.1	Starter	10.1	0	1	1

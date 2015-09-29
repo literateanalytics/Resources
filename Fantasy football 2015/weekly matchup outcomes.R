@@ -10,6 +10,12 @@ league.list <- c("1390327",  # Epic Bar Graphs
                  "1765344"   # Won't Get Fined
 )
 
+# create NFL calendar
+# wk 1 starts 9/9/2015 and there are 16-17 weeks in fantasy
+start <- as.Date('2015-09-09', '%Y-%m-%d')
+nfl.week <- floor(as.numeric(Sys.Date() - start)/7)+1
+nfl.week <- ifelse(nfl.week > 17, 99, ifelse(Sys.Date() < start, 0, nfl.week))
+
 team.clean <- function(team) {
     team.tmp <- team
     team.tmp <- gsub('49ers','SF',team.tmp)
@@ -164,6 +170,12 @@ for (league.id in league.list) {
         theme(plot.title = element_text(size = 18, face = 'bold', vjust = 2, hjust = 0)) +
         labs(x = "Week of season", y = 'Manager score difference less opponent score difference', title = paste(league.name, ": Manager Luckiness", sep = ''))
     
+    mgr.intuition <- ggplot(data = mgr.proj, aes(x = factor(week), weight = diff, fill = is.win)) +
+        geom_bar(binwidth = 1) +
+        scale_fill_discrete(name = 'Is Win?') +
+        facet_wrap(~ manager, ncol = 2) +
+        theme(plot.title = element_text(size = 18, face = 'bold', vjust = 2, hjust = 0)) +
+        labs(x = "Week of season", y = 'Manager actual score minus projected score', title = paste(league.name, ": Manager Intuition", sep = ''))
     
     
     
@@ -178,7 +190,9 @@ for (league.id in league.list) {
     write.table(scoring, data.file, sep = '\t', row.names = F, col.names = T, quote = F)
     
     graph.dir  <- file.path(base.dir, 'Graphs')
-    graph.file <- paste(graph.dir, '/', league.name, ' week ', nfl.week, ' mgr luckiness.jpg', sep = '')
+    graph.file1 <- paste(graph.dir, '/', league.name, ' week ', nfl.week, ' mgr luckiness.jpg', sep = '')
+    graph.file2 <- paste(graph.dir, '/', league.name, ' week ', nfl.week, ' mgr intuition.jpg', sep = '')
     dir.create(graph.dir, showWarnings = F)  # don't show the warning if dir already exists
-    ggsave(filename = graph.file, plot = mgr.luckiness, height = 10, width = 8)
+    ggsave(filename = graph.file1, plot = mgr.luckiness, height = 10, width = 8)
+    ggsave(filename = graph.file2, plot = mgr.intuition, height = 10, width = 8)
 }
