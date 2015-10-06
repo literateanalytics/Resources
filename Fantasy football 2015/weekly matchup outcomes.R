@@ -239,14 +239,14 @@ for (league.id in league.list) {
         }
     }
     periods.tmp$period <- factor(periods.tmp$period, levels = c('Thursday afternoon','Thursday evening','Saturday evening','Sunday morning','Sunday afternoon','Sunday evening','Monday evening'))
-    periods.graph <- filter(periods.tmp, week == nfl.week-1)
+    periods.graph <- filter(periods.tmp, week == nfl.week)
     wkly.cumu.pts <- ggplot(data = periods.graph, aes(x = period, y = cum.score, group = manager, color = manager)) +
         geom_line(size = 1) +
         geom_text(data = filter(periods.graph, is.min == 'Y'), aes(label = gsub('^J$', 'John', gsub('([A-z]+).*','\\1',manager)), y = cum.score+8), hjust = 1, vjust = 0.5, size = 4) +
         scale_color_discrete(guide = F) +
         facet_wrap(~ id, ncol = 1, scales = 'fixed') +
         theme(axis.text.x = element_text(angle = 45, hjust = 1), plot.title = element_text(size = 18, face = 'bold', vjust = 2, hjust = 0)) +
-        labs(x = 'Scoring period', y = 'Cumulative score', title = paste(league.name, ': \nWeek ', nfl.week-1, ' cumulative scoring', sep = ''))
+        labs(x = 'Scoring period', y = 'Cumulative score', title = paste(league.name, ': \nWeek ', nfl.week, ' cumulative scoring', sep = ''))
     
     
     
