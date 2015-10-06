@@ -181,6 +181,79 @@ for (league.id in league.list) {
     
     
     
+    
+    schedule <- read.table('/Users/pgowey/Github/Resources/Fantasy Football 2015/schedule.txt', sep = '\t', header = T, quote = '', fill = T)
+    scoring$team <- sub('Jet', 'NYJ', scoring$team)
+    scoring <- left_join(scoring, schedule, by = c('team' = 'team', 'week' = 'wk'))
+    scoring$manager <- as.character(scoring$manager)
+    scoring$opponent <- as.character(scoring$opponent)
+    
+    period.nums <- function(x) {
+        x <- sub('Thursday afternoon', 1, x)
+        x <- sub('Thursday evening',   2, x)
+        x <- sub('Saturday evening',   3, x)
+        x <- sub('Sunday morning',     4, x)
+        x <- sub('Sunday afternoon',   5, x)
+        x <- sub('Sunday evening',     6, x)
+        x <- sub('Monday evening',     7, x)
+    }
+    period.names <- function(x) {
+        x <- sub(1, 'Thursday afternoon', x)
+        x <- sub(2, 'Thursday evening',   x)
+        x <- sub(3, 'Saturday evening',   x)
+        x <- sub(4, 'Sunday morning',     x)
+        x <- sub(5, 'Sunday afternoon',   x)
+        x <- sub(6, 'Sunday evening',     x)
+        x <- sub(7, 'Monday evening',     x)
+    }
+    
+    matchups <- scoring %>% mutate(matchup = paste(ifelse(manager > opponent, manager, opponent), ifelse(manager > opponent, opponent, manager), sep = ' / ')) %>% select(week, matchup) %>% distinct()
+    n <- filter(matchups, week == 1) %>% nrow()
+    matchups$id <- rep(1:n, nrow(matchups)/n)
+    matchups$mgr1 <- gsub('^(.*) / (.*)$', '\\1', matchups$matchup)
+    matchups$mgr2 <- gsub('^(.*) / (.*)$', '\\2', matchups$matchup)
+    tmp1 <- select(matchups, manager = mgr1, week, id)
+    tmp2 <- select(matchups, manager = mgr2, week, id)
+    matchups <- rbind(tmp1, tmp2)
+    
+    scoring <- left_join(scoring, matchups, by = c('manager' = 'manager', 'week' = 'week'))
+    periods <- scoring %>% group_by(manager, week, id, period) %>% summarise(pts = sum(score, na.rm = T)) %>% as.data.frame()
+    periods$period.num <- period.nums(periods$period) %>% as.numeric()
+    mgrs <- periods %>% group_by(manager) %>% summarise(n = n()) %>% select(manager) %>% as.data.frame()
+    wks <- periods %>% group_by(week) %>% summarise(n = n()) %>% select(week) %>% as.data.frame()
+    periods.tmp <- NULL
+    #mgrs <- data.frame(manager = 'Andy Noone')
+    #wks <- data.frame(week = 1)
+    for (i in 1:nrow(mgrs)) {
+        i <- mgrs[i,]
+        a <- filter(periods, manager == i)
+        for (j in 1:nrow(wks)) {
+            j <- wks[j,]
+            b <- filter(a, week == j)
+            # c <- b %>% group_by(id) %>% summarise(n = n()) %>% select(id)  # is this necessary?
+            b <- arrange(b, period.num)
+            b$cum.score <- cumsum(b$pts)
+            b$is.max <- with(b, ifelse(b$period.num == max(b$period.num), 'Y', 'N'))
+            b$is.min <- with(b, ifelse(b$period.num == min(b$period.num), 'Y', 'N'))
+            periods.tmp <- rbind(periods.tmp, b)
+        }
+    }
+    periods.tmp$period <- factor(periods.tmp$period, levels = c('Thursday afternoon','Thursday evening','Saturday evening','Sunday morning','Sunday afternoon','Sunday evening','Monday evening'))
+    periods.graph <- filter(periods.tmp, week == nfl.week-1)
+    wkly.cumu.pts <- ggplot(data = periods.graph, aes(x = period, y = cum.score, group = manager, color = manager)) +
+        geom_line(size = 1) +
+        geom_text(data = filter(periods.graph, is.min == 'Y'), aes(label = gsub('^J$', 'John', gsub('([A-z]+).*','\\1',manager)), y = cum.score+8), hjust = 1, vjust = 0.5, size = 4) +
+        scale_color_discrete(guide = F) +
+        facet_wrap(~ id, ncol = 1, scales = 'fixed') +
+        theme(axis.text.x = element_text(angle = 45, hjust = 1), plot.title = element_text(size = 18, face = 'bold', vjust = 2, hjust = 0)) +
+        labs(x = 'Scoring period', y = 'Cumulative score', title = paste(league.name, ': \nWeek ', nfl.week-1, ' cumulative scoring', sep = ''))
+    
+    
+    
+    
+    
+    
+    
     base.dir   <- file.path('/Users/pgowey/Github/Resources/Fantasy football 2015', league.name)
     dir.create(base.dir, showWarnings = F)
     
@@ -192,7 +265,9 @@ for (league.id in league.list) {
     graph.dir  <- file.path(base.dir, 'Graphs')
     graph.file1 <- paste(graph.dir, '/', league.name, ' week ', nfl.week, ' mgr luckiness.jpg', sep = '')
     graph.file2 <- paste(graph.dir, '/', league.name, ' week ', nfl.week, ' mgr intuition.jpg', sep = '')
+    graph.file3 <- paste(graph.dir, '/', league.name, ' week ', nfl.week, ' wkly cumulative scoring.jpg', sep = '')
     dir.create(graph.dir, showWarnings = F)  # don't show the warning if dir already exists
     ggsave(filename = graph.file1, plot = mgr.luckiness, height = 10, width = 8)
     ggsave(filename = graph.file2, plot = mgr.intuition, height = 10, width = 8)
+    ggsave(filename = graph.file3, plot = wkly.cumu.pts, height = 10, width = 5.5)
 }

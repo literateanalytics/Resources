@@ -1,0 +1,289 @@
+manager	week	team	player.info	link_num	opponent	player	position	score	proj.pts	period	id
+Patrick Gowey	1	GB	Aaron Rodgers, GB QB	1	Lainey Guddat	Aaron Rodgers	QB	23.1	17.9	Sunday morning	1
+Patrick Gowey	1	Phi	DeMarco Murray, Phi RB	1	Lainey Guddat	DeMarco Murray	RB	14	14.3	Monday evening	1
+Patrick Gowey	1	Dal	Joseph Randle, Dal RB	1	Lainey Guddat	Joseph Randle	RB	10.7	10.1	Sunday evening	1
+Patrick Gowey	1	Den	Demaryius Thomas, Den WR	1	Lainey Guddat	Demaryius Thomas	WR	6	14.3	Sunday afternoon	1
+Patrick Gowey	1	NE	Julian Edelman, NE WR	1	Lainey Guddat	Julian Edelman	WR	10.6	10.1	Thursday evening	1
+Patrick Gowey	1	Car	Greg Olsen, Car TE	1	Lainey Guddat	Greg Olsen	TE	1.1	7	Sunday morning	1
+Patrick Gowey	1	Ind	T.Y. Hilton, Ind WR	1	Lainey Guddat	T.Y. Hilton	WR	8.8	9.1	Sunday morning	1
+Patrick Gowey	1	Hou	Texans D/ST D/ST	1	Lainey Guddat	Texans D/ST	D/ST	2	7.1	Sunday morning	1
+Patrick Gowey	1	NE	Stephen Gostkowski, NE K	1	Lainey Guddat	Stephen Gostkowski	K	4	8.5	Thursday evening	1
+Lainey Guddat	1	Den	Peyton Manning, Den QB	1	Patrick Gowey	Peyton Manning	QB	4.9	17.7	Sunday afternoon	1
+Lainey Guddat	1	Den	C.J. Anderson, Den RB	1	Patrick Gowey	C.J. Anderson	RB	4.8	15.1	Sunday afternoon	1
+Lainey Guddat	1	Wsh	Alfred Morris, Wsh RB	1	Patrick Gowey	Alfred Morris	RB	12.1	8.6	Sunday morning	1
+Lainey Guddat	1	Cin	A.J. Green, Cin WR	1	Patrick Gowey	A.J. Green	WR	6.3	13.7	Sunday afternoon	1
+Lainey Guddat	1	GB	Davante Adams*, GB WR  O	1	Patrick Gowey	Davante Adams	WR	5.9	8.2	Sunday morning	1
+Lainey Guddat	1	NE	Rob Gronkowski, NE TE	1	Patrick Gowey	Rob Gronkowski	TE	27.4	13.1	Thursday evening	1
+Lainey Guddat	1	Ind	Andre Johnson, Ind WR	1	Patrick Gowey	Andre Johnson	WR	2.4	7.9	Sunday morning	1
+Lainey Guddat	1	Sea	Seahawks D/ST D/ST	1	Patrick Gowey	Seahawks D/ST	D/ST	18	12.4	Sunday morning	1
+Lainey Guddat	1	Atl	Matt Bryant, Atl K	1	Patrick Gowey	Matt Bryant	K	17	8.8	Monday evening	1
+Rachel Newell	1	Sea	Russell Wilson, Sea QB	2	J Carbonetti	Russell Wilson	QB	15.1	18.2	Sunday morning	2
+Rachel Newell	1	Min	Adrian Peterson, Min RB	2	J Carbonetti	Adrian Peterson	RB	5.2	16.5	Monday evening	2
+Rachel Newell	1	Car	Jonathan Stewart, Car RB	2	J Carbonetti	Jonathan Stewart	RB	8.1	10.5	Sunday morning	2
+Rachel Newell	1	Dal	Dez Bryant*, Dal WR  O	2	J Carbonetti	Dez Bryant	WR	4.8	14.2	Sunday evening	2
+Rachel Newell	1	GB	Randall Cobb, GB WR  P	2	J Carbonetti	Randall Cobb	WR	9.8	14.6	Sunday morning	2
+Rachel Newell	1	Cin	Tyler Eifert, Cin TE	2	J Carbonetti	Tyler Eifert	TE	22.4	5.4	Sunday afternoon	2
+Rachel Newell	1	NYJ	Chris Ivory, NYJ RB	2	J Carbonetti	Chris Ivory	RB	22	11	Sunday morning	2
+Rachel Newell	1	Car	Panthers D/ST D/ST	2	J Carbonetti	Panthers D/ST	D/ST	22	12.4	Sunday morning	2
+Rachel Newell	1	Phi	Cody Parkey*, Phi K  IR	2	J Carbonetti	Cody Parkey	K	5	7.7	Monday evening	2
+J Carbonetti	1	Ind	Andrew Luck*, Ind QB  O	2	Rachel Newell	Andrew Luck	QB	17.7	17.7	Sunday morning	2
+J Carbonetti	1	Sea	Marshawn Lynch*, Sea RB  O	2	Rachel Newell	Marshawn Lynch	RB	12.4	15.4	Sunday morning	2
+J Carbonetti	1	NO	Mark Ingram, NO RB	2	Rachel Newell	Mark Ingram	RB	12.2	11.6	Sunday afternoon	2
+J Carbonetti	1	Den	Emmanuel Sanders, Den WR	2	Rachel Newell	Emmanuel Sanders	WR	6.5	10.2	Sunday afternoon	2
+J Carbonetti	1	Det	Golden Tate, Det WR	2	Rachel Newell	Golden Tate	WR	2.4	8	Sunday afternoon	2
+J Carbonetti	1	Ten	Delanie Walker, Ten TE	2	Rachel Newell	Delanie Walker	TE	10.3	6.2	Sunday afternoon	2
+J Carbonetti	1	Bal	Justin Forsett, Bal RB	2	Rachel Newell	Justin Forsett	RB	5.6	11.2	Sunday afternoon	2
+J Carbonetti	1	Buf	Bills D/ST D/ST	2	Rachel Newell	Bills D/ST	D/ST	9	7.4	Sunday morning	2
+J Carbonetti	1	Bal	Justin Tucker, Bal K	2	Rachel Newell	Justin Tucker	K	10	8.3	Sunday afternoon	2
+Sarina Sheth	1	NO	Drew Brees, NO QB	3	Sam Newell	Drew Brees	QB	16.5	18.8	Sunday afternoon	3
+Sarina Sheth	1	Cin	Jeremy Hill, Cin RB	3	Sam Newell	Jeremy Hill	RB	18.3	15.2	Sunday afternoon	3
+Sarina Sheth	1	SF	Carlos Hyde, SF RB	3	Sam Newell	Carlos Hyde	RB	30.2	11.5	Monday evening	3
+Sarina Sheth	1	Pit	Antonio Brown, Pit WR	3	Sam Newell	Antonio Brown	WR	19.3	17	Thursday evening	3
+Sarina Sheth	1	NO	Brandin Cooks, NO WR	3	Sam Newell	Brandin Cooks	WR	5.3	10.7	Sunday afternoon	3
+Sarina Sheth	1	Sea	Jimmy Graham, Sea TE	3	Sam Newell	Jimmy Graham	TE	11.1	10.7	Sunday morning	3
+Sarina Sheth	1	Ari	Andre Ellington*, Ari RB  O	3	Sam Newell	Andre Ellington	RB	11.6	10.8	Sunday afternoon	3
+Sarina Sheth	1	Cle	Broncos D/ST D/ST	3	Sam Newell	Broncos D/ST	D/ST	18	6.2	Sunday morning	3
+Sarina Sheth	1	Det	Matt Prater, Det K	3	Sam Newell	Matt Prater	K	4	8.3	Sunday afternoon	3
+Sam Newell	1	Dal	Tony Romo*, Dal QB  IR	3	Sarina Sheth	Tony Romo	QB	22.1	18.6	Sunday evening	3
+Sam Newell	1	GB	Eddie Lacy, GB RB	3	Sarina Sheth	Eddie Lacy	RB	15.9	15.9	Sunday morning	3
+Sam Newell	1	Oak	Latavius Murray, Oak RB	3	Sarina Sheth	Latavius Murray	RB	8	10	Sunday afternoon	3
+Sam Newell	1	NYG	Odell Beckham Jr., NYG WR	3	Sarina Sheth	Odell Beckham Jr.	WR	4.4	15.4	Sunday evening	3
+Sam Newell	1	Det	Calvin Johnson, Det WR	3	Sarina Sheth	Calvin Johnson	WR	3.9	14.2	Sunday afternoon	3
+Sam Newell	1	Chi	Martellus Bennett, Chi TE	3	Sarina Sheth	Martellus Bennett	TE	11.5	7.4	Sunday morning	3
+Sam Newell	1	SD	Melvin Gordon, SD RB	3	Sarina Sheth	Melvin Gordon	RB	4.7	9.6	Sunday afternoon	3
+Sam Newell	1	NYJ	Jets D/ST D/ST	3	Sarina Sheth	Jets D/ST	D/ST	16	7.6	Sunday morning	3
+Sam Newell	1	Ind	Adam Vinatieri, Ind K	3	Sarina Sheth	Adam Vinatieri	K	-1	8	Sunday morning	3
+Stephanie Leeper	1	Pit	Ben Roethlisberger*, Pit QB  O	4	Andy Noone	Ben Roethlisberger	QB	18	17.8	Thursday evening	4
+Stephanie Leeper	1	KC	Jamaal Charles, KC RB	4	Andy Noone	Jamaal Charles	RB	16.3	15.5	Sunday morning	4
+Stephanie Leeper	1	Mia	Lamar Miller, Mia RB	4	Andy Noone	Lamar Miller	RB	7.5	12.4	Sunday morning	4
+Stephanie Leeper	1	Atl	Julio Jones, Atl WR	4	Andy Noone	Julio Jones	WR	26.1	15.9	Monday evening	4
+Stephanie Leeper	1	Phi	Jordan Matthews, Phi WR	4	Andy Noone	Jordan Matthews	WR	10.2	8.9	Monday evening	4
+Stephanie Leeper	1	Mia	Jordan Cameron, Mia TE	4	Andy Noone	Jordan Cameron	TE	7.3	6.1	Sunday morning	4
+Stephanie Leeper	1	Ind	Frank Gore, Ind RB  Q	4	Andy Noone	Frank Gore	RB	3.1	10.4	Sunday morning	4
+Stephanie Leeper	1	GB	Packers D/ST D/ST	4	Andy Noone	Packers D/ST	D/ST	1	8	Sunday morning	4
+Stephanie Leeper	1	Den	Brandon McManus, Den K	4	Andy Noone	Brandon McManus	K	18	7.6	Sunday afternoon	4
+Andy Noone	1	Atl	Matt Ryan, Atl QB	4	Stephanie Leeper	Matt Ryan	QB	16.6	19.2	Monday evening	4
+Andy Noone	1	Chi	Matt Forte, Chi RB	4	Stephanie Leeper	Matt Forte	RB	22.6	10.7	Sunday morning	4
+Andy Noone	1	Buf	LeSean McCoy*, Buf RB  O	4	Stephanie Leeper	LeSean McCoy	RB	8.7	15.7	Sunday morning	4
+Andy Noone	1	Chi	Alshon Jeffery*, Chi WR  O	4	Stephanie Leeper	Alshon Jeffery	WR	7.8	11.5	Sunday morning	4
+Andy Noone	1	Hou	DeAndre Hopkins, Hou WR	4	Stephanie Leeper	DeAndre Hopkins	WR	23.8	8.8	Sunday morning	4
+Andy Noone	1	KC	Travis Kelce, KC TE	4	Stephanie Leeper	Travis Kelce	TE	22.6	7.2	Sunday morning	4
+Andy Noone	1	SD	Keenan Allen, SD WR	4	Stephanie Leeper	Keenan Allen	WR	16.6	9.6	Sunday afternoon	4
+Andy Noone	1	Mia	Dolphins D/ST D/ST	4	Stephanie Leeper	Dolphins D/ST	D/ST	14	9.1	Sunday morning	4
+Andy Noone	1	Sea	Steven Hauschka, Sea K	4	Stephanie Leeper	Steven Hauschka	K	11	8.2	Sunday morning	4
+Rachel Newell	2	Sea	Russell Wilson, Sea QB	5	Patrick Gowey	Russell Wilson	QB	22	18.6	Sunday evening	1
+Rachel Newell	2	Min	Adrian Peterson, Min RB	5	Patrick Gowey	Adrian Peterson	RB	17.2	13.6	Sunday morning	1
+Rachel Newell	2	Car	Jonathan Stewart, Car RB	5	Patrick Gowey	Jonathan Stewart	RB	5.9	11.5	Sunday morning	1
+Rachel Newell	2	GB	Randall Cobb, GB WR  P	5	Patrick Gowey	Randall Cobb	WR	11.6	9.3	Sunday evening	1
+Rachel Newell	2	NYJ	Brandon Marshall, NYJ WR	5	Patrick Gowey	Brandon Marshall	WR	16.1	7.8	Monday evening	1
+Rachel Newell	2	Cin	Tyler Eifert, Cin TE	5	Patrick Gowey	Tyler Eifert	TE	10.9	6.9	Sunday morning	1
+Rachel Newell	2	NYJ	Chris Ivory, NYJ RB	5	Patrick Gowey	Chris Ivory	RB	6	10.6	Monday evening	1
+Rachel Newell	2	Car	Panthers D/ST D/ST	5	Patrick Gowey	Panthers D/ST	D/ST	4	6.2	Sunday morning	1
+Rachel Newell	2	Phi	Cody Parkey*, Phi K  IR	5	Patrick Gowey	Cody Parkey	K	5	7.9	Sunday afternoon	1
+Patrick Gowey	2	GB	Aaron Rodgers, GB QB	5	Rachel Newell	Aaron Rodgers	QB	22.3	18.1	Sunday evening	1
+Patrick Gowey	2	Phi	DeMarco Murray, Phi RB	5	Rachel Newell	DeMarco Murray	RB	5.5	12.6	Sunday afternoon	1
+Patrick Gowey	2	Dal	Joseph Randle, Dal RB	5	Rachel Newell	Joseph Randle	RB	6.5	10.6	Sunday afternoon	1
+Patrick Gowey	2	Den	Demaryius Thomas, Den WR	5	Rachel Newell	Demaryius Thomas	WR	11.6	11.2	Thursday evening	1
+Patrick Gowey	2	Mia	Jarvis Landry, Mia WR	5	Rachel Newell	Jarvis Landry	WR	11.6	8.8	Sunday afternoon	1
+Patrick Gowey	2	Car	Greg Olsen, Car TE	5	Rachel Newell	Greg Olsen	TE	7	6.7	Sunday morning	1
+Patrick Gowey	2	NE	Julian Edelman, NE WR	5	Rachel Newell	Julian Edelman	WR	22.9	9.7	Sunday morning	1
+Patrick Gowey	2	Hou	Texans D/ST D/ST	5	Rachel Newell	Texans D/ST	D/ST	5	8.4	Sunday morning	1
+Patrick Gowey	2	NE	Stephen Gostkowski, NE K	5	Rachel Newell	Stephen Gostkowski	K	19	8	Sunday morning	1
+Lainey Guddat	2	Den	Peyton Manning, Den QB	6	J Carbonetti	Peyton Manning	QB	20.2	16.2	Thursday evening	2
+Lainey Guddat	2	Den	C.J. Anderson, Den RB	6	J Carbonetti	C.J. Anderson	RB	2.9	10.3	Thursday evening	2
+Lainey Guddat	2	Wsh	Alfred Morris, Wsh RB	6	J Carbonetti	Alfred Morris	RB	7.2	10.1	Sunday morning	2
+Lainey Guddat	2	Cin	A.J. Green, Cin WR	6	J Carbonetti	A.J. Green	WR	10.5	11	Sunday morning	2
+Lainey Guddat	2	Ind	Andre Johnson, Ind WR	6	J Carbonetti	Andre Johnson	WR	2.7	7.9	Monday evening	2
+Lainey Guddat	2	NE	Rob Gronkowski, NE TE	6	J Carbonetti	Rob Gronkowski	TE	17.3	10.2	Sunday morning	2
+Lainey Guddat	2	Det	Ameer Abdullah, Det RB	6	J Carbonetti	Ameer Abdullah	RB	1.8	10.7	Sunday morning	2
+Lainey Guddat	2	Sea	Seahawks D/ST D/ST	6	J Carbonetti	Seahawks D/ST	D/ST	3	8.5	Sunday evening	2
+Lainey Guddat	2	Atl	Matt Bryant, Atl K	6	J Carbonetti	Matt Bryant	K	7	8.4	Sunday morning	2
+J Carbonetti	2	Ind	Andrew Luck*, Ind QB  O	6	Lainey Guddat	Andrew Luck	QB	8.4	19.1	Monday evening	2
+J Carbonetti	2	Sea	Marshawn Lynch*, Sea RB  O	6	Lainey Guddat	Marshawn Lynch	RB	6.2	13	Sunday evening	2
+J Carbonetti	2	NO	Mark Ingram, NO RB	6	Lainey Guddat	Mark Ingram	RB	9.8	13.2	Sunday morning	2
+J Carbonetti	2	Den	Emmanuel Sanders, Den WR	6	Lainey Guddat	Emmanuel Sanders	WR	20.7	9.9	Thursday evening	2
+J Carbonetti	2	Det	Golden Tate, Det WR	6	Lainey Guddat	Golden Tate	WR	8	8.5	Sunday morning	2
+J Carbonetti	2	Dal	Jason Witten, Dal TE	6	Lainey Guddat	Jason Witten	TE	5.6	8.3	Sunday afternoon	2
+J Carbonetti	2	Bal	Justin Forsett, Bal RB	6	Lainey Guddat	Justin Forsett	RB	8	13.2	Sunday afternoon	2
+J Carbonetti	2	Car	Cardinals D/ST D/ST	6	Lainey Guddat	Cardinals D/ST	D/ST	18	9.6	Sunday morning	2
+J Carbonetti	2	Bal	Justin Tucker, Bal K	6	Lainey Guddat	Justin Tucker	K	15	8.4	Sunday afternoon	2
+Stephanie Leeper	2	Pit	Ben Roethlisberger*, Pit QB  O	7	Sarina Sheth	Ben Roethlisberger	QB	30.7	18	Sunday morning	3
+Stephanie Leeper	2	KC	Jamaal Charles, KC RB	7	Sarina Sheth	Jamaal Charles	RB	14.7	12.9	Thursday evening	3
+Stephanie Leeper	2	Mia	Lamar Miller, Mia RB	7	Sarina Sheth	Lamar Miller	RB	4.2	13	Sunday afternoon	3
+Stephanie Leeper	2	Atl	Julio Jones, Atl WR	7	Sarina Sheth	Julio Jones	WR	13.5	12.3	Sunday morning	3
+Stephanie Leeper	2	Phi	Jordan Matthews, Phi WR	7	Sarina Sheth	Jordan Matthews	WR	14	8.7	Sunday afternoon	3
+Stephanie Leeper	2	Mia	Jordan Cameron, Mia TE	7	Sarina Sheth	Jordan Cameron	TE	6.2	5.9	Sunday afternoon	3
+Stephanie Leeper	2	Ind	Frank Gore, Ind RB  Q	7	Sarina Sheth	Frank Gore	RB	4.1	10.7	Monday evening	3
+Stephanie Leeper	2	GB	Packers D/ST D/ST	7	Sarina Sheth	Packers D/ST	D/ST	7	4.7	Sunday evening	3
+Stephanie Leeper	2	Den	Brandon McManus, Den K	7	Sarina Sheth	Brandon McManus	K	9	7.4	Thursday evening	3
+Sarina Sheth	2	NO	Drew Brees, NO QB	7	Stephanie Leeper	Drew Brees	QB	12.1	19.6	Sunday morning	3
+Sarina Sheth	2	Cin	Jeremy Hill, Cin RB	7	Stephanie Leeper	Jeremy Hill	RB	0.1	13.4	Sunday morning	3
+Sarina Sheth	2	SF	Carlos Hyde, SF RB	7	Stephanie Leeper	Carlos Hyde	RB	6.1	11.9	Sunday morning	3
+Sarina Sheth	2	Pit	Antonio Brown, Pit WR	7	Stephanie Leeper	Antonio Brown	WR	27.5	14.5	Sunday morning	3
+Sarina Sheth	2	NO	Brandin Cooks, NO WR	7	Stephanie Leeper	Brandin Cooks	WR	5.8	10	Sunday morning	3
+Sarina Sheth	2	Sea	Jimmy Graham, Sea TE	7	Stephanie Leeper	Jimmy Graham	TE	1.1	8	Sunday evening	3
+Sarina Sheth	2	Cle	Isaiah Crowell, Cle RB	7	Stephanie Leeper	Isaiah Crowell	RB	13.2	10.3	Sunday morning	3
+Sarina Sheth	2	Cle	Broncos D/ST D/ST	7	Stephanie Leeper	Broncos D/ST	D/ST	21	9.7	Sunday morning	3
+Sarina Sheth	2	Det	Matt Prater, Det K	7	Stephanie Leeper	Matt Prater	K	4	8.3	Sunday morning	3
+Sam Newell	2	Dal	Tony Romo*, Dal QB  IR	8	Andy Noone	Tony Romo	QB	7	18	Sunday afternoon	4
+Sam Newell	2	GB	Eddie Lacy, GB RB	8	Andy Noone	Eddie Lacy	RB	0.9	13.2	Sunday evening	4
+Sam Newell	2	Oak	Latavius Murray, Oak RB	8	Andy Noone	Latavius Murray	RB	14.7	10.4	Sunday afternoon	4
+Sam Newell	2	NYG	Odell Beckham Jr., NYG WR	8	Andy Noone	Odell Beckham Jr.	WR	20.6	12.3	Sunday morning	4
+Sam Newell	2	Det	Calvin Johnson, Det WR	8	Andy Noone	Calvin Johnson	WR	14.3	10.5	Sunday morning	4
+Sam Newell	2	Chi	Martellus Bennett, Chi TE	8	Andy Noone	Martellus Bennett	TE	4.8	7.1	Sunday morning	4
+Sam Newell	2	TB	Mike Evans, TB WR	8	Andy Noone	Mike Evans	WR	0	9.6	Sunday morning	4
+Sam Newell	2	StL	Rams D/ST D/ST	8	Andy Noone	Rams D/ST	D/ST	3	11.2	Sunday morning	4
+Sam Newell	2	Ind	Adam Vinatieri, Ind K	8	Andy Noone	Adam Vinatieri	K	0	8.3	Monday evening	4
+Andy Noone	2	Atl	Matt Ryan, Atl QB	8	Sam Newell	Matt Ryan	QB	18.4	16.6	Sunday morning	4
+Andy Noone	2	Chi	Matt Forte, Chi RB	8	Sam Newell	Matt Forte	RB	10.5	15.7	Sunday morning	4
+Andy Noone	2	Buf	LeSean McCoy*, Buf RB  O	8	Sam Newell	LeSean McCoy	RB	11.6	10.7	Sunday morning	4
+Andy Noone	2	Hou	DeAndre Hopkins, Hou WR	8	Sam Newell	DeAndre Hopkins	WR	5.3	10.2	Sunday morning	4
+Andy Noone	2	SD	Keenan Allen, SD WR	8	Sam Newell	Keenan Allen	WR	-0.4	10	Sunday morning	4
+Andy Noone	2	KC	Travis Kelce, KC TE	8	Sam Newell	Travis Kelce	TE	5.8	7.8	Thursday evening	4
+Andy Noone	2	NE	LeGarrette Blount, NE RB	8	Sam Newell	LeGarrette Blount	RB	0.4	8.8	Sunday morning	4
+Andy Noone	2	Mia	Dolphins D/ST D/ST	8	Sam Newell	Dolphins D/ST	D/ST	-1	12.5	Sunday afternoon	4
+Andy Noone	2	Sea	Steven Hauschka, Sea K	8	Sam Newell	Steven Hauschka	K	7	7.4	Sunday evening	4
+Patrick Gowey	3	GB	Aaron Rodgers, GB QB	9	J Carbonetti	Aaron Rodgers	QB	34.9	20.2	Monday evening	1
+Patrick Gowey	3	Dal	Joseph Randle, Dal RB	9	J Carbonetti	Joseph Randle	RB	28.5	11.3	Sunday morning	1
+Patrick Gowey	3	NE	Dion Lewis, NE RB	9	J Carbonetti	Dion Lewis	RB	12.7	10	Sunday morning	1
+Patrick Gowey	3	Den	Demaryius Thomas, Den WR	9	J Carbonetti	Demaryius Thomas	WR	13.2	12.8	Sunday evening	1
+Patrick Gowey	3	NE	Julian Edelman, NE WR	9	J Carbonetti	Julian Edelman	WR	8.5	10.5	Sunday morning	1
+Patrick Gowey	3	Car	Greg Olsen, Car TE	9	J Carbonetti	Greg Olsen	TE	25.4	7.2	Sunday morning	1
+Patrick Gowey	3	Ind	Donte Moncrief, Ind WR	9	J Carbonetti	Donte Moncrief	WR	9.2	8.3	Sunday morning	1
+Patrick Gowey	3	Hou	Texans D/ST D/ST	9	J Carbonetti	Texans D/ST	D/ST	5	11	Sunday morning	1
+Patrick Gowey	3	NE	Stephen Gostkowski, NE K	9	J Carbonetti	Stephen Gostkowski	K	17	9.2	Sunday morning	1
+J Carbonetti	3	NE	Tom Brady, NE QB	9	Patrick Gowey	Tom Brady	QB	22.7	18.9	Sunday morning	1
+J Carbonetti	3	Sea	Marshawn Lynch*, Sea RB  O	9	Patrick Gowey	Marshawn Lynch	RB	2.3	16.4	Sunday afternoon	1
+J Carbonetti	3	NO	Mark Ingram, NO RB	9	Patrick Gowey	Mark Ingram	RB	15.9	8.2	Sunday morning	1
+J Carbonetti	3	Den	Emmanuel Sanders, Den WR	9	Patrick Gowey	Emmanuel Sanders	WR	8.7	12	Sunday evening	1
+J Carbonetti	3	Bal	Steve Smith Sr.*, Bal WR  O	9	Patrick Gowey	Steve Smith Sr.	WR	30.6	8.6	Sunday morning	1
+J Carbonetti	3	Wsh	Jordan Reed, Wsh TE  Q	9	Patrick Gowey	Jordan Reed	TE	9.6	6.3	Thursday evening	1
+J Carbonetti	3	Bal	Justin Forsett, Bal RB	9	Patrick Gowey	Justin Forsett	RB	2.9	12.3	Sunday morning	1
+J Carbonetti	3	Buf	Bills D/ST D/ST	9	Patrick Gowey	Bills D/ST	D/ST	14	11.1	Sunday afternoon	1
+J Carbonetti	3	Bal	Justin Tucker, Bal K	9	Patrick Gowey	Justin Tucker	K	5	8.2	Sunday morning	1
+Lainey Guddat	3	Den	Peyton Manning, Den QB	10	Rachel Newell	Peyton Manning	QB	18.9	17.9	Sunday evening	2
+Lainey Guddat	3	Den	C.J. Anderson, Den RB	10	Rachel Newell	C.J. Anderson	RB	2.7	11.7	Sunday evening	2
+Lainey Guddat	3	Wsh	Alfred Morris, Wsh RB	10	Rachel Newell	Alfred Morris	RB	1.9	7.4	Thursday evening	2
+Lainey Guddat	3	Cin	A.J. Green, Cin WR	10	Rachel Newell	A.J. Green	WR	34.7	10.6	Sunday morning	2
+Lainey Guddat	3	Cle	Travis Benjamin, Cle WR	10	Rachel Newell	Travis Benjamin	WR	8.5	6.1	Sunday morning	2
+Lainey Guddat	3	NE	Rob Gronkowski, NE TE	10	Rachel Newell	Rob Gronkowski	TE	10.1	10.5	Sunday morning	2
+Lainey Guddat	3	SD	Stevie Johnson, SD WR  Q	10	Rachel Newell	Stevie Johnson	WR	4.6	7.6	Sunday morning	2
+Lainey Guddat	3	Sea	Seahawks D/ST D/ST	10	Rachel Newell	Seahawks D/ST	D/ST	16	12.8	Sunday afternoon	2
+Lainey Guddat	3	Atl	Matt Bryant, Atl K	10	Rachel Newell	Matt Bryant	K	7	8.4	Sunday morning	2
+Rachel Newell	3	Sea	Russell Wilson, Sea QB	10	Lainey Guddat	Russell Wilson	QB	16.2	19.6	Sunday afternoon	2
+Rachel Newell	3	Min	Adrian Peterson, Min RB	10	Lainey Guddat	Adrian Peterson	RB	24.6	15.7	Sunday morning	2
+Rachel Newell	3	Car	Jonathan Stewart, Car RB	10	Lainey Guddat	Jonathan Stewart	RB	5.2	12.9	Sunday morning	2
+Rachel Newell	3	GB	Randall Cobb, GB WR  P	10	Lainey Guddat	Randall Cobb	WR	28.3	12.2	Monday evening	2
+Rachel Newell	3	NYJ	Brandon Marshall, NYJ WR	10	Lainey Guddat	Brandon Marshall	WR	14.9	11.2	Sunday morning	2
+Rachel Newell	3	Cin	Tyler Eifert, Cin TE	10	Lainey Guddat	Tyler Eifert	TE	0	7.4	Sunday morning	2
+Rachel Newell	3	Jax	Allen Robinson, Jax WR	10	Lainey Guddat	Allen Robinson	WR	6.8	8.8	Sunday morning	2
+Rachel Newell	3	Car	Panthers D/ST D/ST	10	Lainey Guddat	Panthers D/ST	D/ST	4	4.5	Sunday morning	2
+Rachel Newell	3	Phi	Cody Parkey*, Phi K  IR	10	Lainey Guddat	Cody Parkey	K	6	8	Sunday morning	2
+Sarina Sheth	3	Car	Cam Newton, Car QB	11	Andy Noone	Cam Newton	QB	29.9	18.8	Sunday morning	3
+Sarina Sheth	3	Cin	Jeremy Hill, Cin RB	11	Andy Noone	Jeremy Hill	RB	2.1	10.8	Sunday morning	3
+Sarina Sheth	3	Cle	Isaiah Crowell, Cle RB	11	Andy Noone	Isaiah Crowell	RB	3.6	11.1	Sunday morning	3
+Sarina Sheth	3	Pit	Antonio Brown, Pit WR	11	Andy Noone	Antonio Brown	WR	10.8	14.6	Sunday morning	3
+Sarina Sheth	3	Ari	Larry Fitzgerald, Ari WR	11	Andy Noone	Larry Fitzgerald	WR	25.4	9.9	Sunday afternoon	3
+Sarina Sheth	3	Sea	Jimmy Graham, Sea TE	11	Andy Noone	Jimmy Graham	TE	14.3	7.4	Sunday afternoon	3
+Sarina Sheth	3	Atl	Devonta Freeman, Atl RB	11	Andy Noone	Devonta Freeman	RB	37.3	11.6	Sunday morning	3
+Sarina Sheth	3	Cle	Broncos D/ST D/ST	11	Andy Noone	Broncos D/ST	D/ST	17	8.4	Sunday morning	3
+Sarina Sheth	3	Dal	Dan Bailey, Dal K	11	Andy Noone	Dan Bailey	K	4	8	Sunday morning	3
+Andy Noone	3	Atl	Matt Ryan, Atl QB	11	Sarina Sheth	Matt Ryan	QB	23.1	16.8	Sunday morning	3
+Andy Noone	3	Pit	Le'Veon Bell, Pit RB	11	Sarina Sheth	Le'Veon Bell	RB	19.2	14.9	Sunday morning	3
+Andy Noone	3	Chi	Matt Forte, Chi RB	11	Sarina Sheth	Matt Forte	RB	7.4	12.5	Sunday afternoon	3
+Andy Noone	3	Hou	DeAndre Hopkins, Hou WR	11	Sarina Sheth	DeAndre Hopkins	WR	16.1	10.1	Sunday morning	3
+Andy Noone	3	SD	Keenan Allen, SD WR	11	Sarina Sheth	Keenan Allen	WR	25.3	8.4	Sunday morning	3
+Andy Noone	3	KC	Travis Kelce, KC TE	11	Sarina Sheth	Travis Kelce	TE	10	7.9	Monday evening	3
+Andy Noone	3	Buf	LeSean McCoy*, Buf RB  O	11	Sarina Sheth	LeSean McCoy	RB	8.6	11.4	Sunday afternoon	3
+Andy Noone	3	NE	Patriots D/ST D/ST	11	Sarina Sheth	Patriots D/ST	D/ST	7	14.8	Sunday morning	3
+Andy Noone	3	Sea	Steven Hauschka, Sea K	11	Sarina Sheth	Steven Hauschka	K	16	8	Sunday afternoon	3
+Sam Newell	3	Ari	Carson Palmer, Ari QB	12	Stephanie Leeper	Carson Palmer	QB	18.5	17.5	Sunday afternoon	4
+Sam Newell	3	GB	Eddie Lacy, GB RB	12	Stephanie Leeper	Eddie Lacy	RB	8.7	NA	Monday evening	4
+Sam Newell	3	Oak	Latavius Murray, Oak RB	12	Stephanie Leeper	Latavius Murray	RB	20.9	12.6	Sunday morning	4
+Sam Newell	3	NYG	Odell Beckham Jr., NYG WR	12	Stephanie Leeper	Odell Beckham Jr.	WR	13.9	11.9	Thursday evening	4
+Sam Newell	3	Det	Calvin Johnson, Det WR	12	Stephanie Leeper	Calvin Johnson	WR	7.7	12.1	Sunday evening	4
+Sam Newell	3	Dal	Jason Witten, Dal TE	12	Stephanie Leeper	Jason Witten	TE	6.5	7.1	Sunday morning	4
+Sam Newell	3	TB	Mike Evans, TB WR	12	Stephanie Leeper	Mike Evans	WR	10.1	9.4	Sunday morning	4
+Sam Newell	3	NYJ	Jets D/ST D/ST	12	Stephanie Leeper	Jets D/ST	D/ST	5	6.5	Sunday morning	4
+Sam Newell	3	GB	Mason Crosby, GB K	12	Stephanie Leeper	Mason Crosby	K	9	8.1	Monday evening	4
+Stephanie Leeper	3	Pit	Ben Roethlisberger*, Pit QB  O	12	Sam Newell	Ben Roethlisberger	QB	5.7	18	Sunday morning	4
+Stephanie Leeper	3	KC	Jamaal Charles, KC RB	12	Sam Newell	Jamaal Charles	RB	26.2	13.9	Monday evening	4
+Stephanie Leeper	3	Mia	Lamar Miller, Mia RB	12	Sam Newell	Lamar Miller	RB	6.5	10.5	Sunday afternoon	4
+Stephanie Leeper	3	Atl	Julio Jones, Atl WR	12	Sam Newell	Julio Jones	WR	28.4	12.9	Sunday morning	4
+Stephanie Leeper	3	Phi	Jordan Matthews, Phi WR	12	Sam Newell	Jordan Matthews	WR	4.9	8	Sunday morning	4
+Stephanie Leeper	3	Pit	Heath Miller, Pit TE	12	Sam Newell	Heath Miller	TE	1.7	6.6	Sunday morning	4
+Stephanie Leeper	3	Oak	Amari Cooper, Oak WR	12	Sam Newell	Amari Cooper	WR	11.4	7.9	Sunday morning	4
+Stephanie Leeper	3	Ind	Colts D/ST D/ST	12	Sam Newell	Colts D/ST	D/ST	9	8.5	Sunday morning	4
+Stephanie Leeper	3	Den	Brandon McManus, Den K	12	Sam Newell	Brandon McManus	K	7	7.4	Sunday evening	4
+Sarina Sheth	4	Car	Cam Newton, Car QB	13	Patrick Gowey	Cam Newton	QB	16.1	18.1	Sunday morning	1
+Sarina Sheth	4	Cin	Jeremy Hill, Cin RB	13	Patrick Gowey	Jeremy Hill	RB	24	11.1	Sunday morning	1
+Sarina Sheth	4	Cle	Isaiah Crowell, Cle RB	13	Patrick Gowey	Isaiah Crowell	RB	12.5	9.5	Sunday afternoon	1
+Sarina Sheth	4	Pit	Antonio Brown, Pit WR	13	Patrick Gowey	Antonio Brown	WR	4.2	11.6	Thursday evening	1
+Sarina Sheth	4	Ari	Larry Fitzgerald, Ari WR	13	Patrick Gowey	Larry Fitzgerald	WR	7.9	9.7	Sunday afternoon	1
+Sarina Sheth	4	Sea	Jimmy Graham, Sea TE	13	Patrick Gowey	Jimmy Graham	TE	2.9	7.7	Monday evening	1
+Sarina Sheth	4	Atl	Devonta Freeman, Atl RB	13	Patrick Gowey	Devonta Freeman	RB	32.9	16.6	Sunday morning	1
+Sarina Sheth	4	Cle	Broncos D/ST D/ST	13	Patrick Gowey	Broncos D/ST	D/ST	9	12	Sunday afternoon	1
+Sarina Sheth	4	Dal	Dan Bailey, Dal K	13	Patrick Gowey	Dan Bailey	K	8	7.9	Sunday evening	1
+Patrick Gowey	4	GB	Aaron Rodgers, GB QB	13	Sarina Sheth	Aaron Rodgers	QB	16.3	21.1	Sunday afternoon	1
+Patrick Gowey	4	Dal	Joseph Randle, Dal RB	13	Sarina Sheth	Joseph Randle	RB	8.6	11.9	Sunday evening	1
+Patrick Gowey	4	SD	Danny Woodhead, SD RB	13	Sarina Sheth	Danny Woodhead	RB	13.8	9	Sunday afternoon	1
+Patrick Gowey	4	Den	Demaryius Thomas, Den WR	13	Sarina Sheth	Demaryius Thomas	WR	9.3	12.6	Sunday afternoon	1
+Patrick Gowey	4	Ind	T.Y. Hilton, Ind WR	13	Sarina Sheth	T.Y. Hilton	WR	6.7	8.4	Sunday morning	1
+Patrick Gowey	4	Car	Greg Olsen, Car TE	13	Sarina Sheth	Greg Olsen	TE	2.8	7.9	Sunday morning	1
+Patrick Gowey	4	GB	James Jones, GB WR	13	Sarina Sheth	James Jones	WR	9.8	8.9	Sunday afternoon	1
+Patrick Gowey	4	Phi	Eagles D/ST D/ST	13	Sarina Sheth	Eagles D/ST	D/ST	0	9.2	Sunday morning	1
+Patrick Gowey	4	Buf	Dan Carpenter, Buf K	13	Sarina Sheth	Dan Carpenter	K	5	6.9	Sunday morning	1
+Sam Newell	4	Ari	Carson Palmer, Ari QB	14	Lainey Guddat	Carson Palmer	QB	16	16.7	Sunday afternoon	2
+Sam Newell	4	GB	Eddie Lacy, GB RB	14	Lainey Guddat	Eddie Lacy	RB	9.3	14.4	Sunday afternoon	2
+Sam Newell	4	Oak	Latavius Murray, Oak RB	14	Lainey Guddat	Latavius Murray	RB	4.1	14.3	Sunday morning	2
+Sam Newell	4	NYG	Odell Beckham Jr., NYG WR	14	Lainey Guddat	Odell Beckham Jr.	WR	3.8	12.1	Sunday morning	2
+Sam Newell	4	TB	Mike Evans, TB WR	14	Lainey Guddat	Mike Evans	WR	3.2	9.3	Sunday morning	2
+Sam Newell	4	Chi	Martellus Bennett, Chi TE	14	Lainey Guddat	Martellus Bennett	TE	14.3	8	Sunday morning	2
+Sam Newell	4	Buf	Karlos Williams, Buf RB	14	Lainey Guddat	Karlos Williams	RB	13	14	Sunday morning	2
+Sam Newell	4	NYJ	Jets D/ST D/ST	14	Lainey Guddat	Jets D/ST	D/ST	10	10.2	Sunday morning	2
+Sam Newell	4	GB	Mason Crosby, GB K	14	Lainey Guddat	Mason Crosby	K	4	8	Sunday afternoon	2
+Lainey Guddat	4	Buf	Tyrod Taylor, Buf QB	14	Sam Newell	Tyrod Taylor	QB	14.5	15.8	Sunday morning	2
+Lainey Guddat	4	Den	C.J. Anderson, Den RB	14	Sam Newell	C.J. Anderson	RB	7	11	Sunday afternoon	2
+Lainey Guddat	4	Ari	Chris Johnson, Ari RB	14	Sam Newell	Chris Johnson	RB	9.4	10.2	Sunday afternoon	2
+Lainey Guddat	4	Cin	A.J. Green, Cin WR	14	Sam Newell	A.J. Green	WR	8.2	11.2	Sunday morning	2
+Lainey Guddat	4	Mia	Rishard Matthews, Mia WR	14	Sam Newell	Rishard Matthews	WR	1.6	6.1	NA	2
+Lainey Guddat	4	Buf	Charles Clay, Buf TE	14	Sam Newell	Charles Clay	TE	11.1	6.5	Sunday morning	2
+Lainey Guddat	4	Wsh	Alfred Morris, Wsh RB	14	Sam Newell	Alfred Morris	RB	6.5	6.7	Sunday morning	2
+Lainey Guddat	4	Sea	Seahawks D/ST D/ST	14	Sam Newell	Seahawks D/ST	D/ST	5	11	Monday evening	2
+Lainey Guddat	4	Atl	Matt Bryant, Atl K	14	Sam Newell	Matt Bryant	K	6	8.1	Sunday morning	2
+Stephanie Leeper	4	Mia	Ryan Tannehill, Mia QB	15	Rachel Newell	Ryan Tannehill	QB	12.3	15.3	NA	3
+Stephanie Leeper	4	KC	Jamaal Charles, KC RB	15	Rachel Newell	Jamaal Charles	RB	14.5	14.2	Sunday morning	3
+Stephanie Leeper	4	Ind	Frank Gore, Ind RB  Q	15	Rachel Newell	Frank Gore	RB	6.7	12.6	Sunday morning	3
+Stephanie Leeper	4	Atl	Julio Jones, Atl WR	15	Rachel Newell	Julio Jones	WR	3.8	13.7	Sunday morning	3
+Stephanie Leeper	4	Phi	Jordan Matthews, Phi WR	15	Rachel Newell	Jordan Matthews	WR	5	8.5	Sunday morning	3
+Stephanie Leeper	4	Det	Eric Ebron, Det TE  Q	15	Rachel Newell	Eric Ebron	TE	2.2	5.6	Monday evening	3
+Stephanie Leeper	4	Oak	Amari Cooper, Oak WR	15	Rachel Newell	Amari Cooper	WR	10.9	8.5	Sunday morning	3
+Stephanie Leeper	4	Ind	Colts D/ST D/ST	15	Rachel Newell	Colts D/ST	D/ST	1	11.9	Sunday morning	3
+Stephanie Leeper	4	Den	Brandon McManus, Den K	15	Rachel Newell	Brandon McManus	K	12	7.6	Sunday afternoon	3
+Rachel Newell	4	Sea	Russell Wilson, Sea QB	15	Stephanie Leeper	Russell Wilson	QB	15.5	19.3	Monday evening	3
+Rachel Newell	4	Min	Adrian Peterson, Min RB	15	Stephanie Leeper	Adrian Peterson	RB	15.4	12.2	Sunday afternoon	3
+Rachel Newell	4	Car	Jonathan Stewart, Car RB	15	Stephanie Leeper	Jonathan Stewart	RB	5	10.9	Sunday morning	3
+Rachel Newell	4	GB	Randall Cobb, GB WR  P	15	Stephanie Leeper	Randall Cobb	WR	4.4	13.6	Sunday afternoon	3
+Rachel Newell	4	NYJ	Brandon Marshall, NYJ WR	15	Stephanie Leeper	Brandon Marshall	WR	12.8	9.7	Sunday morning	3
+Rachel Newell	4	Cin	Tyler Eifert, Cin TE	15	Stephanie Leeper	Tyler Eifert	TE	6.9	7	Sunday morning	3
+Rachel Newell	4	Jax	Allen Robinson, Jax WR	15	Stephanie Leeper	Allen Robinson	WR	8	7.6	Sunday morning	3
+Rachel Newell	4	Car	Panthers D/ST D/ST	15	Stephanie Leeper	Panthers D/ST	D/ST	15	10.6	Sunday morning	3
+Rachel Newell	4	Ari	Chandler Catanzaro, Ari K	15	Stephanie Leeper	Chandler Catanzaro	K	17	8.3	Sunday afternoon	3
+Andy Noone	4	Atl	Matt Ryan, Atl QB	16	J Carbonetti	Matt Ryan	QB	14.1	17.7	Sunday morning	4
+Andy Noone	4	Pit	Le'Veon Bell, Pit RB	16	J Carbonetti	Le'Veon Bell	RB	21	14.3	Thursday evening	4
+Andy Noone	4	Chi	Matt Forte, Chi RB	16	J Carbonetti	Matt Forte	RB	13.5	16.8	Sunday morning	4
+Andy Noone	4	Hou	DeAndre Hopkins, Hou WR	16	J Carbonetti	DeAndre Hopkins	WR	15.7	9.6	Sunday morning	4
+Andy Noone	4	SD	Keenan Allen, SD WR	16	J Carbonetti	Keenan Allen	WR	13.2	10	Sunday afternoon	4
+Andy Noone	4	KC	Travis Kelce, KC TE	16	J Carbonetti	Travis Kelce	TE	2.9	7.5	Sunday morning	4
+Andy Noone	4	KC	Jeremy Maclin, KC WR	16	J Carbonetti	Jeremy Maclin	WR	14.8	9.2	Sunday morning	4
+Andy Noone	4	GB	Packers D/ST D/ST	16	J Carbonetti	Packers D/ST	D/ST	15	7.3	Sunday afternoon	4
+Andy Noone	4	Sea	Steven Hauschka, Sea K	16	J Carbonetti	Steven Hauschka	K	11	7.7	Monday evening	4
+J Carbonetti	4	SD	Philip Rivers, SD QB	16	Andy Noone	Philip Rivers	QB	26.2	16.6	Sunday afternoon	4
+J Carbonetti	4	NO	Mark Ingram, NO RB	16	Andy Noone	Mark Ingram	RB	12.8	11.5	Sunday evening	4
+J Carbonetti	4	Sea	Thomas Rawls, Sea RB	16	Andy Noone	Thomas Rawls	RB	4.7	8.4	Monday evening	4
+J Carbonetti	4	Den	Emmanuel Sanders, Den WR	16	Andy Noone	Emmanuel Sanders	WR	6.8	12.1	Sunday afternoon	4
+J Carbonetti	4	Bal	Steve Smith Sr.*, Bal WR  O	16	Andy Noone	Steve Smith Sr.	WR	2.4	8.7	Thursday evening	4
+J Carbonetti	4	Wsh	Jordan Reed, Wsh TE  Q	16	Andy Noone	Jordan Reed	TE	1.7	6.7	Sunday morning	4
+J Carbonetti	4	Wsh	Matt Jones, Wsh RB	16	Andy Noone	Matt Jones	RB	1.1	9.2	Sunday morning	4
+J Carbonetti	4	Car	Cardinals D/ST D/ST	16	Andy Noone	Cardinals D/ST	D/ST	1	8.4	Sunday morning	4
+J Carbonetti	4	Bal	Justin Tucker, Bal K	16	Andy Noone	Justin Tucker	K	15	8.3	Thursday evening	4
