@@ -2,16 +2,16 @@ manager	week	team	player.info	link_num	opponent	player	position	score	proj.pts	p
 Randy Bacon	1	Car	Cam Newton, Car QB	1	Patrick Gowey	Cam Newton	QB	16.5	20	Sunday morning	1
 Randy Bacon	1	NE	Tom Brady, NE QB	1	Patrick Gowey	Tom Brady	QB	30.2	23.2	Thursday evening	1
 Randy Bacon	1	GB	Eddie Lacy, GB RB	1	Patrick Gowey	Eddie Lacy	RB	21.3	21.6	Sunday morning	1
-Randy Bacon	1	NO	Brandin Cooks, NO WR	1	Patrick Gowey	Brandin Cooks	WR	7	14.3	Sunday afternoon	1
+Randy Bacon	1	NO	Brandin Cooks, NO WR  Q	1	Patrick Gowey	Brandin Cooks	WR	7	14.3	Sunday afternoon	1
 Randy Bacon	1	NE	Rob Gronkowski, NE TE	1	Patrick Gowey	Rob Gronkowski	TE	29	15.2	Thursday evening	1
 Randy Bacon	1	Den	C.J. Anderson, Den RB	1	Patrick Gowey	C.J. Anderson	RB	9.2	20.3	Sunday afternoon	1
 Randy Bacon	1	Mia	Jarvis Landry, Mia WR	1	Patrick Gowey	Jarvis Landry	WR	22.8	19.8	Sunday morning	1
 Randy Bacon	1	Cle	Isaiah Crowell, Cle RB	1	Patrick Gowey	Isaiah Crowell	RB	6.8	15.2	Sunday morning	1
 Randy Bacon	1	StL	Aaron Donald, StL DT	1	Patrick Gowey	Aaron Donald	Aaron Donald, StL DT	15.5	NA	Sunday morning	1
-Randy Bacon	1	Sea	Michael Bennett, Sea DE  P	1	Patrick Gowey	Michael Bennett	Michael Bennett, Sea DE  P	13	NA	Sunday morning	1
-Randy Bacon	1	SF	NaVorro Bowman, SF LB	1	Patrick Gowey	NaVorro Bowman	NaVorro Bowman, SF LB	11.5	NA	Monday evening	1
-Randy Bacon	1	Hou	Johnathan Joseph, Hou CB  Q	1	Patrick Gowey	Johnathan Joseph	Johnathan Joseph, Hou CB  Q	8	NA	Sunday morning	1
-Randy Bacon	1	GB	Morgan Burnett*, GB S  O	1	Patrick Gowey	Morgan Burnett	Morgan Burnett*, GB S  O	0	NA	Sunday morning	1
+Randy Bacon	1	Sea	Michael Bennett, Sea DE	1	Patrick Gowey	Michael Bennett	Michael Bennett, Sea DE	13	NA	Sunday morning	1
+Randy Bacon	1	SF	NaVorro Bowman, SF LB  P	1	Patrick Gowey	NaVorro Bowman	NaVorro Bowman, SF LB  P	11.5	NA	Monday evening	1
+Randy Bacon	1	Hou	Johnathan Joseph, Hou CB  P	1	Patrick Gowey	Johnathan Joseph	Johnathan Joseph, Hou CB  P	8	NA	Sunday morning	1
+Randy Bacon	1	GB	Morgan Burnett, GB S  Q	1	Patrick Gowey	Morgan Burnett	Morgan Burnett, GB S  Q	0	NA	Sunday morning	1
 Randy Bacon	1	Sea	Steven Hauschka, Sea K	1	Patrick Gowey	Steven Hauschka	K	11	9.5	Sunday morning	1
 Randy Bacon	1	Hou	Shane Lechler, Hou P	1	Patrick Gowey	Shane Lechler	Shane Lechler, Hou P	20.2	NA	Sunday morning	1
 Randy Bacon	1	Ind	Colts Coach HC	1	Patrick Gowey	Colts Coach	Colts Coach HC	-8.6	NA	Sunday morning	1
@@ -20,49 +20,49 @@ Patrick Gowey	1	NO	Drew Brees, NO QB	1	Randy Bacon	Drew Brees	QB	21	22.8	Sunday
 Patrick Gowey	1	Min	Adrian Peterson, Min RB	1	Randy Bacon	Adrian Peterson	RB	8.5	22.2	Monday evening	1
 Patrick Gowey	1	Dal	Dez Bryant*, Dal WR  O	1	Randy Bacon	Dez Bryant	WR	6.3	16.4	Sunday evening	1
 Patrick Gowey	1	Car	Greg Olsen, Car TE	1	Randy Bacon	Greg Olsen	TE	3.1	8.5	Sunday morning	1
-Patrick Gowey	1	Buf	LeSean McCoy*, Buf RB  O	1	Randy Bacon	LeSean McCoy	RB	13.8	21.1	Sunday morning	1
+Patrick Gowey	1	Buf	LeSean McCoy, Buf RB  D	1	Randy Bacon	LeSean McCoy	RB	13.8	21.1	Sunday morning	1
 Patrick Gowey	1	Den	Emmanuel Sanders, Den WR	1	Randy Bacon	Emmanuel Sanders	WR	10.9	12.4	Sunday afternoon	1
-Patrick Gowey	1	Ind	Frank Gore, Ind RB  Q	1	Randy Bacon	Frank Gore	RB	5.7	15.2	Sunday morning	1
+Patrick Gowey	1	Ind	Frank Gore, Ind RB  P	1	Randy Bacon	Frank Gore	RB	5.7	15.2	Sunday morning	1
 Patrick Gowey	1	Mia	Ndamukong Suh, Mia DT	1	Randy Bacon	Ndamukong Suh	Ndamukong Suh, Mia DT	2	NA	Sunday morning	1
-Patrick Gowey	1	LB	Julius Peppers, GB DE, LB	1	Randy Bacon	Julius Peppers	Julius Peppers, GB DE, LB	8	NA	NA	1
+Patrick Gowey	1	GB	Julius Peppers, GB DE, LB	1	Randy Bacon	Julius Peppers	Julius Peppers, GB DE, LB	8	NA	Sunday morning	1
 Patrick Gowey	1	TB	Lavonte David, TB LB	1	Randy Bacon	Lavonte David	Lavonte David, TB LB	7.5	NA	Sunday afternoon	1
-Patrick Gowey	1	Cin	Adam Jones, Cin CB	1	Randy Bacon	Adam Jones	Adam Jones, Cin CB	21.3	NA	Sunday afternoon	1
+Patrick Gowey	1	Cin	Adam Jones, Cin CB  Q	1	Randy Bacon	Adam Jones	Adam Jones, Cin CB  Q	21.3	NA	Sunday afternoon	1
 Patrick Gowey	1	StL	T.J. McDonald, StL S	1	Randy Bacon	T.J. McDonald	T.J. McDonald, StL S	7.5	NA	Sunday morning	1
 Patrick Gowey	1	Min	Blair Walsh, Min K	1	Randy Bacon	Blair Walsh	K	3	10.6	Monday evening	1
 Patrick Gowey	1	Oak	Marquette King, Oak P	1	Randy Bacon	Marquette King	K	15.7	NA	Sunday afternoon	1
 Patrick Gowey	1	Sea	Seahawks Coach HC	1	Randy Bacon	Seahawks Coach	Seahawks Coach HC	1.1	NA	Sunday morning	1
-trevor lemmons	1	Den	Peyton Manning, Den QB	2	Kelly Steinbrecher	Peyton Manning	QB	6	21.1	Sunday afternoon	2
-trevor lemmons	1	Mia	Ryan Tannehill, Mia QB	2	Kelly Steinbrecher	Ryan Tannehill	QB	15	21.4	Sunday morning	2
-trevor lemmons	1	NYJ	Chris Ivory, NYJ RB	2	Kelly Steinbrecher	Chris Ivory	RB	27.3	16	Sunday morning	2
-trevor lemmons	1	Den	Demaryius Thomas, Den WR	2	Kelly Steinbrecher	Demaryius Thomas	WR	8.2	16.7	Sunday afternoon	2
-trevor lemmons	1	Chi	Martellus Bennett, Chi TE	2	Kelly Steinbrecher	Martellus Bennett	TE	13	9	Sunday morning	2
-trevor lemmons	1	Chi	Matt Forte, Chi RB	2	Kelly Steinbrecher	Matt Forte	RB	30.2	16.2	Sunday morning	2
-trevor lemmons	1	Chi	Alshon Jeffery*, Chi WR  O	2	Kelly Steinbrecher	Alshon Jeffery	WR	9.7	13.7	Sunday morning	2
-trevor lemmons	1	Ind	T.Y. Hilton, Ind WR	2	Kelly Steinbrecher	T.Y. Hilton	WR	11.3	11.1	Sunday morning	2
-trevor lemmons	1	Ten	Jurrell Casey, Ten DT	2	Kelly Steinbrecher	Jurrell Casey	Jurrell Casey, Ten DT	7.5	NA	Sunday afternoon	2
-trevor lemmons	1	NE	Chandler Jones, NE DE	2	Kelly Steinbrecher	Chandler Jones	Chandler Jones, NE DE	6.5	NA	Thursday evening	2
-trevor lemmons	1	Bal	C.J. Mosley, Bal LB	2	Kelly Steinbrecher	C.J. Mosley	C.J. Mosley, Bal LB	12	NA	Sunday afternoon	2
-trevor lemmons	1	Car	Charles Tillman, Car CB	2	Kelly Steinbrecher	Charles Tillman	Charles Tillman, Car CB	6	NA	Sunday morning	2
-trevor lemmons	1	Mia	Reshad Jones, Mia S	2	Kelly Steinbrecher	Reshad Jones	Reshad Jones, Mia S	17	NA	Sunday morning	2
-trevor lemmons	1	NE	Stephen Gostkowski, NE K	2	Kelly Steinbrecher	Stephen Gostkowski	K	4	9.4	Thursday evening	2
-trevor lemmons	1	SF	Bradley Pinion, SF P, K	2	Kelly Steinbrecher	Bradley Pinion	K	9.9	NA	Monday evening	2
-trevor lemmons	1	Cle	Broncos Coach HC	2	Kelly Steinbrecher	Broncos Coach	Broncos Coach HC	5.9	NA	Sunday morning	2
-Kelly Steinbrecher	1	GB	Aaron Rodgers, GB QB	2	trevor lemmons	Aaron Rodgers	QB	26.4	20.8	Sunday morning	2
-Kelly Steinbrecher	1	Pit	Ben Roethlisberger*, Pit QB  O	2	trevor lemmons	Ben Roethlisberger	QB	22.4	21.3	Thursday evening	2
-Kelly Steinbrecher	1	Sea	Marshawn Lynch*, Sea RB  O	2	trevor lemmons	Marshawn Lynch	RB	19.9	20.7	Sunday morning	2
-Kelly Steinbrecher	1	Det	Calvin Johnson, Det WR	2	trevor lemmons	Calvin Johnson	WR	4.7	16.4	Sunday afternoon	2
-Kelly Steinbrecher	1	KC	Travis Kelce, KC TE	2	trevor lemmons	Travis Kelce	TE	26.1	8.7	Sunday morning	2
-Kelly Steinbrecher	1	Atl	Julio Jones, Atl WR	2	trevor lemmons	Julio Jones	WR	28.6	18.8	Monday evening	2
-Kelly Steinbrecher	1	NO	Mark Ingram, NO RB	2	trevor lemmons	Mark Ingram	RB	16.6	16.2	Sunday afternoon	2
-Kelly Steinbrecher	1	Oak	Latavius Murray, Oak RB	2	trevor lemmons	Latavius Murray	RB	12.5	16.2	Sunday afternoon	2
-Kelly Steinbrecher	1	Phi	Bennie Logan, Phi DT	2	trevor lemmons	Bennie Logan	Bennie Logan, Phi DT	8	NA	Monday evening	2
-Kelly Steinbrecher	1	Hou	J.J. Watt, Hou DE	2	trevor lemmons	J.J. Watt	J.J. Watt, Hou DE	23.5	NA	Sunday morning	2
-Kelly Steinbrecher	1	Sea	K.J. Wright, Sea LB  P	2	trevor lemmons	K.J. Wright	K	5	NA	Sunday morning	2
-Kelly Steinbrecher	1	Ari	Tyrann Mathieu, Ari CB, S	2	trevor lemmons	Tyrann Mathieu	Tyrann Mathieu, Ari CB, S	20	NA	Sunday afternoon	2
-Kelly Steinbrecher	1	Dal	Barry Church, Dal S	2	trevor lemmons	Barry Church	Barry Church, Dal S	8	NA	Sunday evening	2
-Kelly Steinbrecher	1	Ind	Adam Vinatieri, Ind K	2	trevor lemmons	Adam Vinatieri	K	2	9.5	Sunday morning	2
-Kelly Steinbrecher	1	Sea	Jon Ryan, Sea P	2	trevor lemmons	Jon Ryan	Jon Ryan, Sea P	19.8	NA	Sunday morning	2
-Kelly Steinbrecher	1	Pit	Steelers Coach HC	2	trevor lemmons	Steelers Coach	Steelers Coach HC	-1.9	NA	Thursday evening	2
+trevor lemmons	1	Den	Peyton Manning, Den QB  P	2	Kelly  Steinbrecher	Peyton Manning	QB	6	21.1	Sunday afternoon	2
+trevor lemmons	1	Mia	Ryan Tannehill, Mia QB	2	Kelly  Steinbrecher	Ryan Tannehill	QB	15	21.4	Sunday morning	2
+trevor lemmons	1	NYJ	Chris Ivory, NYJ RB	2	Kelly  Steinbrecher	Chris Ivory	RB	27.3	16	Sunday morning	2
+trevor lemmons	1	Den	Demaryius Thomas, Den WR  Q	2	Kelly  Steinbrecher	Demaryius Thomas	WR	8.2	16.7	Sunday afternoon	2
+trevor lemmons	1	Chi	Martellus Bennett, Chi TE	2	Kelly  Steinbrecher	Martellus Bennett	TE	13	9	Sunday morning	2
+trevor lemmons	1	Chi	Matt Forte, Chi RB	2	Kelly  Steinbrecher	Matt Forte	RB	30.2	16.2	Sunday morning	2
+trevor lemmons	1	Chi	Alshon Jeffery, Chi WR  Q	2	Kelly  Steinbrecher	Alshon Jeffery	WR	9.7	13.7	Sunday morning	2
+trevor lemmons	1	Ind	T.Y. Hilton, Ind WR	2	Kelly  Steinbrecher	T.Y. Hilton	WR	11.3	11.1	Sunday morning	2
+trevor lemmons	1	Ten	Jurrell Casey, Ten DT	2	Kelly  Steinbrecher	Jurrell Casey	Jurrell Casey, Ten DT	7.5	NA	Sunday afternoon	2
+trevor lemmons	1	NE	Chandler Jones, NE DE	2	Kelly  Steinbrecher	Chandler Jones	Chandler Jones, NE DE	6.5	NA	Thursday evening	2
+trevor lemmons	1	Bal	C.J. Mosley, Bal LB	2	Kelly  Steinbrecher	C.J. Mosley	C.J. Mosley, Bal LB	12	NA	Sunday afternoon	2
+trevor lemmons	1	Car	Charles Tillman, Car CB	2	Kelly  Steinbrecher	Charles Tillman	Charles Tillman, Car CB	6	NA	Sunday morning	2
+trevor lemmons	1	Mia	Reshad Jones, Mia S	2	Kelly  Steinbrecher	Reshad Jones	Reshad Jones, Mia S	17	NA	Sunday morning	2
+trevor lemmons	1	NE	Stephen Gostkowski, NE K	2	Kelly  Steinbrecher	Stephen Gostkowski	K	4	9.4	Thursday evening	2
+trevor lemmons	1	SF	Bradley Pinion, SF P, K	2	Kelly  Steinbrecher	Bradley Pinion	K	9.9	NA	Monday evening	2
+trevor lemmons	1	Cle	Broncos Coach HC	2	Kelly  Steinbrecher	Broncos Coach	Broncos Coach HC	5.9	NA	Sunday morning	2
+Kelly  Steinbrecher	1	GB	Aaron Rodgers, GB QB	2	trevor lemmons	Aaron Rodgers	QB	26.4	20.8	Sunday morning	2
+Kelly  Steinbrecher	1	Pit	Ben Roethlisberger*, Pit QB  O	2	trevor lemmons	Ben Roethlisberger	QB	22.4	21.3	Thursday evening	2
+Kelly  Steinbrecher	1	Sea	Marshawn Lynch, Sea RB  Q	2	trevor lemmons	Marshawn Lynch	RB	19.9	20.7	Sunday morning	2
+Kelly  Steinbrecher	1	Det	Calvin Johnson, Det WR	2	trevor lemmons	Calvin Johnson	WR	4.7	16.4	Sunday afternoon	2
+Kelly  Steinbrecher	1	KC	Travis Kelce, KC TE  P	2	trevor lemmons	Travis Kelce	TE	26.1	8.7	Sunday morning	2
+Kelly  Steinbrecher	1	Atl	Julio Jones, Atl WR  Q	2	trevor lemmons	Julio Jones	WR	28.6	18.8	Monday evening	2
+Kelly  Steinbrecher	1	NO	Mark Ingram, NO RB	2	trevor lemmons	Mark Ingram	RB	16.6	16.2	Sunday afternoon	2
+Kelly  Steinbrecher	1	Oak	Latavius Murray, Oak RB  Q	2	trevor lemmons	Latavius Murray	RB	12.5	16.2	Sunday afternoon	2
+Kelly  Steinbrecher	1	Phi	Bennie Logan, Phi DT	2	trevor lemmons	Bennie Logan	Bennie Logan, Phi DT	8	NA	Monday evening	2
+Kelly  Steinbrecher	1	Hou	J.J. Watt, Hou DE	2	trevor lemmons	J.J. Watt	J.J. Watt, Hou DE	23.5	NA	Sunday morning	2
+Kelly  Steinbrecher	1	Sea	K.J. Wright, Sea LB	2	trevor lemmons	K.J. Wright	K	5	NA	Sunday morning	2
+Kelly  Steinbrecher	1	Ari	Tyrann Mathieu, Ari CB, S	2	trevor lemmons	Tyrann Mathieu	Tyrann Mathieu, Ari CB, S	20	NA	Sunday afternoon	2
+Kelly  Steinbrecher	1	Dal	Barry Church, Dal S	2	trevor lemmons	Barry Church	Barry Church, Dal S	8	NA	Sunday evening	2
+Kelly  Steinbrecher	1	Ind	Adam Vinatieri, Ind K	2	trevor lemmons	Adam Vinatieri	K	2	9.5	Sunday morning	2
+Kelly  Steinbrecher	1	Sea	Jon Ryan, Sea P	2	trevor lemmons	Jon Ryan	Jon Ryan, Sea P	19.8	NA	Sunday morning	2
+Kelly  Steinbrecher	1	Pit	Steelers Coach HC	2	trevor lemmons	Steelers Coach	Steelers Coach HC	-1.9	NA	Thursday evening	2
 Lawrence Shin	1	Dal	Tony Romo*, Dal QB  IR	3	Andrew Phares	Tony Romo	QB	28.1	21	Sunday evening	3
 Lawrence Shin	1	Phi	Sam Bradford, Phi QB	3	Andrew Phares	Sam Bradford	QB	18.4	19.5	Monday evening	3
 Lawrence Shin	1	KC	Jamaal Charles, KC RB	3	Andrew Phares	Jamaal Charles	RB	21.9	20.4	Sunday morning	3
@@ -73,23 +73,23 @@ Lawrence Shin	1	Cin	A.J. Green, Cin WR	3	Andrew Phares	A.J. Green	WR	7.9	15.8	S
 Lawrence Shin	1	Oak	Amari Cooper, Oak WR	3	Andrew Phares	Amari Cooper	WR	6.4	10.5	Sunday afternoon	3
 Lawrence Shin	1	Buf	Marcell Dareus, Buf DT	3	Andrew Phares	Marcell Dareus	Marcell Dareus, Buf DT	0	NA	Sunday morning	3
 Lawrence Shin	1	Buf	Mario Williams, Buf DE	3	Andrew Phares	Mario Williams	Mario Williams, Buf DE	0	NA	Sunday morning	3
-Lawrence Shin	1	Car	Luke Kuechly*, Car LB  O	3	Andrew Phares	Luke Kuechly	K	11.5	NA	Sunday morning	3
+Lawrence Shin	1	Car	Luke Kuechly, Car LB  Q	3	Andrew Phares	Luke Kuechly	K	11.5	NA	Sunday morning	3
 Lawrence Shin	1	Den	Aqib Talib, Den CB	3	Andrew Phares	Aqib Talib	Aqib Talib, Den CB	16.5	NA	Sunday afternoon	3
 Lawrence Shin	1	Min	Harrison Smith, Min S	3	Andrew Phares	Harrison Smith	Harrison Smith, Min S	9.5	NA	Monday evening	3
 Lawrence Shin	1	Bal	Justin Tucker, Bal K	3	Andrew Phares	Justin Tucker	K	14	10	Sunday afternoon	3
 Lawrence Shin	1	Dal	Tom Hornsey, Dal P	3	Andrew Phares	Tom Hornsey	Tom Hornsey, Dal P	0	NA	Sunday evening	3
 Lawrence Shin	1	GB	Packers Coach HC	3	Andrew Phares	Packers Coach	Packers Coach HC	7.1	NA	Sunday morning	3
-Andrew Phares	1	Ind	Andrew Luck*, Ind QB  O	3	Lawrence Shin	Andrew Luck	QB	20.5	20.4	Sunday morning	3
+Andrew Phares	1	Ind	Andrew Luck, Ind QB  Q	3	Lawrence Shin	Andrew Luck	QB	20.5	20.4	Sunday morning	3
 Andrew Phares	1	Atl	Matt Ryan, Atl QB	3	Lawrence Shin	Matt Ryan	QB	19.1	22.9	Monday evening	3
-Andrew Phares	1	Cin	Jeremy Hill, Cin RB	3	Lawrence Shin	Jeremy Hill	RB	23.1	20.7	Sunday afternoon	3
+Andrew Phares	1	Cin	Jeremy Hill, Cin RB  Q	3	Lawrence Shin	Jeremy Hill	RB	23.1	20.7	Sunday afternoon	3
 Andrew Phares	1	Pit	Antonio Brown, Pit WR	3	Lawrence Shin	Antonio Brown	WR	22.1	21.8	Thursday evening	3
 Andrew Phares	1	Sea	Jimmy Graham, Sea TE	3	Lawrence Shin	Jimmy Graham	TE	12.8	12.1	Sunday morning	3
 Andrew Phares	1	Wsh	Alfred Morris, Wsh RB	3	Lawrence Shin	Alfred Morris	RB	18.4	12.7	Sunday morning	3
 Andrew Phares	1	Mia	Lamar Miller, Mia RB	3	Lawrence Shin	Lamar Miller	RB	11	17.4	Sunday morning	3
-Andrew Phares	1	Det	Joique Bell*, Det RB  O	3	Lawrence Shin	Joique Bell	RB	7.6	10.7	Sunday afternoon	3
-Andrew Phares	1	TB	Gerald McCoy, TB DT	3	Lawrence Shin	Gerald McCoy	Gerald McCoy, TB DT	5.5	NA	Sunday afternoon	3
+Andrew Phares	1	Det	Joique Bell, Det RB  Q	3	Lawrence Shin	Joique Bell	RB	7.6	10.7	Sunday afternoon	3
+Andrew Phares	1	TB	Gerald McCoy, TB DT  Q	3	Lawrence Shin	Gerald McCoy	Gerald McCoy, TB DT  Q	5.5	NA	Sunday afternoon	3
 Andrew Phares	1	StL	Robert Quinn, StL DE	3	Lawrence Shin	Robert Quinn	Robert Quinn, StL DE	7.5	NA	Sunday morning	3
-Andrew Phares	1	Sea	Bobby Wagner, Sea LB  P	3	Lawrence Shin	Bobby Wagner	Bobby Wagner, Sea LB  P	8.5	NA	Sunday morning	3
+Andrew Phares	1	Sea	Bobby Wagner, Sea LB	3	Lawrence Shin	Bobby Wagner	Bobby Wagner, Sea LB	8.5	NA	Sunday morning	3
 Andrew Phares	1	NYG	Prince Amukamara, NYG CB	3	Lawrence Shin	Prince Amukamara	Prince Amukamara, NYG CB	10	NA	Sunday evening	3
 Andrew Phares	1	SD	Eric Weddle, SD S	3	Lawrence Shin	Eric Weddle	Eric Weddle, SD S	17.5	NA	Sunday afternoon	3
 Andrew Phares	1	Atl	Matt Bryant, Atl K	3	Lawrence Shin	Matt Bryant	K	20	10.7	Monday evening	3
@@ -105,19 +105,19 @@ Lawrence Shin	2	Hou	DeAndre Hopkins, Hou WR	4	trevor lemmons	DeAndre Hopkins	WR
 Lawrence Shin	2	Bal	Justin Forsett, Bal RB	4	trevor lemmons	Justin Forsett	RB	12.8	18.6	Sunday afternoon	1
 Lawrence Shin	2	Buf	Marcell Dareus, Buf DT	4	trevor lemmons	Marcell Dareus	Marcell Dareus, Buf DT	1.5	NA	Sunday morning	1
 Lawrence Shin	2	Buf	Mario Williams, Buf DE	4	trevor lemmons	Mario Williams	Mario Williams, Buf DE	5.5	NA	Sunday morning	1
-Lawrence Shin	2	Car	Luke Kuechly*, Car LB  O	4	trevor lemmons	Luke Kuechly	K	0	NA	Sunday morning	1
+Lawrence Shin	2	Car	Luke Kuechly, Car LB  Q	4	trevor lemmons	Luke Kuechly	K	0	NA	Sunday morning	1
 Lawrence Shin	2	Den	Aqib Talib, Den CB	4	trevor lemmons	Aqib Talib	Aqib Talib, Den CB	10	NA	Thursday evening	1
 Lawrence Shin	2	Min	Harrison Smith, Min S	4	trevor lemmons	Harrison Smith	Harrison Smith, Min S	11	NA	Sunday morning	1
 Lawrence Shin	2	Bal	Justin Tucker, Bal K	4	trevor lemmons	Justin Tucker	K	15	10	Sunday afternoon	1
 Lawrence Shin	2	Dal	Tom Hornsey, Dal P	4	trevor lemmons	Tom Hornsey	Tom Hornsey, Dal P	0	NA	Sunday afternoon	1
 Lawrence Shin	2	GB	Packers Coach HC	4	trevor lemmons	Packers Coach	Packers Coach HC	12.7	NA	Sunday evening	1
-trevor lemmons	2	Den	Peyton Manning, Den QB	4	Lawrence Shin	Peyton Manning	QB	20.9	18.7	Thursday evening	1
+trevor lemmons	2	Den	Peyton Manning, Den QB  P	4	Lawrence Shin	Peyton Manning	QB	20.9	18.7	Thursday evening	1
 trevor lemmons	2	Mia	Ryan Tannehill, Mia QB	4	Lawrence Shin	Ryan Tannehill	QB	29.4	20.1	Sunday afternoon	1
 trevor lemmons	2	NYJ	Chris Ivory, NYJ RB	4	Lawrence Shin	Chris Ivory	RB	10	15.2	Monday evening	1
-trevor lemmons	2	Den	Demaryius Thomas, Den WR	4	Lawrence Shin	Demaryius Thomas	WR	14.2	13.5	Thursday evening	1
+trevor lemmons	2	Den	Demaryius Thomas, Den WR  Q	4	Lawrence Shin	Demaryius Thomas	WR	14.2	13.5	Thursday evening	1
 trevor lemmons	2	Chi	Martellus Bennett, Chi TE	4	Lawrence Shin	Martellus Bennett	TE	6	8.6	Sunday morning	1
 trevor lemmons	2	Chi	Matt Forte, Chi RB	4	Lawrence Shin	Matt Forte	RB	15.4	22	Sunday morning	1
-trevor lemmons	2	Chi	Alshon Jeffery*, Chi WR  O	4	Lawrence Shin	Alshon Jeffery	WR	0	0	Sunday morning	1
+trevor lemmons	2	Chi	Alshon Jeffery, Chi WR  Q	4	Lawrence Shin	Alshon Jeffery	WR	0	0	Sunday morning	1
 trevor lemmons	2	StL	Tre Mason, StL RB	4	Lawrence Shin	Tre Mason	RB	5.6	14.6	Sunday morning	1
 trevor lemmons	2	Ten	Jurrell Casey, Ten DT	4	Lawrence Shin	Jurrell Casey	Jurrell Casey, Ten DT	0	NA	Sunday morning	1
 trevor lemmons	2	NE	Chandler Jones, NE DE	4	Lawrence Shin	Chandler Jones	Chandler Jones, NE DE	11	NA	Sunday morning	1
@@ -127,122 +127,122 @@ trevor lemmons	2	Mia	Reshad Jones, Mia S	4	Lawrence Shin	Reshad Jones	Reshad Jo
 trevor lemmons	2	NE	Stephen Gostkowski, NE K	4	Lawrence Shin	Stephen Gostkowski	K	23	8.9	Sunday morning	1
 trevor lemmons	2	Jax	Bryan Anger, Jax P	4	Lawrence Shin	Bryan Anger	Bryan Anger, Jax P	15.1	NA	Sunday afternoon	1
 trevor lemmons	2	Cle	Broncos Coach HC	4	Lawrence Shin	Broncos Coach	Broncos Coach HC	7.1	NA	Sunday morning	1
-Patrick Gowey	2	Sea	Russell Wilson, Sea QB	5	Kelly Steinbrecher	Russell Wilson	QB	25.3	21.3	Sunday evening	2
-Patrick Gowey	2	NO	Drew Brees, NO QB	5	Kelly Steinbrecher	Drew Brees	QB	13.4	23.1	Sunday morning	2
-Patrick Gowey	2	Min	Adrian Peterson, Min RB	5	Kelly Steinbrecher	Adrian Peterson	RB	25	19	Sunday morning	2
-Patrick Gowey	2	Den	Emmanuel Sanders, Den WR	5	Kelly Steinbrecher	Emmanuel Sanders	WR	23.6	13.9	Thursday evening	2
-Patrick Gowey	2	Car	Greg Olsen, Car TE	5	Kelly Steinbrecher	Greg Olsen	TE	9.3	8.2	Sunday morning	2
-Patrick Gowey	2	Buf	LeSean McCoy*, Buf RB  O	5	Kelly Steinbrecher	LeSean McCoy	RB	16.1	15.2	Sunday morning	2
-Patrick Gowey	2	Ind	Frank Gore, Ind RB  Q	5	Kelly Steinbrecher	Frank Gore	RB	8.1	15.4	Monday evening	2
-Patrick Gowey	2	Det	Ameer Abdullah, Det RB	5	Kelly Steinbrecher	Ameer Abdullah	RB	13.5	19	Sunday morning	2
-Patrick Gowey	2	Mia	Ndamukong Suh, Mia DT	5	Kelly Steinbrecher	Ndamukong Suh	Ndamukong Suh, Mia DT	1.5	NA	Sunday afternoon	2
-Patrick Gowey	2	LB	Julius Peppers, GB DE, LB	5	Kelly Steinbrecher	Julius Peppers	Julius Peppers, GB DE, LB	2.5	NA	NA	2
-Patrick Gowey	2	TB	Lavonte David, TB LB	5	Kelly Steinbrecher	Lavonte David	Lavonte David, TB LB	12	NA	Sunday morning	2
-Patrick Gowey	2	Cin	Adam Jones, Cin CB	5	Kelly Steinbrecher	Adam Jones	Adam Jones, Cin CB	20	NA	Sunday morning	2
-Patrick Gowey	2	StL	T.J. McDonald, StL S	5	Kelly Steinbrecher	T.J. McDonald	T.J. McDonald, StL S	7	NA	Sunday morning	2
-Patrick Gowey	2	Min	Blair Walsh, Min K	5	Kelly Steinbrecher	Blair Walsh	K	8	10.7	Sunday morning	2
-Patrick Gowey	2	Oak	Marquette King, Oak P	5	Kelly Steinbrecher	Marquette King	K	7.4	NA	Sunday afternoon	2
-Patrick Gowey	2	Sea	Seahawks Coach HC	5	Kelly Steinbrecher	Seahawks Coach	Seahawks Coach HC	-8.3	NA	Sunday evening	2
-Kelly Steinbrecher	2	GB	Aaron Rodgers, GB QB	5	Patrick Gowey	Aaron Rodgers	QB	25.5	20.7	Sunday evening	2
-Kelly Steinbrecher	2	Pit	Ben Roethlisberger*, Pit QB  O	5	Patrick Gowey	Ben Roethlisberger	QB	35.4	21.1	Sunday morning	2
-Kelly Steinbrecher	2	Sea	Marshawn Lynch*, Sea RB  O	5	Patrick Gowey	Marshawn Lynch	RB	11	18.2	Sunday evening	2
-Kelly Steinbrecher	2	Det	Calvin Johnson, Det WR	5	Patrick Gowey	Calvin Johnson	WR	19	12.5	Sunday morning	2
-Kelly Steinbrecher	2	KC	Travis Kelce, KC TE	5	Patrick Gowey	Travis Kelce	TE	6.9	9.5	Thursday evening	2
-Kelly Steinbrecher	2	Atl	Julio Jones, Atl WR	5	Patrick Gowey	Julio Jones	WR	17	15	Sunday morning	2
-Kelly Steinbrecher	2	NO	Mark Ingram, NO RB	5	Patrick Gowey	Mark Ingram	RB	14.6	18	Sunday morning	2
-Kelly Steinbrecher	2	Sea	Tyler Lockett, Sea WR	5	Patrick Gowey	Tyler Lockett	WR	12.3	15.5	Sunday evening	2
-Kelly Steinbrecher	2	Phi	Bennie Logan, Phi DT	5	Patrick Gowey	Bennie Logan	Bennie Logan, Phi DT	6.5	NA	Sunday afternoon	2
-Kelly Steinbrecher	2	Hou	J.J. Watt, Hou DE	5	Patrick Gowey	J.J. Watt	J.J. Watt, Hou DE	11.5	NA	Sunday morning	2
-Kelly Steinbrecher	2	Sea	K.J. Wright, Sea LB  P	5	Patrick Gowey	K.J. Wright	K	14.5	NA	Sunday evening	2
-Kelly Steinbrecher	2	Ari	Tyrann Mathieu, Ari CB, S	5	Patrick Gowey	Tyrann Mathieu	Tyrann Mathieu, Ari CB, S	8	NA	Sunday morning	2
-Kelly Steinbrecher	2	Dal	Barry Church, Dal S	5	Patrick Gowey	Barry Church	Barry Church, Dal S	11	NA	Sunday afternoon	2
-Kelly Steinbrecher	2	Ind	Adam Vinatieri, Ind K	5	Patrick Gowey	Adam Vinatieri	K	0	9.8	Monday evening	2
-Kelly Steinbrecher	2	Sea	Jon Ryan, Sea P	5	Patrick Gowey	Jon Ryan	Jon Ryan, Sea P	12	NA	Sunday evening	2
-Kelly Steinbrecher	2	Pit	Steelers Coach HC	5	Patrick Gowey	Steelers Coach	Steelers Coach HC	24.3	NA	Sunday morning	2
+Patrick Gowey	2	Sea	Russell Wilson, Sea QB	5	Kelly  Steinbrecher	Russell Wilson	QB	25.3	21.3	Sunday evening	2
+Patrick Gowey	2	NO	Drew Brees, NO QB	5	Kelly  Steinbrecher	Drew Brees	QB	13.4	23.1	Sunday morning	2
+Patrick Gowey	2	Min	Adrian Peterson, Min RB	5	Kelly  Steinbrecher	Adrian Peterson	RB	25	19	Sunday morning	2
+Patrick Gowey	2	Den	Emmanuel Sanders, Den WR	5	Kelly  Steinbrecher	Emmanuel Sanders	WR	23.6	13.9	Thursday evening	2
+Patrick Gowey	2	Car	Greg Olsen, Car TE	5	Kelly  Steinbrecher	Greg Olsen	TE	9.3	8.2	Sunday morning	2
+Patrick Gowey	2	Buf	LeSean McCoy, Buf RB  D	5	Kelly  Steinbrecher	LeSean McCoy	RB	16.1	15.2	Sunday morning	2
+Patrick Gowey	2	Ind	Frank Gore, Ind RB  P	5	Kelly  Steinbrecher	Frank Gore	RB	8.1	15.4	Monday evening	2
+Patrick Gowey	2	Det	Ameer Abdullah, Det RB	5	Kelly  Steinbrecher	Ameer Abdullah	RB	13.5	19	Sunday morning	2
+Patrick Gowey	2	Mia	Ndamukong Suh, Mia DT	5	Kelly  Steinbrecher	Ndamukong Suh	Ndamukong Suh, Mia DT	1.5	NA	Sunday afternoon	2
+Patrick Gowey	2	GB	Julius Peppers, GB DE, LB	5	Kelly  Steinbrecher	Julius Peppers	Julius Peppers, GB DE, LB	2.5	NA	Sunday evening	2
+Patrick Gowey	2	TB	Lavonte David, TB LB	5	Kelly  Steinbrecher	Lavonte David	Lavonte David, TB LB	12	NA	Sunday morning	2
+Patrick Gowey	2	Cin	Adam Jones, Cin CB  Q	5	Kelly  Steinbrecher	Adam Jones	Adam Jones, Cin CB  Q	20	NA	Sunday morning	2
+Patrick Gowey	2	StL	T.J. McDonald, StL S	5	Kelly  Steinbrecher	T.J. McDonald	T.J. McDonald, StL S	7	NA	Sunday morning	2
+Patrick Gowey	2	Min	Blair Walsh, Min K	5	Kelly  Steinbrecher	Blair Walsh	K	8	10.7	Sunday morning	2
+Patrick Gowey	2	Oak	Marquette King, Oak P	5	Kelly  Steinbrecher	Marquette King	K	7.4	NA	Sunday afternoon	2
+Patrick Gowey	2	Sea	Seahawks Coach HC	5	Kelly  Steinbrecher	Seahawks Coach	Seahawks Coach HC	-8.3	NA	Sunday evening	2
+Kelly  Steinbrecher	2	GB	Aaron Rodgers, GB QB	5	Patrick Gowey	Aaron Rodgers	QB	25.5	20.7	Sunday evening	2
+Kelly  Steinbrecher	2	Pit	Ben Roethlisberger*, Pit QB  O	5	Patrick Gowey	Ben Roethlisberger	QB	35.4	21.1	Sunday morning	2
+Kelly  Steinbrecher	2	Sea	Marshawn Lynch, Sea RB  Q	5	Patrick Gowey	Marshawn Lynch	RB	11	18.2	Sunday evening	2
+Kelly  Steinbrecher	2	Det	Calvin Johnson, Det WR	5	Patrick Gowey	Calvin Johnson	WR	19	12.5	Sunday morning	2
+Kelly  Steinbrecher	2	KC	Travis Kelce, KC TE  P	5	Patrick Gowey	Travis Kelce	TE	6.9	9.5	Thursday evening	2
+Kelly  Steinbrecher	2	Atl	Julio Jones, Atl WR  Q	5	Patrick Gowey	Julio Jones	WR	17	15	Sunday morning	2
+Kelly  Steinbrecher	2	NO	Mark Ingram, NO RB	5	Patrick Gowey	Mark Ingram	RB	14.6	18	Sunday morning	2
+Kelly  Steinbrecher	2	Sea	Tyler Lockett, Sea WR	5	Patrick Gowey	Tyler Lockett	WR	12.3	15.5	Sunday evening	2
+Kelly  Steinbrecher	2	Phi	Bennie Logan, Phi DT	5	Patrick Gowey	Bennie Logan	Bennie Logan, Phi DT	6.5	NA	Sunday afternoon	2
+Kelly  Steinbrecher	2	Hou	J.J. Watt, Hou DE	5	Patrick Gowey	J.J. Watt	J.J. Watt, Hou DE	11.5	NA	Sunday morning	2
+Kelly  Steinbrecher	2	Sea	K.J. Wright, Sea LB	5	Patrick Gowey	K.J. Wright	K	14.5	NA	Sunday evening	2
+Kelly  Steinbrecher	2	Ari	Tyrann Mathieu, Ari CB, S	5	Patrick Gowey	Tyrann Mathieu	Tyrann Mathieu, Ari CB, S	8	NA	Sunday morning	2
+Kelly  Steinbrecher	2	Dal	Barry Church, Dal S	5	Patrick Gowey	Barry Church	Barry Church, Dal S	11	NA	Sunday afternoon	2
+Kelly  Steinbrecher	2	Ind	Adam Vinatieri, Ind K	5	Patrick Gowey	Adam Vinatieri	K	0	9.8	Monday evening	2
+Kelly  Steinbrecher	2	Sea	Jon Ryan, Sea P	5	Patrick Gowey	Jon Ryan	Jon Ryan, Sea P	12	NA	Sunday evening	2
+Kelly  Steinbrecher	2	Pit	Steelers Coach HC	5	Patrick Gowey	Steelers Coach	Steelers Coach HC	24.3	NA	Sunday morning	2
 Randy Bacon	2	Car	Cam Newton, Car QB	6	Andrew Phares	Cam Newton	QB	29.8	20.4	Sunday morning	3
 Randy Bacon	2	NE	Tom Brady, NE QB	6	Andrew Phares	Tom Brady	QB	37.2	19.5	Sunday morning	3
 Randy Bacon	2	GB	Eddie Lacy, GB RB	6	Andrew Phares	Eddie Lacy	RB	1.7	18.9	Sunday evening	3
-Randy Bacon	2	NO	Brandin Cooks, NO WR	6	Andrew Phares	Brandin Cooks	WR	7.5	12.2	Sunday morning	3
+Randy Bacon	2	NO	Brandin Cooks, NO WR  Q	6	Andrew Phares	Brandin Cooks	WR	7.5	12.2	Sunday morning	3
 Randy Bacon	2	NE	Rob Gronkowski, NE TE	6	Andrew Phares	Rob Gronkowski	TE	19.7	12.2	Sunday morning	3
 Randy Bacon	2	Den	C.J. Anderson, Den RB	6	Andrew Phares	C.J. Anderson	RB	6.2	14.5	Thursday evening	3
 Randy Bacon	2	Mia	Jarvis Landry, Mia WR	6	Andrew Phares	Jarvis Landry	WR	16.5	17.7	Sunday afternoon	3
 Randy Bacon	2	Cle	Isaiah Crowell, Cle RB	6	Andrew Phares	Isaiah Crowell	RB	17	15	Sunday morning	3
 Randy Bacon	2	StL	Aaron Donald, StL DT	6	Andrew Phares	Aaron Donald	Aaron Donald, StL DT	7	NA	Sunday morning	3
-Randy Bacon	2	Sea	Michael Bennett, Sea DE  P	6	Andrew Phares	Michael Bennett	Michael Bennett, Sea DE  P	3	NA	Sunday evening	3
-Randy Bacon	2	SF	NaVorro Bowman, SF LB	6	Andrew Phares	NaVorro Bowman	NaVorro Bowman, SF LB	2	NA	Sunday morning	3
-Randy Bacon	2	Hou	Johnathan Joseph, Hou CB  Q	6	Andrew Phares	Johnathan Joseph	Johnathan Joseph, Hou CB  Q	6.5	NA	Sunday morning	3
-Randy Bacon	2	GB	Morgan Burnett*, GB S  O	6	Andrew Phares	Morgan Burnett	Morgan Burnett*, GB S  O	4.5	NA	Sunday evening	3
+Randy Bacon	2	Sea	Michael Bennett, Sea DE	6	Andrew Phares	Michael Bennett	Michael Bennett, Sea DE	3	NA	Sunday evening	3
+Randy Bacon	2	SF	NaVorro Bowman, SF LB  P	6	Andrew Phares	NaVorro Bowman	NaVorro Bowman, SF LB  P	2	NA	Sunday morning	3
+Randy Bacon	2	Hou	Johnathan Joseph, Hou CB  P	6	Andrew Phares	Johnathan Joseph	Johnathan Joseph, Hou CB  P	6.5	NA	Sunday morning	3
+Randy Bacon	2	GB	Morgan Burnett, GB S  Q	6	Andrew Phares	Morgan Burnett	Morgan Burnett, GB S  Q	4.5	NA	Sunday evening	3
 Randy Bacon	2	Sea	Steven Hauschka, Sea K	6	Andrew Phares	Steven Hauschka	K	10	8.3	Sunday evening	3
 Randy Bacon	2	Hou	Shane Lechler, Hou P	6	Andrew Phares	Shane Lechler	Shane Lechler, Hou P	21.6	NA	Sunday morning	3
 Randy Bacon	2	Ind	Colts Coach HC	6	Andrew Phares	Colts Coach	Colts Coach HC	-9.3	NA	Monday evening	3
-Andrew Phares	2	Ind	Andrew Luck*, Ind QB  O	6	Randy Bacon	Andrew Luck	QB	11.4	21.7	Monday evening	3
+Andrew Phares	2	Ind	Andrew Luck, Ind QB  Q	6	Randy Bacon	Andrew Luck	QB	11.4	21.7	Monday evening	3
 Andrew Phares	2	Atl	Matt Ryan, Atl QB	6	Randy Bacon	Matt Ryan	QB	23.1	19.5	Sunday morning	3
-Andrew Phares	2	Cin	Jeremy Hill, Cin RB	6	Randy Bacon	Jeremy Hill	RB	2.9	18.6	Sunday morning	3
+Andrew Phares	2	Cin	Jeremy Hill, Cin RB  Q	6	Randy Bacon	Jeremy Hill	RB	2.9	18.6	Sunday morning	3
 Andrew Phares	2	Pit	Antonio Brown, Pit WR	6	Randy Bacon	Antonio Brown	WR	31.6	20.1	Sunday morning	3
 Andrew Phares	2	Sea	Jimmy Graham, Sea TE	6	Randy Bacon	Jimmy Graham	TE	1.5	9.4	Sunday evening	3
 Andrew Phares	2	Wsh	Alfred Morris, Wsh RB	6	Randy Bacon	Alfred Morris	RB	12.2	14.7	Sunday morning	3
 Andrew Phares	2	Mia	Lamar Miller, Mia RB	6	Randy Bacon	Lamar Miller	RB	8.1	18.6	Sunday afternoon	3
-Andrew Phares	2	Atl	Tevin Coleman*, Atl RB  O	6	Randy Bacon	Tevin Coleman	RB	11.5	14.1	Sunday morning	3
-Andrew Phares	2	TB	Gerald McCoy, TB DT	6	Randy Bacon	Gerald McCoy	Gerald McCoy, TB DT	6	NA	Sunday morning	3
+Andrew Phares	2	Atl	Tevin Coleman, Atl RB  Q	6	Randy Bacon	Tevin Coleman	RB	11.5	14.1	Sunday morning	3
+Andrew Phares	2	TB	Gerald McCoy, TB DT  Q	6	Randy Bacon	Gerald McCoy	Gerald McCoy, TB DT  Q	6	NA	Sunday morning	3
 Andrew Phares	2	StL	Robert Quinn, StL DE	6	Randy Bacon	Robert Quinn	Robert Quinn, StL DE	8	NA	Sunday morning	3
-Andrew Phares	2	Sea	Bobby Wagner, Sea LB  P	6	Randy Bacon	Bobby Wagner	Bobby Wagner, Sea LB  P	16	NA	Sunday evening	3
+Andrew Phares	2	Sea	Bobby Wagner, Sea LB	6	Randy Bacon	Bobby Wagner	Bobby Wagner, Sea LB	16	NA	Sunday evening	3
 Andrew Phares	2	NYG	Prince Amukamara, NYG CB	6	Randy Bacon	Prince Amukamara	Prince Amukamara, NYG CB	8	NA	Sunday morning	3
 Andrew Phares	2	SD	Eric Weddle, SD S	6	Randy Bacon	Eric Weddle	Eric Weddle, SD S	12	NA	Sunday morning	3
 Andrew Phares	2	Atl	Matt Bryant, Atl K	6	Randy Bacon	Matt Bryant	K	8	10.2	Sunday morning	3
 Andrew Phares	2	TB	Andrew Wilder, TB P	6	Randy Bacon	Andrew Wilder	Andrew Wilder, TB P	0	NA	Sunday morning	3
 Andrew Phares	2	NE	Patriots Coach HC	6	Randy Bacon	Patriots Coach	Patriots Coach HC	8	NA	Sunday morning	3
-Andrew Phares	3	Ind	Andrew Luck*, Ind QB  O	7	Kelly Steinbrecher	Andrew Luck	QB	20.1	21.4	Sunday morning	1
-Andrew Phares	3	Atl	Matt Ryan, Atl QB	7	Kelly Steinbrecher	Matt Ryan	QB	24.8	19.9	Sunday morning	1
-Andrew Phares	3	Cin	Jeremy Hill, Cin RB	7	Kelly Steinbrecher	Jeremy Hill	RB	5.1	15.5	Sunday morning	1
-Andrew Phares	3	Pit	Antonio Brown, Pit WR	7	Kelly Steinbrecher	Antonio Brown	WR	13.8	19.7	Sunday morning	1
-Andrew Phares	3	Sea	Jimmy Graham, Sea TE	7	Kelly Steinbrecher	Jimmy Graham	TE	16.2	8.7	Sunday afternoon	1
-Andrew Phares	3	Wsh	Alfred Morris, Wsh RB	7	Kelly Steinbrecher	Alfred Morris	RB	4.9	10.6	Thursday evening	1
-Andrew Phares	3	Mia	Lamar Miller, Mia RB	7	Kelly Steinbrecher	Lamar Miller	RB	9	15	Sunday afternoon	1
-Andrew Phares	3	SD	Melvin Gordon, SD RB	7	Kelly Steinbrecher	Melvin Gordon	RB	8.7	15.4	Sunday morning	1
-Andrew Phares	3	TB	Gerald McCoy, TB DT	7	Kelly Steinbrecher	Gerald McCoy	Gerald McCoy, TB DT	2	NA	Sunday morning	1
-Andrew Phares	3	StL	Robert Quinn, StL DE	7	Kelly Steinbrecher	Robert Quinn	Robert Quinn, StL DE	6.5	NA	Sunday morning	1
-Andrew Phares	3	Sea	Bobby Wagner, Sea LB  P	7	Kelly Steinbrecher	Bobby Wagner	Bobby Wagner, Sea LB  P	6	NA	Sunday afternoon	1
-Andrew Phares	3	NYG	Prince Amukamara, NYG CB	7	Kelly Steinbrecher	Prince Amukamara	Prince Amukamara, NYG CB	19	NA	Thursday evening	1
-Andrew Phares	3	SD	Eric Weddle, SD S	7	Kelly Steinbrecher	Eric Weddle	Eric Weddle, SD S	14	NA	Sunday morning	1
-Andrew Phares	3	Atl	Matt Bryant, Atl K	7	Kelly Steinbrecher	Matt Bryant	K	7	10.2	Sunday morning	1
-Andrew Phares	3	TB	Andrew Wilder, TB P	7	Kelly Steinbrecher	Andrew Wilder	Andrew Wilder, TB P	0	NA	Sunday morning	1
-Andrew Phares	3	NE	Patriots Coach HC	7	Kelly Steinbrecher	Patriots Coach	Patriots Coach HC	25.1	NA	Sunday morning	1
-Kelly Steinbrecher	3	GB	Aaron Rodgers, GB QB	7	Andrew Phares	Aaron Rodgers	QB	39.7	23	Monday evening	1
-Kelly Steinbrecher	3	Pit	Ben Roethlisberger*, Pit QB  O	7	Andrew Phares	Ben Roethlisberger	QB	7.3	21.6	Sunday morning	1
-Kelly Steinbrecher	3	Sea	Marshawn Lynch*, Sea RB  O	7	Andrew Phares	Marshawn Lynch	RB	3.8	22.6	Sunday afternoon	1
-Kelly Steinbrecher	3	Det	Calvin Johnson, Det WR	7	Andrew Phares	Calvin Johnson	WR	10.2	14.4	Sunday evening	1
-Kelly Steinbrecher	3	KC	Travis Kelce, KC TE	7	Andrew Phares	Travis Kelce	TE	11.8	9.6	Monday evening	1
-Kelly Steinbrecher	3	Atl	Julio Jones, Atl WR	7	Andrew Phares	Julio Jones	WR	34.2	15.8	Sunday morning	1
-Kelly Steinbrecher	3	Oak	Latavius Murray, Oak RB	7	Andrew Phares	Latavius Murray	RB	27.7	17.7	Sunday morning	1
-Kelly Steinbrecher	3	Ari	Larry Fitzgerald, Ari WR	7	Andrew Phares	Larry Fitzgerald	WR	27.9	11.8	Sunday afternoon	1
-Kelly Steinbrecher	3	Phi	Bennie Logan, Phi DT	7	Andrew Phares	Bennie Logan	Bennie Logan, Phi DT	3.5	NA	Sunday morning	1
-Kelly Steinbrecher	3	Hou	J.J. Watt, Hou DE	7	Andrew Phares	J.J. Watt	J.J. Watt, Hou DE	8.5	NA	Sunday morning	1
-Kelly Steinbrecher	3	Sea	K.J. Wright, Sea LB  P	7	Andrew Phares	K.J. Wright	K	10	NA	Sunday afternoon	1
-Kelly Steinbrecher	3	Ari	Tyrann Mathieu, Ari CB, S	7	Andrew Phares	Tyrann Mathieu	Tyrann Mathieu, Ari CB, S	25.5	NA	Sunday afternoon	1
-Kelly Steinbrecher	3	Dal	Barry Church, Dal S	7	Andrew Phares	Barry Church	Barry Church, Dal S	7	NA	Sunday morning	1
-Kelly Steinbrecher	3	Ind	Adam Vinatieri, Ind K	7	Andrew Phares	Adam Vinatieri	K	5	9.2	Sunday morning	1
-Kelly Steinbrecher	3	Sea	Jon Ryan, Sea P	7	Andrew Phares	Jon Ryan	Jon Ryan, Sea P	7.3	NA	Sunday afternoon	1
-Kelly Steinbrecher	3	Pit	Steelers Coach HC	7	Andrew Phares	Steelers Coach	Steelers Coach HC	5.2	NA	Sunday morning	1
+Andrew Phares	3	Ind	Andrew Luck, Ind QB  Q	7	Kelly  Steinbrecher	Andrew Luck	QB	20.1	21.4	Sunday morning	1
+Andrew Phares	3	Atl	Matt Ryan, Atl QB	7	Kelly  Steinbrecher	Matt Ryan	QB	24.8	19.9	Sunday morning	1
+Andrew Phares	3	Cin	Jeremy Hill, Cin RB  Q	7	Kelly  Steinbrecher	Jeremy Hill	RB	5.1	15.5	Sunday morning	1
+Andrew Phares	3	Pit	Antonio Brown, Pit WR	7	Kelly  Steinbrecher	Antonio Brown	WR	13.8	19.7	Sunday morning	1
+Andrew Phares	3	Sea	Jimmy Graham, Sea TE	7	Kelly  Steinbrecher	Jimmy Graham	TE	16.2	8.7	Sunday afternoon	1
+Andrew Phares	3	Wsh	Alfred Morris, Wsh RB	7	Kelly  Steinbrecher	Alfred Morris	RB	4.9	10.6	Thursday evening	1
+Andrew Phares	3	Mia	Lamar Miller, Mia RB	7	Kelly  Steinbrecher	Lamar Miller	RB	9	15	Sunday afternoon	1
+Andrew Phares	3	SD	Melvin Gordon, SD RB	7	Kelly  Steinbrecher	Melvin Gordon	RB	8.7	15.4	Sunday morning	1
+Andrew Phares	3	TB	Gerald McCoy, TB DT  Q	7	Kelly  Steinbrecher	Gerald McCoy	Gerald McCoy, TB DT  Q	2	NA	Sunday morning	1
+Andrew Phares	3	StL	Robert Quinn, StL DE	7	Kelly  Steinbrecher	Robert Quinn	Robert Quinn, StL DE	6.5	NA	Sunday morning	1
+Andrew Phares	3	Sea	Bobby Wagner, Sea LB	7	Kelly  Steinbrecher	Bobby Wagner	Bobby Wagner, Sea LB	6	NA	Sunday afternoon	1
+Andrew Phares	3	NYG	Prince Amukamara, NYG CB	7	Kelly  Steinbrecher	Prince Amukamara	Prince Amukamara, NYG CB	19	NA	Thursday evening	1
+Andrew Phares	3	SD	Eric Weddle, SD S	7	Kelly  Steinbrecher	Eric Weddle	Eric Weddle, SD S	14	NA	Sunday morning	1
+Andrew Phares	3	Atl	Matt Bryant, Atl K	7	Kelly  Steinbrecher	Matt Bryant	K	7	10.2	Sunday morning	1
+Andrew Phares	3	TB	Andrew Wilder, TB P	7	Kelly  Steinbrecher	Andrew Wilder	Andrew Wilder, TB P	0	NA	Sunday morning	1
+Andrew Phares	3	NE	Patriots Coach HC	7	Kelly  Steinbrecher	Patriots Coach	Patriots Coach HC	25.1	NA	Sunday morning	1
+Kelly  Steinbrecher	3	GB	Aaron Rodgers, GB QB	7	Andrew Phares	Aaron Rodgers	QB	39.7	23	Monday evening	1
+Kelly  Steinbrecher	3	Pit	Ben Roethlisberger*, Pit QB  O	7	Andrew Phares	Ben Roethlisberger	QB	7.3	21.6	Sunday morning	1
+Kelly  Steinbrecher	3	Sea	Marshawn Lynch, Sea RB  Q	7	Andrew Phares	Marshawn Lynch	RB	3.8	22.6	Sunday afternoon	1
+Kelly  Steinbrecher	3	Det	Calvin Johnson, Det WR	7	Andrew Phares	Calvin Johnson	WR	10.2	14.4	Sunday evening	1
+Kelly  Steinbrecher	3	KC	Travis Kelce, KC TE  P	7	Andrew Phares	Travis Kelce	TE	11.8	9.6	Monday evening	1
+Kelly  Steinbrecher	3	Atl	Julio Jones, Atl WR  Q	7	Andrew Phares	Julio Jones	WR	34.2	15.8	Sunday morning	1
+Kelly  Steinbrecher	3	Oak	Latavius Murray, Oak RB  Q	7	Andrew Phares	Latavius Murray	RB	27.7	17.7	Sunday morning	1
+Kelly  Steinbrecher	3	Ari	Larry Fitzgerald, Ari WR	7	Andrew Phares	Larry Fitzgerald	WR	27.9	11.8	Sunday afternoon	1
+Kelly  Steinbrecher	3	Phi	Bennie Logan, Phi DT	7	Andrew Phares	Bennie Logan	Bennie Logan, Phi DT	3.5	NA	Sunday morning	1
+Kelly  Steinbrecher	3	Hou	J.J. Watt, Hou DE	7	Andrew Phares	J.J. Watt	J.J. Watt, Hou DE	8.5	NA	Sunday morning	1
+Kelly  Steinbrecher	3	Sea	K.J. Wright, Sea LB	7	Andrew Phares	K.J. Wright	K	10	NA	Sunday afternoon	1
+Kelly  Steinbrecher	3	Ari	Tyrann Mathieu, Ari CB, S	7	Andrew Phares	Tyrann Mathieu	Tyrann Mathieu, Ari CB, S	25.5	NA	Sunday afternoon	1
+Kelly  Steinbrecher	3	Dal	Barry Church, Dal S	7	Andrew Phares	Barry Church	Barry Church, Dal S	7	NA	Sunday morning	1
+Kelly  Steinbrecher	3	Ind	Adam Vinatieri, Ind K	7	Andrew Phares	Adam Vinatieri	K	5	9.2	Sunday morning	1
+Kelly  Steinbrecher	3	Sea	Jon Ryan, Sea P	7	Andrew Phares	Jon Ryan	Jon Ryan, Sea P	7.3	NA	Sunday afternoon	1
+Kelly  Steinbrecher	3	Pit	Steelers Coach HC	7	Andrew Phares	Steelers Coach	Steelers Coach HC	5.2	NA	Sunday morning	1
 Patrick Gowey	3	Sea	Russell Wilson, Sea QB	8	trevor lemmons	Russell Wilson	QB	18.7	22.5	Sunday afternoon	2
 Patrick Gowey	3	Ari	Carson Palmer, Ari QB	8	trevor lemmons	Carson Palmer	QB	22.6	19.9	Sunday afternoon	2
 Patrick Gowey	3	Min	Adrian Peterson, Min RB	8	trevor lemmons	Adrian Peterson	RB	32.6	21.4	Sunday morning	2
 Patrick Gowey	3	Den	Emmanuel Sanders, Den WR	8	trevor lemmons	Emmanuel Sanders	WR	11.8	16.3	Sunday evening	2
 Patrick Gowey	3	Car	Greg Olsen, Car TE	8	trevor lemmons	Greg Olsen	TE	27.7	8.7	Sunday morning	2
-Patrick Gowey	3	Buf	LeSean McCoy*, Buf RB  O	8	trevor lemmons	LeSean McCoy	RB	11.8	16.6	Sunday afternoon	2
+Patrick Gowey	3	Buf	LeSean McCoy, Buf RB  D	8	trevor lemmons	LeSean McCoy	RB	11.8	16.6	Sunday afternoon	2
 Patrick Gowey	3	Det	Ameer Abdullah, Det RB	8	trevor lemmons	Ameer Abdullah	RB	14.5	17	Sunday evening	2
 Patrick Gowey	3	NE	Dion Lewis, NE RB	8	trevor lemmons	Dion Lewis	RB	16	18.4	Sunday morning	2
 Patrick Gowey	3	Mia	Ndamukong Suh, Mia DT	8	trevor lemmons	Ndamukong Suh	Ndamukong Suh, Mia DT	10	NA	Sunday afternoon	2
-Patrick Gowey	3	LB	Julius Peppers, GB DE, LB	8	trevor lemmons	Julius Peppers	Julius Peppers, GB DE, LB	2.5	NA	NA	2
+Patrick Gowey	3	GB	Julius Peppers, GB DE, LB	8	trevor lemmons	Julius Peppers	Julius Peppers, GB DE, LB	2.5	NA	Monday evening	2
 Patrick Gowey	3	TB	Lavonte David, TB LB	8	trevor lemmons	Lavonte David	Lavonte David, TB LB	14.5	NA	Sunday morning	2
-Patrick Gowey	3	Cin	Adam Jones, Cin CB	8	trevor lemmons	Adam Jones	Adam Jones, Cin CB	15.2	NA	Sunday morning	2
+Patrick Gowey	3	Cin	Adam Jones, Cin CB  Q	8	trevor lemmons	Adam Jones	Adam Jones, Cin CB  Q	15.2	NA	Sunday morning	2
 Patrick Gowey	3	Sea	Kam Chancellor, Sea S	8	trevor lemmons	Kam Chancellor	K	0.5	NA	Sunday afternoon	2
 Patrick Gowey	3	Min	Blair Walsh, Min K	8	trevor lemmons	Blair Walsh	K	7	9.9	Sunday morning	2
 Patrick Gowey	3	Oak	Marquette King, Oak P	8	trevor lemmons	Marquette King	K	5.3	NA	Sunday morning	2
 Patrick Gowey	3	Sea	Seahawks Coach HC	8	trevor lemmons	Seahawks Coach	Seahawks Coach HC	22.6	NA	Sunday afternoon	2
-trevor lemmons	3	Den	Peyton Manning, Den QB	8	Patrick Gowey	Peyton Manning	QB	24.1	21	Sunday evening	2
+trevor lemmons	3	Den	Peyton Manning, Den QB  P	8	Patrick Gowey	Peyton Manning	QB	24.1	21	Sunday evening	2
 trevor lemmons	3	Mia	Ryan Tannehill, Mia QB	8	Patrick Gowey	Ryan Tannehill	QB	16.3	19.1	Sunday afternoon	2
 trevor lemmons	3	Jax	T.J. Yeldon, Jax RB	8	Patrick Gowey	T.J. Yeldon	RB	7.6	15.2	Sunday morning	2
-trevor lemmons	3	Den	Demaryius Thomas, Den WR	8	Patrick Gowey	Demaryius Thomas	WR	17.9	15.3	Sunday evening	2
+trevor lemmons	3	Den	Demaryius Thomas, Den WR  Q	8	Patrick Gowey	Demaryius Thomas	WR	17.9	15.3	Sunday evening	2
 trevor lemmons	3	Chi	Martellus Bennett, Chi TE	8	Patrick Gowey	Martellus Bennett	TE	2.6	7.3	Sunday afternoon	2
 trevor lemmons	3	Chi	Matt Forte, Chi RB	8	Patrick Gowey	Matt Forte	RB	12.7	18	Sunday afternoon	2
 trevor lemmons	3	NE	Julian Edelman, NE WR	8	Patrick Gowey	Julian Edelman	WR	11.6	13.3	Sunday morning	2
@@ -260,7 +260,7 @@ Randy Bacon	3	NE	Tom Brady, NE QB	9	Lawrence Shin	Tom Brady	QB	28.6	21.8	Sunday
 Randy Bacon	3	SF	Carlos Hyde, SF RB	9	Lawrence Shin	Carlos Hyde	RB	10.1	16.2	Sunday afternoon	3
 Randy Bacon	3	Mia	Jarvis Landry, Mia WR	9	Lawrence Shin	Jarvis Landry	WR	15.1	18.6	Sunday afternoon	3
 Randy Bacon	3	NE	Rob Gronkowski, NE TE	9	Lawrence Shin	Rob Gronkowski	TE	11.4	12.3	Sunday morning	3
-Randy Bacon	3	GB	Randall Cobb, GB WR  P	9	Lawrence Shin	Randall Cobb	WR	30.8	14.9	Monday evening	3
+Randy Bacon	3	GB	Randall Cobb, GB WR  Q	9	Lawrence Shin	Randall Cobb	WR	30.8	14.9	Monday evening	3
 Randy Bacon	3	NYJ	Brandon Marshall, NYJ WR	9	Lawrence Shin	Brandon Marshall	WR	17.9	13.4	Sunday morning	3
 Randy Bacon	3	Cle	Isaiah Crowell, Cle RB	9	Lawrence Shin	Isaiah Crowell	RB	6.1	15.8	Sunday morning	3
 Randy Bacon	3	StL	Aaron Donald, StL DT	9	Lawrence Shin	Aaron Donald	Aaron Donald, StL DT	10	NA	Sunday morning	3
@@ -287,25 +287,25 @@ Lawrence Shin	3	Min	Harrison Smith, Min S	9	Randy Bacon	Harrison Smith	Harrison
 Lawrence Shin	3	Bal	Justin Tucker, Bal K	9	Randy Bacon	Justin Tucker	K	8	9.8	Sunday morning	3
 Lawrence Shin	3	Dal	Tom Hornsey, Dal P	9	Randy Bacon	Tom Hornsey	Tom Hornsey, Dal P	0	NA	Sunday morning	3
 Lawrence Shin	3	GB	Packers Coach HC	9	Randy Bacon	Packers Coach	Packers Coach HC	13.8	NA	Monday evening	3
-trevor lemmons	4	Den	Peyton Manning, Den QB	10	Randy Bacon	Peyton Manning	QB	9.5	21	Sunday afternoon	1
-trevor lemmons	4	Mia	Ryan Tannehill, Mia QB	10	Randy Bacon	Ryan Tannehill	QB	12	18.1	NA	1
+trevor lemmons	4	Den	Peyton Manning, Den QB  P	10	Randy Bacon	Peyton Manning	QB	9.5	21	Sunday afternoon	1
+trevor lemmons	4	Mia	Ryan Tannehill, Mia QB	10	Randy Bacon	Ryan Tannehill	QB	12	18.1	Sunday morning	1
 trevor lemmons	4	Jax	T.J. Yeldon, Jax RB	10	Randy Bacon	T.J. Yeldon	RB	17	15.2	Sunday morning	1
-trevor lemmons	4	Den	Demaryius Thomas, Den WR	10	Randy Bacon	Demaryius Thomas	WR	13.4	15.1	Sunday afternoon	1
+trevor lemmons	4	Den	Demaryius Thomas, Den WR  Q	10	Randy Bacon	Demaryius Thomas	WR	13.4	15.1	Sunday afternoon	1
 trevor lemmons	4	Chi	Martellus Bennett, Chi TE	10	Randy Bacon	Martellus Bennett	TE	18.8	9.8	Sunday morning	1
 trevor lemmons	4	Chi	Matt Forte, Chi RB	10	Randy Bacon	Matt Forte	RB	20.8	23.4	Sunday morning	1
 trevor lemmons	4	StL	Tre Mason, StL RB	10	Randy Bacon	Tre Mason	RB	0.4	7.5	Sunday afternoon	1
 trevor lemmons	4	Bal	C.J. Mosley, Bal LB	10	Randy Bacon	C.J. Mosley	C.J. Mosley, Bal LB	8	NA	Thursday evening	1
 trevor lemmons	4	Car	Charles Tillman, Car CB	10	Randy Bacon	Charles Tillman	Charles Tillman, Car CB	5	NA	Sunday morning	1
-trevor lemmons	4	Mia	Reshad Jones, Mia S	10	Randy Bacon	Reshad Jones	Reshad Jones, Mia S	15.5	NA	NA	1
+trevor lemmons	4	Mia	Reshad Jones, Mia S	10	Randy Bacon	Reshad Jones	Reshad Jones, Mia S	15.5	NA	Sunday morning	1
 trevor lemmons	4	Jax	Bryan Anger, Jax P	10	Randy Bacon	Bryan Anger	Bryan Anger, Jax P	18.9	NA	Sunday morning	1
 trevor lemmons	4	Cle	Broncos Coach HC	10	Randy Bacon	Broncos Coach	Broncos Coach HC	4.3	NA	Sunday afternoon	1
 Randy Bacon	4	Car	Cam Newton, Car QB	10	trevor lemmons	Cam Newton	QB	19.1	21.3	Sunday morning	1
 Randy Bacon	4	Buf	Tyrod Taylor, Buf QB	10	trevor lemmons	Tyrod Taylor	QB	17.4	18.7	Sunday morning	1
 Randy Bacon	4	SF	Carlos Hyde, SF RB	10	trevor lemmons	Carlos Hyde	RB	4.5	17.5	Sunday afternoon	1
-Randy Bacon	4	Mia	Jarvis Landry, Mia WR	10	trevor lemmons	Jarvis Landry	WR	28.1	16.7	NA	1
+Randy Bacon	4	Mia	Jarvis Landry, Mia WR	10	trevor lemmons	Jarvis Landry	WR	28	16.7	Sunday morning	1
 Randy Bacon	4	Cin	Tyler Eifert, Cin TE	10	trevor lemmons	Tyler Eifert	TE	7.8	8.5	Sunday morning	1
 Randy Bacon	4	GB	Eddie Lacy, GB RB	10	trevor lemmons	Eddie Lacy	RB	14.3	20.3	Sunday afternoon	1
-Randy Bacon	4	GB	Randall Cobb, GB WR  P	10	trevor lemmons	Randall Cobb	WR	6	16.5	Sunday afternoon	1
+Randy Bacon	4	GB	Randall Cobb, GB WR  Q	10	trevor lemmons	Randall Cobb	WR	6	16.5	Sunday afternoon	1
 Randy Bacon	4	NYJ	Brandon Marshall, NYJ WR	10	trevor lemmons	Brandon Marshall	WR	15	11.7	Sunday morning	1
 Randy Bacon	4	StL	Aaron Donald, StL DT	10	trevor lemmons	Aaron Donald	Aaron Donald, StL DT	5	NA	Sunday afternoon	1
 Randy Bacon	4	Ind	Henry Anderson, Ind DE  Q	10	trevor lemmons	Henry Anderson	Henry Anderson, Ind DE  Q	9	NA	Sunday morning	1
@@ -315,63 +315,63 @@ Randy Bacon	4	Phi	Malcolm Jenkins, Phi S	10	trevor lemmons	Malcolm Jenkins	Malc
 Randy Bacon	4	Sea	Steven Hauschka, Sea K	10	trevor lemmons	Steven Hauschka	K	17	8.7	Monday evening	1
 Randy Bacon	4	Hou	Shane Lechler, Hou P	10	trevor lemmons	Shane Lechler	Shane Lechler, Hou P	12	NA	Sunday morning	1
 Randy Bacon	4	Car	Cardinals Coach HC	10	trevor lemmons	Cardinals Coach	Cardinals Coach HC	0.2	NA	Sunday morning	1
-Kelly Steinbrecher	4	GB	Aaron Rodgers, GB QB	11	Lawrence Shin	Aaron Rodgers	QB	18.2	24.3	Sunday afternoon	2
-Kelly Steinbrecher	4	Cin	Andy Dalton, Cin QB	11	Lawrence Shin	Andy Dalton	QB	23.2	16.9	Sunday morning	2
-Kelly Steinbrecher	4	Oak	Latavius Murray, Oak RB	11	Lawrence Shin	Latavius Murray	RB	10.6	19.7	Sunday morning	2
-Kelly Steinbrecher	4	GB	James Jones, GB WR	11	Lawrence Shin	James Jones	WR	11.2	10.6	Sunday afternoon	2
-Kelly Steinbrecher	4	KC	Travis Kelce, KC TE	11	Lawrence Shin	Travis Kelce	TE	4.4	9.3	Sunday morning	2
-Kelly Steinbrecher	4	Atl	Julio Jones, Atl WR	11	Lawrence Shin	Julio Jones	WR	5	16.6	Sunday morning	2
-Kelly Steinbrecher	4	Sea	Tyler Lockett, Sea WR	11	Lawrence Shin	Tyler Lockett	WR	14	11.4	Monday evening	2
-Kelly Steinbrecher	4	Ari	Larry Fitzgerald, Ari WR	11	Lawrence Shin	Larry Fitzgerald	WR	9.9	11.7	Sunday afternoon	2
-Kelly Steinbrecher	4	Phi	Bennie Logan, Phi DT	11	Lawrence Shin	Bennie Logan	Bennie Logan, Phi DT	9.5	NA	Sunday morning	2
-Kelly Steinbrecher	4	Hou	J.J. Watt, Hou DE	11	Lawrence Shin	J.J. Watt	J.J. Watt, Hou DE	14	NA	Sunday morning	2
-Kelly Steinbrecher	4	Sea	K.J. Wright, Sea LB  P	11	Lawrence Shin	K.J. Wright	K	6	NA	Monday evening	2
-Kelly Steinbrecher	4	Ari	Tyrann Mathieu, Ari CB, S	11	Lawrence Shin	Tyrann Mathieu	Tyrann Mathieu, Ari CB, S	13	NA	Sunday afternoon	2
-Kelly Steinbrecher	4	Dal	Barry Church, Dal S	11	Lawrence Shin	Barry Church	Barry Church, Dal S	11.5	NA	Sunday evening	2
-Kelly Steinbrecher	4	Buf	Dan Carpenter, Buf K	11	Lawrence Shin	Dan Carpenter	K	8	8	Sunday morning	2
-Kelly Steinbrecher	4	Sea	Jon Ryan, Sea P	11	Lawrence Shin	Jon Ryan	Jon Ryan, Sea P	9.8	NA	Monday evening	2
-Kelly Steinbrecher	4	Buf	Bills Coach HC	11	Lawrence Shin	Bills Coach	Bills Coach HC	-9	NA	Sunday morning	2
-Lawrence Shin	4	Phi	Sam Bradford, Phi QB	11	Kelly Steinbrecher	Sam Bradford	QB	24.7	16.5	Sunday morning	2
-Lawrence Shin	4	KC	Jamaal Charles, KC RB	11	Kelly Steinbrecher	Jamaal Charles	RB	18.8	19.6	Sunday morning	2
-Lawrence Shin	4	NYG	Odell Beckham Jr., NYG WR	11	Kelly Steinbrecher	Odell Beckham Jr.	WR	5.8	14.8	Sunday morning	2
-Lawrence Shin	4	Mia	Jordan Cameron, Mia TE	11	Kelly Steinbrecher	Jordan Cameron	TE	3.1	6.5	NA	2
-Lawrence Shin	4	Cin	A.J. Green, Cin WR	11	Kelly Steinbrecher	A.J. Green	WR	10.3	13.4	Sunday morning	2
-Lawrence Shin	4	Hou	DeAndre Hopkins, Hou WR	11	Kelly Steinbrecher	DeAndre Hopkins	WR	20.8	11.7	Sunday morning	2
-Lawrence Shin	4	Bal	Justin Forsett, Bal RB	11	Kelly Steinbrecher	Justin Forsett	RB	21.9	17	Thursday evening	2
-Lawrence Shin	4	Buf	Marcell Dareus, Buf DT	11	Kelly Steinbrecher	Marcell Dareus	Marcell Dareus, Buf DT	6	NA	Sunday morning	2
-Lawrence Shin	4	Buf	Mario Williams, Buf DE	11	Kelly Steinbrecher	Mario Williams	Mario Williams, Buf DE	9	NA	Sunday morning	2
-Lawrence Shin	4	Den	Aqib Talib, Den CB	11	Kelly Steinbrecher	Aqib Talib	Aqib Talib, Den CB	6.5	NA	Sunday afternoon	2
-Lawrence Shin	4	Min	Harrison Smith, Min S	11	Kelly Steinbrecher	Harrison Smith	Harrison Smith, Min S	7	NA	Sunday afternoon	2
-Lawrence Shin	4	Bal	Justin Tucker, Bal K	11	Kelly Steinbrecher	Justin Tucker	K	20	10.1	Thursday evening	2
-Lawrence Shin	4	Dal	Tom Hornsey, Dal P	11	Kelly Steinbrecher	Tom Hornsey	Tom Hornsey, Dal P	0	NA	Sunday evening	2
-Lawrence Shin	4	GB	Packers Coach HC	11	Kelly Steinbrecher	Packers Coach	Packers Coach HC	11.7	NA	Sunday afternoon	2
+Kelly  Steinbrecher	4	GB	Aaron Rodgers, GB QB	11	Lawrence Shin	Aaron Rodgers	QB	18.2	24.3	Sunday afternoon	2
+Kelly  Steinbrecher	4	Cin	Andy Dalton, Cin QB	11	Lawrence Shin	Andy Dalton	QB	23.2	16.9	Sunday morning	2
+Kelly  Steinbrecher	4	Oak	Latavius Murray, Oak RB  Q	11	Lawrence Shin	Latavius Murray	RB	10.6	19.7	Sunday morning	2
+Kelly  Steinbrecher	4	GB	James Jones, GB WR  Q	11	Lawrence Shin	James Jones	WR	11.2	10.6	Sunday afternoon	2
+Kelly  Steinbrecher	4	KC	Travis Kelce, KC TE  P	11	Lawrence Shin	Travis Kelce	TE	4.4	9.3	Sunday morning	2
+Kelly  Steinbrecher	4	Atl	Julio Jones, Atl WR  Q	11	Lawrence Shin	Julio Jones	WR	5	16.6	Sunday morning	2
+Kelly  Steinbrecher	4	Sea	Tyler Lockett, Sea WR	11	Lawrence Shin	Tyler Lockett	WR	14	11.4	Monday evening	2
+Kelly  Steinbrecher	4	Ari	Larry Fitzgerald, Ari WR	11	Lawrence Shin	Larry Fitzgerald	WR	9.9	11.7	Sunday afternoon	2
+Kelly  Steinbrecher	4	Phi	Bennie Logan, Phi DT	11	Lawrence Shin	Bennie Logan	Bennie Logan, Phi DT	9.5	NA	Sunday morning	2
+Kelly  Steinbrecher	4	Hou	J.J. Watt, Hou DE	11	Lawrence Shin	J.J. Watt	J.J. Watt, Hou DE	14	NA	Sunday morning	2
+Kelly  Steinbrecher	4	Sea	K.J. Wright, Sea LB	11	Lawrence Shin	K.J. Wright	K	8	NA	Monday evening	2
+Kelly  Steinbrecher	4	Ari	Tyrann Mathieu, Ari CB, S	11	Lawrence Shin	Tyrann Mathieu	Tyrann Mathieu, Ari CB, S	13	NA	Sunday afternoon	2
+Kelly  Steinbrecher	4	Dal	Barry Church, Dal S	11	Lawrence Shin	Barry Church	Barry Church, Dal S	11.5	NA	Sunday evening	2
+Kelly  Steinbrecher	4	Buf	Dan Carpenter, Buf K	11	Lawrence Shin	Dan Carpenter	K	8	8	Sunday morning	2
+Kelly  Steinbrecher	4	Sea	Jon Ryan, Sea P	11	Lawrence Shin	Jon Ryan	Jon Ryan, Sea P	14	NA	Monday evening	2
+Kelly  Steinbrecher	4	Buf	Bills Coach HC	11	Lawrence Shin	Bills Coach	Bills Coach HC	-9	NA	Sunday morning	2
+Lawrence Shin	4	Phi	Sam Bradford, Phi QB	11	Kelly  Steinbrecher	Sam Bradford	QB	24.7	16.5	Sunday morning	2
+Lawrence Shin	4	KC	Jamaal Charles, KC RB	11	Kelly  Steinbrecher	Jamaal Charles	RB	18.8	19.6	Sunday morning	2
+Lawrence Shin	4	NYG	Odell Beckham Jr., NYG WR	11	Kelly  Steinbrecher	Odell Beckham Jr.	WR	5.8	14.8	Sunday morning	2
+Lawrence Shin	4	Mia	Jordan Cameron, Mia TE	11	Kelly  Steinbrecher	Jordan Cameron	TE	3.1	6.5	Sunday morning	2
+Lawrence Shin	4	Cin	A.J. Green, Cin WR	11	Kelly  Steinbrecher	A.J. Green	WR	10.3	13.4	Sunday morning	2
+Lawrence Shin	4	Hou	DeAndre Hopkins, Hou WR	11	Kelly  Steinbrecher	DeAndre Hopkins	WR	20.8	11.7	Sunday morning	2
+Lawrence Shin	4	Bal	Justin Forsett, Bal RB	11	Kelly  Steinbrecher	Justin Forsett	RB	21.9	17	Thursday evening	2
+Lawrence Shin	4	Buf	Marcell Dareus, Buf DT	11	Kelly  Steinbrecher	Marcell Dareus	Marcell Dareus, Buf DT	6	NA	Sunday morning	2
+Lawrence Shin	4	Buf	Mario Williams, Buf DE	11	Kelly  Steinbrecher	Mario Williams	Mario Williams, Buf DE	9	NA	Sunday morning	2
+Lawrence Shin	4	Den	Aqib Talib, Den CB	11	Kelly  Steinbrecher	Aqib Talib	Aqib Talib, Den CB	6.5	NA	Sunday afternoon	2
+Lawrence Shin	4	Min	Harrison Smith, Min S	11	Kelly  Steinbrecher	Harrison Smith	Harrison Smith, Min S	8.5	NA	Sunday afternoon	2
+Lawrence Shin	4	Bal	Justin Tucker, Bal K	11	Kelly  Steinbrecher	Justin Tucker	K	20	10.1	Thursday evening	2
+Lawrence Shin	4	Dal	Tom Hornsey, Dal P	11	Kelly  Steinbrecher	Tom Hornsey	Tom Hornsey, Dal P	0	NA	Sunday evening	2
+Lawrence Shin	4	GB	Packers Coach HC	11	Kelly  Steinbrecher	Packers Coach	Packers Coach HC	11.7	NA	Sunday afternoon	2
 Patrick Gowey	4	Sea	Russell Wilson, Sea QB	12	Andrew Phares	Russell Wilson	QB	20.9	22.5	Monday evening	3
 Patrick Gowey	4	Ari	Carson Palmer, Ari QB	12	Andrew Phares	Carson Palmer	QB	20.4	19.1	Sunday afternoon	3
 Patrick Gowey	4	Min	Adrian Peterson, Min RB	12	Andrew Phares	Adrian Peterson	RB	23.6	17.7	Sunday afternoon	3
 Patrick Gowey	4	Den	Emmanuel Sanders, Den WR	12	Andrew Phares	Emmanuel Sanders	WR	8.1	16.9	Sunday afternoon	3
 Patrick Gowey	4	Car	Greg Olsen, Car TE	12	Andrew Phares	Greg Olsen	TE	3.7	9.6	Sunday morning	3
-Patrick Gowey	4	Ind	Frank Gore, Ind RB  Q	12	Andrew Phares	Frank Gore	RB	12.4	18.3	Sunday morning	3
+Patrick Gowey	4	Ind	Frank Gore, Ind RB  P	12	Andrew Phares	Frank Gore	RB	12.4	18.3	Sunday morning	3
 Patrick Gowey	4	Atl	Devonta Freeman, Atl RB	12	Andrew Phares	Devonta Freeman	RB	37.8	23.1	Sunday morning	3
 Patrick Gowey	4	Ind	Donte Moncrief, Ind WR	12	Andrew Phares	Donte Moncrief	WR	9.3	8.9	Sunday morning	3
 Patrick Gowey	4	KC	Jaye Howard, KC DT	12	Andrew Phares	Jaye Howard	K	1.5	NA	Sunday morning	3
 Patrick Gowey	4	NYJ	Muhammad Wilkerson, NYJ DE	12	Andrew Phares	Muhammad Wilkerson	Muhammad Wilkerson, NYJ DE	10.5	NA	Sunday morning	3
 Patrick Gowey	4	Buf	Preston Brown, Buf LB	12	Andrew Phares	Preston Brown	Preston Brown, Buf LB	13.5	NA	Sunday morning	3
-Patrick Gowey	4	Cin	Adam Jones, Cin CB	12	Andrew Phares	Adam Jones	Adam Jones, Cin CB	5.2	NA	Sunday morning	3
-Patrick Gowey	4	Buf	Corey Graham, Buf CB, S	12	Andrew Phares	Corey Graham	Corey Graham, Buf CB, S	17.5	NA	Sunday morning	3
+Patrick Gowey	4	Cin	Adam Jones, Cin CB  Q	12	Andrew Phares	Adam Jones	Adam Jones, Cin CB  Q	5.2	NA	Sunday morning	3
+Patrick Gowey	4	Buf	Corey Graham, Buf CB, S  Q	12	Andrew Phares	Corey Graham	Corey Graham, Buf CB, S  Q	17.5	NA	Sunday morning	3
 Patrick Gowey	4	GB	Mason Crosby, GB K	12	Andrew Phares	Mason Crosby	K	5	10.1	Sunday afternoon	3
 Patrick Gowey	4	Car	Brad Nortman, Car P	12	Andrew Phares	Brad Nortman	Brad Nortman, Car P	8.8	NA	Sunday morning	3
 Patrick Gowey	4	Sea	Seahawks Coach HC	12	Andrew Phares	Seahawks Coach	Seahawks Coach HC	3.3	NA	Monday evening	3
 Andrew Phares	4	Atl	Matt Ryan, Atl QB	12	Patrick Gowey	Matt Ryan	QB	15.5	20.7	Sunday morning	3
 Andrew Phares	4	SD	Philip Rivers, SD QB	12	Patrick Gowey	Philip Rivers	QB	30.3	19	Sunday afternoon	3
-Andrew Phares	4	Hou	Arian Foster, Hou RB  Q	12	Patrick Gowey	Arian Foster	RB	4.5	18.2	Sunday morning	3
+Andrew Phares	4	Hou	Arian Foster, Hou RB  P	12	Patrick Gowey	Arian Foster	RB	4.5	18.2	Sunday morning	3
 Andrew Phares	4	Pit	Antonio Brown, Pit WR	12	Patrick Gowey	Antonio Brown	WR	11	16.2	Thursday evening	3
-Andrew Phares	4	Sea	Jimmy Graham, Sea TE	12	Patrick Gowey	Jimmy Graham	TE	4	9	Monday evening	3
-Andrew Phares	4	Mia	Lamar Miller, Mia RB	12	Patrick Gowey	Lamar Miller	RB	5.7	15.1	NA	3
+Andrew Phares	4	Sea	Jimmy Graham, Sea TE	12	Patrick Gowey	Jimmy Graham	TE	3.9	9	Monday evening	3
+Andrew Phares	4	Mia	Lamar Miller, Mia RB	12	Patrick Gowey	Lamar Miller	RB	5.7	15.1	Sunday morning	3
 Andrew Phares	4	SD	Melvin Gordon, SD RB	12	Patrick Gowey	Melvin Gordon	RB	8.1	17.5	Sunday afternoon	3
-Andrew Phares	4	Bal	Steve Smith Sr.*, Bal WR  O	12	Patrick Gowey	Steve Smith Sr.	WR	3.7	10.8	Thursday evening	3
+Andrew Phares	4	Bal	Steve Smith Sr., Bal WR  D	12	Patrick Gowey	Steve Smith Sr.	WR	3.7	10.8	Thursday evening	3
 Andrew Phares	4	Bal	Brandon Williams, Bal DT	12	Patrick Gowey	Brandon Williams	Brandon Williams, Bal DT	6.5	NA	Thursday evening	3
 Andrew Phares	4	StL	Robert Quinn, StL DE	12	Patrick Gowey	Robert Quinn	Robert Quinn, StL DE	3	NA	Sunday afternoon	3
-Andrew Phares	4	Sea	Bobby Wagner, Sea LB  P	12	Patrick Gowey	Bobby Wagner	Bobby Wagner, Sea LB  P	8	NA	Monday evening	3
+Andrew Phares	4	Sea	Bobby Wagner, Sea LB	12	Patrick Gowey	Bobby Wagner	Bobby Wagner, Sea LB	10	NA	Monday evening	3
 Andrew Phares	4	NYG	Prince Amukamara, NYG CB	12	Patrick Gowey	Prince Amukamara	Prince Amukamara, NYG CB	16	NA	Sunday morning	3
 Andrew Phares	4	SD	Eric Weddle, SD S	12	Patrick Gowey	Eric Weddle	Eric Weddle, SD S	15	NA	Sunday afternoon	3
 Andrew Phares	4	Atl	Matt Bryant, Atl K	12	Patrick Gowey	Matt Bryant	K	6	9.5	Sunday morning	3

@@ -1,0 +1,131 @@
+manager	slot	info	opponent	gametime	player.rank	prev.pts.total	prev.pts.avg	prev.pts.last	proj.pts	opp.rank	pct.start	pct.own	pct.own.change	starting	starter.pts	bench.pts	nfl.week	matchup.id
+Patrick Gowey	QB	Aaron Rodgers, GB<U+00A0>QB	StL	Sun 1:00	1	96.5	24.1	16.3	18.6	3	97.8	99.9	0	Starter	18.6	0	5	1
+Patrick Gowey	RB	Matt Forte, Chi<U+00A0>RB	@KC	Sun 1:00	5	54	13.5	13.5	14.5	19	98.9	99.9	0	Starter	14.5	0	5	1
+Patrick Gowey	RB	Karlos Williams, Buf<U+00A0>RB<U+00A0><U+00A0>Q	@Ten	Sun 1:00	6	51.2	12.8	13	14.2	11	56.9	86.7	30.7	Starter	14.2	0	5	1
+Patrick Gowey	WR	Randall Cobb, GB<U+00A0>WR<U+00A0><U+00A0>Q	StL	Sun 1:00	10	54.1	13.5	4.4	12.4	5	98.4	99.8	0	Starter	12.4	0	5	1
+Patrick Gowey	WR	James Jones, GB<U+00A0>WR<U+00A0><U+00A0>Q	StL	Sun 1:00	8	55.7	13.9	9.8	8	5	75	92	4.6	Starter	8	0	5	1
+Patrick Gowey	TE	Travis Kelce, KC<U+00A0>TE<U+00A0><U+00A0>P	Chi	Sun 1:00	2	41.3	10.3	2.9	7.6	8	94.2	99.4	0	Starter	7.6	0	5	1
+Patrick Gowey	FLEX	Jeremy Hill, Cin<U+00A0>RB<U+00A0><U+00A0>Q	Sea	Sun 1:00	13	44.5	11.1	24	9.8	2	75.7	99.1	-0.2	Starter	9.8	0	5	1
+Patrick Gowey	D/ST	Cardinals D/ST<U+00A0>D/ST	@Det	Sun 4:05	2	50	12.5	1	10.5	24	83	92	5.6	Starter	10.5	0	5	1
+Patrick Gowey	K	Stephen Gostkowski, NE<U+00A0>K	@Dal	Sun 4:25	7	40	13.3	NA	8.3	23	54.2	97.9	-0.9	Starter	8.3	0	5	1
+Patrick Gowey	Bench	Ameer Abdullah, Det<U+00A0>RB	Ari	Sun 4:05	25	31.8	8	4.4	8.3	8	36.5	88.9	-2	Bench	0	8.3	5	1
+Patrick Gowey	Bench	Martavis Bryant, Pit<U+00A0>WR	@SD	Mon 8:30	149	0	0	0	6.1	2	17.3	83.5	-0.3	Bench	0	6.1	5	1
+Patrick Gowey	Bench	Chris Johnson, Ari<U+00A0>RB	@Det	Sun 4:05	10	47.3	11.8	9.4	8.7	16	50.7	79.6	10.1	Bench	0	8.7	5	1
+Patrick Gowey	Bench	Robbie Gould, Chi<U+00A0>K	@KC	Sun 1:00	6	41	10.3	13	7.4	14	21.2	26.8	0.3	Bench	0	7.4	5	1
+Patrick Gowey	Bench	Andre Ellington, Ari<U+00A0>RB<U+00A0><U+00A0>Q	@Det	Sun 4:05	66	11.6	2.9	0	7.3	16	9.3	84.8	-1.4	Bench	0	7.3	5	1
+Patrick Gowey	Bench	Panthers D/ST<U+00A0>D/ST	** BYE **		45	11.3	15	NA	NA	44.9	75.9	2.7	NA	Bench	0	NA	5	1
+Patrick Gowey	Bench	Allen Hurns, Jax<U+00A0>WR<U+00A0><U+00A0>Q	@TB	Sun 1:00	21	41.4	10.4	17.6	5.9	20	8.3	32.6	26	Bench	0	5.9	5	1
+trevor lemmons	QB	Tyrod Taylor, Buf<U+00A0>QB	@Ten	Sun 1:00	5	80.6	20.2	14.5	16	9	46.3	75.9	11	Starter	16	0	5	2
+trevor lemmons	RB	DeMarco Murray, Phi<U+00A0>RB	NO	Sun 1:00	41	24.3	6.1	4.8	14.1	12	75	99.2	-0.2	Starter	14.1	0	5	2
+trevor lemmons	RB	T.J. Yeldon, Jax<U+00A0>RB	@TB	Sun 1:00	30	30.1	7.5	10.9	11.4	23	67.4	92.3	0.7	Starter	11.4	0	5	2
+trevor lemmons	WR	DeAndre Hopkins, Hou<U+00A0>WR	Ind	Thu 8:25	4	60.9	15.2	15.7	10.9	28	94.5	99.4	0.1	Starter	10.9	0	5	2
+trevor lemmons	WR	Larry Fitzgerald, Ari<U+00A0>WR	@Det	Sun 4:05	2	71.2	17.8	7.9	10	21	92.7	97.3	0.9	Starter	10	0	5	2
+trevor lemmons	TE	Martellus Bennett, Chi<U+00A0>TE	@KC	Sun 1:00	8	32.1	8	14.3	7.1	10	82.3	96.3	1.1	Starter	7.1	0	5	2
+trevor lemmons	FLEX	Dion Lewis, NE<U+00A0>RB	@Dal	Sun 4:25	16	42.5	14.2	NA	12.9	30	51.3	88.7	2.4	Starter	12.9	0	5	2
+trevor lemmons	D/ST	Seahawks D/ST<U+00A0>D/ST	@Cin	Sun 1:00	5	42	10.5	5	8.3	5	93.3	99.7	-0.1	Starter	8.3	0	5	2
+trevor lemmons	K	Mason Crosby, GB<U+00A0>K	StL	Sun 1:00	10	36	9	4	8.2	28	81.8	87.8	2.5	Starter	8.2	0	5	2
+trevor lemmons	Bench	T.Y. Hilton, Ind<U+00A0>WR	@Hou	Thu 8:25	40	29.4	7.4	6.7	9.7	6	81.9	98.9	-0.2	Bench	0	9.7	5	2
+trevor lemmons	Bench	Andrew Luck, Ind<U+00A0>QB<U+00A0><U+00A0>Q	@Hou	Thu 8:25	30	42.6	10.7	0	19.2	27	36.3	99.8	-0.1	Bench	0	19.2	5	2
+trevor lemmons	Bench	Chris Ivory, NYJ<U+00A0>RB	** BYE **		50.6	12.7	22.6	NA	NA	21.9	93.8	0.1	NA	Bench	0	NA	5	2
+trevor lemmons	Bench	Eric Decker, NYJ<U+00A0>WR	** BYE **		36	9	10.6	NA	NA	4.3	82.4	-1.9	NA	Bench	0	NA	5	2
+trevor lemmons	Bench	Matthew Stafford, Det<U+00A0>QB	Ari	Sun 4:05	26	49.9	12.5	8.1	16.7	5	19.9	64.7	-7	Bench	0	16.7	5	2
+trevor lemmons	Bench	Travis Benjamin, Cle<U+00A0>WR	@Bal	Sun 1:00	5	60.8	15.2	7.9	7.2	31	35.7	73.8	2.9	Bench	0	7.2	5	2
+trevor lemmons	Bench	Tyler Eifert, Cin<U+00A0>TE	Sea	Sun 1:00	3	40.2	10.1	6.9	6.8	23	68.1	91.3	1	Bench	0	6.8	5	2
+Reece Wade	QB	Drew Brees, NO<U+00A0>QB	@Phi	Sun 1:00	24	51	12.7	22.4	15.6	16	52.8	96.8	0.7	Starter	15.6	0	5	3
+Reece Wade	RB	Marshawn Lynch, Sea<U+00A0>RB<U+00A0><U+00A0>Q	@Cin	Sun 1:00	50	20.9	5.2	0	12.1	14	52	99.3	-0.5	Starter	12.1	0	5	3
+Reece Wade	RB	Justin Forsett, Bal<U+00A0>RB	Cle	Sun 1:00	27	31.5	7.9	15	14.1	24	84.9	98.3	0.7	Starter	14.1	0	5	3
+Reece Wade	WR	Calvin Johnson, Det<U+00A0>WR	Ari	Sun 4:05	38	29.5	7.4	3.6	13.5	12	94.7	99.9	0	Starter	13.5	0	5	3
+Reece Wade	WR	Demaryius Thomas, Den<U+00A0>WR<U+00A0><U+00A0>Q	@Oak	Sun 4:25	23	40.1	10	9.3	12.4	10	99.2	99.9	0	Starter	12.4	0	5	3
+Reece Wade	TE	Jason Witten, Dal<U+00A0>TE	NE	Sun 4:25	6	35.8	9	5.7	8.2	21	84.9	97.8	0.2	Starter	8.2	0	5	3
+Reece Wade	FLEX	Shane Vereen, NYG<U+00A0>RB	SF	Sun 8:30	52	19.9	5	2.1	7.7	28	15.7	61.1	-8	Starter	7.7	0	5	3
+Reece Wade	D/ST	Broncos D/ST<U+00A0>D/ST	@Oak	Sun 4:25	1	65	16.3	9	10.9	7	93.5	97.6	1.3	Starter	10.9	0	5	3
+Reece Wade	K	Justin Tucker, Bal<U+00A0>K	Cle	Sun 1:00	2	45	11.3	15	8.3	19	91	96.2	0.3	Starter	8.3	0	5	3
+Reece Wade	Bench	DeSean Jackson, Wsh<U+00A0>WR<U+00A0><U+00A0>Q	@Atl	Sun 1:00	149	0	0	0	0	14	2.7	79.3	-1.7	Bench	0	0	5	3
+Reece Wade	Bench	Cam Newton, Car<U+00A0>QB	** BYE **		85.9	21.5	16.1	NA	NA	39	96.4	1.2	NA	Bench	0	NA	5	3
+Reece Wade	Bench	Arian Foster, Hou<U+00A0>RB<U+00A0><U+00A0>P	Ind	Thu 8:25	107	1.5	0.4	1.5	15.3	18	76.4	97	0.9	Bench	0	15.3	5	3
+Reece Wade	Bench	Mike Wallace, Min<U+00A0>WR	** BYE **		29.3	7.3	14.3	NA	NA	11.9	74.8	-6.1	NA	Bench	0	NA	5	3
+Reece Wade	Bench	Allen Robinson, Jax<U+00A0>WR	@TB	Sun 1:00	16	45	11.3	8	8.6	20	59	90.3	-0.5	Bench	0	8.6	5	3
+Reece Wade	Bench	Michael Floyd, Ari<U+00A0>WR	@Det	Sun 4:05	98	8.9	2.2	5.9	6.5	21	10.8	48.8	-7.2	Bench	0	6.5	5	3
+Reece Wade	Bench	Duke Johnson Jr., Cle<U+00A0>RB<U+00A0><U+00A0>P	@Bal	Sun 1:00	36	27.6	6.9	17.6	6.9	6	15.2	59.5	5.9	Bench	0	6.9	5	3
+Patrick OBerry	QB	Peyton Manning, Den<U+00A0>QB<U+00A0><U+00A0>P	@Oak	Sun 4:25	23	52.3	13.1	8.3	17.5	28	83.8	99.8	0	Starter	17.5	0	5	4
+Patrick OBerry	RB	Todd Gurley, StL<U+00A0>RB	@GB	Sun 1:00	56	17.5	4.4	16.1	11.7	10	54.7	93.6	2.9	Starter	11.7	0	5	4
+Patrick OBerry	RB	Devonta Freeman, Atl<U+00A0>RB	Wsh	Sun 1:00	1	86.8	21.7	32.9	15.8	1	89.5	96.2	6.5	Starter	15.8	0	5	4
+Patrick OBerry	WR	Julio Jones, Atl<U+00A0>WR<U+00A0><U+00A0>Q	Wsh	Sun 1:00	1	71.8	18	3.8	14.2	23	99.6	100	0	Starter	14.2	0	5	4
+Patrick OBerry	WR	Emmanuel Sanders, Den<U+00A0>WR	@Oak	Sun 4:25	18	42.7	10.7	6.8	11.5	10	97.2	99.7	0	Starter	11.5	0	5	4
+Patrick OBerry	TE	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Starter	NA	0	5	4
+Patrick OBerry	FLEX	Eddie Lacy, GB<U+00A0>RB	StL	Sun 1:00	21	34.8	8.7	9.3	14.2	27	96.8	99.9	0	Starter	14.2	0	5	4
+Patrick OBerry	D/ST	Rams D/ST<U+00A0>D/ST	@GB	Sun 1:00	6	35	8.8	7	6.2	4	63	88.8	-1.5	Starter	6.2	0	5	4
+Patrick OBerry	K	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Starter	NA	0	5	4
+Patrick OBerry	Bench	LeSean McCoy, Buf<U+00A0>RB<U+00A0><U+00A0>D	@Ten	Sun 1:00	31	28.9	7.2	0	0	11	10.5	98.2	-1.5	Bench	0	0	5	4
+Patrick OBerry	Bench	Mike Evans, TB<U+00A0>WR	Jax	Sun 1:00	77	13.3	3.3	3.2	8.7	16	76.3	97.4	-0.2	Bench	0	8.7	5	4
+Patrick OBerry	Bench	Andre Johnson, Ind<U+00A0>WR	@Hou	Thu 8:25	121	5.1	1.3	0	6	6	14.4	65.2	-16	Bench	0	6	5	4
+Patrick OBerry	Bench	Charles Johnson, Min<U+00A0>WR<U+00A0><U+00A0>Q	** BYE **		4.6	1.2	0	NA	NA	1	35.7	-16.8	NA	Bench	0	NA	5	4
+Patrick OBerry	Bench	Tevin Coleman, Atl<U+00A0>RB<U+00A0><U+00A0>Q	Wsh	Sun 1:00	58	17.2	4.3	0	6.4	1	1.3	65.8	-9.2	Bench	0	6.4	5	4
+Patrick OBerry	Bench	Philip Rivers, SD<U+00A0>QB	Pit	Mon 8:30	8	70.2	17.5	26.2	17.5	18	51.2	86.7	3.3	Bench	0	17.5	5	4
+Patrick OBerry	Bench	Owen Daniels, Den<U+00A0>TE	@Oak	Sun 4:25	19	18.1	4.5	6.9	6.1	32	23.5	49.9	8.3	Bench	0	6.1	5	4
+Patrick OBerry	Bench	Charles Clay, Buf<U+00A0>TE	@Ten	Sun 1:00	4	37.5	9.4	11.1	6	28	44.1	68.8	32.6	Bench	0	6	5	4
+Patrick OBerry	Bench	Cairo Santos, KC<U+00A0>K	Chi	Sun 1:00	4	44	11	27	7.8	23	3.6	11.4	8.5	Bench	0	7.8	5	4
+Andy Vu	QB	Sam Bradford, Phi<U+00A0>QB	NO	Sun 1:00	21	54	13.5	24.2	15.5	31	21.2	53.7	-1.6	Starter	15.5	0	5	3
+Andy Vu	RB	Adrian Peterson, Min<U+00A0>RB	** BYE **		62.4	15.6	15.4	NA	NA	42	99.9	0	NA	Starter	NA	0	5	3
+Andy Vu	RB	Doug Martin, TB<U+00A0>RB	Jax	Sun 1:00	19	38.1	9.5	20.3	9.7	15	44.9	86.2	0.4	Starter	9.7	0	5	3
+Andy Vu	WR	A.J. Green, Cin<U+00A0>WR	Sea	Sun 1:00	6	59.7	14.9	8.2	10.4	3	98.4	99.9	0	Starter	10.4	0	5	3
+Andy Vu	WR	Brandon Marshall, NYJ<U+00A0>WR	** BYE **		56	14	12.8	NA	NA	39.4	97.7	0.1	NA	Starter	NA	0	5	3
+Andy Vu	TE	Jordan Cameron, Mia<U+00A0>TE	** BYE **		17	4.3	1.9	NA	NA	27.4	73.7	-10.4	NA	Starter	NA	0	5	3
+Andy Vu	FLEX	Frank Gore, Ind<U+00A0>RB<U+00A0><U+00A0>P	@Hou	Thu 8:25	20	35.3	8.8	6.7	11.4	29	80.7	97.6	-0.1	Starter	11.4	0	5	3
+Andy Vu	D/ST	Jets D/ST<U+00A0>D/ST	** BYE **		44	11	10	NA	NA	59.4	89.7	-2.5	NA	Starter	NA	0	5	3
+Andy Vu	K	Dan Bailey, Dal<U+00A0>K	NE	Sun 4:25	17	29	7.3	8	7.6	5	76.4	83	-2	Starter	7.6	0	5	3
+Andy Vu	Bench	Mark Ingram, NO<U+00A0>RB	@Phi	Sun 1:00	7	50.7	12.7	12.8	10.2	5	88.7	99	0	Bench	0	10.2	5	3
+Andy Vu	Bench	Ben Roethlisberger*, Pit<U+00A0>QB<U+00A0><U+00A0>O	@SD	Mon 8:30	20	54.4	13.6	0	0	8	4	89.1	-4.1	Bench	0	0	5	3
+Andy Vu	Bench	Jordan Matthews, Phi<U+00A0>WR	NO	Sun 1:00	29	34.1	8.5	5	8.8	11	75.7	97.1	-0.5	Bench	0	8.8	5	3
+Andy Vu	Bench	C.J. Spiller, NO<U+00A0>RB	@Phi	Sun 1:00	46	22.1	5.5	16.9	6.1	5	22.2	73.3	-2.8	Bench	0	6.1	5	3
+Andy Vu	Bench	Torrey Smith, SF<U+00A0>WR	@NYG	Sun 8:30	45	26.5	6.6	5.4	5.4	7	15.8	66.5	-8	Bench	0	5.4	5	3
+Andy Vu	Bench	Ryan Tannehill, Mia<U+00A0>QB	** BYE **		63.9	16	12.3	NA	NA	16	74	-8.3	NA	Bench	0	NA	5	3
+Andy Vu	Bench	Tre Mason, StL<U+00A0>RB	@GB	Sun 1:00	80	6	1.5	-0.1	1.7	10	5.9	46.8	-14.7	Bench	0	1.7	5	3
+Alonso Prato	QB	Matt Ryan, Atl<U+00A0>QB	Wsh	Sun 1:00	7	72.3	18.1	14.1	18.3	14	79.6	97	0.7	Starter	18.3	0	5	4
+Alonso Prato	RB	Jamaal Charles, KC<U+00A0>RB	Chi	Sun 1:00	2	71.7	17.9	14.5	19.8	13	99.7	100	0	Starter	19.8	0	5	4
+Alonso Prato	RB	Joseph Randle, Dal<U+00A0>RB	NE	Sun 4:25	4	54.3	13.6	8.6	11.3	9	86.7	97.1	0.6	Starter	11.3	0	5	4
+Alonso Prato	WR	Antonio Brown, Pit<U+00A0>WR	@SD	Mon 8:30	3	61.8	15.5	4.2	10.8	2	98.7	100	0	Starter	10.8	0	5	4
+Alonso Prato	WR	Keenan Allen, SD<U+00A0>WR	Pit	Mon 8:30	9	54.7	13.7	13.2	9.4	19	90	98.1	0.4	Starter	9.4	0	5	4
+Alonso Prato	TE	Delanie Walker, Ten<U+00A0>TE	Buf	Sun 1:00	22	17.1	5.7	NA	6.5	24	20.9	69.7	-1.7	Starter	6.5	0	5	4
+Alonso Prato	FLEX	Latavius Murray, Oak<U+00A0>RB<U+00A0><U+00A0>Q	Den	Sun 4:25	9	47.7	11.9	4.1	10.6	20	88.5	97.6	0.3	Starter	10.6	0	5	4
+Alonso Prato	D/ST	Bills D/ST<U+00A0>D/ST	@Ten	Sun 1:00	14	23	5.8	3	9.1	28	85.4	97.6	-0.1	Starter	9.1	0	5	4
+Alonso Prato	K	Matt Bryant, Atl<U+00A0>K	Wsh	Sun 1:00	9	37	9.3	6	8.7	10	84.8	90.5	0.6	Starter	8.7	0	5	4
+Alonso Prato	Bench	Jimmy Graham, Sea<U+00A0>TE	@Cin	Sun 1:00	11	29.4	7.4	2.9	6.4	6	93.3	99.7	-0.1	Bench	0	6.4	5	4
+Alonso Prato	Bench	Alshon Jeffery, Chi<U+00A0>WR<U+00A0><U+00A0>Q	@KC	Sun 1:00	106	7.8	2	0	10.4	32	31.1	96.5	-0.7	Bench	0	10.4	5	4
+Alonso Prato	Bench	Melvin Gordon, SD<U+00A0>RB	Pit	Mon 8:30	43	24.2	6.1	4.6	10.2	3	71.7	96.1	-0.4	Bench	0	10.2	5	4
+Alonso Prato	Bench	Vincent Jackson, TB<U+00A0>WR	Jax	Sun 1:00	22	41.2	10.3	20.7	8.2	16	52.3	91.2	-0.3	Bench	0	8.2	5	4
+Alonso Prato	Bench	Dolphins D/ST<U+00A0>D/ST	** BYE **		6	1.5	-1	NA	NA	29.1	50.4	-23.3	NA	Bench	0	NA	5	4
+Alonso Prato	Bench	Matt Prater, Det<U+00A0>K	Ari	Sun 4:05	32	13	3.3	5	6.8	21	49.4	57.9	-8.7	Bench	0	6.8	5	4
+Alonso Prato	Bench	Carson Palmer, Ari<U+00A0>QB	@Det	Sun 4:05	4	81.4	20.4	16	16.9	22	66.4	91.8	3.6	Bench	0	16.9	5	4
+Samiha Verma	QB	Andy Dalton, Cin<U+00A0>QB	Sea	Sun 1:00	2	89.2	22.3	18.4	13.9	6	41.6	74.7	15.6	Starter	13.9	0	5	2
+Samiha Verma	RB	C.J. Anderson, Den<U+00A0>RB	@Oak	Sun 4:25	57	17.4	4.4	7	9	17	57.6	95.9	-1.5	Starter	9	0	5	2
+Samiha Verma	RB	Carlos Hyde, SF<U+00A0>RB	@NYG	Sun 8:30	12	44.6	11.2	2.2	10.7	22	83.4	98.5	-0.4	Starter	10.7	0	5	2
+Samiha Verma	WR	Odell Beckham Jr., NYG<U+00A0>WR	SF	Sun 8:30	18	42.7	10.7	3.8	12.3	24	99.3	100	0	Starter	12.3	0	5	2
+Samiha Verma	WR	Steve Smith Sr., Bal<U+00A0>WR<U+00A0><U+00A0>D	Cle	Sun 1:00	11	49.3	12.3	2.4	0.1	26	31.7	88.7	-1.6	Starter	0.1	0	5	2
+Samiha Verma	TE	Rob Gronkowski, NE<U+00A0>TE	@Dal	Sun 4:25	1	54.8	18.3	NA	11.2	7	63.4	100	0	Starter	11.2	0	5	2
+Samiha Verma	FLEX	Rashad Jennings, NYG<U+00A0>RB	SF	Sun 8:30	22	34.5	8.6	15.2	8.7	28	32.2	81.3	-1.8	Starter	8.7	0	5	2
+Samiha Verma	D/ST	Ravens D/ST<U+00A0>D/ST	Cle	Sun 1:00	14	23	5.8	6	7.9	19	43.7	69.2	4.9	Starter	7.9	0	5	2
+Samiha Verma	K	Brandon McManus, Den<U+00A0>K	@Oak	Sun 4:25	1	46	11.5	12	7	31	76.1	82.4	3.8	Starter	7	0	5	2
+Samiha Verma	Bench	Tom Brady, NE<U+00A0>QB	@Dal	Sun 4:25	6	78.6	26.2	NA	20.6	10	59.8	99.4	0.1	Bench	0	20.6	5	2
+Samiha Verma	Bench	Julian Edelman, NE<U+00A0>WR	@Dal	Sun 4:25	20	42	14	NA	11.8	13	54.6	99.3	-0.1	Bench	0	11.8	5	2
+Samiha Verma	Bench	Joique Bell, Det<U+00A0>RB<U+00A0><U+00A0>Q	Ari	Sun 4:05	63	12.3	3.1	0	4.9	8	2.4	48.3	-16.7	Bench	0	4.9	5	2
+Samiha Verma	Bench	Giovani Bernard, Cin<U+00A0>RB	Sea	Sun 1:00	15	43.2	10.8	12.2	8.2	2	55.7	92.2	0.3	Bench	0	8.2	5	2
+Samiha Verma	Bench	LeGarrette Blount, NE<U+00A0>RB	@Dal	Sun 4:25	36	27.6	9.2	NA	6.5	30	24.7	89.9	0.5	Bench	0	6.5	5	2
+Samiha Verma	Bench	Ryan Mathews, Phi<U+00A0>RB	NO	Sun 1:00	39	25.6	6.4	0	4	12	12.6	68.7	-1.6	Bench	0	4	5	2
+Samiha Verma	Bench	Kendall Wright, Ten<U+00A0>WR	Buf	Sun 1:00	28	34.6	11.5	NA	8	30	21.2	77.8	1.2	Bench	0	8	5	2
+Lauren Manibusan	QB	Russell Wilson, Sea<U+00A0>QB	@Cin	Sun 1:00	9	68.9	17.2	15.5	17	15	80.4	99.8	0	Starter	17	0	5	1
+Lauren Manibusan	RB	Le'Veon Bell, Pit<U+00A0>RB	@SD	Mon 8:30	18	40.2	10.1	21	17.3	31	98.4	99.9	0	Starter	17.3	0	5	1
+Lauren Manibusan	RB	Lamar Miller, Mia<U+00A0>RB	** BYE **		21.8	5.5	3.6	NA	NA	26.2	93.1	-3	NA	Starter	NA	0	5	1
+Lauren Manibusan	WR	Davante Adams, GB<U+00A0>WR<U+00A0><U+00A0>Q	StL	Sun 1:00	96	9.2	2.3	0	0	5	2.1	70.6	-12.3	Starter	0	0	5	1
+Lauren Manibusan	WR	Jeremy Maclin, KC<U+00A0>WR	Chi	Sun 1:00	13	45.6	11.4	14.8	9.7	25	75.4	95.2	1.7	Starter	9.7	0	5	1
+Lauren Manibusan	TE	Greg Olsen, Car<U+00A0>TE	** BYE **		36.3	9.1	2.8	NA	NA	59.1	99.1	-0.2	NA	Starter	NA	0	5	1
+Lauren Manibusan	FLEX	Amari Cooper, Oak<U+00A0>WR	Den	Sun 4:25	17	43.9	11	10.9	8.4	1	83.6	97.7	0.2	Starter	8.4	0	5	1
+Lauren Manibusan	D/ST	Patriots D/ST<U+00A0>D/ST	@Dal	Sun 4:25	19	20	6.7	NA	7.8	13	29.7	77.1	-2.9	Starter	7.8	0	5	1
+Lauren Manibusan	K	Steven Hauschka, Sea<U+00A0>K	@Cin	Sun 1:00	2	45	11.3	11	8.3	26	93.8	98.6	0.2	Starter	8.3	0	5	1
+Lauren Manibusan	Bench	Isaiah Crowell, Cle<U+00A0>RB	@Bal	Sun 1:00	23	32.6	8.2	12.5	7.1	6	35.4	81.6	-3.6	Bench	0	7.1	5	1
+Lauren Manibusan	Bench	Nelson Agholor, Phi<U+00A0>WR	NO	Sun 1:00	104	8	2	4.4	5.3	11	8.4	48.6	-10.9	Bench	0	5.3	5	1
+Lauren Manibusan	Bench	Rueben Randle, NYG<U+00A0>WR	SF	Sun 8:30	38	29.5	7.4	9.1	6.9	24	18	39.3	7.2	Bench	0	6.9	5	1
+Lauren Manibusan	Bench	Eli Manning, NYG<U+00A0>QB	SF	Sun 8:30	11	65.9	16.5	18.3	16.9	21	43.7	83	1.4	Bench	0	16.9	5	1
+Lauren Manibusan	Bench	John Brown, Ari<U+00A0>WR	@Det	Sun 4:05	37	30.1	7.5	8.8	7.5	21	33.4	76.3	-3.6	Bench	0	7.5	5	1
+Lauren Manibusan	Bench	Heath Miller, Pit<U+00A0>TE	@SD	Mon 8:30	17	19.7	4.9	0.1	4.1	22	31.5	59.8	-9.2	Bench	0	4.1	5	1
+Lauren Manibusan	Bench	Bishop Sankey, Ten<U+00A0>RB	Buf	Sun 1:00	31	28.9	9.6	NA	5.4	7	4.2	60.5	-13.2	Bench	0	5.4	5	1

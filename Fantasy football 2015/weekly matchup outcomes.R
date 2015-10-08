@@ -10,11 +10,14 @@ league.list <- c("1390327",  # Epic Bar Graphs
                  "1765344"   # Won't Get Fined
 )
 
+
 # create NFL calendar
 # wk 1 starts 9/9/2015 and there are 16-17 weeks in fantasy
 start <- as.Date('2015-09-09', '%Y-%m-%d')
 nfl.week <- floor(as.numeric(Sys.Date() - start)/7)+1
 nfl.week <- ifelse(nfl.week > 17, 99, ifelse(Sys.Date() < start, 0, nfl.week))
+# this is for if I don't run graphs on time
+nfl.week <- nfl.week-1
 
 team.clean <- function(team) {
     team.tmp <- team
@@ -140,7 +143,7 @@ for (league.id in league.list) {
     scoring$position <- scoring$info
     scoring$player <- gsub('^(([A-z]| |[0-9]|\'|\\/|\\.)+).*','\\1',scoring$info)
     scoring$position <- gsub('.*,*.*(RB|QB|WR|K|TE|D\\/ST).*','\\1',scoring$info)
-    scoring$team <- gsub('^.*, ([A-z]{2,3}).*','\\1',scoring$info)
+    scoring$team <- gsub('^[^,]*, ([A-z]{2,3})[^,]*','\\1',scoring$info)
     scoring$team <- gsub('D\\/ST','',scoring$team)
     scoring$team <- gsub('\\s*','',scoring$team)
     scoring$team <- gsub('^([A-z]{1,3}).*','\\1',scoring$team)
@@ -183,6 +186,7 @@ for (league.id in league.list) {
     
     
     schedule <- read.table('/Users/pgowey/Github/Resources/Fantasy Football 2015/schedule.txt', sep = '\t', header = T, quote = '', fill = T)
+    schedule$team <- gsub('(, 1pm| \\(London\\))','',schedule$team)
     scoring$team <- sub('Jet', 'NYJ', scoring$team)
     scoring <- left_join(scoring, schedule, by = c('team' = 'team', 'week' = 'wk'))
     scoring$manager <- as.character(scoring$manager)
@@ -230,6 +234,11 @@ for (league.id in league.list) {
         for (j in 1:nrow(wks)) {
             j <- wks[j,]
             b <- filter(a, week == j)
+            z <- b[1,]
+            z$period.num <- 7
+            z$period <- period.names(z$period.num)
+            z$pts <- 0
+            b <- rbind(b,z)
             # c <- b %>% group_by(id) %>% summarise(n = n()) %>% select(id)  # is this necessary?
             b <- arrange(b, period.num)
             b$cum.score <- cumsum(b$pts)
@@ -239,12 +248,36 @@ for (league.id in league.list) {
         }
     }
     periods.tmp$period <- factor(periods.tmp$period, levels = c('Thursday afternoon','Thursday evening','Saturday evening','Sunday morning','Sunday afternoon','Sunday evening','Monday evening'))
-    periods.graph <- filter(periods.tmp, week == nfl.week)
+    periods <- periods.tmp
+    
+    periods.join <- select(periods, manager, week, id, period, is.max, is.min, cum.score) %>% 
+        mutate(min.period = ifelse(is.min == 'Y', as.character(period),''),
+               min.score =  ifelse(is.min == 'Y', cum.score, ''),
+               max.score =  ifelse(is.max == 'Y', cum.score, '')) %>%
+        group_by(manager, week, id) %>%
+        summarise(min.period = max(min.period), min.score = as.numeric(max(min.score)), max.score = as.numeric(max(max.score))) %>% 
+        as.data.frame()
+    periods.join.2 <- periods.join
+    names(periods.join.2) <- paste('opp', names(periods.join.2), sep = '.')
+    periods.join <- inner_join(periods.join, periods.join.2, by = c('week' = 'opp.week', 'id' = 'opp.id')) %>% filter(manager != opp.manager)
+    periods.join$adjust <- with(periods.join, ifelse(min.period == opp.min.period & abs(min.score-opp.min.score) < 10, 'Y', 'N'))
+    periods.join$lab.ypos <- with(periods.join, min.score+ifelse(adjust == 'Y', ifelse(min.score > opp.min.score, 6, -6), 0))
+    periods.ypos <- select(periods.join, manager, week, id, min.period, lab.ypos)
+    periods <- left_join(periods, periods.ypos, by = c('manager' = 'manager', 'week' = 'week', 'id' = 'id', 'period' = 'min.period'))
+    
+    periods.outcome <- select(periods.join, week, id, max.score) %>% group_by(week,id) %>% summarise(win.score = max(max.score)) %>% as.data.frame()
+    periods.outcome <- left_join(periods.outcome, select(periods.join, week, id, max.score, opp.max.score, manager) %>% mutate(diff = max.score - opp.max.score), by = c('week' = 'week', 'id' = 'id', 'win.score' = 'max.score'))
+    periods.outcome$flavor <- with(periods.outcome, paste('Matchup ', id, ': ', manager, ' wins by ', round(diff,1), ' points', sep = ''))
+    periods.outcome <- select(periods.outcome, week, id, flavor)
+    periods <- left_join(periods, periods.outcome, by = c('week' = 'week', 'id' = 'id'))
+    
+    periods.graph <- filter(periods, week == nfl.week)
+    periods.graph$period <- factor(periods.graph$period, levels = c('Thursday afternoon','Thursday evening','Saturday evening','Sunday morning','Sunday afternoon','Sunday evening','Monday evening'))
     wkly.cumu.pts <- ggplot(data = periods.graph, aes(x = period, y = cum.score, group = manager, color = manager)) +
         geom_line(size = 1) +
-        geom_text(data = filter(periods.graph, is.min == 'Y'), aes(label = gsub('^J$', 'John', gsub('([A-z]+).*','\\1',manager)), y = cum.score+8), hjust = 1, vjust = 0.5, size = 4) +
+        geom_text(data = filter(periods.graph, is.min == 'Y'), aes(label = gsub('^J$', 'John', gsub('([A-z]+).*','\\1',manager)), y = lab.ypos), hjust = 1, vjust = 0.5, size = 4) +
         scale_color_discrete(guide = F) +
-        facet_wrap(~ id, ncol = 1, scales = 'fixed') +
+        facet_wrap(~ flavor, ncol = 1, scales = 'fixed') +
         theme(axis.text.x = element_text(angle = 45, hjust = 1), plot.title = element_text(size = 18, face = 'bold', vjust = 2, hjust = 0)) +
         labs(x = 'Scoring period', y = 'Cumulative score', title = paste(league.name, ': \nWeek ', nfl.week, ' cumulative scoring', sep = ''))
     
