@@ -5,11 +5,11 @@ library(dplyr)
 
 
 league.list <- c("1390327",  # Epic Bar Graphs
-                 "1637123",  # Belicheck Your Balls  # Belicheck won't work yet because not all the IDP positions are filled in
+                 #"1637123",  # Belicheck Your Balls  # Belicheck won't work yet because not all the IDP positions are filled in
                  "1702312",  # CAmazonians
                  "1765344"   # Won't Get Fined
 )
-
+# league.id <- league.list[1]
 
 # create NFL calendar
 # wk 1 starts 9/9/2015 and there are 16-17 weeks in fantasy
@@ -17,7 +17,7 @@ start <- as.Date('2015-09-09', '%Y-%m-%d')
 nfl.week <- floor(as.numeric(Sys.Date() - start)/7)+1
 nfl.week <- ifelse(nfl.week > 17, 99, ifelse(Sys.Date() < start, 0, nfl.week))
 # this is for if I don't run graphs on time
-nfl.week <- nfl.week-1
+nfl.week <- nfl.week
 
 team.clean <- function(team) {
     team.tmp <- team
@@ -47,6 +47,42 @@ team.clean <- function(team) {
     team.tmp <- gsub('Bil','Buf',team.tmp)
     team.tmp <- gsub('Bea','Chi',team.tmp)
     team.tmp
+}
+
+team.long.names <- function(x) {
+    x <- sub('Cardinals', 'Ari', x)
+    x <- sub('Falcons', 'Atl', x)
+    x <- sub('Ravens', 'Bal', x)
+    x <- sub('Bills', 'Buf', x)
+    x <- sub('Panthers', 'Car', x)
+    x <- sub('Bears', 'Chi', x)
+    x <- sub('Bengals', 'Cin', x)
+    x <- sub('Browns', 'Cle', x)
+    x <- sub('Cowboys', 'Dal', x)
+    x <- sub('Broncos', 'Den', x)
+    x <- sub('Lions', 'Det', x)
+    x <- sub('Packers', 'GB', x)
+    x <- sub('Texans', 'Hou', x)
+    x <- sub('Colts', 'Ind', x)
+    x <- sub('Jaguars', 'Jax', x)
+    x <- sub('Chiefs', 'KC', x)
+    x <- sub('Dolphins', 'Mia', x)
+    x <- sub('Vikings', 'Min', x)
+    x <- sub('Patriots', 'NE', x)
+    x <- sub('Saints', 'NO', x)
+    x <- sub('Giants', 'NYG', x)
+    x <- sub('Jets', 'NYJ', x)
+    x <- sub('Raiders', 'Oak', x)
+    x <- sub('Eagles', 'Phi', x)
+    x <- sub('Steelers', 'Pit', x)
+    x <- sub('Chargers', 'SD', x)
+    x <- sub('Seahawks', 'Sea', x)
+    x <- sub('49ers', 'SF', x)
+    x <- sub('Rams', 'StL', x)
+    x <- sub('Buccaneers', 'TB', x)
+    x <- sub('Titans', 'Ten', x)
+    x <- sub('Redskins', 'Wsh', x)
+    x
 }
 
 for (league.id in league.list) {
@@ -147,6 +183,9 @@ for (league.id in league.list) {
     scoring$team <- gsub('D\\/ST','',scoring$team)
     scoring$team <- gsub('\\s*','',scoring$team)
     scoring$team <- gsub('^([A-z]{1,3}).*','\\1',scoring$team)
+    scoring$team.long <- gsub('^([A-z0-9]+) .*$','\\1', scoring$info)
+    scoring$team <- with(scoring, ifelse(position == 'D/ST', team.long.names(team.long), team))
+    scoring$team.long <- NULL
     ###########################################################
     # lots of crap in the team section
     scoring$team <- team.clean(scoring$team)

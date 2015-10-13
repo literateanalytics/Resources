@@ -1,0 +1,448 @@
+manager	week	team	player.info	link_num	opponent	player	position	score	proj.pts	period	id
+Marjory Reiter	1	NE	Tom Brady, NE QB	1	Kelly Steinbrecher	Tom Brady	QB	27.6	19.9	Thursday evening	1
+Marjory Reiter	1	Wsh	Alfred Morris, Wsh RB	1	Kelly Steinbrecher	Alfred Morris	RB	12.1	8.6	Sunday morning	1
+Marjory Reiter	1	Car	Jonathan Stewart, Car RB	1	Kelly Steinbrecher	Jonathan Stewart	RB	8.1	10.5	Sunday morning	1
+Marjory Reiter	1	Atl	Julio Jones, Atl WR  Q	1	Kelly Steinbrecher	Julio Jones	WR	26.1	15.9	Monday evening	1
+Marjory Reiter	1	TB	Vincent Jackson, TB WR	1	Kelly Steinbrecher	Vincent Jackson	WR	5.1	9.5	Sunday afternoon	1
+Marjory Reiter	1	NE	Rob Gronkowski, NE TE	1	Kelly Steinbrecher	Rob Gronkowski	TE	27.4	13.1	Thursday evening	1
+Marjory Reiter	1	TB	Doug Martin, TB RB	1	Kelly Steinbrecher	Doug Martin	RB	5.4	9.5	Sunday afternoon	1
+Marjory Reiter	1	Det	Lions D/ST D/ST	1	Kelly Steinbrecher	Lions D/ST	D/ST	8	6.5	Sunday afternoon	1
+Marjory Reiter	1	Ind	Adam Vinatieri, Ind K	1	Kelly Steinbrecher	Adam Vinatieri	K	-1	7.9	Sunday morning	1
+Kelly Steinbrecher	1	Mia	Ryan Tannehill, Mia QB	1	Marjory Reiter	Ryan Tannehill	QB	11.7	18.2	Sunday morning	1
+Kelly Steinbrecher	1	KC	Jamaal Charles*, KC RB  O	1	Marjory Reiter	Jamaal Charles	RB	16.3	15.5	Sunday morning	1
+Kelly Steinbrecher	1	Atl	Devonta Freeman, Atl RB  Q	1	Marjory Reiter	Devonta Freeman	RB	4.7	7.7	Monday evening	1
+Kelly Steinbrecher	1	Den	Demaryius Thomas, Den WR	1	Marjory Reiter	Demaryius Thomas	WR	6	14.3	Sunday afternoon	1
+Kelly Steinbrecher	1	Mia	Jarvis Landry, Mia WR	1	Marjory Reiter	Jarvis Landry	WR	15.7	12.1	Sunday morning	1
+Kelly Steinbrecher	1	Car	Greg Olsen, Car TE	1	Marjory Reiter	Greg Olsen	TE	1.1	7	Sunday morning	1
+Kelly Steinbrecher	1	Sea	Tyler Lockett, Sea WR	1	Marjory Reiter	Tyler Lockett	WR	14.2	7.3	Sunday morning	1
+Kelly Steinbrecher	1	Sea	Seahawks D/ST D/ST	1	Marjory Reiter	Seahawks D/ST	D/ST	18	12.4	Sunday morning	1
+Kelly Steinbrecher	1	Sea	Steven Hauschka, Sea K	1	Marjory Reiter	Steven Hauschka	K	11	8.2	Sunday morning	1
+Patrick Gowey	1	Dal	Tony Romo*, Dal QB  IR	2	Andrew Phares	Tony Romo	QB	22.1	18.6	Sunday evening	2
+Patrick Gowey	1	Den	C.J. Anderson, Den RB	2	Andrew Phares	C.J. Anderson	RB	4.8	15.1	Sunday afternoon	2
+Patrick Gowey	1	Ind	Frank Gore, Ind RB	2	Andrew Phares	Frank Gore	RB	3.1	10.4	Sunday morning	2
+Patrick Gowey	1	GB	Randall Cobb, GB WR  P	2	Andrew Phares	Randall Cobb	WR	9.8	14.6	Sunday morning	2
+Patrick Gowey	1	NE	Julian Edelman, NE WR	2	Andrew Phares	Julian Edelman	WR	10.6	11.1	Thursday evening	2
+Patrick Gowey	1	KC	Travis Kelce, KC TE	2	Andrew Phares	Travis Kelce	TE	22.6	7.2	Sunday morning	2
+Patrick Gowey	1	NYG	Odell Beckham Jr., NYG WR  Q	2	Andrew Phares	Odell Beckham Jr.	WR	4.4	15.4	Sunday evening	2
+Patrick Gowey	1	Mia	Dolphins D/ST D/ST	2	Andrew Phares	Dolphins D/ST	D/ST	14	9.1	Sunday morning	2
+Patrick Gowey	1	Dal	Dan Bailey, Dal K	2	Andrew Phares	Dan Bailey	K	9	7.8	Sunday evening	2
+Andrew Phares	1	Atl	Matt Ryan, Atl QB	2	Patrick Gowey	Matt Ryan	QB	16.6	19.2	Monday evening	2
+Andrew Phares	1	Min	Adrian Peterson, Min RB	2	Patrick Gowey	Adrian Peterson	RB	5.2	16.5	Monday evening	2
+Andrew Phares	1	Cin	Jeremy Hill, Cin RB	2	Patrick Gowey	Jeremy Hill	RB	18.3	15.2	Sunday afternoon	2
+Andrew Phares	1	Cin	A.J. Green, Cin WR	2	Patrick Gowey	A.J. Green	WR	6.3	13.7	Sunday afternoon	2
+Andrew Phares	1	Oak	Amari Cooper, Oak WR	2	Patrick Gowey	Amari Cooper	WR	4.7	8.5	Sunday afternoon	2
+Andrew Phares	1	Cin	Tyler Eifert, Cin TE	2	Patrick Gowey	Tyler Eifert	TE	22.4	5.4	Sunday afternoon	2
+Andrew Phares	1	Ind	Andre Johnson, Ind WR	2	Patrick Gowey	Andre Johnson	WR	2.4	7.9	Sunday morning	2
+Andrew Phares	1	NYJ	Jets D/ST D/ST	2	Patrick Gowey	Jets D/ST	D/ST	16	7.6	Sunday morning	2
+Andrew Phares	1	Atl	Matt Bryant, Atl K	2	Patrick Gowey	Matt Bryant	K	17	8.7	Monday evening	2
+Jason Wardwell	1	Pit	Ben Roethlisberger*, Pit QB  O	3	Adam Bohnett	Ben Roethlisberger	QB	18	17.8	Thursday evening	3
+Jason Wardwell	1	Buf	LeSean McCoy*, Buf RB  O	3	Adam Bohnett	LeSean McCoy	RB	8.7	15.7	Sunday morning	3
+Jason Wardwell	1	Jax	T.J. Yeldon, Jax RB  Q	3	Adam Bohnett	T.J. Yeldon	RB	6.7	9.2	Sunday morning	3
+Jason Wardwell	1	Chi	Alshon Jeffery*, Chi WR  O	3	Adam Bohnett	Alshon Jeffery	WR	7.8	11.5	Sunday morning	3
+Jason Wardwell	1	Phi	Jordan Matthews, Phi WR	3	Adam Bohnett	Jordan Matthews	WR	10.2	8.9	Monday evening	3
+Jason Wardwell	1	Pit	Heath Miller, Pit TE	3	Adam Bohnett	Heath Miller	TE	8.4	7.2	Thursday evening	3
+Jason Wardwell	1	Buf	Sammy Watkins*, Buf WR  O	3	Adam Bohnett	Sammy Watkins	WR	0	8.1	Sunday morning	3
+Jason Wardwell	1	Car	Panthers D/ST D/ST	3	Adam Bohnett	Panthers D/ST	D/ST	22	12.4	Sunday morning	3
+Jason Wardwell	1	Phi	Cody Parkey*, Phi K  IR	3	Adam Bohnett	Cody Parkey	K	5	7.5	Monday evening	3
+Adam Bohnett	1	Den	Peyton Manning, Den QB	3	Jason Wardwell	Peyton Manning	QB	4.9	17.7	Sunday afternoon	3
+Adam Bohnett	1	Chi	Matt Forte, Chi RB	3	Jason Wardwell	Matt Forte	RB	22.6	10.7	Sunday morning	3
+Adam Bohnett	1	Bal	Justin Forsett, Bal RB  Q	3	Jason Wardwell	Justin Forsett	RB	5.6	11.2	Sunday afternoon	3
+Adam Bohnett	1	Pit	Antonio Brown, Pit WR	3	Jason Wardwell	Antonio Brown	WR	19.4	17.7	Thursday evening	3
+Adam Bohnett	1	Det	Golden Tate, Det WR	3	Jason Wardwell	Golden Tate	WR	3.8	8.7	Sunday afternoon	3
+Adam Bohnett	1	Dal	Jason Witten, Dal TE	3	Jason Wardwell	Jason Witten	TE	18	7	Sunday evening	3
+Adam Bohnett	1	Cin	Giovani Bernard, Cin RB	3	Jason Wardwell	Giovani Bernard	RB	8.8	8.4	Sunday afternoon	3
+Adam Bohnett	1	StL	Rams D/ST D/ST	3	Jason Wardwell	Rams D/ST	D/ST	13	6	Sunday morning	3
+Adam Bohnett	1	Bal	Justin Tucker, Bal K	3	Jason Wardwell	Justin Tucker	K	10	8.2	Sunday afternoon	3
+Randy Bacon	1	NO	Drew Brees, NO QB	4	Adhi Vidyasankar	Drew Brees	QB	16.5	18.8	Sunday afternoon	4
+Randy Bacon	1	GB	Eddie Lacy, GB RB	4	Adhi Vidyasankar	Eddie Lacy	RB	15.9	15.9	Sunday morning	4
+Randy Bacon	1	Dal	Joseph Randle, Dal RB	4	Adhi Vidyasankar	Joseph Randle	RB	10.7	10.1	Sunday evening	4
+Randy Bacon	1	Ind	T.Y. Hilton, Ind WR	4	Adhi Vidyasankar	T.Y. Hilton	WR	8.8	9.1	Sunday morning	4
+Randy Bacon	1	NO	Brandin Cooks, NO WR	4	Adhi Vidyasankar	Brandin Cooks	WR	5.3	11.2	Sunday afternoon	4
+Randy Bacon	1	Sea	Jimmy Graham, Sea TE	4	Adhi Vidyasankar	Jimmy Graham	TE	11.1	10.7	Sunday morning	4
+Randy Bacon	1	Atl	Roddy White, Atl WR	4	Adhi Vidyasankar	Roddy White	WR	8.4	8.4	Monday evening	4
+Randy Bacon	1	Hou	Texans D/ST D/ST	4	Adhi Vidyasankar	Texans D/ST	D/ST	2	7.1	Sunday morning	4
+Randy Bacon	1	GB	Mason Crosby, GB K	4	Adhi Vidyasankar	Mason Crosby	K	7	8	Sunday morning	4
+Adhi Vidyasankar	1	GB	Aaron Rodgers, GB QB	4	Randy Bacon	Aaron Rodgers	QB	23.1	17.9	Sunday morning	4
+Adhi Vidyasankar	1	NO	Mark Ingram, NO RB	4	Randy Bacon	Mark Ingram	RB	12.2	11.6	Sunday afternoon	4
+Adhi Vidyasankar	1	Mia	Lamar Miller, Mia RB	4	Randy Bacon	Lamar Miller	RB	7.5	12.4	Sunday morning	4
+Adhi Vidyasankar	1	Det	Calvin Johnson, Det WR	4	Randy Bacon	Calvin Johnson	WR	3.9	14.2	Sunday afternoon	4
+Adhi Vidyasankar	1	SD	Keenan Allen, SD WR	4	Randy Bacon	Keenan Allen	WR	16.6	9.7	Sunday afternoon	4
+Adhi Vidyasankar	1	Chi	Martellus Bennett, Chi TE	4	Randy Bacon	Martellus Bennett	TE	11.5	7.4	Sunday morning	4
+Adhi Vidyasankar	1	NYG	Rashad Jennings, NYG RB	4	Randy Bacon	Rashad Jennings	RB	11.2	9	Sunday evening	4
+Adhi Vidyasankar	1	Buf	Bills D/ST D/ST	4	Randy Bacon	Bills D/ST	D/ST	9	7.4	Sunday morning	4
+Adhi Vidyasankar	1	NE	Stephen Gostkowski, NE K	4	Randy Bacon	Stephen Gostkowski	K	4	8.4	Thursday evening	4
+Lawrence Shin	1	Phi	Sam Bradford, Phi QB	5	Jiagen Eep	Sam Bradford	QB	13.4	17.1	Monday evening	5
+Lawrence Shin	1	Sea	Marshawn Lynch*, Sea RB  O	5	Jiagen Eep	Marshawn Lynch	RB	12.4	15.4	Sunday morning	5
+Lawrence Shin	1	Oak	Latavius Murray, Oak RB	5	Jiagen Eep	Latavius Murray	RB	8	10.7	Sunday afternoon	5
+Lawrence Shin	1	Dal	Dez Bryant*, Dal WR  O	5	Jiagen Eep	Dez Bryant	WR	4.8	14.2	Sunday evening	5
+Lawrence Shin	1	GB	Davante Adams*, GB WR  O	5	Jiagen Eep	Davante Adams	WR	5.9	8.2	Sunday morning	5
+Lawrence Shin	1	NYG	Larry Donnell, NYG TE	5	Jiagen Eep	Larry Donnell	TE	2.1	6.6	Sunday evening	5
+Lawrence Shin	1	SF	Carlos Hyde, SF RB	5	Jiagen Eep	Carlos Hyde	RB	30.2	11.5	Monday evening	5
+Lawrence Shin	1	Ari	Cardinals D/ST D/ST	5	Jiagen Eep	Cardinals D/ST	D/ST	1	4.6	Sunday afternoon	5
+Lawrence Shin	1	NYJ	Nick Folk, NYJ K	5	Jiagen Eep	Nick Folk	K	7	7.5	Sunday morning	5
+Jiagen Eep	1	Ind	Andrew Luck*, Ind QB  O	5	Lawrence Shin	Andrew Luck	QB	17.7	17.7	Sunday morning	5
+Jiagen Eep	1	Phi	DeMarco Murray, Phi RB	5	Lawrence Shin	DeMarco Murray	RB	14	14.3	Monday evening	5
+Jiagen Eep	1	NYJ	Chris Ivory, NYJ RB	5	Lawrence Shin	Chris Ivory	RB	22	11	Sunday morning	5
+Jiagen Eep	1	Den	Emmanuel Sanders, Den WR	5	Lawrence Shin	Emmanuel Sanders	WR	7.3	10.2	Sunday afternoon	5
+Jiagen Eep	1	NYJ	Brandon Marshall, NYJ WR	5	Lawrence Shin	Brandon Marshall	WR	12.2	8.4	Sunday morning	5
+Jiagen Eep	1	Mia	Jordan Cameron, Mia TE	5	Lawrence Shin	Jordan Cameron	TE	7.3	6.1	Sunday morning	5
+Jiagen Eep	1	Wsh	DeSean Jackson*, Wsh WR  O	5	Lawrence Shin	DeSean Jackson	WR	0	8.3	Sunday morning	5
+Jiagen Eep	1	Den	Broncos D/ST D/ST	5	Lawrence Shin	Broncos D/ST	D/ST	18	6.2	Sunday afternoon	5
+Jiagen Eep	1	Det	Matt Prater, Det K	5	Lawrence Shin	Matt Prater	K	4	8.3	Sunday afternoon	5
+Jason Wardwell	2	Pit	Ben Roethlisberger*, Pit QB  O	6	Patrick Gowey	Ben Roethlisberger	QB	30.7	18	Sunday morning	1
+Jason Wardwell	2	Buf	LeSean McCoy*, Buf RB  O	6	Patrick Gowey	LeSean McCoy	RB	11.6	10.7	Sunday morning	1
+Jason Wardwell	2	Jax	T.J. Yeldon, Jax RB  Q	6	Patrick Gowey	T.J. Yeldon	RB	8.3	8.9	Sunday afternoon	1
+Jason Wardwell	2	Chi	Alshon Jeffery*, Chi WR  O	6	Patrick Gowey	Alshon Jeffery	WR	0	NA	Sunday morning	1
+Jason Wardwell	2	Phi	Jordan Matthews, Phi WR	6	Patrick Gowey	Jordan Matthews	WR	14	8.7	Sunday afternoon	1
+Jason Wardwell	2	Pit	Heath Miller, Pit TE	6	Patrick Gowey	Heath Miller	TE	9.5	7.3	Sunday morning	1
+Jason Wardwell	2	Cle	Isaiah Crowell, Cle RB	6	Patrick Gowey	Isaiah Crowell	RB	13.2	10.3	Sunday morning	1
+Jason Wardwell	2	Car	Panthers D/ST D/ST	6	Patrick Gowey	Panthers D/ST	D/ST	4	6.2	Sunday morning	1
+Jason Wardwell	2	Phi	Cody Parkey*, Phi K  IR	6	Patrick Gowey	Cody Parkey	K	5	7.7	Sunday afternoon	1
+Patrick Gowey	2	Dal	Tony Romo*, Dal QB  IR	6	Jason Wardwell	Tony Romo	QB	7	18	Sunday afternoon	1
+Patrick Gowey	2	Den	C.J. Anderson, Den RB	6	Jason Wardwell	C.J. Anderson	RB	2.9	10.3	Thursday evening	1
+Patrick Gowey	2	Ind	Frank Gore, Ind RB	6	Jason Wardwell	Frank Gore	RB	4.1	10.7	Monday evening	1
+Patrick Gowey	2	GB	Randall Cobb, GB WR  P	6	Jason Wardwell	Randall Cobb	WR	11.6	9.3	Sunday evening	1
+Patrick Gowey	2	NYG	Odell Beckham Jr., NYG WR  Q	6	Jason Wardwell	Odell Beckham Jr.	WR	20.6	12.3	Sunday morning	1
+Patrick Gowey	2	KC	Travis Kelce, KC TE	6	Jason Wardwell	Travis Kelce	TE	5.8	7.8	Thursday evening	1
+Patrick Gowey	2	SD	Danny Woodhead, SD RB	6	Jason Wardwell	Danny Woodhead	RB	10.4	8.9	Sunday morning	1
+Patrick Gowey	2	Mia	Dolphins D/ST D/ST	6	Jason Wardwell	Dolphins D/ST	D/ST	-1	12.5	Sunday afternoon	1
+Patrick Gowey	2	Dal	Dan Bailey, Dal K	6	Jason Wardwell	Dan Bailey	K	8	8.1	Sunday afternoon	1
+Kelly Steinbrecher	2	Sea	Russell Wilson, Sea QB	7	Randy Bacon	Russell Wilson	QB	22	18.6	Sunday evening	2
+Kelly Steinbrecher	2	KC	Jamaal Charles*, KC RB  O	7	Randy Bacon	Jamaal Charles	RB	14.7	12.9	Thursday evening	2
+Kelly Steinbrecher	2	Phi	Darren Sproles, Phi RB	7	Randy Bacon	Darren Sproles	RB	2.7	7.8	Sunday afternoon	2
+Kelly Steinbrecher	2	Den	Demaryius Thomas, Den WR	7	Randy Bacon	Demaryius Thomas	WR	11.6	11.2	Thursday evening	2
+Kelly Steinbrecher	2	Mia	Jarvis Landry, Mia WR	7	Randy Bacon	Jarvis Landry	WR	12.6	11.5	Sunday afternoon	2
+Kelly Steinbrecher	2	Car	Greg Olsen, Car TE	7	Randy Bacon	Greg Olsen	TE	7	6.7	Sunday morning	2
+Kelly Steinbrecher	2	Sea	Tyler Lockett, Sea WR	7	Randy Bacon	Tyler Lockett	WR	5.7	9.1	Sunday evening	2
+Kelly Steinbrecher	2	Sea	Seahawks D/ST D/ST	7	Randy Bacon	Seahawks D/ST	D/ST	3	8.5	Sunday evening	2
+Kelly Steinbrecher	2	Sea	Steven Hauschka, Sea K	7	Randy Bacon	Steven Hauschka	K	7	7.4	Sunday evening	2
+Randy Bacon	2	NO	Drew Brees, NO QB	7	Kelly Steinbrecher	Drew Brees	QB	12.1	19.6	Sunday morning	2
+Randy Bacon	2	GB	Eddie Lacy, GB RB	7	Kelly Steinbrecher	Eddie Lacy	RB	0.9	13.2	Sunday evening	2
+Randy Bacon	2	Dal	Joseph Randle, Dal RB	7	Kelly Steinbrecher	Joseph Randle	RB	6.5	10.6	Sunday afternoon	2
+Randy Bacon	2	NO	Brandin Cooks, NO WR	7	Kelly Steinbrecher	Brandin Cooks	WR	5.8	10	Sunday morning	2
+Randy Bacon	2	Atl	Roddy White, Atl WR	7	Kelly Steinbrecher	Roddy White	WR	0	8.1	Sunday morning	2
+Randy Bacon	2	Sea	Jimmy Graham, Sea TE	7	Kelly Steinbrecher	Jimmy Graham	TE	1.1	8	Sunday evening	2
+Randy Bacon	2	Det	Ameer Abdullah, Det RB	7	Kelly Steinbrecher	Ameer Abdullah	RB	5.2	12.4	Sunday morning	2
+Randy Bacon	2	Hou	Texans D/ST D/ST	7	Kelly Steinbrecher	Texans D/ST	D/ST	5	8.4	Sunday morning	2
+Randy Bacon	2	GB	Mason Crosby, GB K	7	Kelly Steinbrecher	Mason Crosby	K	16	7.7	Sunday evening	2
+Marjory Reiter	2	NE	Tom Brady, NE QB	8	Lawrence Shin	Tom Brady	QB	28.2	16.6	Sunday morning	3
+Marjory Reiter	2	Wsh	Alfred Morris, Wsh RB	8	Lawrence Shin	Alfred Morris	RB	7.2	10.1	Sunday morning	3
+Marjory Reiter	2	Car	Jonathan Stewart, Car RB	8	Lawrence Shin	Jonathan Stewart	RB	5.9	11.5	Sunday morning	3
+Marjory Reiter	2	Atl	Julio Jones, Atl WR  Q	8	Lawrence Shin	Julio Jones	WR	13.5	12.3	Sunday morning	3
+Marjory Reiter	2	Ari	Larry Fitzgerald, Ari WR	8	Lawrence Shin	Larry Fitzgerald	WR	29.2	8.3	Sunday morning	3
+Marjory Reiter	2	NE	Rob Gronkowski, NE TE	8	Lawrence Shin	Rob Gronkowski	TE	17.3	10.2	Sunday morning	3
+Marjory Reiter	2	TB	Doug Martin, TB RB	8	Lawrence Shin	Doug Martin	RB	7.8	10	Sunday morning	3
+Marjory Reiter	2	NE	Patriots D/ST D/ST	8	Lawrence Shin	Patriots D/ST	D/ST	13	7.7	Sunday morning	3
+Marjory Reiter	2	Ind	Adam Vinatieri, Ind K	8	Lawrence Shin	Adam Vinatieri	K	0	8.2	Monday evening	3
+Lawrence Shin	2	Phi	Sam Bradford, Phi QB	8	Marjory Reiter	Sam Bradford	QB	7.9	16.4	Sunday afternoon	3
+Lawrence Shin	2	Sea	Marshawn Lynch*, Sea RB  O	8	Marjory Reiter	Marshawn Lynch	RB	6.2	13	Sunday evening	3
+Lawrence Shin	2	Oak	Latavius Murray, Oak RB	8	Marjory Reiter	Latavius Murray	RB	14.7	10.4	Sunday afternoon	3
+Lawrence Shin	2	Hou	DeAndre Hopkins, Hou WR	8	Marjory Reiter	DeAndre Hopkins	WR	5.3	10.2	Sunday morning	3
+Lawrence Shin	2	GB	Davante Adams*, GB WR  O	8	Marjory Reiter	Davante Adams	WR	3.3	7.4	Sunday evening	3
+Lawrence Shin	2	TB	Austin Seferian-Jenkins*, TB TE  O	8	Marjory Reiter	Austin Seferian	TE	2.9	5.8	Sunday morning	3
+Lawrence Shin	2	SF	Carlos Hyde, SF RB	8	Marjory Reiter	Carlos Hyde	RB	6.1	11.9	Sunday morning	3
+Lawrence Shin	2	Ari	Cardinals D/ST D/ST	8	Marjory Reiter	Cardinals D/ST	D/ST	18	9.6	Sunday morning	3
+Lawrence Shin	2	NYJ	Nick Folk, NYJ K	8	Marjory Reiter	Nick Folk	K	8	8	Monday evening	3
+Andrew Phares	2	Atl	Matt Ryan, Atl QB	9	Adhi Vidyasankar	Matt Ryan	QB	18.4	16.6	Sunday morning	4
+Andrew Phares	2	Min	Adrian Peterson, Min RB	9	Adhi Vidyasankar	Adrian Peterson	RB	17.2	13.6	Sunday morning	4
+Andrew Phares	2	Cin	Jeremy Hill, Cin RB	9	Adhi Vidyasankar	Jeremy Hill	RB	0.1	13.4	Sunday morning	4
+Andrew Phares	2	Cin	A.J. Green, Cin WR	9	Adhi Vidyasankar	A.J. Green	WR	10.5	11	Sunday morning	4
+Andrew Phares	2	Oak	Amari Cooper, Oak WR	9	Adhi Vidyasankar	Amari Cooper	WR	16.9	8.1	Sunday afternoon	4
+Andrew Phares	2	Cin	Tyler Eifert, Cin TE	9	Adhi Vidyasankar	Tyler Eifert	TE	10.9	6.9	Sunday morning	4
+Andrew Phares	2	Atl	Tevin Coleman, Atl RB	9	Adhi Vidyasankar	Tevin Coleman	RB	9.2	10	Sunday morning	4
+Andrew Phares	2	NYJ	Jets D/ST D/ST	9	Adhi Vidyasankar	Jets D/ST	D/ST	13	6.3	Monday evening	4
+Andrew Phares	2	Atl	Matt Bryant, Atl K	9	Adhi Vidyasankar	Matt Bryant	K	7	8.3	Sunday morning	4
+Adhi Vidyasankar	2	GB	Aaron Rodgers, GB QB	9	Andrew Phares	Aaron Rodgers	QB	22.3	18.1	Sunday evening	4
+Adhi Vidyasankar	2	NO	Mark Ingram, NO RB	9	Andrew Phares	Mark Ingram	RB	9.8	13.2	Sunday morning	4
+Adhi Vidyasankar	2	Mia	Lamar Miller, Mia RB	9	Andrew Phares	Lamar Miller	RB	4.2	13	Sunday afternoon	4
+Adhi Vidyasankar	2	Det	Calvin Johnson, Det WR	9	Andrew Phares	Calvin Johnson	WR	14.3	10.5	Sunday morning	4
+Adhi Vidyasankar	2	SD	Keenan Allen, SD WR	9	Andrew Phares	Keenan Allen	WR	-0.4	10.3	Sunday morning	4
+Adhi Vidyasankar	2	Chi	Martellus Bennett, Chi TE	9	Andrew Phares	Martellus Bennett	TE	4.8	7.1	Sunday morning	4
+Adhi Vidyasankar	2	NYG	Rashad Jennings, NYG RB	9	Andrew Phares	Rashad Jennings	RB	2.4	10.5	Sunday morning	4
+Adhi Vidyasankar	2	Bal	Ravens D/ST D/ST	9	Andrew Phares	Ravens D/ST	D/ST	-3	12.2	Sunday afternoon	4
+Adhi Vidyasankar	2	NE	Stephen Gostkowski, NE K	9	Andrew Phares	Stephen Gostkowski	K	19	7.9	Sunday morning	4
+Adam Bohnett	2	Car	Cam Newton, Car QB	10	Jiagen Eep	Cam Newton	QB	27.4	17.4	Sunday morning	5
+Adam Bohnett	2	Chi	Matt Forte, Chi RB	10	Jiagen Eep	Matt Forte	RB	10.5	15.7	Sunday morning	5
+Adam Bohnett	2	Bal	Justin Forsett, Bal RB  Q	10	Jiagen Eep	Justin Forsett	RB	8	13.2	Sunday afternoon	5
+Adam Bohnett	2	Pit	Antonio Brown, Pit WR	10	Jiagen Eep	Antonio Brown	WR	28.1	15.5	Sunday morning	5
+Adam Bohnett	2	Det	Golden Tate, Det WR	10	Jiagen Eep	Golden Tate	WR	8.1	9.3	Sunday morning	5
+Adam Bohnett	2	Dal	Jason Witten, Dal TE	10	Jiagen Eep	Jason Witten	TE	5.6	8.3	Sunday afternoon	5
+Adam Bohnett	2	Cin	Giovani Bernard, Cin RB	10	Jiagen Eep	Giovani Bernard	RB	13.9	8	Sunday morning	5
+Adam Bohnett	2	StL	Rams D/ST D/ST	10	Jiagen Eep	Rams D/ST	D/ST	3	11.2	Sunday morning	5
+Adam Bohnett	2	Bal	Justin Tucker, Bal K	10	Jiagen Eep	Justin Tucker	K	15	8.4	Sunday afternoon	5
+Jiagen Eep	2	Ind	Andrew Luck*, Ind QB  O	10	Adam Bohnett	Andrew Luck	QB	8.4	19.1	Monday evening	5
+Jiagen Eep	2	Phi	DeMarco Murray, Phi RB	10	Adam Bohnett	DeMarco Murray	RB	5.5	12.6	Sunday afternoon	5
+Jiagen Eep	2	StL	Tre Mason, StL RB	10	Adam Bohnett	Tre Mason	RB	3	10.1	Sunday morning	5
+Jiagen Eep	2	Den	Emmanuel Sanders, Den WR	10	Adam Bohnett	Emmanuel Sanders	WR	20.7	10.7	Thursday evening	5
+Jiagen Eep	2	NYJ	Brandon Marshall, NYJ WR	10	Adam Bohnett	Brandon Marshall	WR	16.1	7.8	Monday evening	5
+Jiagen Eep	2	Mia	Jordan Cameron, Mia TE	10	Adam Bohnett	Jordan Cameron	TE	6.2	5.9	Sunday afternoon	5
+Jiagen Eep	2	Ten	Bishop Sankey, Ten RB	10	Adam Bohnett	Bishop Sankey	RB	4.2	9.4	Sunday morning	5
+Jiagen Eep	2	Den	Broncos D/ST D/ST	10	Adam Bohnett	Broncos D/ST	D/ST	21	9.7	Thursday evening	5
+Jiagen Eep	2	Det	Matt Prater, Det K	10	Adam Bohnett	Matt Prater	K	4	8.2	Sunday morning	5
+Lawrence Shin	3	Ten	Marcus Mariota, Ten QB	11	Randy Bacon	Marcus Mariota	QB	18.7	16.3	Sunday morning	1
+Lawrence Shin	3	Sea	Marshawn Lynch*, Sea RB  O	11	Randy Bacon	Marshawn Lynch	RB	2.3	16.4	Sunday afternoon	1
+Lawrence Shin	3	Oak	Latavius Murray, Oak RB	11	Randy Bacon	Latavius Murray	RB	20.9	12.6	Sunday morning	1
+Lawrence Shin	3	Hou	DeAndre Hopkins, Hou WR	11	Randy Bacon	DeAndre Hopkins	WR	16.1	10.1	Sunday morning	1
+Lawrence Shin	3	Jax	Allen Robinson, Jax WR	11	Randy Bacon	Allen Robinson	WR	6.8	8.8	Sunday morning	1
+Lawrence Shin	3	NYG	Larry Donnell, NYG TE	11	Randy Bacon	Larry Donnell	TE	3.2	5.9	Thursday evening	1
+Lawrence Shin	3	SF	Carlos Hyde, SF RB	11	Randy Bacon	Carlos Hyde	RB	6.1	11.5	Sunday afternoon	1
+Lawrence Shin	3	Ari	Cardinals D/ST D/ST	11	Randy Bacon	Cardinals D/ST	D/ST	30	7.9	Sunday afternoon	1
+Lawrence Shin	3	NYJ	Nick Folk, NYJ K	11	Randy Bacon	Nick Folk	K	7	7.6	Sunday morning	1
+Randy Bacon	3	NYJ	Ryan Fitzpatrick, NYJ QB	11	Lawrence Shin	Ryan Fitzpatrick	QB	14.6	15.5	Sunday morning	1
+Randy Bacon	3	Dal	Joseph Randle, Dal RB	11	Lawrence Shin	Joseph Randle	RB	28.5	11.3	Sunday morning	1
+Randy Bacon	3	Det	Ameer Abdullah, Det RB	11	Lawrence Shin	Ameer Abdullah	RB	10.2	11.2	Sunday evening	1
+Randy Bacon	3	Ind	T.Y. Hilton, Ind WR	11	Lawrence Shin	T.Y. Hilton	WR	9.4	9	Sunday morning	1
+Randy Bacon	3	NO	Brandin Cooks, NO WR	11	Lawrence Shin	Brandin Cooks	WR	7.9	6.8	Sunday morning	1
+Randy Bacon	3	Det	Eric Ebron*, Det TE  O	11	Lawrence Shin	Eric Ebron	TE	6.1	6.9	Sunday evening	1
+Randy Bacon	3	Cle	Travis Benjamin, Cle WR	11	Lawrence Shin	Travis Benjamin	WR	8.9	7.1	Sunday morning	1
+Randy Bacon	3	Hou	Texans D/ST D/ST	11	Lawrence Shin	Texans D/ST	D/ST	5	11	Sunday morning	1
+Randy Bacon	3	GB	Mason Crosby, GB K	11	Lawrence Shin	Mason Crosby	K	9	8	Monday evening	1
+Adhi Vidyasankar	3	GB	Aaron Rodgers, GB QB	12	Patrick Gowey	Aaron Rodgers	QB	34.9	20.2	Monday evening	2
+Adhi Vidyasankar	3	NO	Mark Ingram, NO RB	12	Patrick Gowey	Mark Ingram	RB	15.9	8.2	Sunday morning	2
+Adhi Vidyasankar	3	Mia	Lamar Miller, Mia RB	12	Patrick Gowey	Lamar Miller	RB	6.5	10.5	Sunday afternoon	2
+Adhi Vidyasankar	3	Det	Calvin Johnson, Det WR	12	Patrick Gowey	Calvin Johnson	WR	7.7	12.1	Sunday evening	2
+Adhi Vidyasankar	3	SD	Keenan Allen, SD WR	12	Patrick Gowey	Keenan Allen	WR	25.3	8.7	Sunday morning	2
+Adhi Vidyasankar	3	Chi	Martellus Bennett, Chi TE	12	Patrick Gowey	Martellus Bennett	TE	1.5	5.8	Sunday afternoon	2
+Adhi Vidyasankar	3	NYG	Rashad Jennings, NYG RB	12	Patrick Gowey	Rashad Jennings	RB	5.7	7.8	Thursday evening	2
+Adhi Vidyasankar	3	Bal	Ravens D/ST D/ST	12	Patrick Gowey	Ravens D/ST	D/ST	6	5.9	Sunday morning	2
+Adhi Vidyasankar	3	NE	Stephen Gostkowski, NE K	12	Patrick Gowey	Stephen Gostkowski	K	17	9.1	Sunday morning	2
+Patrick Gowey	3	Ari	Carson Palmer, Ari QB	12	Adhi Vidyasankar	Carson Palmer	QB	18.5	17.5	Sunday afternoon	2
+Patrick Gowey	3	Ind	Frank Gore, Ind RB	12	Adhi Vidyasankar	Frank Gore	RB	21.4	11.4	Sunday morning	2
+Patrick Gowey	3	NE	Dion Lewis, NE RB	12	Adhi Vidyasankar	Dion Lewis	RB	12.7	11.9	Sunday morning	2
+Patrick Gowey	3	GB	Randall Cobb, GB WR  P	12	Adhi Vidyasankar	Randall Cobb	WR	28.3	12.2	Monday evening	2
+Patrick Gowey	3	NYG	Odell Beckham Jr., NYG WR  Q	12	Adhi Vidyasankar	Odell Beckham Jr.	WR	13.9	11.9	Thursday evening	2
+Patrick Gowey	3	KC	Travis Kelce, KC TE	12	Adhi Vidyasankar	Travis Kelce	TE	10	7.9	Monday evening	2
+Patrick Gowey	3	NE	Julian Edelman, NE WR	12	Adhi Vidyasankar	Julian Edelman	WR	8.8	10.6	Sunday morning	2
+Patrick Gowey	3	Mia	Dolphins D/ST D/ST	12	Adhi Vidyasankar	Dolphins D/ST	D/ST	-6	7.4	Sunday afternoon	2
+Patrick Gowey	3	Den	Brandon McManus, Den K	12	Adhi Vidyasankar	Brandon McManus	K	7	7.2	Sunday evening	2
+Jiagen Eep	3	Ind	Andrew Luck*, Ind QB  O	13	Jason Wardwell	Andrew Luck	QB	16.5	18.8	Sunday morning	3
+Jiagen Eep	3	Phi	DeMarco Murray, Phi RB	13	Jason Wardwell	DeMarco Murray	RB	0	11.4	Sunday morning	3
+Jiagen Eep	3	Ten	Bishop Sankey, Ten RB	13	Jason Wardwell	Bishop Sankey	RB	4.1	9.2	Sunday morning	3
+Jiagen Eep	3	Den	Emmanuel Sanders, Den WR	13	Jason Wardwell	Emmanuel Sanders	WR	9.2	12.7	Sunday evening	3
+Jiagen Eep	3	NYJ	Brandon Marshall, NYJ WR	13	Jason Wardwell	Brandon Marshall	WR	14.9	11.2	Sunday morning	3
+Jiagen Eep	3	Mia	Jordan Cameron, Mia TE	13	Jason Wardwell	Jordan Cameron	TE	1.6	6	Sunday afternoon	3
+Jiagen Eep	3	NYJ	Chris Ivory, NYJ RB	13	Jason Wardwell	Chris Ivory	RB	0	0	Sunday morning	3
+Jiagen Eep	3	Den	Broncos D/ST D/ST	13	Jason Wardwell	Broncos D/ST	D/ST	17	8.4	Sunday evening	3
+Jiagen Eep	3	Det	Matt Prater, Det K	13	Jason Wardwell	Matt Prater	K	-1	7.5	Sunday evening	3
+Jason Wardwell	3	Pit	Ben Roethlisberger*, Pit QB  O	13	Jiagen Eep	Ben Roethlisberger	QB	5.7	18	Sunday morning	3
+Jason Wardwell	3	Pit	Le'Veon Bell, Pit RB	13	Jiagen Eep	Le'Veon Bell	RB	19.2	14.9	Sunday morning	3
+Jason Wardwell	3	Buf	LeSean McCoy*, Buf RB  O	13	Jiagen Eep	LeSean McCoy	RB	8.6	11.4	Sunday afternoon	3
+Jason Wardwell	3	Phi	Jordan Matthews, Phi WR	13	Jiagen Eep	Jordan Matthews	WR	4.9	8	Sunday morning	3
+Jason Wardwell	3	Buf	Sammy Watkins*, Buf WR  O	13	Jiagen Eep	Sammy Watkins	WR	3.9	8.1	Sunday afternoon	3
+Jason Wardwell	3	Pit	Heath Miller, Pit TE	13	Jiagen Eep	Heath Miller	TE	1.7	6.6	Sunday morning	3
+Jason Wardwell	3	Jax	T.J. Yeldon, Jax RB  Q	13	Jiagen Eep	T.J. Yeldon	RB	4.2	10.5	Sunday morning	3
+Jason Wardwell	3	Car	Panthers D/ST D/ST	13	Jiagen Eep	Panthers D/ST	D/ST	4	4.5	Sunday morning	3
+Jason Wardwell	3	Phi	Cody Parkey*, Phi K  IR	13	Jiagen Eep	Cody Parkey	K	6	7.9	Sunday morning	3
+Andrew Phares	3	Atl	Matt Ryan, Atl QB	14	Kelly Steinbrecher	Matt Ryan	QB	23.1	16.8	Sunday morning	4
+Andrew Phares	3	Min	Adrian Peterson, Min RB	14	Kelly Steinbrecher	Adrian Peterson	RB	24.6	15.7	Sunday morning	4
+Andrew Phares	3	Cin	Jeremy Hill, Cin RB	14	Kelly Steinbrecher	Jeremy Hill	RB	2.1	10.8	Sunday morning	4
+Andrew Phares	3	Cin	A.J. Green, Cin WR	14	Kelly Steinbrecher	A.J. Green	WR	34.7	10.6	Sunday morning	4
+Andrew Phares	3	Oak	Amari Cooper, Oak WR	14	Kelly Steinbrecher	Amari Cooper	WR	11.4	7.9	Sunday morning	4
+Andrew Phares	3	Cin	Tyler Eifert, Cin TE	14	Kelly Steinbrecher	Tyler Eifert	TE	0	7.4	Sunday morning	4
+Andrew Phares	3	Wsh	Jordan Reed*, Wsh TE  O	14	Kelly Steinbrecher	Jordan Reed	TE	9.6	6.3	Thursday evening	4
+Andrew Phares	3	NYJ	Jets D/ST D/ST	14	Kelly Steinbrecher	Jets D/ST	D/ST	5	6.5	Sunday morning	4
+Andrew Phares	3	Atl	Matt Bryant, Atl K	14	Kelly Steinbrecher	Matt Bryant	K	7	8.3	Sunday morning	4
+Kelly Steinbrecher	3	Sea	Russell Wilson, Sea QB	14	Andrew Phares	Russell Wilson	QB	16.2	19.6	Sunday afternoon	4
+Kelly Steinbrecher	3	KC	Jamaal Charles*, KC RB  O	14	Andrew Phares	Jamaal Charles	RB	26.2	13.9	Monday evening	4
+Kelly Steinbrecher	3	Atl	Devonta Freeman, Atl RB  Q	14	Andrew Phares	Devonta Freeman	RB	37.3	11.6	Sunday morning	4
+Kelly Steinbrecher	3	Den	Demaryius Thomas, Den WR	14	Andrew Phares	Demaryius Thomas	WR	13.2	12.8	Sunday evening	4
+Kelly Steinbrecher	3	Mia	Jarvis Landry, Mia WR	14	Andrew Phares	Jarvis Landry	WR	10.1	12	Sunday afternoon	4
+Kelly Steinbrecher	3	Car	Greg Olsen, Car TE	14	Andrew Phares	Greg Olsen	TE	25.4	7.2	Sunday morning	4
+Kelly Steinbrecher	3	Sea	Tyler Lockett, Sea WR	14	Andrew Phares	Tyler Lockett	WR	10.6	7.1	Sunday afternoon	4
+Kelly Steinbrecher	3	Sea	Seahawks D/ST D/ST	14	Andrew Phares	Seahawks D/ST	D/ST	16	12.8	Sunday afternoon	4
+Kelly Steinbrecher	3	Sea	Steven Hauschka, Sea K	14	Andrew Phares	Steven Hauschka	K	16	7.9	Sunday afternoon	4
+Adam Bohnett	3	Car	Cam Newton, Car QB	15	Marjory Reiter	Cam Newton	QB	29.9	18.8	Sunday morning	5
+Adam Bohnett	3	Chi	Matt Forte, Chi RB	15	Marjory Reiter	Matt Forte	RB	7.4	12.5	Sunday afternoon	5
+Adam Bohnett	3	Bal	Justin Forsett, Bal RB  Q	15	Marjory Reiter	Justin Forsett	RB	2.9	12.3	Sunday morning	5
+Adam Bohnett	3	Pit	Antonio Brown, Pit WR	15	Marjory Reiter	Antonio Brown	WR	10.8	15.4	Sunday morning	5
+Adam Bohnett	3	Det	Golden Tate, Det WR	15	Marjory Reiter	Golden Tate	WR	5.7	7.7	Sunday evening	5
+Adam Bohnett	3	Dal	Jason Witten, Dal TE	15	Marjory Reiter	Jason Witten	TE	6.5	7.1	Sunday morning	5
+Adam Bohnett	3	Cin	Giovani Bernard, Cin RB	15	Marjory Reiter	Giovani Bernard	RB	8.3	7.8	Sunday morning	5
+Adam Bohnett	3	StL	Rams D/ST D/ST	15	Marjory Reiter	Rams D/ST	D/ST	12	6.9	Sunday morning	5
+Adam Bohnett	3	Bal	Justin Tucker, Bal K	15	Marjory Reiter	Justin Tucker	K	5	8.1	Sunday morning	5
+Marjory Reiter	3	NE	Tom Brady, NE QB	15	Adam Bohnett	Tom Brady	QB	22.7	18.9	Sunday morning	5
+Marjory Reiter	3	Wsh	Alfred Morris, Wsh RB	15	Adam Bohnett	Alfred Morris	RB	1.9	7.4	Thursday evening	5
+Marjory Reiter	3	Car	Jonathan Stewart, Car RB	15	Adam Bohnett	Jonathan Stewart	RB	5.2	12.9	Sunday morning	5
+Marjory Reiter	3	Atl	Julio Jones, Atl WR  Q	15	Adam Bohnett	Julio Jones	WR	28.4	12.9	Sunday morning	5
+Marjory Reiter	3	Ari	Larry Fitzgerald, Ari WR	15	Adam Bohnett	Larry Fitzgerald	WR	25.4	9.9	Sunday afternoon	5
+Marjory Reiter	3	NE	Rob Gronkowski, NE TE	15	Adam Bohnett	Rob Gronkowski	TE	10.1	10.5	Sunday morning	5
+Marjory Reiter	3	TB	Doug Martin, TB RB	15	Adam Bohnett	Doug Martin	RB	4.6	9.5	Sunday morning	5
+Marjory Reiter	3	NE	Patriots D/ST D/ST	15	Adam Bohnett	Patriots D/ST	D/ST	7	14.8	Sunday morning	5
+Marjory Reiter	3	Ari	Chandler Catanzaro, Ari K	15	Adam Bohnett	Chandler Catanzaro	K	9	8.1	Sunday afternoon	5
+Jiagen Eep	4	Ind	Andrew Luck*, Ind QB  O	16	Adhi Vidyasankar	Andrew Luck	QB	0	0	Sunday morning	1
+Jiagen Eep	4	Phi	DeMarco Murray, Phi RB	16	Adhi Vidyasankar	DeMarco Murray	RB	4.8	9.8	Sunday morning	1
+Jiagen Eep	4	Den	Emmanuel Sanders, Den WR	16	Adhi Vidyasankar	Emmanuel Sanders	WR	6.9	13	Sunday afternoon	1
+Jiagen Eep	4	NYJ	Brandon Marshall, NYJ WR	16	Adhi Vidyasankar	Brandon Marshall	WR	12.8	9.7	Sunday morning	1
+Jiagen Eep	4	Mia	Jordan Cameron, Mia TE	16	Adhi Vidyasankar	Jordan Cameron	TE	1.9	5.3	Sunday morning	1
+Jiagen Eep	4	NYJ	Chris Ivory, NYJ RB	16	Adhi Vidyasankar	Chris Ivory	RB	22.6	8.7	Sunday morning	1
+Jiagen Eep	4	Den	Broncos D/ST D/ST	16	Adhi Vidyasankar	Broncos D/ST	D/ST	9	12	Sunday afternoon	1
+Jiagen Eep	4	Det	Matt Prater, Det K	16	Adhi Vidyasankar	Matt Prater	K	5	7.2	Monday evening	1
+Adhi Vidyasankar	4	GB	Aaron Rodgers, GB QB	16	Jiagen Eep	Aaron Rodgers	QB	16.3	21.1	Sunday afternoon	1
+Adhi Vidyasankar	4	NO	Mark Ingram, NO RB	16	Jiagen Eep	Mark Ingram	RB	12.8	11.5	Sunday evening	1
+Adhi Vidyasankar	4	Mia	Lamar Miller, Mia RB	16	Jiagen Eep	Lamar Miller	RB	3.6	10.4	Sunday morning	1
+Adhi Vidyasankar	4	Det	Calvin Johnson, Det WR	16	Jiagen Eep	Calvin Johnson	WR	3.6	10	Monday evening	1
+Adhi Vidyasankar	4	SD	Keenan Allen, SD WR	16	Jiagen Eep	Keenan Allen	WR	13.4	10.4	Sunday afternoon	1
+Adhi Vidyasankar	4	Chi	Martellus Bennett, Chi TE	16	Jiagen Eep	Martellus Bennett	TE	14.3	8	Sunday morning	1
+Adhi Vidyasankar	4	NYG	Rashad Jennings, NYG RB	16	Jiagen Eep	Rashad Jennings	RB	15.2	6.6	Sunday morning	1
+Adhi Vidyasankar	4	Bal	Ravens D/ST D/ST	16	Jiagen Eep	Ravens D/ST	D/ST	6	4.1	Thursday evening	1
+Adhi Vidyasankar	4	Dal	Dan Bailey, Dal K	16	Jiagen Eep	Dan Bailey	K	8	7.9	Sunday evening	1
+Randy Bacon	4	NO	Drew Brees, NO QB	17	Andrew Phares	Drew Brees	QB	22.4	19	Sunday evening	2
+Randy Bacon	4	GB	Eddie Lacy, GB RB	17	Andrew Phares	Eddie Lacy	RB	9.3	14.4	Sunday afternoon	2
+Randy Bacon	4	Dal	Joseph Randle, Dal RB	17	Andrew Phares	Joseph Randle	RB	8.6	11.9	Sunday evening	2
+Randy Bacon	4	Ind	T.Y. Hilton, Ind WR	17	Andrew Phares	T.Y. Hilton	WR	6.7	8.4	Sunday morning	2
+Randy Bacon	4	Oak	Michael Crabtree, Oak WR	17	Andrew Phares	Michael Crabtree	WR	8	8.9	Sunday morning	2
+Randy Bacon	4	Sea	Jimmy Graham, Sea TE	17	Andrew Phares	Jimmy Graham	TE	2.9	7.7	Monday evening	2
+Randy Bacon	4	Det	Ameer Abdullah, Det RB	17	Andrew Phares	Ameer Abdullah	RB	6.6	11.2	Monday evening	2
+Randy Bacon	4	Phi	Eagles D/ST D/ST	17	Andrew Phares	Eagles D/ST	D/ST	0	9.2	Sunday morning	2
+Randy Bacon	4	GB	Mason Crosby, GB K	17	Andrew Phares	Mason Crosby	K	4	7.9	Sunday afternoon	2
+Andrew Phares	4	Atl	Matt Ryan, Atl QB	17	Randy Bacon	Matt Ryan	QB	14.1	17.7	Sunday morning	2
+Andrew Phares	4	Min	Adrian Peterson, Min RB	17	Randy Bacon	Adrian Peterson	RB	15.4	12.2	Sunday afternoon	2
+Andrew Phares	4	Buf	Karlos Williams*, Buf RB  O	17	Randy Bacon	Karlos Williams	RB	13	14	Sunday morning	2
+Andrew Phares	4	Cin	A.J. Green, Cin WR	17	Randy Bacon	A.J. Green	WR	8.2	11.2	Sunday morning	2
+Andrew Phares	4	Oak	Amari Cooper, Oak WR	17	Randy Bacon	Amari Cooper	WR	11.2	9	Sunday morning	2
+Andrew Phares	4	Cin	Tyler Eifert, Cin TE	17	Randy Bacon	Tyler Eifert	TE	6.9	7	Sunday morning	2
+Andrew Phares	4	GB	James Jones, GB WR	17	Randy Bacon	James Jones	WR	9.8	8.9	Sunday afternoon	2
+Andrew Phares	4	NYJ	Jets D/ST D/ST	17	Randy Bacon	Jets D/ST	D/ST	10	10.2	Sunday morning	2
+Andrew Phares	4	Atl	Matt Bryant, Atl K	17	Randy Bacon	Matt Bryant	K	6	8	Sunday morning	2
+Lawrence Shin	4	Oak	Derek Carr, Oak QB	18	Adam Bohnett	Derek Carr	QB	11.8	15.3	Sunday morning	3
+Lawrence Shin	4	SD	Melvin Gordon, SD RB	18	Adam Bohnett	Melvin Gordon	RB	4.6	12.3	Sunday afternoon	3
+Lawrence Shin	4	Oak	Latavius Murray, Oak RB	18	Adam Bohnett	Latavius Murray	RB	6.1	14.3	Sunday morning	3
+Lawrence Shin	4	Hou	DeAndre Hopkins, Hou WR	18	Adam Bohnett	DeAndre Hopkins	WR	15.7	9.6	Sunday morning	3
+Lawrence Shin	4	Jax	Allen Robinson, Jax WR	18	Adam Bohnett	Allen Robinson	WR	8	7.6	Sunday morning	3
+Lawrence Shin	4	NYG	Larry Donnell, NYG TE	18	Adam Bohnett	Larry Donnell	TE	3.8	5.9	Sunday morning	3
+Lawrence Shin	4	SF	Carlos Hyde, SF RB	18	Adam Bohnett	Carlos Hyde	RB	2.2	12.5	Sunday afternoon	3
+Lawrence Shin	4	Ari	Cardinals D/ST D/ST	18	Adam Bohnett	Cardinals D/ST	D/ST	1	8.4	Sunday afternoon	3
+Lawrence Shin	4	NYJ	Nick Folk, NYJ K	18	Adam Bohnett	Nick Folk	K	9	6.9	Sunday morning	3
+Adam Bohnett	4	Car	Cam Newton, Car QB	18	Lawrence Shin	Cam Newton	QB	16.1	18.1	Sunday morning	3
+Adam Bohnett	4	Chi	Matt Forte, Chi RB	18	Lawrence Shin	Matt Forte	RB	13.5	16.8	Sunday morning	3
+Adam Bohnett	4	Bal	Justin Forsett, Bal RB  Q	18	Lawrence Shin	Justin Forsett	RB	15	11.8	Thursday evening	3
+Adam Bohnett	4	Pit	Antonio Brown, Pit WR	18	Lawrence Shin	Antonio Brown	WR	6.2	12.4	Thursday evening	3
+Adam Bohnett	4	Det	Golden Tate, Det WR	18	Lawrence Shin	Golden Tate	WR	3.5	6.9	Monday evening	3
+Adam Bohnett	4	Dal	Jason Witten, Dal TE	18	Lawrence Shin	Jason Witten	TE	5.7	7.4	Sunday evening	3
+Adam Bohnett	4	Cin	Giovani Bernard, Cin RB	18	Lawrence Shin	Giovani Bernard	RB	12.4	9.3	Sunday morning	3
+Adam Bohnett	4	StL	Rams D/ST D/ST	18	Lawrence Shin	Rams D/ST	D/ST	7	8.9	Sunday afternoon	3
+Adam Bohnett	4	Bal	Justin Tucker, Bal K	18	Lawrence Shin	Justin Tucker	K	15	8.2	Thursday evening	3
+Patrick Gowey	4	Buf	Tyrod Taylor, Buf QB	19	Kelly Steinbrecher	Tyrod Taylor	QB	14.5	15.8	Sunday morning	4
+Patrick Gowey	4	Ind	Frank Gore, Ind RB	19	Kelly Steinbrecher	Frank Gore	RB	6.7	12.6	Sunday morning	4
+Patrick Gowey	4	Ari	Chris Johnson, Ari RB	19	Kelly Steinbrecher	Chris Johnson	RB	9.4	10.2	Sunday afternoon	4
+Patrick Gowey	4	GB	Randall Cobb, GB WR  P	19	Kelly Steinbrecher	Randall Cobb	WR	4.4	13.6	Sunday afternoon	4
+Patrick Gowey	4	NYG	Odell Beckham Jr., NYG WR  Q	19	Kelly Steinbrecher	Odell Beckham Jr.	WR	3.8	12.1	Sunday morning	4
+Patrick Gowey	4	KC	Travis Kelce, KC TE	19	Kelly Steinbrecher	Travis Kelce	TE	2.9	7.5	Sunday morning	4
+Patrick Gowey	4	Bal	Steve Smith Sr.*, Bal WR  O	19	Kelly Steinbrecher	Steve Smith Sr.	WR	2.4	8.8	Thursday evening	4
+Patrick Gowey	4	GB	Packers D/ST D/ST	19	Kelly Steinbrecher	Packers D/ST	D/ST	15	7.3	Sunday afternoon	4
+Patrick Gowey	4	Den	Brandon McManus, Den K	19	Kelly Steinbrecher	Brandon McManus	K	12	7.4	Sunday afternoon	4
+Kelly Steinbrecher	4	Sea	Russell Wilson, Sea QB	19	Patrick Gowey	Russell Wilson	QB	15.5	19.3	Monday evening	4
+Kelly Steinbrecher	4	KC	Jamaal Charles*, KC RB  O	19	Patrick Gowey	Jamaal Charles	RB	14.5	14.2	Sunday morning	4
+Kelly Steinbrecher	4	Atl	Devonta Freeman, Atl RB  Q	19	Patrick Gowey	Devonta Freeman	RB	32.9	16.6	Sunday morning	4
+Kelly Steinbrecher	4	Den	Demaryius Thomas, Den WR	19	Patrick Gowey	Demaryius Thomas	WR	9.3	12.6	Sunday afternoon	4
+Kelly Steinbrecher	4	Mia	Jarvis Landry, Mia WR	19	Patrick Gowey	Jarvis Landry	WR	14.5	11.1	Sunday morning	4
+Kelly Steinbrecher	4	Car	Greg Olsen, Car TE	19	Patrick Gowey	Greg Olsen	TE	2.8	7.9	Sunday morning	4
+Kelly Steinbrecher	4	Sea	Tyler Lockett, Sea WR	19	Patrick Gowey	Tyler Lockett	WR	6.8	6.7	Monday evening	4
+Kelly Steinbrecher	4	Sea	Seahawks D/ST D/ST	19	Patrick Gowey	Seahawks D/ST	D/ST	5	11	Monday evening	4
+Kelly Steinbrecher	4	Sea	Steven Hauschka, Sea K	19	Patrick Gowey	Steven Hauschka	K	11	7.6	Monday evening	4
+Jason Wardwell	4	Bal	Joe Flacco, Bal QB	20	Marjory Reiter	Joe Flacco	QB	7.6	15.5	Thursday evening	5
+Jason Wardwell	4	Pit	Le'Veon Bell, Pit RB	20	Marjory Reiter	Le'Veon Bell	RB	21	14.3	Thursday evening	5
+Jason Wardwell	4	Jax	T.J. Yeldon, Jax RB  Q	20	Marjory Reiter	T.J. Yeldon	RB	10.9	10.6	Sunday morning	5
+Jason Wardwell	4	Phi	Jordan Matthews, Phi WR	20	Marjory Reiter	Jordan Matthews	WR	5	8.5	Sunday morning	5
+Jason Wardwell	4	NO	Marques Colston, NO WR  D	20	Marjory Reiter	Marques Colston	WR	1.9	7.3	Sunday evening	5
+Jason Wardwell	4	Pit	Heath Miller, Pit TE	20	Marjory Reiter	Heath Miller	TE	0.1	4.4	Thursday evening	5
+Jason Wardwell	4	Cle	Isaiah Crowell, Cle RB	20	Marjory Reiter	Isaiah Crowell	RB	12.5	9.5	Sunday afternoon	5
+Jason Wardwell	4	Car	Panthers D/ST D/ST	20	Marjory Reiter	Panthers D/ST	D/ST	15	10.6	Sunday morning	5
+Jason Wardwell	4	Oak	Sebastian Janikowski, Oak K	20	Marjory Reiter	Sebastian Janikowski	K	9	7.2	Sunday morning	5
+Marjory Reiter	4	Min	Teddy Bridgewater, Min QB	20	Jason Wardwell	Teddy Bridgewater	QB	15.1	12.7	Sunday afternoon	5
+Marjory Reiter	4	Wsh	Alfred Morris, Wsh RB	20	Jason Wardwell	Alfred Morris	RB	6.5	6.7	Sunday morning	5
+Marjory Reiter	4	Car	Jonathan Stewart, Car RB	20	Jason Wardwell	Jonathan Stewart	RB	5	10.9	Sunday morning	5
+Marjory Reiter	4	Atl	Julio Jones, Atl WR  Q	20	Jason Wardwell	Julio Jones	WR	3.8	13.7	Sunday morning	5
+Marjory Reiter	4	Ari	Larry Fitzgerald, Ari WR	20	Jason Wardwell	Larry Fitzgerald	WR	7.9	9.7	Sunday afternoon	5
+Marjory Reiter	4	Ind	Dwayne Allen, Ind TE	20	Jason Wardwell	Dwayne Allen	TE	0	0	Sunday morning	5
+Marjory Reiter	4	TB	Doug Martin, TB RB	20	Jason Wardwell	Doug Martin	RB	20.3	8.7	Sunday morning	5
+Marjory Reiter	4	Det	Lions D/ST D/ST	20	Jason Wardwell	Lions D/ST	D/ST	21	5.6	Monday evening	5
+Marjory Reiter	4	Ari	Chandler Catanzaro, Ari K	20	Jason Wardwell	Chandler Catanzaro	K	17	8.2	Sunday afternoon	5
+Adam Bohnett	5	Den	Peyton Manning, Den QB	21	Andrew Phares	Peyton Manning	QB	6.6	17.6	Sunday afternoon	1
+Adam Bohnett	5	Chi	Matt Forte, Chi RB	21	Andrew Phares	Matt Forte	RB	16.9	15.6	Sunday morning	1
+Adam Bohnett	5	Bal	Justin Forsett, Bal RB  Q	21	Andrew Phares	Justin Forsett	RB	23	14.9	Sunday morning	1
+Adam Bohnett	5	Pit	Antonio Brown, Pit WR	21	Andrew Phares	Antonio Brown	WR	5.6	11.9	Monday evening	1
+Adam Bohnett	5	Det	Golden Tate, Det WR	21	Andrew Phares	Golden Tate	WR	6.2	8.1	Sunday afternoon	1
+Adam Bohnett	5	Dal	Jason Witten, Dal TE	21	Andrew Phares	Jason Witten	TE	1.3	8.2	Sunday afternoon	1
+Adam Bohnett	5	Hou	Arian Foster, Hou RB	21	Andrew Phares	Arian Foster	RB	11.8	14.4	Thursday evening	1
+Adam Bohnett	5	StL	Rams D/ST D/ST	21	Andrew Phares	Rams D/ST	D/ST	8	6.2	Sunday morning	1
+Adam Bohnett	5	Bal	Justin Tucker, Bal K	21	Andrew Phares	Justin Tucker	K	5	8.3	Sunday morning	1
+Andrew Phares	5	Atl	Matt Ryan, Atl QB	21	Adam Bohnett	Matt Ryan	QB	6.2	18.4	Sunday morning	1
+Andrew Phares	5	Cin	Jeremy Hill, Cin RB	21	Adam Bohnett	Jeremy Hill	RB	2.5	8.7	Sunday morning	1
+Andrew Phares	5	StL	Todd Gurley, StL RB	21	Adam Bohnett	Todd Gurley	RB	15.9	11.7	Sunday morning	1
+Andrew Phares	5	Cin	A.J. Green, Cin WR	21	Adam Bohnett	A.J. Green	WR	7.8	9.5	Sunday morning	1
+Andrew Phares	5	Oak	Amari Cooper, Oak WR	21	Adam Bohnett	Amari Cooper	WR	5.6	8.7	Sunday afternoon	1
+Andrew Phares	5	Cin	Tyler Eifert, Cin TE	21	Adam Bohnett	Tyler Eifert	TE	21	6.4	Sunday morning	1
+Andrew Phares	5	GB	James Jones, GB WR	21	Adam Bohnett	James Jones	WR	13.7	8.4	Sunday morning	1
+Andrew Phares	5	Atl	Falcons D/ST D/ST	21	Adam Bohnett	Falcons D/ST	D/ST	13	5	Sunday morning	1
+Andrew Phares	5	Atl	Matt Bryant, Atl K	21	Adam Bohnett	Matt Bryant	K	6	8.6	Sunday morning	1
+Kelly Steinbrecher	5	Sea	Russell Wilson, Sea QB	22	Adhi Vidyasankar	Russell Wilson	QB	12.6	17.2	Sunday morning	2
+Kelly Steinbrecher	5	KC	Jamaal Charles*, KC RB  O	22	Adhi Vidyasankar	Jamaal Charles	RB	8.4	18.7	Sunday morning	2
+Kelly Steinbrecher	5	Atl	Devonta Freeman, Atl RB  Q	22	Adhi Vidyasankar	Devonta Freeman	RB	25.7	15.8	Sunday morning	2
+Kelly Steinbrecher	5	Den	Demaryius Thomas, Den WR	22	Adhi Vidyasankar	Demaryius Thomas	WR	5.5	12.5	Sunday afternoon	2
+Kelly Steinbrecher	5	Buf	Percy Harvin, Buf WR  P	22	Adhi Vidyasankar	Percy Harvin	WR	0.9	9	Sunday morning	2
+Kelly Steinbrecher	5	Den	Owen Daniels, Den TE	22	Adhi Vidyasankar	Owen Daniels	TE	0	6.2	Sunday afternoon	2
+Kelly Steinbrecher	5	Sea	Tyler Lockett, Sea WR	22	Adhi Vidyasankar	Tyler Lockett	WR	4.1	7.7	Sunday morning	2
+Kelly Steinbrecher	5	Sea	Seahawks D/ST D/ST	22	Adhi Vidyasankar	Seahawks D/ST	D/ST	11	8.3	Sunday morning	2
+Kelly Steinbrecher	5	Sea	Steven Hauschka, Sea K	22	Adhi Vidyasankar	Steven Hauschka	K	6	8.3	Sunday morning	2
+Adhi Vidyasankar	5	GB	Aaron Rodgers, GB QB	22	Kelly Steinbrecher	Aaron Rodgers	QB	15.5	18.6	Sunday morning	2
+Adhi Vidyasankar	5	NO	Mark Ingram, NO RB	22	Kelly Steinbrecher	Mark Ingram	RB	7.4	11.2	Sunday morning	2
+Adhi Vidyasankar	5	SD	Danny Woodhead, SD RB	22	Kelly Steinbrecher	Danny Woodhead	RB	7.6	8.8	Monday evening	2
+Adhi Vidyasankar	5	Det	Calvin Johnson, Det WR	22	Kelly Steinbrecher	Calvin Johnson	WR	6.7	12.6	Sunday afternoon	2
+Adhi Vidyasankar	5	SD	Keenan Allen, SD WR	22	Kelly Steinbrecher	Keenan Allen	WR	5.7	10.9	Monday evening	2
+Adhi Vidyasankar	5	Chi	Martellus Bennett, Chi TE	22	Kelly Steinbrecher	Martellus Bennett	TE	3.2	8.3	Sunday morning	2
+Adhi Vidyasankar	5	NYG	Rashad Jennings, NYG RB	22	Kelly Steinbrecher	Rashad Jennings	RB	6.7	8.1	Sunday evening	2
+Adhi Vidyasankar	5	Buf	Bills D/ST D/ST	22	Kelly Steinbrecher	Bills D/ST	D/ST	9	9.1	Sunday morning	2
+Adhi Vidyasankar	5	NE	Stephen Gostkowski, NE K	22	Kelly Steinbrecher	Stephen Gostkowski	K	15	8.2	Sunday afternoon	2
+Marjory Reiter	5	NE	Tom Brady, NE QB	23	Jiagen Eep	Tom Brady	QB	25.3	20.6	Sunday afternoon	3
+Marjory Reiter	5	Wsh	Alfred Morris, Wsh RB	23	Jiagen Eep	Alfred Morris	RB	1.5	9.3	Sunday morning	3
+Marjory Reiter	5	NE	LeGarrette Blount, NE RB	23	Jiagen Eep	LeGarrette Blount	RB	7.4	7	Sunday afternoon	3
+Marjory Reiter	5	Atl	Julio Jones, Atl WR  Q	23	Jiagen Eep	Julio Jones	WR	12.7	12.7	Sunday morning	3
+Marjory Reiter	5	Ari	Larry Fitzgerald, Ari WR	23	Jiagen Eep	Larry Fitzgerald	WR	11.8	10.4	Sunday afternoon	3
+Marjory Reiter	5	NE	Rob Gronkowski, NE TE	23	Jiagen Eep	Rob Gronkowski	TE	6.7	11.2	Sunday afternoon	3
+Marjory Reiter	5	TB	Doug Martin, TB RB	23	Jiagen Eep	Doug Martin	RB	33.8	10.1	Sunday morning	3
+Marjory Reiter	5	NE	Patriots D/ST D/ST	23	Jiagen Eep	Patriots D/ST	D/ST	13	7.8	Sunday afternoon	3
+Marjory Reiter	5	Ari	Chandler Catanzaro, Ari K	23	Jiagen Eep	Chandler Catanzaro	K	6	7.5	Sunday afternoon	3
+Jiagen Eep	5	Ind	Andrew Luck*, Ind QB  O	23	Marjory Reiter	Andrew Luck	QB	0	0	Thursday evening	3
+Jiagen Eep	5	Phi	DeMarco Murray, Phi RB	23	Marjory Reiter	DeMarco Murray	RB	18	13.6	Sunday morning	3
+Jiagen Eep	5	Ten	Bishop Sankey, Ten RB	23	Marjory Reiter	Bishop Sankey	RB	5.6	7.4	Sunday morning	3
+Jiagen Eep	5	Den	Emmanuel Sanders, Den WR	23	Marjory Reiter	Emmanuel Sanders	WR	11.3	12.3	Sunday afternoon	3
+Jiagen Eep	5	Wsh	DeSean Jackson*, Wsh WR  O	23	Marjory Reiter	DeSean Jackson	WR	0	0	Sunday morning	3
+Jiagen Eep	5	Den	Broncos D/ST D/ST	23	Marjory Reiter	Broncos D/ST	D/ST	23	10.9	Sunday afternoon	3
+Jiagen Eep	5	Det	Matt Prater, Det K	23	Marjory Reiter	Matt Prater	K	6	6.7	Sunday afternoon	3
+Patrick Gowey	5	Buf	Tyrod Taylor, Buf QB	24	Randy Bacon	Tyrod Taylor	QB	22.4	15.8	Sunday morning	4
+Patrick Gowey	5	Ind	Frank Gore, Ind RB	24	Randy Bacon	Frank Gore	RB	15.8	11.6	Thursday evening	4
+Patrick Gowey	5	NE	Dion Lewis, NE RB	24	Randy Bacon	Dion Lewis	RB	15.3	13.1	Sunday afternoon	4
+Patrick Gowey	5	GB	Randall Cobb, GB WR  P	24	Randy Bacon	Randall Cobb	WR	2.3	11.9	Sunday morning	4
+Patrick Gowey	5	NYG	Odell Beckham Jr., NYG WR  Q	24	Randy Bacon	Odell Beckham Jr.	WR	18.4	12.3	Sunday evening	4
+Patrick Gowey	5	KC	Travis Kelce, KC TE	24	Randy Bacon	Travis Kelce	TE	3.5	7.6	Sunday morning	4
+Patrick Gowey	5	NE	Julian Edelman, NE WR	24	Randy Bacon	Julian Edelman	WR	18	12.4	Sunday afternoon	4
+Patrick Gowey	5	GB	Packers D/ST D/ST	24	Randy Bacon	Packers D/ST	D/ST	22	8	Sunday morning	4
+Patrick Gowey	5	Den	Brandon McManus, Den K	24	Randy Bacon	Brandon McManus	K	12	6.8	Sunday afternoon	4
+Randy Bacon	5	NO	Drew Brees, NO QB	24	Patrick Gowey	Drew Brees	QB	15.3	15.8	Sunday morning	4
+Randy Bacon	5	GB	Eddie Lacy, GB RB	24	Patrick Gowey	Eddie Lacy	RB	3.5	13.7	Sunday morning	4
+Randy Bacon	5	Dal	Joseph Randle, Dal RB	24	Patrick Gowey	Joseph Randle	RB	7.3	10.3	Sunday afternoon	4
+Randy Bacon	5	Ind	T.Y. Hilton, Ind WR	24	Patrick Gowey	T.Y. Hilton	WR	8.8	8.7	Thursday evening	4
+Randy Bacon	5	Cle	Travis Benjamin, Cle WR	24	Patrick Gowey	Travis Benjamin	WR	8.4	7.7	Sunday morning	4
+Randy Bacon	5	SD	Antonio Gates, SD TE	24	Patrick Gowey	Antonio Gates	TE	21.2	6.9	Monday evening	4
+Randy Bacon	5	Det	Ameer Abdullah, Det RB	24	Patrick Gowey	Ameer Abdullah	RB	2.2	13.5	Sunday afternoon	4
+Randy Bacon	5	Phi	Eagles D/ST D/ST	24	Patrick Gowey	Eagles D/ST	D/ST	13	5.1	Sunday morning	4
+Randy Bacon	5	GB	Mason Crosby, GB K	24	Patrick Gowey	Mason Crosby	K	6	8.1	Sunday morning	4
+Jason Wardwell	5	SD	Philip Rivers, SD QB	25	Lawrence Shin	Philip Rivers	QB	20.6	17.7	Monday evening	5
+Jason Wardwell	5	Pit	Le'Veon Bell, Pit RB	25	Lawrence Shin	Le'Veon Bell	RB	18.7	18	Monday evening	5
+Jason Wardwell	5	Jax	T.J. Yeldon, Jax RB  Q	25	Lawrence Shin	T.J. Yeldon	RB	12.3	12	Sunday morning	5
+Jason Wardwell	5	Phi	Jordan Matthews, Phi WR	25	Lawrence Shin	Jordan Matthews	WR	4.4	8.8	Sunday morning	5
+Jason Wardwell	5	Ten	Kendall Wright, Ten WR  P	25	Lawrence Shin	Kendall Wright	WR	3	8	Sunday morning	5
+Jason Wardwell	5	Buf	Charles Clay, Buf TE	25	Lawrence Shin	Charles Clay	TE	0.7	7.6	Sunday morning	5
+Jason Wardwell	5	Cle	Isaiah Crowell, Cle RB	25	Lawrence Shin	Isaiah Crowell	RB	14.7	7.6	Sunday morning	5
+Jason Wardwell	5	NYG	Giants D/ST D/ST	25	Lawrence Shin	Giants D/ST	D/ST	1	7.3	Sunday evening	5
+Jason Wardwell	5	NYG	Josh Brown, NYG K	25	Lawrence Shin	Josh Brown	K	13	8.4	Sunday evening	5
+Lawrence Shin	5	Phi	Sam Bradford, Phi QB	25	Jason Wardwell	Sam Bradford	QB	17.6	15.5	Sunday morning	5
+Lawrence Shin	5	SD	Melvin Gordon, SD RB	25	Jason Wardwell	Melvin Gordon	RB	7.4	9	Monday evening	5
+Lawrence Shin	5	Oak	Latavius Murray, Oak RB	25	Jason Wardwell	Latavius Murray	RB	5.7	10.8	Sunday afternoon	5
+Lawrence Shin	5	Hou	DeAndre Hopkins, Hou WR	25	Jason Wardwell	DeAndre Hopkins	WR	16.9	11.9	Thursday evening	5
+Lawrence Shin	5	Jax	Allen Robinson, Jax WR	25	Jason Wardwell	Allen Robinson	WR	19.2	9	Sunday morning	5
+Lawrence Shin	5	NYG	Larry Donnell, NYG TE	25	Jason Wardwell	Larry Donnell	TE	9.5	6.6	Sunday evening	5
+Lawrence Shin	5	SF	Carlos Hyde, SF RB	25	Jason Wardwell	Carlos Hyde	RB	15.7	10.6	Sunday evening	5
+Lawrence Shin	5	Ari	Cardinals D/ST D/ST	25	Jason Wardwell	Cardinals D/ST	D/ST	11	10.5	Sunday afternoon	5
+Lawrence Shin	5	SD	Josh Lambo, SD K	25	Jason Wardwell	Josh Lambo	K	10	7.8	Monday evening	5
