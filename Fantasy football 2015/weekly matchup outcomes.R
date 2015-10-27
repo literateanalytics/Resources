@@ -5,7 +5,7 @@ library(dplyr)
 
 
 league.list <- c("1390327",  # Epic Bar Graphs
-                 "1637123",  # Belicheck Your Balls  # Belicheck won't work yet because not all the IDP positions are filled in
+                 #"1637123",  # Belicheck Your Balls  # Belicheck won't work yet because not all the IDP positions are filled in
                  "1702312",  # CAmazonians
                  "1765344"   # Won't Get Fined
 )
@@ -17,7 +17,7 @@ start <- as.Date('2015-09-09', '%Y-%m-%d')
 nfl.week <- floor(as.numeric(Sys.Date() - start)/7)+1
 nfl.week <- ifelse(nfl.week > 17, 99, ifelse(Sys.Date() < start, 0, nfl.week))
 # this is for if I don't run graphs on time
-nfl.week <- nfl.week - 1
+#nfl.week <- nfl.week - 1
 
 team.clean <- function(team) {
     team.tmp <- team
