@@ -1,0 +1,161 @@
+manager	slot	info	opponent	gametime	player.rank	prev.pts.total	prev.pts.avg	prev.pts.last	proj.pts	opp.rank	pct.start	pct.own	pct.own.change	starting	starter.pts	bench.pts	nfl.week	matchup.id
+Adhi Vidyasankar	QB	Blake Bortles, Jax<U+00A0>QB	** BYE **		131.1	18.7	13	NA	NA	18.9	63.4	8.1	NA	Starter	NA	0	8	1
+Adhi Vidyasankar	RB	Mark Ingram, NO<U+00A0>RB	NYG	Sun 1:00	2	96.5	13.8	20.8	12.4	21	95.4	99.3	0.1	Starter	12.4	0	8	1
+Adhi Vidyasankar	RB	Lamar Miller, Mia<U+00A0>RB	@NE	Thu 8:25	11	75.2	12.5	35.6	11.1	5	90.8	97.9	2.4	Starter	11.1	0	8	1
+Adhi Vidyasankar	WR	Calvin Johnson, Det<U+00A0>WR<U+00A0><U+00A0>P	@KC	Sun 9:30 AM	17	73.4	10.5	14.6	11.3	32	98.6	99.9	0	Starter	11.3	0	8	1
+Adhi Vidyasankar	WR	Keenan Allen, SD<U+00A0>WR<U+00A0><U+00A0>P	@Bal	Sun 1:00	8	85.2	12.2	8.9	12.7	31	93	98.5	0.2	Starter	12.7	0	8	1
+Adhi Vidyasankar	TE	Delanie Walker, Ten<U+00A0>TE	@Hou	Sun 1:00	14	35.9	6	5.5	8.2	16	56.7	79	4.6	Starter	8.2	0	8	1
+Adhi Vidyasankar	FLEX	Danny Woodhead, SD<U+00A0>RB	@Bal	Sun 1:00	6	83.5	11.9	22.1	9.2	10	62.9	86.6	2.7	Starter	9.2	0	8	1
+Adhi Vidyasankar	D/ST	Bills D/ST<U+00A0>D/ST	** BYE **		41	5.9	11	NA	NA	55.5	88	-5.7	NA	Starter	NA	0	8	1
+Adhi Vidyasankar	K	Stephen Gostkowski, NE<U+00A0>K	Mia	Thu 8:25	1	79	13.2	13	7.9	14	96.5	99.5	0.2	Starter	7.9	0	8	1
+Adhi Vidyasankar	Bench	Aaron Rodgers, GB<U+00A0>QB	@Den	Sun 8:30	5	131.6	21.9	NA	18.2	1	45.4	99.9	0	Bench	0	18.2	8	1
+Adhi Vidyasankar	Bench	Martellus Bennett, Chi<U+00A0>TE	Min	Sun 1:00	13	41.2	6.9	NA	7.3	27	37.2	92	-2.6	Bench	0	7.3	8	1
+Adhi Vidyasankar	Bench	Rashad Jennings, NYG<U+00A0>RB	@NO	Sun 1:00	36	49.4	7.1	1.9	6.8	22	41.2	82.3	0.1	Bench	0	6.8	8	1
+Adhi Vidyasankar	Bench	John Brown, Ari<U+00A0>WR<U+00A0><U+00A0>Q	@Cle	Sun 1:00	16	73.5	10.5	12.5	9.1	19	66.2	88.5	5.4	Bench	0	9.1	8	1
+Adhi Vidyasankar	Bench	Ravens D/ST<U+00A0>D/ST	SD	Sun 1:00	27	23	3.3	1	3.4	14	25.9	43.6	-18.2	Bench	0	3.4	8	1
+Adhi Vidyasankar	Bench	Dan Bailey, Dal<U+00A0>K	Sea	Sun 4:25	18	46	7.7	9	7.2	12	30.9	48.7	-0.7	Bench	0	7.2	8	1
+Adhi Vidyasankar	IR	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Bench	0	NA	8	1
+Kelly  Steinbrecher	QB	Russell Wilson, Sea<U+00A0>QB	@Dal	Sun 4:25	8	111.8	16	11.4	16.8	11	69.5	98.7	-0.6	Starter	16.8	0	8	3
+Kelly  Steinbrecher	RB	Devonta Freeman, Atl<U+00A0>RB	TB	Sun 1:00	1	153.1	21.9	13	20.1	11	98.2	98.7	0.3	Starter	20.1	0	8	3
+Kelly  Steinbrecher	RB	David Johnson, Ari<U+00A0>RB	@Cle	Sun 1:00	13	74	10.6	2.4	6.6	31	10.1	41.5	-8.5	Starter	6.6	0	8	3
+Kelly  Steinbrecher	WR	Jarvis Landry, Mia<U+00A0>WR	@NE	Thu 8:25	6	86.8	14.5	21.2	10.6	28	76.4	94	1.4	Starter	10.6	0	8	3
+Kelly  Steinbrecher	WR	Marvin Jones, Cin<U+00A0>WR	@Pit	Sun 1:00	32	51	8.5	NA	7.2	16	6.9	37	4.8	Starter	7.2	0	8	3
+Kelly  Steinbrecher	TE	Greg Olsen, Car<U+00A0>TE	Ind	Mon 8:30	4	61.9	10.3	6.5	9	21	93.4	99.4	0.5	Starter	9	0	8	3
+Kelly  Steinbrecher	FLEX	Tyler Lockett, Sea<U+00A0>WR	@Dal	Sun 4:25	26	58.6	8.4	15.1	7.2	10	2.9	11.3	0.7	Starter	7.2	0	8	3
+Kelly  Steinbrecher	D/ST	Seahawks D/ST<U+00A0>D/ST	@Dal	Sun 4:25	2	72	10.3	13	9.6	24	96.4	99.8	0	Starter	9.6	0	8	3
+Kelly  Steinbrecher	K	Steven Hauschka, Sea<U+00A0>K	@Dal	Sun 4:25	2	75	10.7	10	8.5	29	94.9	98.7	0.2	Starter	8.5	0	8	3
+Kelly  Steinbrecher	Bench	Demaryius Thomas, Den<U+00A0>WR	GB	Sun 8:30	27	56.7	9.5	NA	12.3	9	55	99.9	0	Bench	0	12.3	8	3
+Kelly  Steinbrecher	Bench	Ryan Tannehill, Mia<U+00A0>QB	@NE	Thu 8:25	12	107.5	17.9	27.6	16.5	27	39.2	77.3	8.6	Bench	0	16.5	8	3
+Kelly  Steinbrecher	Bench	Darren Sproles, Phi<U+00A0>RB	** BYE **		48.4	6.9	4.1	NA	NA	8.6	46.2	-8.2	NA	Bench	0	NA	8	3
+Kelly  Steinbrecher	Bench	Owen Daniels, Den<U+00A0>TE<U+00A0><U+00A0>P	GB	Sun 8:30	28	20.5	3.4	NA	5.2	23	3.6	30.6	-10.7	Bench	0	5.2	8	3
+Kelly  Steinbrecher	Bench	Tavon Austin, StL<U+00A0>WR	SF	Sun 1:00	23	66.1	11	7	8.7	29	15	43	1.1	Bench	0	8.7	8	3
+Kelly  Steinbrecher	Bench	Andre Ellington, Ari<U+00A0>RB	@Cle	Sun 1:00	51	34.2	4.9	4.9	4.8	31	13	72.4	-9.8	Bench	0	4.8	8	3
+Kelly  Steinbrecher	IR	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Bench	0	NA	8	3
+Andrew Phares	QB	Carson Palmer, Ari<U+00A0>QB	@Cle	Sun 1:00	4	135.7	19.4	19.2	16.9	17	77.6	95.1	1.6	Starter	16.9	0	8	2
+Andrew Phares	RB	Adrian Peterson, Min<U+00A0>RB<U+00A0><U+00A0>Q	@Chi	Sun 1:00	10	79.1	13.2	11	14.3	18	98.7	99.9	0	Starter	14.3	0	8	2
+Andrew Phares	RB	Todd Gurley, StL<U+00A0>RB	SF	Sun 1:00	21	61.7	10.3	28.3	16.7	24	95.8	98.4	1.4	Starter	16.7	0	8	2
+Andrew Phares	WR	A.J. Green, Cin<U+00A0>WR	@Pit	Sun 1:00	19	71.1	11.9	NA	12	16	53.9	99.7	-0.1	Starter	12	0	8	2
+Andrew Phares	WR	Amari Cooper, Oak<U+00A0>WR	NYJ	Sun 4:05	20	69.1	11.5	19.3	8.4	14	73.4	97.3	0	Starter	8.4	0	8	2
+Andrew Phares	TE	Tyler Eifert, Cin<U+00A0>TE	@Pit	Sun 1:00	3	70.2	11.7	NA	8.3	30	49	94	-0.3	Starter	8.3	0	8	2
+Andrew Phares	FLEX	Gary Barnidge, Cle<U+00A0>TE	Ari	Sun 1:00	2	81.4	11.6	10.1	7.5	1	64.2	83.3	7.7	Starter	7.5	0	8	2
+Andrew Phares	D/ST	Falcons D/ST<U+00A0>D/ST	TB	Sun 1:00	9	49	7	10	7.2	18	35.2	52.4	15.3	Starter	7.2	0	8	2
+Andrew Phares	K	Matt Bryant, Atl<U+00A0>K	TB	Sun 1:00	16	49	7	3	8.1	9	78	84.4	-5	Starter	8.1	0	8	2
+Andrew Phares	Bench	Jeremy Hill, Cin<U+00A0>RB	@Pit	Sun 1:00	24	59.9	10	NA	8.7	4	32.3	97	-0.5	Bench	0	8.7	8	2
+Andrew Phares	Bench	Matt Ryan, Atl<U+00A0>QB	TB	Sun 1:00	13	107	15.3	9.7	19.6	29	67.4	95.9	-0.7	Bench	0	19.6	8	2
+Andrew Phares	Bench	Torrey Smith, SF<U+00A0>WR	@StL	Sun 1:00	39	46.3	6.6	0	4.7	4	13.5	54.2	-2.2	Bench	0	4.7	8	2
+Andrew Phares	Bench	James Jones, GB<U+00A0>WR	@Den	Sun 8:30	11	78.4	13.1	NA	7.3	1	23.9	92.6	-0.9	Bench	0	7.3	8	2
+Andrew Phares	Bench	Willie Snead, NO<U+00A0>WR	NYG	Sun 1:00	34	50.1	7.2	2.5	7.1	12	26.7	60.4	-5.3	Bench	0	7.1	8	2
+Andrew Phares	Bench	Allen Hurns, Jax<U+00A0>WR	** BYE **		79.3	11.3	11.3	NA	NA	15.9	75.9	2.4	NA	Bench	0	NA	8	2
+Andrew Phares	IR	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Bench	0	NA	8	2
+Patrick Gowey	QB	Andy Dalton, Cin<U+00A0>QB	@Pit	Sun 1:00	3	137.7	23	NA	17.5	19	35.7	86.6	1.7	Starter	17.5	0	8	4
+Patrick Gowey	RB	Dion Lewis, NE<U+00A0>RB<U+00A0><U+00A0>Q	Mia	Thu 8:25	22	61.7	10.3	0	9.8	20	29.2	92.2	-2.3	Starter	9.8	0	8	4
+Patrick Gowey	RB	Chris Johnson, Ari<U+00A0>RB	@Cle	Sun 1:00	8	80.3	11.5	18.2	13.6	31	75.3	91.5	5.4	Starter	13.6	0	8	4
+Patrick Gowey	WR	Odell Beckham Jr., NYG<U+00A0>WR<U+00A0><U+00A0>P	@NO	Sun 1:00	15	76.7	11	3.5	11.9	17	97.9	99.9	0	Starter	11.9	0	8	4
+Patrick Gowey	WR	Julian Edelman, NE<U+00A0>WR	Mia	Thu 8:25	11	78.4	13.1	6.5	12	25	96.9	99.5	0	Starter	12	0	8	4
+Patrick Gowey	TE	Travis Kelce, KC<U+00A0>TE<U+00A0><U+00A0>P	Det	Sun 9:30 AM	5	60.9	8.7	7.3	7.4	24	88.2	98.5	-0.2	Starter	7.4	0	8	4
+Patrick Gowey	FLEX	Charcandrick West, KC<U+00A0>RB<U+00A0><U+00A0>P	Det	Sun 9:30 AM	60	26.5	3.8	18.9	11.7	23	42.3	77	1.9	Starter	11.7	0	8	4
+Patrick Gowey	D/ST	Packers D/ST<U+00A0>D/ST	@Den	Sun 8:30	7	52	8.7	NA	7.5	26	22	72.2	-4.3	Starter	7.5	0	8	4
+Patrick Gowey	K	Brandon McManus, Den<U+00A0>K	GB	Sun 8:30	3	71	11.8	NA	7.9	5	39.6	78.9	-4.2	Starter	7.9	0	8	4
+Patrick Gowey	Bench	Randall Cobb, GB<U+00A0>WR	@Den	Sun 8:30	24	60.2	10	NA	11.1	1	46	99.2	-0.3	Bench	0	11.1	8	4
+Patrick Gowey	Bench	Frank Gore, Ind<U+00A0>RB	@Car	Mon 8:30	16	68	9.7	7.5	9.9	28	79.7	97.9	-0.1	Bench	0	9.9	8	4
+Patrick Gowey	Bench	Jeremy Maclin, KC<U+00A0>WR<U+00A0><U+00A0>P	Det	Sun 9:30 AM	25	58.9	8.4	0	11.3	27	39.9	94	-1.7	Bench	0	11.3	8	4
+Patrick Gowey	Bench	Steve Smith Sr., Bal<U+00A0>WR	SD	Sun 1:00	13	78.1	11.2	7.8	8.9	7	72.1	92.5	2.4	Bench	0	8.9	8	4
+Patrick Gowey	Bench	Dolphins D/ST<U+00A0>D/ST	@NE	Thu 8:25	12	43	7.2	12	1.3	1	20.9	39.7	5.5	Bench	0	1.3	8	4
+Patrick Gowey	Bench	Ryan Fitzpatrick, NYJ<U+00A0>QB	@Oak	Sun 4:05	15	104.1	17.3	20.7	16.3	23	12.6	27.5	12.3	Bench	0	16.3	8	4
+Patrick Gowey	IR	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Bench	0	NA	8	4
+Randy Bacon	QB	Drew Brees, NO<U+00A0>QB	NYG	Sun 1:00	21	94.7	13.5	11.8	17.8	10	62.5	97.1	-0.3	Starter	17.8	0	8	5
+Randy Bacon	RB	Eddie Lacy, GB<U+00A0>RB	@Den	Sun 8:30	47	40.3	6.7	NA	9.8	14	34.7	98.9	-0.6	Starter	9.8	0	8	5
+Randy Bacon	RB	Ameer Abdullah, Det<U+00A0>RB	@KC	Sun 9:30 AM	25	58.9	8.4	7.5	8.8	8	27.4	76.5	-4	Starter	8.8	0	8	5
+Randy Bacon	WR	T.Y. Hilton, Ind<U+00A0>WR	@Car	Mon 8:30	10	78.6	11.2	27	10.2	3	89.3	99	0.1	Starter	10.2	0	8	5
+Randy Bacon	WR	Stefon Diggs, Min<U+00A0>WR	@Chi	Sun 1:00	51	39.3	6.6	17.7	7.3	30	31.7	59.4	35.6	Starter	7.3	0	8	5
+Randy Bacon	TE	Jimmy Graham, Sea<U+00A0>TE	@Dal	Sun 4:25	8	49.5	7.1	3.1	6.5	5	85.9	99.2	-0.1	Starter	6.5	0	8	5
+Randy Bacon	FLEX	Martavis Bryant, Pit<U+00A0>WR	Cin	Sun 1:00	53	38.3	5.5	11.8	9.7	11	65.4	88.8	3.4	Starter	9.7	0	8	5
+Randy Bacon	D/ST	Jets D/ST<U+00A0>D/ST	@Oak	Sun 4:05	7	52	8.7	1	7.6	12	56.9	89.5	-1.9	Starter	7.6	0	8	5
+Randy Bacon	K	Nick Novak, Hou<U+00A0>K	Ten	Sun 1:00	34	20	3.3	1	7.6	1	23.5	28.6	-5.8	Starter	7.6	0	8	5
+Randy Bacon	Bench	Joseph Randle, Dal<U+00A0>RB<U+00A0><U+00A0>Q	Sea	Sun 4:25	19	64	10.7	2.4	0	2	25.4	89.2	-5.4	Bench	0	0	8	5
+Randy Bacon	Bench	Matthew Stafford, Det<U+00A0>QB<U+00A0><U+00A0>P	@KC	Sun 9:30 AM	11	108.2	15.5	18.7	16.4	22	42.4	76.1	8	Bench	0	16.4	8	5
+Randy Bacon	Bench	Travis Benjamin, Cle<U+00A0>WR	Ari	Sun 1:00	5	93.7	13.4	2.9	9.9	13	54	85.6	3.3	Bench	0	9.9	8	5
+Randy Bacon	Bench	Eagles D/ST<U+00A0>D/ST	** BYE **		65	9.3	6	NA	NA	35.4	64.5	4.8	NA	Bench	0	NA	8	5
+Randy Bacon	Bench	Antonio Gates, SD<U+00A0>TE<U+00A0><U+00A0>Q	@Bal	Sun 1:00	18	30.7	4.4	0	0	2	43.5	92.1	-1.8	Bench	0	0	8	5
+Randy Bacon	Bench	Christine Michael, Dal<U+00A0>RB	Sea	Sun 4:25	119	2.5	0.4	2	5.1	2	6.2	39	-1.5	Bench	0	5.1	8	5
+Randy Bacon	IR	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Bench	0	NA	8	5
+Marjory Reiter	QB	Tom Brady, NE<U+00A0>QB	Mia	Thu 8:25	1	156.1	26	29.7	21.2	14	96.9	99.5	0	Starter	21.2	0	8	1
+Marjory Reiter	RB	LeGarrette Blount, NE<U+00A0>RB	Mia	Thu 8:25	27	57.1	9.5	-0.3	11.3	20	65.5	92.9	0.3	Starter	11.3	0	8	1
+Marjory Reiter	RB	Doug Martin, TB<U+00A0>RB	@Atl	Sun 1:00	3	89	14.8	17.1	11	27	83.7	94.8	1.9	Starter	11	0	8	1
+Marjory Reiter	WR	Julio Jones, Atl<U+00A0>WR	TB	Sun 1:00	2	109	15.6	15.2	14.5	26	99.6	100	0	Starter	14.5	0	8	1
+Marjory Reiter	WR	Larry Fitzgerald, Ari<U+00A0>WR	@Cle	Sun 1:00	3	96.2	13.7	3.9	10.4	19	94.4	98.3	0.3	Starter	10.4	0	8	1
+Marjory Reiter	TE	Rob Gronkowski, NE<U+00A0>TE	Mia	Thu 8:25	1	89.5	14.9	16.8	11.1	11	99.7	100	0	Starter	11.1	0	8	1
+Marjory Reiter	FLEX	Jonathan Stewart, Car<U+00A0>RB	Ind	Mon 8:30	26	57.3	9.6	12.5	12.1	25	70.4	93.6	3.6	Starter	12.1	0	8	1
+Marjory Reiter	D/ST	Patriots D/ST<U+00A0>D/ST	Mia	Thu 8:25	14	38	6.3	3	9.1	10	66.3	86.5	1.1	Starter	9.1	0	8	1
+Marjory Reiter	K	Chandler Catanzaro, Ari<U+00A0>K	@Cle	Sun 1:00	10	57	8.1	6	8.2	17	50.4	56.3	6.6	Starter	8.2	0	8	1
+Marjory Reiter	Bench	Vincent Jackson, TB<U+00A0>WR<U+00A0><U+00A0>D	@Atl	Sun 1:00	40	45.9	7.7	1.3	0	5	34.2	86.9	-2.5	Bench	0	0	8	1
+Marjory Reiter	Bench	Anquan Boldin, SF<U+00A0>WR	@StL	Sun 1:00	37	49.2	7	3.9	7.4	4	25.7	66	-2.2	Bench	0	7.4	8	1
+Marjory Reiter	Bench	Dwayne Allen, Ind<U+00A0>TE	@Car	Mon 8:30	40	13.1	1.9	1	3.1	9	6	20.3	-4.4	Bench	0	3.1	8	1
+Marjory Reiter	Bench	Teddy Bridgewater, Min<U+00A0>QB	@Chi	Sun 1:00	28	73.1	12.2	18.7	14.3	28	9.9	27.8	1.2	Bench	0	14.3	8	1
+Marjory Reiter	Bench	Lions D/ST<U+00A0>D/ST	@KC	Sun 9:30 AM	18	37	5.3	4	5.9	20	16	25.4	-3.9	Bench	0	5.9	8	1
+Marjory Reiter	Bench	Darren McFadden, Dal<U+00A0>RB	Sea	Sun 4:25	32	52.2	8.7	22.2	11.8	2	22.9	76.6	33.3	Bench	0	11.8	8	1
+Marjory Reiter	IR	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Bench	0	NA	8	1
+Adam Bohnett	QB	Cam Newton, Car<U+00A0>QB	Ind	Mon 8:30	7	119.5	19.9	13.9	19.5	21	65.7	96.2	0.6	Starter	19.5	0	8	5
+Adam Bohnett	RB	Justin Forsett, Bal<U+00A0>RB	SD	Sun 1:00	12	75	10.7	10.4	17.5	32	92.6	99	0	Starter	17.5	0	8	5
+Adam Bohnett	RB	Arian Foster*, Hou<U+00A0>RB<U+00A0><U+00A0>IR	Ten	Sun 1:00	28	55	7.9	24.5	0	6	34.1	63.6	-34.4	Starter	0	0	8	5
+Adam Bohnett	WR	Antonio Brown, Pit<U+00A0>WR	Cin	Sun 1:00	7	86	12.3	13.1	14.3	11	97.6	100	0	Starter	14.3	0	8	5
+Adam Bohnett	WR	Golden Tate, Det<U+00A0>WR	@KC	Sun 9:30 AM	52	39	5.6	1.8	8.3	32	48	84.9	-0.7	Starter	8.3	0	8	5
+Adam Bohnett	TE	Julius Thomas, Jax<U+00A0>TE<U+00A0><U+00A0>Q	** BYE **		16.2	2.3	0.4	NA	NA	27.7	75.1	2.4	NA	Starter	NA	0	8	5
+Adam Bohnett	FLEX	Pierre Garcon, Wsh<U+00A0>WR	** BYE **		53	7.6	5.5	NA	NA	19.3	68.2	-0.5	NA	Starter	NA	0	8	5
+Adam Bohnett	D/ST	Rams D/ST<U+00A0>D/ST	SF	Sun 1:00	5	64	10.7	21	10.9	29	83.6	96	7.9	Starter	10.9	0	8	5
+Adam Bohnett	K	Justin Tucker, Bal<U+00A0>K	SD	Sun 1:00	5	62	8.9	5	8.1	23	90.6	95.4	-1	Starter	8.1	0	8	5
+Adam Bohnett	Bench	Matt Forte, Chi<U+00A0>RB	Min	Sun 1:00	4	87.8	14.6	NA	16.5	7	58.9	99.9	0	Bench	0	16.5	8	5
+Adam Bohnett	Bench	Peyton Manning, Den<U+00A0>QB	GB	Sun 8:30	29	68.6	11.4	NA	16	13	17.4	92.1	-3.8	Bench	0	16	8	5
+Adam Bohnett	Bench	Jason Witten, Dal<U+00A0>TE	Sea	Sun 4:25	11	44.4	7.4	7.3	6.3	31	65.3	95.2	0.7	Bench	0	6.3	8	5
+Adam Bohnett	Bench	Giovani Bernard, Cin<U+00A0>RB	@Pit	Sun 1:00	18	66.8	11.1	NA	8.8	4	33.6	94.1	-0.4	Bench	0	8.8	8	5
+Adam Bohnett	Bench	Brandon LaFell, NE<U+00A0>WR	Mia	Thu 8:25	156	2.5	0.4	2.5	7.6	25	9.7	43.9	17.1	Bench	0	7.6	8	5
+Adam Bohnett	Bench	Titans D/ST<U+00A0>D/ST	@Hou	Sun 1:00	14	38	6.3	6	5.9	15	9.9	20.6	-13	Bench	0	5.9	8	5
+Adam Bohnett	IR	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Bench	0	NA	8	5
+Jiagen Eep	QB	Andrew Luck, Ind<U+00A0>QB	@Car	Mon 8:30	22	94.6	13.5	24	17.3	3	77.6	99.8	0	Starter	17.3	0	8	4
+Jiagen Eep	RB	DeMarco Murray, Phi<U+00A0>RB	** BYE **		67.9	9.7	7	NA	NA	45.1	99.5	-0.1	NA	Starter	NA	0	8	4
+Jiagen Eep	RB	Bishop Sankey, Ten<U+00A0>RB	@Hou	Sun 1:00	46	41.4	6.9	1.1	4.9	30	6.4	35.7	-9.4	Starter	4.9	0	8	4
+Jiagen Eep	WR	Mike Evans, TB<U+00A0>WR	@Atl	Sun 1:00	48	39.8	6.6	22.4	10.4	5	71.1	95.5	2	Starter	10.4	0	8	4
+Jiagen Eep	WR	Brandon Marshall, NYJ<U+00A0>WR	@Oak	Sun 4:05	14	77.8	13	6.7	11.2	8	92.6	98.1	0.3	Starter	11.2	0	8	4
+Jiagen Eep	TE	Jordan Cameron, Mia<U+00A0>TE	@NE	Thu 8:25	21	28.3	4.7	2.3	6.9	8	41.1	69.2	3.8	Starter	6.9	0	8	4
+Jiagen Eep	FLEX	Chris Ivory, NYJ<U+00A0>RB<U+00A0><U+00A0>P	@Oak	Sun 4:05	5	87.5	14.6	11.3	11.9	16	88.6	96.6	1	Starter	11.9	0	8	4
+Jiagen Eep	D/ST	Broncos D/ST<U+00A0>D/ST	GB	Sun 8:30	1	106	17.7	NA	8.3	3	42.3	97.5	-0.5	Starter	8.3	0	8	4
+Jiagen Eep	K	Matt Prater, Det<U+00A0>K	@KC	Sun 9:30 AM	22	38	5.4	7	7.4	16	46.8	53.3	0.1	Starter	7.4	0	8	4
+Jiagen Eep	Bench	Emmanuel Sanders, Den<U+00A0>WR<U+00A0><U+00A0>Q	GB	Sun 8:30	18	73	12.2	NA	13	9	49.7	99.4	-0.2	Bench	0	13	8	4
+Jiagen Eep	Bench	Eric Decker, NYJ<U+00A0>WR<U+00A0><U+00A0>Q	@Oak	Sun 4:05	29	55.3	9.2	9.4	9.1	8	54.7	87	2.6	Bench	0	9.1	8	4
+Jiagen Eep	Bench	Donte Moncrief, Ind<U+00A0>WR	@Car	Mon 8:30	21	68.3	9.8	9.4	9.3	3	57.8	85.6	3.1	Bench	0	9.3	8	4
+Jiagen Eep	Bench	Eli Manning, NYG<U+00A0>QB	@NO	Sun 1:00	9	109.8	15.7	6.4	17.7	31	50	86	-0.7	Bench	0	17.7	8	4
+Jiagen Eep	Bench	DeSean Jackson, Wsh<U+00A0>WR<U+00A0><U+00A0>Q	** BYE **		0	0	0	NA	NA	0.9	68.6	-5.9	NA	Bench	0	NA	8	4
+Jiagen Eep	Bench	Vikings D/ST<U+00A0>D/ST	@Chi	Sun 1:00	10	48	8	9	8.8	26	37.2	58.4	15.8	Bench	0	8.8	8	4
+Jiagen Eep	IR	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Bench	0	NA	8	4
+Lawrence Shin	QB	Derek Carr, Oak<U+00A0>QB	NYJ	Sun 4:05	20	95.6	15.9	23.9	14.3	4	11.5	34.7	2.5	Starter	14.3	0	8	3
+Lawrence Shin	RB	Marshawn Lynch, Sea<U+00A0>RB<U+00A0><U+00A0>Q	@Dal	Sun 4:25	34	50.5	7.2	18.2	13.1	29	95.5	99.7	0.1	Starter	13.1	0	8	3
+Lawrence Shin	RB	Latavius Murray, Oak<U+00A0>RB	NYJ	Sun 4:05	15	70	11.7	14.6	8.4	1	76.2	97.1	0.4	Starter	8.4	0	8	3
+Lawrence Shin	WR	DeAndre Hopkins, Hou<U+00A0>WR	Ten	Sun 1:00	1	109.6	15.7	5	12.8	15	99.1	99.7	0.1	Starter	12.8	0	8	3
+Lawrence Shin	WR	Allen Robinson, Jax<U+00A0>WR	** BYE **		94.6	13.5	15.8	NA	NA	32.9	94.5	0.8	NA	Starter	NA	0	8	3
+Lawrence Shin	TE	Larry Donnell, NYG<U+00A0>TE	@NO	Sun 1:00	17	32.1	4.6	1.8	7	29	32	56.3	-2.6	Starter	7	0	8	3
+Lawrence Shin	FLEX	Carlos Hyde, SF<U+00A0>RB<U+00A0><U+00A0>Q	@StL	Sun 1:00	14	70.3	10	4	9.6	17	69.3	97.4	-0.7	Starter	9.6	0	8	3
+Lawrence Shin	D/ST	Cardinals D/ST<U+00A0>D/ST	@Cle	Sun 1:00	3	71	10.1	9	10.3	28	89.4	95.8	0.9	Starter	10.3	0	8	3
+Lawrence Shin	K	Josh Lambo, SD<U+00A0>K	@Bal	Sun 1:00	8	58	8.3	9	7.8	32	20.4	24.8	9.1	Starter	7.8	0	8	3
+Lawrence Shin	Bench	Melvin Gordon, SD<U+00A0>RB<U+00A0><U+00A0>P	@Bal	Sun 1:00	49	35.4	5.1	2.9	5.7	10	31	87.2	-5.5	Bench	0	5.7	8	3
+Lawrence Shin	Bench	Davante Adams, GB<U+00A0>WR<U+00A0><U+00A0>Q	@Den	Sun 8:30	131	9.2	1.5	NA	7.1	1	5	52.6	-1.2	Bench	0	7.1	8	3
+Lawrence Shin	Bench	Devin Funchess, Car<U+00A0>WR	Ind	Mon 8:30	134	8.2	1.4	2	3.6	23	1.2	9.8	-2.1	Bench	0	3.6	8	3
+Lawrence Shin	Bench	Sam Bradford, Phi<U+00A0>QB	** BYE **		87.8	12.5	6.8	NA	NA	10.3	45.4	-10.2	NA	Bench	0	NA	8	3
+Lawrence Shin	Bench	Marcus Mariota, Ten<U+00A0>QB<U+00A0><U+00A0>Q	@Hou	Sun 1:00	27	74.8	12.5	0	16.8	30	2.2	36.9	-15.6	Bench	0	16.8	8	3
+Lawrence Shin	Bench	Doug Baldwin, Sea<U+00A0>WR	@Dal	Sun 4:25	44	43	6.1	1.9	6.2	10	15.1	40.5	-3.5	Bench	0	6.2	8	3
+Lawrence Shin	IR	Dez Bryant, Dal<U+00A0>WR<U+00A0><U+00A0>Q	Sea	Sun 4:25	151	4.8	0.8	0	9.2	2	9.7	95.4	1.3	Bench	0	9.2	8	3
+Jason Wardwell	QB	Philip Rivers, SD<U+00A0>QB	@Bal	Sun 1:00	2	144.3	20.6	25.4	19.8	32	78	94.4	2.7	Starter	19.8	0	8	2
+Jason Wardwell	RB	Le'Veon Bell, Pit<U+00A0>RB	Cin	Sun 1:00	7	81.4	11.6	13.7	17.3	19	99.6	99.9	0	Starter	17.3	0	8	2
+Jason Wardwell	RB	Ronnie Hillman, Den<U+00A0>RB	GB	Sun 8:30	42	46	7.7	NA	8.4	12	19.6	74	0.3	Starter	8.4	0	8	2
+Jason Wardwell	WR	Alshon Jeffery, Chi<U+00A0>WR	Min	Sun 1:00	71	28.5	4.8	NA	10.6	6	48.1	97	0.1	Starter	10.6	0	8	2
+Jason Wardwell	WR	Kendall Wright, Ten<U+00A0>WR	@Hou	Sun 1:00	31	51.6	8.6	10.6	7.2	20	31.3	71.9	-4.3	Starter	7.2	0	8	2
+Jason Wardwell	TE	Ladarius Green, SD<U+00A0>TE	@Bal	Sun 1:00	6	58.4	8.3	14.5	7	2	17.7	38.4	20	Starter	7	0	8	2
+Jason Wardwell	FLEX	Mike Wallace, Min<U+00A0>WR	@Chi	Sun 1:00	62	35.2	5.9	3.6	7.1	30	29.5	69.6	-2.6	Starter	7.1	0	8	2
+Jason Wardwell	D/ST	Panthers D/ST<U+00A0>D/ST	Ind	Mon 8:30	6	57	9.5	8	8	16	68.5	86.6	7.7	Starter	8	0	8	2
+Jason Wardwell	K	Blair Walsh, Min<U+00A0>K	@Chi	Sun 1:00	11	54	9	19	8.4	24	23.8	33.6	8.1	Starter	8.4	0	8	2
+Jason Wardwell	Bench	LeSean McCoy, Buf<U+00A0>RB	** BYE **		54.7	7.8	10.4	NA	NA	41.5	98.9	0.5	NA	Bench	0	NA	8	2
+Jason Wardwell	Bench	Jordan Matthews, Phi<U+00A0>WR	** BYE **		43.8	6.3	1.4	NA	NA	31.8	92.4	-3.1	NA	Bench	0	NA	8	2
+Jason Wardwell	Bench	Sammy Watkins, Buf<U+00A0>WR<U+00A0><U+00A0>Q	** BYE **		26.7	3.8	0	NA	NA	1.5	76	-6.9	NA	Bench	0	NA	8	2
+Jason Wardwell	Bench	Ben Roethlisberger, Pit<U+00A0>QB<U+00A0><U+00A0>P	Cin	Sun 1:00	31	54.4	7.8	0	18.3	15	15.1	88.4	0.9	Bench	0	18.3	8	2
+Jason Wardwell	Bench	T.J. Yeldon, Jax<U+00A0>RB	** BYE **		60.8	8.7	18.4	NA	NA	17	91.7	0.1	NA	Bench	0	NA	8	2
+Jason Wardwell	Bench	Charles Clay, Buf<U+00A0>TE	** BYE **		47	6.7	2.6	NA	NA	23.7	67.3	-3.8	NA	Bench	0	NA	8	2
+Jason Wardwell	IR	<U+00A0>			NA	NA	NA	NA	NA	NA	NA	NA	NA	Bench	0	NA	8	2
