@@ -4,10 +4,10 @@ library(dplyr)
 
 
 
-league.list <- c(#"1390327",  # Epic Bar Graphs
-                 "1637123"#,  # Belicheck Your Balls  # Belicheck won't work yet because not all the IDP positions are filled in
-                 #"1702312",  # CAmazonians
-                 #"1765344"   # Won't Get Fined
+league.list <- c("1390327",  # Epic Bar Graphs
+                 #"1637123"#,  # Belicheck Your Balls  # Belicheck won't work yet because not all the IDP positions are filled in
+                 "1702312",  # CAmazonians
+                 "1765344"   # Won't Get Fined
 )
 # league.id <- league.list[1]
 
