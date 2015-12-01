@@ -1,0 +1,766 @@
+manager	week	team	player.info	link_num	opponent	player	position	score	proj.pts	period	id
+Patrick OBerry	1	Den	Peyton Manning*, Den QB  O	1	Patrick Gowey	Peyton Manning	QB	4.9	17.7	Sunday afternoon	1
+Patrick OBerry	1	GB	Eddie Lacy, GB RB  Q	1	Patrick Gowey	Eddie Lacy	RB	15.9	15.9	Sunday morning	1
+Patrick OBerry	1	Buf	LeSean McCoy, Buf RB	1	Patrick Gowey	LeSean McCoy	RB	8.7	15.7	Sunday morning	1
+Patrick OBerry	1	Atl	Julio Jones, Atl WR	1	Patrick Gowey	Julio Jones	WR	26.1	15.9	Monday evening	1
+Patrick OBerry	1	Den	Emmanuel Sanders*, Den WR  O	1	Patrick Gowey	Emmanuel Sanders	WR	6.5	10.2	Sunday afternoon	1
+Patrick OBerry	1	Phi	Zach Ertz, Phi TE  Q	1	Patrick Gowey	Zach Ertz	TE	4.6	5.1	Monday evening	1
+Patrick OBerry	1	Min	Charles Johnson, Min WR	1	Patrick Gowey	Charles Johnson	WR	2.7	7.5	Monday evening	1
+Patrick OBerry	1	StL	Rams D/ST D/ST	1	Patrick Gowey	Rams D/ST	D/ST	13	6	Sunday morning	1
+Patrick OBerry	1	Phi	Cody Parkey*, Phi K  IR	1	Patrick Gowey	Cody Parkey	K	5	7.7	Monday evening	1
+Patrick Gowey	1	GB	Aaron Rodgers, GB QB	1	Patrick OBerry	Aaron Rodgers	QB	23.1	17.9	Sunday morning	1
+Patrick Gowey	1	Chi	Matt Forte*, Chi RB  O	1	Patrick OBerry	Matt Forte	RB	22.6	10.7	Sunday morning	1
+Patrick Gowey	1	Cin	Jeremy Hill, Cin RB	1	Patrick OBerry	Jeremy Hill	RB	18.3	15.2	Sunday afternoon	1
+Patrick Gowey	1	GB	Randall Cobb, GB WR	1	Patrick OBerry	Randall Cobb	WR	9.8	14.6	Sunday morning	1
+Patrick Gowey	1	Mia	Jarvis Landry, Mia WR	1	Patrick OBerry	Jarvis Landry	WR	12.7	8.2	Sunday morning	1
+Patrick Gowey	1	KC	Travis Kelce, KC TE	1	Patrick OBerry	Travis Kelce	TE	22.6	7.2	Sunday morning	1
+Patrick Gowey	1	Wsh	Alfred Morris, Wsh RB  Q	1	Patrick OBerry	Alfred Morris	RB	12.1	8.6	Sunday morning	1
+Patrick Gowey	1	Hou	Texans D/ST D/ST	1	Patrick OBerry	Texans D/ST	D/ST	2	7.1	Sunday morning	1
+Patrick Gowey	1	NE	Stephen Gostkowski, NE K	1	Patrick OBerry	Stephen Gostkowski	K	4	8.5	Thursday evening	1
+trevor lemmons	1	Ind	Andrew Luck*, Ind QB  O	2	Reece Wade	Andrew Luck	QB	17.7	17.7	Sunday morning	2
+trevor lemmons	1	Phi	DeMarco Murray, Phi RB	2	Reece Wade	DeMarco Murray	RB	14	14.3	Monday evening	2
+trevor lemmons	1	Car	Jonathan Stewart, Car RB	2	Reece Wade	Jonathan Stewart	RB	8.1	10.5	Sunday morning	2
+trevor lemmons	1	Dal	Dez Bryant, Dal WR  Q	2	Reece Wade	Dez Bryant	WR	4.8	14.2	Sunday evening	2
+trevor lemmons	1	Ind	T.Y. Hilton, Ind WR	2	Reece Wade	T.Y. Hilton	WR	8.8	9.1	Sunday morning	2
+trevor lemmons	1	Chi	Martellus Bennett, Chi TE  Q	2	Reece Wade	Martellus Bennett	TE	11.5	7.4	Sunday morning	2
+trevor lemmons	1	Hou	DeAndre Hopkins, Hou WR	2	Reece Wade	DeAndre Hopkins	WR	23.8	8.8	Sunday morning	2
+trevor lemmons	1	Sea	Seahawks D/ST D/ST	2	Reece Wade	Seahawks D/ST	D/ST	18	12.4	Sunday morning	2
+trevor lemmons	1	GB	Mason Crosby, GB K	2	Reece Wade	Mason Crosby	K	7	8.1	Sunday morning	2
+Reece Wade	1	NO	Drew Brees, NO QB	2	trevor lemmons	Drew Brees	QB	16.5	18.8	Sunday afternoon	2
+Reece Wade	1	Sea	Marshawn Lynch*, Sea RB  O	2	trevor lemmons	Marshawn Lynch	RB	12.4	15.4	Sunday morning	2
+Reece Wade	1	Bal	Justin Forsett*, Bal RB  O	2	trevor lemmons	Justin Forsett	RB	5.6	11.2	Sunday afternoon	2
+Reece Wade	1	Det	Calvin Johnson, Det WR  Q	2	trevor lemmons	Calvin Johnson	WR	3.9	14.2	Sunday afternoon	2
+Reece Wade	1	Den	Demaryius Thomas, Den WR	2	trevor lemmons	Demaryius Thomas	WR	6	14.3	Sunday afternoon	2
+Reece Wade	1	Dal	Jason Witten, Dal TE	2	trevor lemmons	Jason Witten	TE	18	7	Sunday evening	2
+Reece Wade	1	Wsh	DeSean Jackson, Wsh WR	2	trevor lemmons	DeSean Jackson	WR	0	8.3	Sunday morning	2
+Reece Wade	1	Den	Broncos D/ST D/ST	2	trevor lemmons	Broncos D/ST	D/ST	18	6.2	Sunday afternoon	2
+Reece Wade	1	Bal	Justin Tucker, Bal K	2	trevor lemmons	Justin Tucker	K	10	8.3	Sunday afternoon	2
+Lauren Manibusan	1	Sea	Russell Wilson, Sea QB	3	Samiha Verma	Russell Wilson	QB	15.1	18.2	Sunday morning	3
+Lauren Manibusan	1	Pit	Le'Veon Bell*, Pit RB  IR	3	Samiha Verma	Le'Veon Bell	RB	0	NA	Thursday evening	3
+Lauren Manibusan	1	Mia	Lamar Miller, Mia RB	3	Samiha Verma	Lamar Miller	RB	7.5	12.4	Sunday morning	3
+Lauren Manibusan	1	GB	Davante Adams, GB WR  Q	3	Samiha Verma	Davante Adams	WR	5.9	8.2	Sunday morning	3
+Lauren Manibusan	1	KC	Jeremy Maclin, KC WR	3	Samiha Verma	Jeremy Maclin	WR	5.2	8.2	Sunday morning	3
+Lauren Manibusan	1	Car	Greg Olsen, Car TE	3	Samiha Verma	Greg Olsen	TE	1.1	7	Sunday morning	3
+Lauren Manibusan	1	Oak	Amari Cooper, Oak WR	3	Samiha Verma	Amari Cooper	WR	4.7	8.5	Sunday afternoon	3
+Lauren Manibusan	1	NE	Patriots D/ST D/ST	3	Samiha Verma	Patriots D/ST	D/ST	0	4.3	Thursday evening	3
+Lauren Manibusan	1	Sea	Steven Hauschka, Sea K	3	Samiha Verma	Steven Hauschka	K	11	8.2	Sunday morning	3
+Samiha Verma	1	NE	Tom Brady, NE QB	3	Lauren Manibusan	Tom Brady	QB	27.6	19.9	Thursday evening	3
+Samiha Verma	1	Den	C.J. Anderson, Den RB	3	Lauren Manibusan	C.J. Anderson	RB	4.8	15.1	Sunday afternoon	3
+Samiha Verma	1	SF	Carlos Hyde*, SF RB  O	3	Lauren Manibusan	Carlos Hyde	RB	30.2	11.5	Monday evening	3
+Samiha Verma	1	NYG	Odell Beckham Jr., NYG WR	3	Lauren Manibusan	Odell Beckham Jr.	WR	4.4	15.4	Sunday evening	3
+Samiha Verma	1	NE	Julian Edelman*, NE WR  O	3	Lauren Manibusan	Julian Edelman	WR	10.6	10.1	Thursday evening	3
+Samiha Verma	1	NE	Rob Gronkowski, NE TE	3	Lauren Manibusan	Rob Gronkowski	TE	27.4	13.1	Thursday evening	3
+Samiha Verma	1	Det	Joique Bell, Det RB	3	Lauren Manibusan	Joique Bell	RB	4.1	7.4	Sunday afternoon	3
+Samiha Verma	1	Bal	Ravens D/ST D/ST	3	Lauren Manibusan	Ravens D/ST	D/ST	14	3.8	Sunday afternoon	3
+Samiha Verma	1	Ind	Adam Vinatieri, Ind K	3	Lauren Manibusan	Adam Vinatieri	K	-1	8	Sunday morning	3
+Andy Vu	1	Pit	Ben Roethlisberger, Pit QB  P	4	Alonso Prato	Ben Roethlisberger	QB	18	17.8	Thursday evening	4
+Andy Vu	1	Min	Adrian Peterson, Min RB	4	Alonso Prato	Adrian Peterson	RB	5.2	16.5	Monday evening	4
+Andy Vu	1	NO	Mark Ingram, NO RB	4	Alonso Prato	Mark Ingram	RB	12.2	11.6	Sunday afternoon	4
+Andy Vu	1	Cin	A.J. Green, Cin WR	4	Alonso Prato	A.J. Green	WR	6.3	13.7	Sunday afternoon	4
+Andy Vu	1	Phi	Jordan Matthews, Phi WR	4	Alonso Prato	Jordan Matthews	WR	10.2	8.9	Monday evening	4
+Andy Vu	1	Mia	Jordan Cameron, Mia TE	4	Alonso Prato	Jordan Cameron	TE	7.3	6.1	Sunday morning	4
+Andy Vu	1	Ind	Frank Gore, Ind RB  Q	4	Alonso Prato	Frank Gore	RB	3.1	10.4	Sunday morning	4
+Andy Vu	1	NYJ	Jets D/ST D/ST	4	Alonso Prato	Jets D/ST	D/ST	16	7.6	Sunday morning	4
+Andy Vu	1	Dal	Dan Bailey, Dal K	4	Alonso Prato	Dan Bailey	K	9	8	Sunday evening	4
+Alonso Prato	1	Atl	Matt Ryan, Atl QB	4	Andy Vu	Matt Ryan	QB	16.6	19.2	Monday evening	4
+Alonso Prato	1	KC	Jamaal Charles*, KC RB  IR	4	Andy Vu	Jamaal Charles	RB	16.3	15.5	Sunday morning	4
+Alonso Prato	1	FA	Joseph Randle, FA RB  SSPD	4	Andy Vu	Joseph Randle	RB	10.7	NA	NA	4
+Alonso Prato	1	Pit	Antonio Brown, Pit WR	4	Andy Vu	Antonio Brown	WR	19.3	17	Thursday evening	4
+Alonso Prato	1	Chi	Alshon Jeffery*, Chi WR  O	4	Andy Vu	Alshon Jeffery	WR	7.8	11.5	Sunday morning	4
+Alonso Prato	1	Sea	Jimmy Graham, Sea TE	4	Andy Vu	Jimmy Graham	TE	11.1	10.7	Sunday morning	4
+Alonso Prato	1	Oak	Latavius Murray, Oak RB	4	Andy Vu	Latavius Murray	RB	8	10	Sunday afternoon	4
+Alonso Prato	1	Mia	Dolphins D/ST D/ST	4	Andy Vu	Dolphins D/ST	D/ST	14	9.1	Sunday morning	4
+Alonso Prato	1	Atl	Matt Bryant, Atl K	4	Andy Vu	Matt Bryant	K	17	8.8	Monday evening	4
+trevor lemmons	2	Ind	Andrew Luck*, Ind QB  O	5	Patrick OBerry	Andrew Luck	QB	8.4	19.1	Monday evening	1
+trevor lemmons	2	Phi	DeMarco Murray, Phi RB	5	Patrick OBerry	DeMarco Murray	RB	5.5	12.6	Sunday afternoon	1
+trevor lemmons	2	Car	Jonathan Stewart, Car RB	5	Patrick OBerry	Jonathan Stewart	RB	5.9	11.5	Sunday morning	1
+trevor lemmons	2	Hou	DeAndre Hopkins, Hou WR	5	Patrick OBerry	DeAndre Hopkins	WR	5.3	10.2	Sunday morning	1
+trevor lemmons	2	Ari	Larry Fitzgerald, Ari WR	5	Patrick OBerry	Larry Fitzgerald	WR	29.2	8.3	Sunday morning	1
+trevor lemmons	2	Chi	Martellus Bennett, Chi TE  Q	5	Patrick OBerry	Martellus Bennett	TE	4.8	7.1	Sunday morning	1
+trevor lemmons	2	NYJ	Chris Ivory, NYJ RB	5	Patrick OBerry	Chris Ivory	RB	6	10.6	Monday evening	1
+trevor lemmons	2	Sea	Seahawks D/ST D/ST	5	Patrick OBerry	Seahawks D/ST	D/ST	3	8.5	Sunday evening	1
+trevor lemmons	2	GB	Mason Crosby, GB K	5	Patrick OBerry	Mason Crosby	K	16	7.8	Sunday evening	1
+Patrick OBerry	2	Den	Peyton Manning*, Den QB  O	5	trevor lemmons	Peyton Manning	QB	20.2	16.2	Thursday evening	1
+Patrick OBerry	2	GB	Eddie Lacy, GB RB  Q	5	trevor lemmons	Eddie Lacy	RB	0.9	13.2	Sunday evening	1
+Patrick OBerry	2	Buf	LeSean McCoy, Buf RB	5	trevor lemmons	LeSean McCoy	RB	11.6	10.7	Sunday morning	1
+Patrick OBerry	2	Atl	Julio Jones, Atl WR	5	trevor lemmons	Julio Jones	WR	13.5	12.3	Sunday morning	1
+Patrick OBerry	2	Den	Emmanuel Sanders*, Den WR  O	5	trevor lemmons	Emmanuel Sanders	WR	20.7	9.9	Thursday evening	1
+Patrick OBerry	2	Phi	Zach Ertz, Phi TE  Q	5	trevor lemmons	Zach Ertz	TE	1.7	6.5	Sunday afternoon	1
+Patrick OBerry	2	Min	Charles Johnson, Min WR	5	trevor lemmons	Charles Johnson	WR	1	7.3	Sunday morning	1
+Patrick OBerry	2	StL	Rams D/ST D/ST	5	trevor lemmons	Rams D/ST	D/ST	3	11.2	Sunday morning	1
+Patrick OBerry	2	Phi	Cody Parkey*, Phi K  IR	5	trevor lemmons	Cody Parkey	K	5	7.9	Sunday afternoon	1
+Patrick Gowey	2	GB	Aaron Rodgers, GB QB	6	Reece Wade	Aaron Rodgers	QB	22.3	18.1	Sunday evening	2
+Patrick Gowey	2	Chi	Matt Forte*, Chi RB  O	6	Reece Wade	Matt Forte	RB	10.5	15.7	Sunday morning	2
+Patrick Gowey	2	Cin	Jeremy Hill, Cin RB	6	Reece Wade	Jeremy Hill	RB	0.1	13.4	Sunday morning	2
+Patrick Gowey	2	GB	Randall Cobb, GB WR	6	Reece Wade	Randall Cobb	WR	11.6	9.3	Sunday evening	2
+Patrick Gowey	2	Mia	Jarvis Landry, Mia WR	6	Reece Wade	Jarvis Landry	WR	11.6	8.8	Sunday afternoon	2
+Patrick Gowey	2	KC	Travis Kelce, KC TE	6	Reece Wade	Travis Kelce	TE	5.8	7.8	Thursday evening	2
+Patrick Gowey	2	NO	Brandin Cooks, NO WR	6	Reece Wade	Brandin Cooks	WR	5.8	10	Sunday morning	2
+Patrick Gowey	2	Hou	Texans D/ST D/ST	6	Reece Wade	Texans D/ST	D/ST	5	8.4	Sunday morning	2
+Patrick Gowey	2	NE	Stephen Gostkowski, NE K	6	Reece Wade	Stephen Gostkowski	K	19	8	Sunday morning	2
+Reece Wade	2	NO	Drew Brees, NO QB	6	Patrick Gowey	Drew Brees	QB	12.1	19.6	Sunday morning	2
+Reece Wade	2	Sea	Marshawn Lynch*, Sea RB  O	6	Patrick Gowey	Marshawn Lynch	RB	6.2	13	Sunday evening	2
+Reece Wade	2	Bal	Justin Forsett*, Bal RB  O	6	Patrick Gowey	Justin Forsett	RB	8	13.2	Sunday afternoon	2
+Reece Wade	2	Det	Calvin Johnson, Det WR  Q	6	Patrick Gowey	Calvin Johnson	WR	14.3	10.5	Sunday morning	2
+Reece Wade	2	Den	Demaryius Thomas, Den WR	6	Patrick Gowey	Demaryius Thomas	WR	11.6	11.2	Thursday evening	2
+Reece Wade	2	Dal	Jason Witten, Dal TE	6	Patrick Gowey	Jason Witten	TE	5.6	8.3	Sunday afternoon	2
+Reece Wade	2	Wsh	DeSean Jackson, Wsh WR	6	Patrick Gowey	DeSean Jackson	WR	0	0	Sunday morning	2
+Reece Wade	2	Den	Broncos D/ST D/ST	6	Patrick Gowey	Broncos D/ST	D/ST	21	9.7	Thursday evening	2
+Reece Wade	2	Bal	Justin Tucker, Bal K	6	Patrick Gowey	Justin Tucker	K	15	8.4	Sunday afternoon	2
+Andy Vu	2	Pit	Ben Roethlisberger, Pit QB  P	7	Lauren Manibusan	Ben Roethlisberger	QB	30.7	18	Sunday morning	3
+Andy Vu	2	Min	Adrian Peterson, Min RB	7	Lauren Manibusan	Adrian Peterson	RB	17.2	13.6	Sunday morning	3
+Andy Vu	2	NO	Mark Ingram, NO RB	7	Lauren Manibusan	Mark Ingram	RB	9.8	13.2	Sunday morning	3
+Andy Vu	2	Cin	A.J. Green, Cin WR	7	Lauren Manibusan	A.J. Green	WR	10.5	11	Sunday morning	3
+Andy Vu	2	Phi	Jordan Matthews, Phi WR	7	Lauren Manibusan	Jordan Matthews	WR	14	8.7	Sunday afternoon	3
+Andy Vu	2	Mia	Jordan Cameron, Mia TE	7	Lauren Manibusan	Jordan Cameron	TE	6.2	5.9	Sunday afternoon	3
+Andy Vu	2	Ind	Frank Gore, Ind RB  Q	7	Lauren Manibusan	Frank Gore	RB	4.1	10.7	Monday evening	3
+Andy Vu	2	NYJ	Jets D/ST D/ST	7	Lauren Manibusan	Jets D/ST	D/ST	13	6.3	Monday evening	3
+Andy Vu	2	Dal	Dan Bailey, Dal K	7	Lauren Manibusan	Dan Bailey	K	8	8.2	Sunday afternoon	3
+Lauren Manibusan	2	Sea	Russell Wilson, Sea QB	7	Andy Vu	Russell Wilson	QB	22	18.6	Sunday evening	3
+Lauren Manibusan	2	Pit	Le'Veon Bell*, Pit RB  IR	7	Andy Vu	Le'Veon Bell	RB	0	NA	Sunday morning	3
+Lauren Manibusan	2	Mia	Lamar Miller, Mia RB	7	Andy Vu	Lamar Miller	RB	4.2	13	Sunday afternoon	3
+Lauren Manibusan	2	GB	Davante Adams, GB WR  Q	7	Andy Vu	Davante Adams	WR	3.3	7.4	Sunday evening	3
+Lauren Manibusan	2	KC	Jeremy Maclin, KC WR	7	Andy Vu	Jeremy Maclin	WR	5.5	8.6	Thursday evening	3
+Lauren Manibusan	2	Car	Greg Olsen, Car TE	7	Andy Vu	Greg Olsen	TE	7	6.7	Sunday morning	3
+Lauren Manibusan	2	Oak	Amari Cooper, Oak WR	7	Andy Vu	Amari Cooper	WR	16.9	8.1	Sunday afternoon	3
+Lauren Manibusan	2	NE	Patriots D/ST D/ST	7	Andy Vu	Patriots D/ST	D/ST	13	7.7	Sunday morning	3
+Lauren Manibusan	2	Sea	Steven Hauschka, Sea K	7	Andy Vu	Steven Hauschka	K	7	7.4	Sunday evening	3
+Samiha Verma	2	NE	Tom Brady, NE QB	8	Alonso Prato	Tom Brady	QB	28.2	16.6	Sunday morning	4
+Samiha Verma	2	Den	C.J. Anderson, Den RB	8	Alonso Prato	C.J. Anderson	RB	2.9	10.3	Thursday evening	4
+Samiha Verma	2	SF	Carlos Hyde*, SF RB  O	8	Alonso Prato	Carlos Hyde	RB	6.1	11.9	Sunday morning	4
+Samiha Verma	2	NYG	Odell Beckham Jr., NYG WR	8	Alonso Prato	Odell Beckham Jr.	WR	20.6	12.3	Sunday morning	4
+Samiha Verma	2	Bal	Steve Smith Sr.*, Bal WR  IR	8	Alonso Prato	Steve Smith Sr.	WR	15	8	Sunday afternoon	4
+Samiha Verma	2	NE	Rob Gronkowski, NE TE	8	Alonso Prato	Rob Gronkowski	TE	17.3	10.2	Sunday morning	4
+Samiha Verma	2	NYG	Rashad Jennings, NYG RB	8	Alonso Prato	Rashad Jennings	RB	2.4	10.5	Sunday morning	4
+Samiha Verma	2	Bal	Ravens D/ST D/ST	8	Alonso Prato	Ravens D/ST	D/ST	-3	12.2	Sunday afternoon	4
+Samiha Verma	2	Ind	Adam Vinatieri, Ind K	8	Alonso Prato	Adam Vinatieri	K	0	8.3	Monday evening	4
+Alonso Prato	2	Atl	Matt Ryan, Atl QB	8	Samiha Verma	Matt Ryan	QB	18.4	16.6	Sunday morning	4
+Alonso Prato	2	KC	Jamaal Charles*, KC RB  IR	8	Samiha Verma	Jamaal Charles	RB	14.7	12.9	Thursday evening	4
+Alonso Prato	2	FA	Joseph Randle, FA RB  SSPD	8	Samiha Verma	Joseph Randle	RB	6.5	NA	NA	4
+Alonso Prato	2	SD	Keenan Allen*, SD WR  IR	8	Samiha Verma	Keenan Allen	WR	-0.4	10	Sunday morning	4
+Alonso Prato	2	TB	Vincent Jackson, TB WR	8	Samiha Verma	Vincent Jackson	WR	11.4	8.2	Sunday morning	4
+Alonso Prato	2	Ten	Delanie Walker, Ten TE	8	Samiha Verma	Delanie Walker	TE	0	0	Sunday morning	4
+Alonso Prato	2	Oak	Latavius Murray, Oak RB	8	Samiha Verma	Latavius Murray	RB	14.7	10.4	Sunday afternoon	4
+Alonso Prato	2	Buf	Bills D/ST D/ST	8	Samiha Verma	Bills D/ST	D/ST	-3	6.2	Sunday morning	4
+Alonso Prato	2	Atl	Matt Bryant, Atl K	8	Samiha Verma	Matt Bryant	K	7	8.4	Sunday morning	4
+Patrick OBerry	3	Den	Peyton Manning*, Den QB  O	9	Reece Wade	Peyton Manning	QB	18.9	17.9	Sunday evening	1
+Patrick OBerry	3	GB	Eddie Lacy, GB RB  Q	9	Reece Wade	Eddie Lacy	RB	8.7	NA	Monday evening	1
+Patrick OBerry	3	Buf	LeSean McCoy, Buf RB	9	Reece Wade	LeSean McCoy	RB	8.6	11.4	Sunday afternoon	1
+Patrick OBerry	3	Atl	Julio Jones, Atl WR	9	Reece Wade	Julio Jones	WR	28.4	12.9	Sunday morning	1
+Patrick OBerry	3	Den	Emmanuel Sanders*, Den WR  O	9	Reece Wade	Emmanuel Sanders	WR	8.7	12	Sunday evening	1
+Patrick OBerry	3	Phi	Zach Ertz, Phi TE  Q	9	Reece Wade	Zach Ertz	TE	3	5.8	Sunday morning	1
+Patrick OBerry	3	Min	Charles Johnson, Min WR	9	Reece Wade	Charles Johnson	WR	0.9	6.6	Sunday morning	1
+Patrick OBerry	3	StL	Rams D/ST D/ST	9	Reece Wade	Rams D/ST	D/ST	12	6.9	Sunday morning	1
+Patrick OBerry	3	Phi	Cody Parkey*, Phi K  IR	9	Reece Wade	Cody Parkey	K	6	8	Sunday morning	1
+Reece Wade	3	Car	Cam Newton, Car QB	9	Patrick OBerry	Cam Newton	QB	29.9	18.8	Sunday morning	1
+Reece Wade	3	Sea	Marshawn Lynch*, Sea RB  O	9	Patrick OBerry	Marshawn Lynch	RB	2.3	16.4	Sunday afternoon	1
+Reece Wade	3	Bal	Justin Forsett*, Bal RB  O	9	Patrick OBerry	Justin Forsett	RB	2.9	12.3	Sunday morning	1
+Reece Wade	3	Det	Calvin Johnson, Det WR  Q	9	Patrick OBerry	Calvin Johnson	WR	7.7	12.1	Sunday evening	1
+Reece Wade	3	Den	Demaryius Thomas, Den WR	9	Patrick OBerry	Demaryius Thomas	WR	13.2	12.8	Sunday evening	1
+Reece Wade	3	Dal	Jason Witten, Dal TE	9	Patrick OBerry	Jason Witten	TE	6.5	7.1	Sunday morning	1
+Reece Wade	3	NYG	Shane Vereen, NYG RB	9	Patrick OBerry	Shane Vereen	RB	2.3	8.1	Thursday evening	1
+Reece Wade	3	Den	Broncos D/ST D/ST	9	Patrick OBerry	Broncos D/ST	D/ST	17	8.4	Sunday evening	1
+Reece Wade	3	Bal	Justin Tucker, Bal K	9	Patrick OBerry	Justin Tucker	K	5	8.2	Sunday morning	1
+Patrick Gowey	3	GB	Aaron Rodgers, GB QB	10	trevor lemmons	Aaron Rodgers	QB	34.9	20.2	Monday evening	2
+Patrick Gowey	3	Chi	Matt Forte*, Chi RB  O	10	trevor lemmons	Matt Forte	RB	7.4	12.5	Sunday afternoon	2
+Patrick Gowey	3	Cin	Jeremy Hill, Cin RB	10	trevor lemmons	Jeremy Hill	RB	2.1	10.8	Sunday morning	2
+Patrick Gowey	3	GB	Randall Cobb, GB WR	10	trevor lemmons	Randall Cobb	WR	28.3	12.2	Monday evening	2
+Patrick Gowey	3	Mia	Jarvis Landry, Mia WR	10	trevor lemmons	Jarvis Landry	WR	8.6	9.1	Sunday afternoon	2
+Patrick Gowey	3	KC	Travis Kelce, KC TE	10	trevor lemmons	Travis Kelce	TE	10	7.9	Monday evening	2
+Patrick Gowey	3	Ari	Chris Johnson, Ari RB	10	trevor lemmons	Chris Johnson	RB	27	10.5	Sunday afternoon	2
+Patrick Gowey	3	Hou	Texans D/ST D/ST	10	trevor lemmons	Texans D/ST	D/ST	5	11	Sunday morning	2
+Patrick Gowey	3	NE	Stephen Gostkowski, NE K	10	trevor lemmons	Stephen Gostkowski	K	17	9.2	Sunday morning	2
+trevor lemmons	3	Ind	Andrew Luck*, Ind QB  O	10	Patrick Gowey	Andrew Luck	QB	16.5	18.8	Sunday morning	2
+trevor lemmons	3	Jax	T.J. Yeldon, Jax RB	10	Patrick Gowey	T.J. Yeldon	RB	4.2	10.5	Sunday morning	2
+trevor lemmons	3	Pit	DeAngelo Williams, Pit RB	10	Patrick Gowey	DeAngelo Williams	RB	0.2	3.9	Sunday morning	2
+trevor lemmons	3	Ari	Larry Fitzgerald, Ari WR	10	Patrick Gowey	Larry Fitzgerald	WR	25.4	9.9	Sunday afternoon	2
+trevor lemmons	3	Cle	Travis Benjamin, Cle WR	10	Patrick Gowey	Travis Benjamin	WR	8.5	6.1	Sunday morning	2
+trevor lemmons	3	Cin	Tyler Eifert, Cin TE	10	Patrick Gowey	Tyler Eifert	TE	0	7.4	Sunday morning	2
+trevor lemmons	3	Car	Jonathan Stewart, Car RB	10	Patrick Gowey	Jonathan Stewart	RB	5.2	12.9	Sunday morning	2
+trevor lemmons	3	Sea	Seahawks D/ST D/ST	10	Patrick Gowey	Seahawks D/ST	D/ST	16	12.8	Sunday afternoon	2
+trevor lemmons	3	GB	Mason Crosby, GB K	10	Patrick Gowey	Mason Crosby	K	9	8.1	Monday evening	2
+Lauren Manibusan	3	Sea	Russell Wilson, Sea QB	11	Alonso Prato	Russell Wilson	QB	16.2	19.6	Sunday afternoon	3
+Lauren Manibusan	3	Pit	Le'Veon Bell*, Pit RB  IR	11	Alonso Prato	Le'Veon Bell	RB	19.2	14.9	Sunday morning	3
+Lauren Manibusan	3	Mia	Lamar Miller, Mia RB	11	Alonso Prato	Lamar Miller	RB	6.5	10.5	Sunday afternoon	3
+Lauren Manibusan	3	GB	Davante Adams, GB WR  Q	11	Alonso Prato	Davante Adams	WR	0	7.5	Monday evening	3
+Lauren Manibusan	3	KC	Jeremy Maclin, KC WR	11	Alonso Prato	Jeremy Maclin	WR	20.1	9.1	Monday evening	3
+Lauren Manibusan	3	Car	Greg Olsen, Car TE	11	Alonso Prato	Greg Olsen	TE	25.4	7.2	Sunday morning	3
+Lauren Manibusan	3	Oak	Amari Cooper, Oak WR	11	Alonso Prato	Amari Cooper	WR	11.4	7.9	Sunday morning	3
+Lauren Manibusan	3	NE	Patriots D/ST D/ST	11	Alonso Prato	Patriots D/ST	D/ST	7	14.8	Sunday morning	3
+Lauren Manibusan	3	Sea	Steven Hauschka, Sea K	11	Alonso Prato	Steven Hauschka	K	16	8	Sunday afternoon	3
+Alonso Prato	3	Ari	Carson Palmer, Ari QB	11	Lauren Manibusan	Carson Palmer	QB	18.5	17.5	Sunday afternoon	3
+Alonso Prato	3	KC	Jamaal Charles*, KC RB  IR	11	Lauren Manibusan	Jamaal Charles	RB	26.2	13.9	Monday evening	3
+Alonso Prato	3	FA	Joseph Randle, FA RB  SSPD	11	Lauren Manibusan	Joseph Randle	RB	28.5	NA	NA	3
+Alonso Prato	3	Pit	Antonio Brown, Pit WR	11	Lauren Manibusan	Antonio Brown	WR	10.8	14.6	Sunday morning	3
+Alonso Prato	3	SD	Keenan Allen*, SD WR  IR	11	Lauren Manibusan	Keenan Allen	WR	25.3	8.4	Sunday morning	3
+Alonso Prato	3	Sea	Jimmy Graham, Sea TE	11	Lauren Manibusan	Jimmy Graham	TE	14.3	7.4	Sunday afternoon	3
+Alonso Prato	3	Oak	Latavius Murray, Oak RB	11	Lauren Manibusan	Latavius Murray	RB	20.9	12.6	Sunday morning	3
+Alonso Prato	3	Buf	Bills D/ST D/ST	11	Lauren Manibusan	Bills D/ST	D/ST	14	11.1	Sunday afternoon	3
+Alonso Prato	3	Atl	Matt Bryant, Atl K	11	Lauren Manibusan	Matt Bryant	K	7	8.4	Sunday morning	3
+Samiha Verma	3	NE	Tom Brady, NE QB	12	Andy Vu	Tom Brady	QB	22.7	18.9	Sunday morning	4
+Samiha Verma	3	Den	C.J. Anderson, Den RB	12	Andy Vu	C.J. Anderson	RB	2.7	11.7	Sunday evening	4
+Samiha Verma	3	NYG	Rashad Jennings, NYG RB	12	Andy Vu	Rashad Jennings	RB	5.7	7.8	Thursday evening	4
+Samiha Verma	3	NYG	Odell Beckham Jr., NYG WR	12	Andy Vu	Odell Beckham Jr.	WR	13.9	11.9	Thursday evening	4
+Samiha Verma	3	NE	Julian Edelman*, NE WR  O	12	Andy Vu	Julian Edelman	WR	8.5	10.5	Sunday morning	4
+Samiha Verma	3	NE	Rob Gronkowski, NE TE	12	Andy Vu	Rob Gronkowski	TE	10.1	10.5	Sunday morning	4
+Samiha Verma	3	SF	Carlos Hyde*, SF RB  O	12	Andy Vu	Carlos Hyde	RB	6.1	11.5	Sunday afternoon	4
+Samiha Verma	3	Bal	Ravens D/ST D/ST	12	Andy Vu	Ravens D/ST	D/ST	6	5.9	Sunday morning	4
+Samiha Verma	3	Den	Brandon McManus, Den K	12	Andy Vu	Brandon McManus	K	7	7.4	Sunday evening	4
+Andy Vu	3	Pit	Ben Roethlisberger, Pit QB  P	12	Samiha Verma	Ben Roethlisberger	QB	5.7	18	Sunday morning	4
+Andy Vu	3	Min	Adrian Peterson, Min RB	12	Samiha Verma	Adrian Peterson	RB	24.6	15.7	Sunday morning	4
+Andy Vu	3	TB	Doug Martin, TB RB	12	Samiha Verma	Doug Martin	RB	4.6	9.5	Sunday morning	4
+Andy Vu	3	Cin	A.J. Green, Cin WR	12	Samiha Verma	A.J. Green	WR	34.7	10.6	Sunday morning	4
+Andy Vu	3	NYJ	Brandon Marshall, NYJ WR	12	Samiha Verma	Brandon Marshall	WR	14.9	11.2	Sunday morning	4
+Andy Vu	3	Mia	Jordan Cameron, Mia TE	12	Samiha Verma	Jordan Cameron	TE	1.6	6	Sunday afternoon	4
+Andy Vu	3	Ind	Frank Gore, Ind RB  Q	12	Samiha Verma	Frank Gore	RB	21.4	11.4	Sunday morning	4
+Andy Vu	3	NYJ	Jets D/ST D/ST	12	Samiha Verma	Jets D/ST	D/ST	5	6.5	Sunday morning	4
+Andy Vu	3	Dal	Dan Bailey, Dal K	12	Samiha Verma	Dan Bailey	K	4	8	Sunday morning	4
+Lauren Manibusan	4	Sea	Russell Wilson, Sea QB	13	Patrick OBerry	Russell Wilson	QB	15.5	19.3	Monday evening	1
+Lauren Manibusan	4	Pit	Le'Veon Bell*, Pit RB  IR	13	Patrick OBerry	Le'Veon Bell	RB	21	14.3	Thursday evening	1
+Lauren Manibusan	4	Mia	Lamar Miller, Mia RB	13	Patrick OBerry	Lamar Miller	RB	3.6	10.4	Sunday morning	1
+Lauren Manibusan	4	GB	Davante Adams, GB WR  Q	13	Patrick OBerry	Davante Adams	WR	0	NA	Sunday afternoon	1
+Lauren Manibusan	4	KC	Jeremy Maclin, KC WR	13	Patrick OBerry	Jeremy Maclin	WR	14.8	9.2	Sunday morning	1
+Lauren Manibusan	4	Car	Greg Olsen, Car TE	13	Patrick OBerry	Greg Olsen	TE	2.8	7.9	Sunday morning	1
+Lauren Manibusan	4	Oak	Amari Cooper, Oak WR	13	Patrick OBerry	Amari Cooper	WR	10.9	8.5	Sunday morning	1
+Lauren Manibusan	4	Sea	Steven Hauschka, Sea K	13	Patrick OBerry	Steven Hauschka	K	11	7.7	Monday evening	1
+Patrick OBerry	4	Den	Peyton Manning*, Den QB  O	13	Lauren Manibusan	Peyton Manning	QB	8.3	17.8	Sunday afternoon	1
+Patrick OBerry	4	GB	Eddie Lacy, GB RB  Q	13	Lauren Manibusan	Eddie Lacy	RB	9.3	14.4	Sunday afternoon	1
+Patrick OBerry	4	Buf	LeSean McCoy, Buf RB	13	Lauren Manibusan	LeSean McCoy	RB	0	0	Sunday morning	1
+Patrick OBerry	4	Atl	Julio Jones, Atl WR	13	Lauren Manibusan	Julio Jones	WR	3.8	13.7	Sunday morning	1
+Patrick OBerry	4	Den	Emmanuel Sanders*, Den WR  O	13	Lauren Manibusan	Emmanuel Sanders	WR	6.8	12.1	Sunday afternoon	1
+Patrick OBerry	4	Phi	Zach Ertz, Phi TE  Q	13	Lauren Manibusan	Zach Ertz	TE	1.1	5.6	Sunday morning	1
+Patrick OBerry	4	Atl	Devonta Freeman, Atl RB  Q	13	Lauren Manibusan	Devonta Freeman	RB	32.9	16.6	Sunday morning	1
+Patrick OBerry	4	StL	Rams D/ST D/ST	13	Lauren Manibusan	Rams D/ST	D/ST	7	8.9	Sunday afternoon	1
+Patrick OBerry	4	Phi	Cody Parkey*, Phi K  IR	13	Lauren Manibusan	Cody Parkey	K	0	NA	Sunday morning	1
+Samiha Verma	4	Cin	Andy Dalton, Cin QB	14	Patrick Gowey	Andy Dalton	QB	18.4	14.7	Sunday morning	2
+Samiha Verma	4	Den	C.J. Anderson, Den RB	14	Patrick Gowey	C.J. Anderson	RB	7	11	Sunday afternoon	2
+Samiha Verma	4	SF	Carlos Hyde*, SF RB  O	14	Patrick Gowey	Carlos Hyde	RB	2.2	12.5	Sunday afternoon	2
+Samiha Verma	4	NYG	Odell Beckham Jr., NYG WR	14	Patrick Gowey	Odell Beckham Jr.	WR	3.8	12.1	Sunday morning	2
+Samiha Verma	4	Bal	Steve Smith Sr.*, Bal WR  IR	14	Patrick Gowey	Steve Smith Sr.	WR	2.4	8.7	Thursday evening	2
+Samiha Verma	4	NYG	Rashad Jennings, NYG RB	14	Patrick Gowey	Rashad Jennings	RB	15.2	6.6	Sunday morning	2
+Samiha Verma	4	Bal	Ravens D/ST D/ST	14	Patrick Gowey	Ravens D/ST	D/ST	6	4.1	Thursday evening	2
+Samiha Verma	4	Den	Brandon McManus, Den K	14	Patrick Gowey	Brandon McManus	K	12	7.6	Sunday afternoon	2
+Patrick Gowey	4	GB	Aaron Rodgers, GB QB	14	Samiha Verma	Aaron Rodgers	QB	16.3	21.1	Sunday afternoon	2
+Patrick Gowey	4	Chi	Matt Forte*, Chi RB  O	14	Samiha Verma	Matt Forte	RB	13.5	16.8	Sunday morning	2
+Patrick Gowey	4	Buf	Karlos Williams, Buf RB	14	Samiha Verma	Karlos Williams	RB	13	14	Sunday morning	2
+Patrick Gowey	4	GB	Randall Cobb, GB WR	14	Samiha Verma	Randall Cobb	WR	4.4	13.6	Sunday afternoon	2
+Patrick Gowey	4	GB	James Jones, GB WR	14	Samiha Verma	James Jones	WR	9.8	8.9	Sunday afternoon	2
+Patrick Gowey	4	KC	Travis Kelce, KC TE	14	Samiha Verma	Travis Kelce	TE	2.9	7.5	Sunday morning	2
+Patrick Gowey	4	Ari	Chris Johnson, Ari RB	14	Samiha Verma	Chris Johnson	RB	9.4	10.2	Sunday afternoon	2
+Patrick Gowey	4	Ari	Cardinals D/ST D/ST	14	Samiha Verma	Cardinals D/ST	D/ST	1	8.4	Sunday afternoon	2
+Patrick Gowey	4	Chi	Robbie Gould, Chi K	14	Samiha Verma	Robbie Gould	K	13	7.1	Sunday morning	2
+Andy Vu	4	Phi	Sam Bradford*, Phi QB  O	15	trevor lemmons	Sam Bradford	QB	24.2	14.3	Sunday morning	3
+Andy Vu	4	Min	Adrian Peterson, Min RB	15	trevor lemmons	Adrian Peterson	RB	15.4	12.2	Sunday afternoon	3
+Andy Vu	4	TB	Doug Martin, TB RB	15	trevor lemmons	Doug Martin	RB	20.3	8.7	Sunday morning	3
+Andy Vu	4	Cin	A.J. Green, Cin WR	15	trevor lemmons	A.J. Green	WR	8.2	11.2	Sunday morning	3
+Andy Vu	4	NYJ	Brandon Marshall, NYJ WR	15	trevor lemmons	Brandon Marshall	WR	12.8	9.7	Sunday morning	3
+Andy Vu	4	Mia	Jordan Cameron, Mia TE	15	trevor lemmons	Jordan Cameron	TE	1.9	5.3	Sunday morning	3
+Andy Vu	4	Ind	Frank Gore, Ind RB  Q	15	trevor lemmons	Frank Gore	RB	6.7	12.6	Sunday morning	3
+Andy Vu	4	NYJ	Jets D/ST D/ST	15	trevor lemmons	Jets D/ST	D/ST	10	10.2	Sunday morning	3
+Andy Vu	4	Dal	Dan Bailey, Dal K	15	trevor lemmons	Dan Bailey	K	8	7.9	Sunday evening	3
+trevor lemmons	4	Buf	Tyrod Taylor, Buf QB  Q	15	Andy Vu	Tyrod Taylor	QB	14.5	15.8	Sunday morning	3
+trevor lemmons	4	Jax	T.J. Yeldon, Jax RB	15	Andy Vu	T.J. Yeldon	RB	10.9	10.6	Sunday morning	3
+trevor lemmons	4	NYJ	Chris Ivory, NYJ RB	15	Andy Vu	Chris Ivory	RB	22.6	8.7	Sunday morning	3
+trevor lemmons	4	Hou	DeAndre Hopkins, Hou WR	15	Andy Vu	DeAndre Hopkins	WR	15.7	9.6	Sunday morning	3
+trevor lemmons	4	Ari	Larry Fitzgerald, Ari WR	15	Andy Vu	Larry Fitzgerald	WR	7.9	9.7	Sunday afternoon	3
+trevor lemmons	4	Cin	Tyler Eifert, Cin TE	15	Andy Vu	Tyler Eifert	TE	6.9	7	Sunday morning	3
+trevor lemmons	4	Ind	T.Y. Hilton, Ind WR	15	Andy Vu	T.Y. Hilton	WR	6.7	8.4	Sunday morning	3
+trevor lemmons	4	Sea	Seahawks D/ST D/ST	15	Andy Vu	Seahawks D/ST	D/ST	5	11	Monday evening	3
+trevor lemmons	4	GB	Mason Crosby, GB K	15	Andy Vu	Mason Crosby	K	4	8	Sunday afternoon	3
+Alonso Prato	4	Atl	Matt Ryan, Atl QB	16	Reece Wade	Matt Ryan	QB	14.1	17.7	Sunday morning	4
+Alonso Prato	4	KC	Jamaal Charles*, KC RB  IR	16	Reece Wade	Jamaal Charles	RB	14.5	14.2	Sunday morning	4
+Alonso Prato	4	SD	Melvin Gordon, SD RB	16	Reece Wade	Melvin Gordon	RB	4.6	12.3	Sunday afternoon	4
+Alonso Prato	4	Pit	Antonio Brown, Pit WR	16	Reece Wade	Antonio Brown	WR	4.2	11.6	Thursday evening	4
+Alonso Prato	4	SD	Keenan Allen*, SD WR  IR	16	Reece Wade	Keenan Allen	WR	13.2	10	Sunday afternoon	4
+Alonso Prato	4	Sea	Jimmy Graham, Sea TE	16	Reece Wade	Jimmy Graham	TE	2.9	7.7	Monday evening	4
+Alonso Prato	4	Oak	Latavius Murray, Oak RB	16	Reece Wade	Latavius Murray	RB	6.1	14.3	Sunday morning	4
+Alonso Prato	4	Buf	Bills D/ST D/ST	16	Reece Wade	Bills D/ST	D/ST	3	8.8	Sunday morning	4
+Alonso Prato	4	Atl	Matt Bryant, Atl K	16	Reece Wade	Matt Bryant	K	6	8.1	Sunday morning	4
+Reece Wade	4	NO	Drew Brees, NO QB	16	Alonso Prato	Drew Brees	QB	22.4	19	Sunday evening	4
+Reece Wade	4	Sea	Marshawn Lynch*, Sea RB  O	16	Alonso Prato	Marshawn Lynch	RB	0	5.8	Monday evening	4
+Reece Wade	4	Bal	Justin Forsett*, Bal RB  O	16	Alonso Prato	Justin Forsett	RB	15	11.8	Thursday evening	4
+Reece Wade	4	Det	Calvin Johnson, Det WR  Q	16	Alonso Prato	Calvin Johnson	WR	3.6	10	Monday evening	4
+Reece Wade	4	Den	Demaryius Thomas, Den WR	16	Alonso Prato	Demaryius Thomas	WR	9.3	12.6	Sunday afternoon	4
+Reece Wade	4	Dal	Jason Witten, Dal TE	16	Alonso Prato	Jason Witten	TE	5.7	7.4	Sunday evening	4
+Reece Wade	4	NYG	Shane Vereen, NYG RB	16	Alonso Prato	Shane Vereen	RB	2.1	7.3	Sunday morning	4
+Reece Wade	4	Den	Broncos D/ST D/ST	16	Alonso Prato	Broncos D/ST	D/ST	9	12	Sunday afternoon	4
+Reece Wade	4	Bal	Justin Tucker, Bal K	16	Alonso Prato	Justin Tucker	K	15	8.3	Thursday evening	4
+Patrick Gowey	5	GB	Aaron Rodgers, GB QB	17	Lauren Manibusan	Aaron Rodgers	QB	15.5	18.6	Sunday morning	1
+Patrick Gowey	5	Chi	Matt Forte*, Chi RB  O	17	Lauren Manibusan	Matt Forte	RB	16.9	15.6	Sunday morning	1
+Patrick Gowey	5	Cin	Jeremy Hill, Cin RB	17	Lauren Manibusan	Jeremy Hill	RB	2.5	8.7	Sunday morning	1
+Patrick Gowey	5	GB	Randall Cobb, GB WR	17	Lauren Manibusan	Randall Cobb	WR	2.3	11.9	Sunday morning	1
+Patrick Gowey	5	GB	James Jones, GB WR	17	Lauren Manibusan	James Jones	WR	13.7	8.4	Sunday morning	1
+Patrick Gowey	5	KC	Travis Kelce, KC TE	17	Lauren Manibusan	Travis Kelce	TE	3.5	7.6	Sunday morning	1
+Patrick Gowey	5	Det	Ameer Abdullah, Det RB	17	Lauren Manibusan	Ameer Abdullah	RB	0.5	10.9	Sunday afternoon	1
+Patrick Gowey	5	Ari	Cardinals D/ST D/ST	17	Lauren Manibusan	Cardinals D/ST	D/ST	11	10.5	Sunday afternoon	1
+Patrick Gowey	5	NE	Stephen Gostkowski, NE K	17	Lauren Manibusan	Stephen Gostkowski	K	15	8.3	Sunday afternoon	1
+Lauren Manibusan	5	Sea	Russell Wilson, Sea QB	17	Patrick Gowey	Russell Wilson	QB	12.6	17.2	Sunday morning	1
+Lauren Manibusan	5	Pit	Le'Veon Bell*, Pit RB  IR	17	Patrick Gowey	Le'Veon Bell	RB	18.7	18	Monday evening	1
+Lauren Manibusan	5	GB	Davante Adams, GB WR  Q	17	Patrick Gowey	Davante Adams	WR	0	NA	Sunday morning	1
+Lauren Manibusan	5	KC	Jeremy Maclin, KC WR	17	Patrick Gowey	Jeremy Maclin	WR	8.5	9.8	Sunday morning	1
+Lauren Manibusan	5	Oak	Amari Cooper, Oak WR	17	Patrick Gowey	Amari Cooper	WR	4.9	8.4	Sunday afternoon	1
+Lauren Manibusan	5	NE	Patriots D/ST D/ST	17	Patrick Gowey	Patriots D/ST	D/ST	13	7.8	Sunday afternoon	1
+Lauren Manibusan	5	Sea	Steven Hauschka, Sea K	17	Patrick Gowey	Steven Hauschka	K	6	8.3	Sunday morning	1
+trevor lemmons	5	Buf	Tyrod Taylor, Buf QB  Q	18	Samiha Verma	Tyrod Taylor	QB	22.4	15.8	Sunday morning	2
+trevor lemmons	5	Phi	DeMarco Murray, Phi RB	18	Samiha Verma	DeMarco Murray	RB	18	13.6	Sunday morning	2
+trevor lemmons	5	NE	Dion Lewis*, NE RB  IR	18	Samiha Verma	Dion Lewis	RB	15.3	13.1	Sunday afternoon	2
+trevor lemmons	5	Hou	DeAndre Hopkins, Hou WR	18	Samiha Verma	DeAndre Hopkins	WR	16.9	11.9	Thursday evening	2
+trevor lemmons	5	Ari	Larry Fitzgerald, Ari WR	18	Samiha Verma	Larry Fitzgerald	WR	11.8	10.4	Sunday afternoon	2
+trevor lemmons	5	Chi	Martellus Bennett, Chi TE  Q	18	Samiha Verma	Martellus Bennett	TE	3.2	8.3	Sunday morning	2
+trevor lemmons	5	Cle	Travis Benjamin, Cle WR	18	Samiha Verma	Travis Benjamin	WR	8.3	6.8	Sunday morning	2
+trevor lemmons	5	Sea	Seahawks D/ST D/ST	18	Samiha Verma	Seahawks D/ST	D/ST	11	8.3	Sunday morning	2
+trevor lemmons	5	GB	Mason Crosby, GB K	18	Samiha Verma	Mason Crosby	K	6	8.2	Sunday morning	2
+Samiha Verma	5	NE	Tom Brady, NE QB	18	trevor lemmons	Tom Brady	QB	25.3	20.6	Sunday afternoon	2
+Samiha Verma	5	SF	Carlos Hyde*, SF RB  O	18	trevor lemmons	Carlos Hyde	RB	15.7	10.6	Sunday evening	2
+Samiha Verma	5	Cin	Giovani Bernard, Cin RB	18	trevor lemmons	Giovani Bernard	RB	10.1	9.2	Sunday morning	2
+Samiha Verma	5	NYG	Odell Beckham Jr., NYG WR	18	trevor lemmons	Odell Beckham Jr.	WR	18.4	12.3	Sunday evening	2
+Samiha Verma	5	NE	Julian Edelman*, NE WR  O	18	trevor lemmons	Julian Edelman	WR	18	11.9	Sunday afternoon	2
+Samiha Verma	5	NE	Rob Gronkowski, NE TE	18	trevor lemmons	Rob Gronkowski	TE	6.7	11.2	Sunday afternoon	2
+Samiha Verma	5	Den	C.J. Anderson, Den RB	18	trevor lemmons	C.J. Anderson	RB	4	9	Sunday afternoon	2
+Samiha Verma	5	Bal	Ravens D/ST D/ST	18	trevor lemmons	Ravens D/ST	D/ST	-3	7.9	Sunday morning	2
+Samiha Verma	5	Den	Brandon McManus, Den K	18	trevor lemmons	Brandon McManus	K	12	7	Sunday afternoon	2
+Reece Wade	5	NO	Drew Brees, NO QB	19	Andy Vu	Drew Brees	QB	15.3	15.8	Sunday morning	3
+Reece Wade	5	Sea	Marshawn Lynch*, Sea RB  O	19	Andy Vu	Marshawn Lynch	RB	0	0	Sunday morning	3
+Reece Wade	5	Bal	Justin Forsett*, Bal RB  O	19	Andy Vu	Justin Forsett	RB	23	14.9	Sunday morning	3
+Reece Wade	5	Det	Calvin Johnson, Det WR  Q	19	Andy Vu	Calvin Johnson	WR	6.7	12.6	Sunday afternoon	3
+Reece Wade	5	Den	Demaryius Thomas, Den WR	19	Andy Vu	Demaryius Thomas	WR	5.5	12.5	Sunday afternoon	3
+Reece Wade	5	Dal	Jason Witten, Dal TE	19	Andy Vu	Jason Witten	TE	1.3	8.2	Sunday afternoon	3
+Reece Wade	5	Hou	Arian Foster*, Hou RB  IR	19	Andy Vu	Arian Foster	RB	11.8	14.4	Thursday evening	3
+Reece Wade	5	Den	Broncos D/ST D/ST	19	Andy Vu	Broncos D/ST	D/ST	23	10.9	Sunday afternoon	3
+Reece Wade	5	Bal	Justin Tucker, Bal K	19	Andy Vu	Justin Tucker	K	5	8.3	Sunday morning	3
+Andy Vu	5	Phi	Sam Bradford*, Phi QB  O	19	Reece Wade	Sam Bradford	QB	17.6	15.5	Sunday morning	3
+Andy Vu	5	NO	Mark Ingram, NO RB	19	Reece Wade	Mark Ingram	RB	7.4	11.2	Sunday morning	3
+Andy Vu	5	Cin	A.J. Green, Cin WR	19	Reece Wade	A.J. Green	WR	7.8	9.5	Sunday morning	3
+Andy Vu	5	Phi	Jordan Matthews, Phi WR	19	Reece Wade	Jordan Matthews	WR	4.4	8.8	Sunday morning	3
+Andy Vu	5	Ind	Frank Gore, Ind RB  Q	19	Reece Wade	Frank Gore	RB	15.8	11.6	Thursday evening	3
+Andy Vu	5	Dal	Dan Bailey, Dal K	19	Reece Wade	Dan Bailey	K	8	7.6	Sunday afternoon	3
+Patrick OBerry	5	Den	Peyton Manning*, Den QB  O	20	Alonso Prato	Peyton Manning	QB	6.6	17.6	Sunday afternoon	4
+Patrick OBerry	5	StL	Todd Gurley, StL RB	20	Alonso Prato	Todd Gurley	RB	15.9	11.7	Sunday morning	4
+Patrick OBerry	5	Atl	Devonta Freeman, Atl RB  Q	20	Alonso Prato	Devonta Freeman	RB	25.7	15.8	Sunday morning	4
+Patrick OBerry	5	Atl	Julio Jones, Atl WR	20	Alonso Prato	Julio Jones	WR	12.7	12.7	Sunday morning	4
+Patrick OBerry	5	Den	Emmanuel Sanders*, Den WR  O	20	Alonso Prato	Emmanuel Sanders	WR	11.1	11.6	Sunday afternoon	4
+Patrick OBerry	5	Buf	Charles Clay, Buf TE  P	20	Alonso Prato	Charles Clay	TE	0.7	7.6	Sunday morning	4
+Patrick OBerry	5	GB	Eddie Lacy, GB RB  Q	20	Alonso Prato	Eddie Lacy	RB	3.5	13.7	Sunday morning	4
+Patrick OBerry	5	StL	Rams D/ST D/ST	20	Alonso Prato	Rams D/ST	D/ST	8	6.2	Sunday morning	4
+Patrick OBerry	5	KC	Cairo Santos, KC K	20	Alonso Prato	Cairo Santos	K	3	7.8	Sunday morning	4
+Alonso Prato	5	Atl	Matt Ryan, Atl QB	20	Patrick OBerry	Matt Ryan	QB	6.2	18.4	Sunday morning	4
+Alonso Prato	5	KC	Jamaal Charles*, KC RB  IR	20	Patrick OBerry	Jamaal Charles	RB	8.4	18.7	Sunday morning	4
+Alonso Prato	5	FA	Joseph Randle, FA RB  SSPD	20	Patrick OBerry	Joseph Randle	RB	7.3	NA	NA	4
+Alonso Prato	5	Pit	Antonio Brown, Pit WR	20	Patrick OBerry	Antonio Brown	WR	4.5	11.1	Monday evening	4
+Alonso Prato	5	SD	Keenan Allen*, SD WR  IR	20	Patrick OBerry	Keenan Allen	WR	5.7	10.5	Monday evening	4
+Alonso Prato	5	Sea	Jimmy Graham, Sea TE	20	Patrick OBerry	Jimmy Graham	TE	3	6.6	Sunday morning	4
+Alonso Prato	5	Oak	Latavius Murray, Oak RB	20	Patrick OBerry	Latavius Murray	RB	5.7	10.8	Sunday afternoon	4
+Alonso Prato	5	Buf	Bills D/ST D/ST	20	Patrick OBerry	Bills D/ST	D/ST	9	9.1	Sunday morning	4
+Alonso Prato	5	Atl	Matt Bryant, Atl K	20	Patrick OBerry	Matt Bryant	K	6	8.7	Sunday morning	4
+Lauren Manibusan	6	Sea	Russell Wilson, Sea QB	21	trevor lemmons	Russell Wilson	QB	18.9	18.2	Sunday afternoon	1
+Lauren Manibusan	6	Pit	Le'Veon Bell*, Pit RB  IR	21	trevor lemmons	Le'Veon Bell	RB	8.8	16.1	Sunday morning	1
+Lauren Manibusan	6	Mia	Lamar Miller, Mia RB	21	trevor lemmons	Lamar Miller	RB	17.8	11.4	Sunday morning	1
+Lauren Manibusan	6	GB	Davante Adams, GB WR  Q	21	trevor lemmons	Davante Adams	WR	0	NA	Sunday afternoon	1
+Lauren Manibusan	6	KC	Jeremy Maclin, KC WR	21	trevor lemmons	Jeremy Maclin	WR	4.8	10.5	Sunday morning	1
+Lauren Manibusan	6	Car	Greg Olsen, Car TE	21	trevor lemmons	Greg Olsen	TE	19.1	7.3	Sunday afternoon	1
+Lauren Manibusan	6	NE	Patriots D/ST D/ST	21	trevor lemmons	Patriots D/ST	D/ST	2	8	Sunday evening	1
+Lauren Manibusan	6	Sea	Steven Hauschka, Sea K	21	trevor lemmons	Steven Hauschka	K	14	8	Sunday afternoon	1
+trevor lemmons	6	Ind	Andrew Luck*, Ind QB  O	21	Lauren Manibusan	Andrew Luck	QB	28	20.6	Sunday evening	1
+trevor lemmons	6	NYJ	Chris Ivory, NYJ RB	21	Lauren Manibusan	Chris Ivory	RB	25.6	10.5	Sunday morning	1
+trevor lemmons	6	NE	Dion Lewis*, NE RB  IR	21	Lauren Manibusan	Dion Lewis	RB	3.9	10.5	Sunday evening	1
+trevor lemmons	6	Hou	DeAndre Hopkins, Hou WR	21	Lauren Manibusan	DeAndre Hopkins	WR	26.8	11.8	Sunday morning	1
+trevor lemmons	6	Ari	Larry Fitzgerald, Ari WR	21	Lauren Manibusan	Larry Fitzgerald	WR	9.3	11.2	Sunday morning	1
+trevor lemmons	6	Cin	Tyler Eifert, Cin TE	21	Lauren Manibusan	Tyler Eifert	TE	9	8	Sunday morning	1
+trevor lemmons	6	Phi	DeMarco Murray, Phi RB	21	Lauren Manibusan	DeMarco Murray	RB	18.6	12.8	Monday evening	1
+trevor lemmons	6	Sea	Seahawks D/ST D/ST	21	Lauren Manibusan	Seahawks D/ST	D/ST	6	9.8	Sunday afternoon	1
+trevor lemmons	6	GB	Mason Crosby, GB K	21	Lauren Manibusan	Mason Crosby	K	9	7.6	Sunday afternoon	1
+Samiha Verma	6	NE	Tom Brady, NE QB	22	Reece Wade	Tom Brady	QB	22.5	20	Sunday evening	2
+Samiha Verma	6	SF	Carlos Hyde*, SF RB  O	22	Reece Wade	Carlos Hyde	RB	6	12.1	Sunday afternoon	2
+Samiha Verma	6	Cin	Giovani Bernard, Cin RB	22	Reece Wade	Giovani Bernard	RB	13.3	10.6	Sunday morning	2
+Samiha Verma	6	NYG	Odell Beckham Jr., NYG WR	22	Reece Wade	Odell Beckham Jr.	WR	12.1	11.7	Monday evening	2
+Samiha Verma	6	NE	Julian Edelman*, NE WR  O	22	Reece Wade	Julian Edelman	WR	11.2	11.6	Sunday evening	2
+Samiha Verma	6	NE	Rob Gronkowski, NE TE	22	Reece Wade	Rob Gronkowski	TE	11	11.5	Sunday evening	2
+Samiha Verma	6	Den	C.J. Anderson, Den RB	22	Reece Wade	C.J. Anderson	RB	6.6	10	Sunday morning	2
+Samiha Verma	6	Bal	Ravens D/ST D/ST	22	Reece Wade	Ravens D/ST	D/ST	2	8.3	Sunday afternoon	2
+Samiha Verma	6	Den	Brandon McManus, Den K	22	Reece Wade	Brandon McManus	K	13	8.5	Sunday morning	2
+Reece Wade	6	NO	Drew Brees, NO QB	22	Samiha Verma	Drew Brees	QB	16.7	20.3	Thursday evening	2
+Reece Wade	6	Sea	Marshawn Lynch*, Sea RB  O	22	Samiha Verma	Marshawn Lynch	RB	11.4	12.8	Sunday afternoon	2
+Reece Wade	6	Bal	Justin Forsett*, Bal RB  O	22	Samiha Verma	Justin Forsett	RB	10.1	10.5	Sunday afternoon	2
+Reece Wade	6	Det	Calvin Johnson, Det WR  Q	22	Samiha Verma	Calvin Johnson	WR	22.6	11.7	Sunday morning	2
+Reece Wade	6	Den	Demaryius Thomas, Den WR	22	Samiha Verma	Demaryius Thomas	WR	11.1	12.4	Sunday morning	2
+Reece Wade	6	Hou	Arian Foster*, Hou RB  IR	22	Samiha Verma	Arian Foster	RB	17.2	14.8	Sunday morning	2
+Reece Wade	6	Den	Broncos D/ST D/ST	22	Samiha Verma	Broncos D/ST	D/ST	18	12.5	Sunday morning	2
+Reece Wade	6	Bal	Justin Tucker, Bal K	22	Samiha Verma	Justin Tucker	K	7	8.5	Sunday afternoon	2
+Andy Vu	6	Phi	Sam Bradford*, Phi QB  O	23	Patrick OBerry	Sam Bradford	QB	9.4	15.9	Monday evening	3
+Andy Vu	6	Min	Adrian Peterson, Min RB	23	Patrick OBerry	Adrian Peterson	RB	5.7	16.3	Sunday morning	3
+Andy Vu	6	NO	Mark Ingram, NO RB	23	Patrick OBerry	Mark Ingram	RB	17.6	12.4	Thursday evening	3
+Andy Vu	6	Cin	A.J. Green, Cin WR	23	Patrick OBerry	A.J. Green	WR	3.6	12	Sunday morning	3
+Andy Vu	6	Phi	Jordan Matthews, Phi WR	23	Patrick OBerry	Jordan Matthews	WR	3.9	10.2	Monday evening	3
+Andy Vu	6	Mia	Jordan Cameron, Mia TE	23	Patrick OBerry	Jordan Cameron	TE	9	6	Sunday morning	3
+Andy Vu	6	Ind	Frank Gore, Ind RB  Q	23	Patrick OBerry	Frank Gore	RB	9.4	11.4	Sunday evening	3
+Andy Vu	6	NYJ	Jets D/ST D/ST	23	Patrick OBerry	Jets D/ST	D/ST	7	9.7	Sunday morning	3
+Patrick OBerry	6	Den	Peyton Manning*, Den QB  O	23	Andy Vu	Peyton Manning	QB	9.6	16.7	Sunday morning	3
+Patrick OBerry	6	GB	Eddie Lacy, GB RB  Q	23	Andy Vu	Eddie Lacy	RB	2	14	Sunday afternoon	3
+Patrick OBerry	6	Atl	Devonta Freeman, Atl RB  Q	23	Andy Vu	Devonta Freeman	RB	27.6	18.9	Thursday evening	3
+Patrick OBerry	6	Atl	Julio Jones, Atl WR	23	Andy Vu	Julio Jones	WR	9.3	12.2	Thursday evening	3
+Patrick OBerry	6	Den	Emmanuel Sanders*, Den WR  O	23	Andy Vu	Emmanuel Sanders	WR	16.9	11.9	Sunday morning	3
+Patrick OBerry	6	Buf	Charles Clay, Buf TE  P	23	Andy Vu	Charles Clay	TE	6.2	6.1	Sunday morning	3
+Patrick OBerry	6	Ind	Andre Johnson, Ind WR	23	Andy Vu	Andre Johnson	WR	3.5	6.7	Sunday evening	3
+Patrick OBerry	6	Ten	Titans D/ST D/ST	23	Andy Vu	Titans D/ST	D/ST	0	9.4	Sunday morning	3
+Patrick OBerry	6	KC	Cairo Santos, KC K	23	Andy Vu	Cairo Santos	K	5	7.5	Sunday morning	3
+Alonso Prato	6	Atl	Matt Ryan, Atl QB	24	Patrick Gowey	Matt Ryan	QB	18.8	17.2	Thursday evening	4
+Alonso Prato	6	KC	Jamaal Charles*, KC RB  IR	24	Patrick Gowey	Jamaal Charles	RB	0	0	Sunday morning	4
+Alonso Prato	6	SD	Melvin Gordon, SD RB	24	Patrick Gowey	Melvin Gordon	RB	0.9	8.7	Sunday afternoon	4
+Alonso Prato	6	Pit	Antonio Brown, Pit WR	24	Patrick Gowey	Antonio Brown	WR	2.4	10.7	Sunday morning	4
+Alonso Prato	6	SD	Keenan Allen*, SD WR  IR	24	Patrick Gowey	Keenan Allen	WR	15.7	10.6	Sunday afternoon	4
+Alonso Prato	6	Sea	Jimmy Graham, Sea TE	24	Patrick Gowey	Jimmy Graham	TE	14	6.4	Sunday afternoon	4
+Alonso Prato	6	Chi	Alshon Jeffery*, Chi WR  O	24	Patrick Gowey	Alshon Jeffery	WR	20.7	10.4	Sunday morning	4
+Alonso Prato	6	Buf	Bills D/ST D/ST	24	Patrick Gowey	Bills D/ST	D/ST	-2	6.3	Sunday morning	4
+Alonso Prato	6	Atl	Matt Bryant, Atl K	24	Patrick Gowey	Matt Bryant	K	3	8.7	Thursday evening	4
+Patrick Gowey	6	GB	Aaron Rodgers, GB QB	24	Alonso Prato	Aaron Rodgers	QB	19.6	20.9	Sunday afternoon	4
+Patrick Gowey	6	Chi	Matt Forte*, Chi RB  O	24	Alonso Prato	Matt Forte	RB	16.9	17.9	Sunday morning	4
+Patrick Gowey	6	Ari	Chris Johnson, Ari RB	24	Alonso Prato	Chris Johnson	RB	4.5	9	Sunday morning	4
+Patrick Gowey	6	GB	James Jones, GB WR	24	Alonso Prato	James Jones	WR	9	8.9	Sunday afternoon	4
+Patrick Gowey	6	Jax	Allen Hurns, Jax WR	24	Alonso Prato	Allen Hurns	WR	9	7.6	Sunday morning	4
+Patrick Gowey	6	KC	Travis Kelce, KC TE	24	Alonso Prato	Travis Kelce	TE	8.8	7.1	Sunday morning	4
+Patrick Gowey	6	GB	Randall Cobb, GB WR	24	Alonso Prato	Randall Cobb	WR	3.8	12.2	Sunday afternoon	4
+Patrick Gowey	6	Ari	Cardinals D/ST D/ST	24	Alonso Prato	Cardinals D/ST	D/ST	1	9	Sunday morning	4
+Patrick Gowey	6	NE	Stephen Gostkowski, NE K	24	Alonso Prato	Stephen Gostkowski	K	11	8.5	Sunday evening	4
+Reece Wade	7	NO	Drew Brees, NO QB	25	Lauren Manibusan	Drew Brees	QB	11.8	17.2	Sunday morning	1
+Reece Wade	7	Sea	Marshawn Lynch*, Sea RB  O	25	Lauren Manibusan	Marshawn Lynch	RB	18.2	13.5	Thursday evening	1
+Reece Wade	7	Bal	Justin Forsett*, Bal RB  O	25	Lauren Manibusan	Justin Forsett	RB	10.4	12.6	Monday evening	1
+Reece Wade	7	Det	Calvin Johnson, Det WR  Q	25	Lauren Manibusan	Calvin Johnson	WR	14.6	12.1	Sunday morning	1
+Reece Wade	7	Dal	Jason Witten, Dal TE	25	Lauren Manibusan	Jason Witten	TE	7.3	6.7	Sunday afternoon	1
+Reece Wade	7	Hou	Arian Foster*, Hou RB  IR	25	Lauren Manibusan	Arian Foster	RB	24.5	13.3	Sunday morning	1
+Reece Wade	7	Bal	Justin Tucker, Bal K	25	Lauren Manibusan	Justin Tucker	K	5	8	Monday evening	1
+Lauren Manibusan	7	Sea	Russell Wilson, Sea QB	25	Reece Wade	Russell Wilson	QB	11.4	19.1	Thursday evening	1
+Lauren Manibusan	7	Pit	Le'Veon Bell*, Pit RB  IR	25	Reece Wade	Le'Veon Bell	RB	13.7	16.4	Sunday morning	1
+Lauren Manibusan	7	Mia	Lamar Miller, Mia RB	25	Reece Wade	Lamar Miller	RB	35.6	13.2	Sunday morning	1
+Lauren Manibusan	7	KC	Jeremy Maclin, KC WR	25	Reece Wade	Jeremy Maclin	WR	0	0	Sunday morning	1
+Lauren Manibusan	7	Car	Greg Olsen, Car TE	25	Reece Wade	Greg Olsen	TE	6.5	9.5	Sunday evening	1
+Lauren Manibusan	7	Oak	Amari Cooper, Oak WR	25	Reece Wade	Amari Cooper	WR	19.3	8	Sunday afternoon	1
+Lauren Manibusan	7	NE	Patriots D/ST D/ST	25	Reece Wade	Patriots D/ST	D/ST	3	7.8	Sunday morning	1
+Lauren Manibusan	7	Sea	Steven Hauschka, Sea K	25	Reece Wade	Steven Hauschka	K	10	8.4	Thursday evening	1
+Patrick OBerry	7	SD	Philip Rivers, SD QB	26	Samiha Verma	Philip Rivers	QB	25.4	19.6	Sunday afternoon	2
+Patrick OBerry	7	StL	Todd Gurley, StL RB	26	Samiha Verma	Todd Gurley	RB	28.3	17.9	Sunday morning	2
+Patrick OBerry	7	Atl	Devonta Freeman, Atl RB  Q	26	Samiha Verma	Devonta Freeman	RB	13	17.6	Sunday morning	2
+Patrick OBerry	7	Atl	Julio Jones, Atl WR	26	Samiha Verma	Julio Jones	WR	15.2	11.5	Sunday morning	2
+Patrick OBerry	7	TB	Mike Evans, TB WR	26	Samiha Verma	Mike Evans	WR	22.4	8.7	Sunday morning	2
+Patrick OBerry	7	Cle	Gary Barnidge, Cle TE	26	Samiha Verma	Gary Barnidge	TE	10.1	6.2	Sunday morning	2
+Patrick OBerry	7	Buf	LeSean McCoy, Buf RB	26	Samiha Verma	LeSean McCoy	RB	10.4	14.2	Sunday morning	2
+Patrick OBerry	7	StL	Rams D/ST D/ST	26	Samiha Verma	Rams D/ST	D/ST	21	9.1	Sunday morning	2
+Patrick OBerry	7	KC	Cairo Santos, KC K	26	Samiha Verma	Cairo Santos	K	10	7.8	Sunday morning	2
+Samiha Verma	7	NE	Tom Brady, NE QB	26	Patrick OBerry	Tom Brady	QB	29.7	19.2	Sunday morning	2
+Samiha Verma	7	NYG	Rashad Jennings, NYG RB	26	Patrick OBerry	Rashad Jennings	RB	1.9	9.4	Sunday afternoon	2
+Samiha Verma	7	NE	LeGarrette Blount, NE RB	26	Patrick OBerry	LeGarrette Blount	RB	-0.3	10.7	Sunday morning	2
+Samiha Verma	7	NYG	Odell Beckham Jr., NYG WR	26	Patrick OBerry	Odell Beckham Jr.	WR	3.5	11.7	Sunday afternoon	2
+Samiha Verma	7	NE	Julian Edelman*, NE WR  O	26	Patrick OBerry	Julian Edelman	WR	5.4	10.9	Sunday morning	2
+Samiha Verma	7	NE	Rob Gronkowski, NE TE	26	Patrick OBerry	Rob Gronkowski	TE	16.8	10.1	Sunday morning	2
+Samiha Verma	7	Bal	Steve Smith Sr.*, Bal WR  IR	26	Patrick OBerry	Steve Smith Sr.	WR	7.8	8.8	Monday evening	2
+Samiha Verma	7	Bal	Ravens D/ST D/ST	26	Patrick OBerry	Ravens D/ST	D/ST	1	3.6	Monday evening	2
+Samiha Verma	7	Ari	Chandler Catanzaro, Ari K	26	Patrick OBerry	Chandler Catanzaro	K	7	8.1	Monday evening	2
+Patrick Gowey	7	Jax	Blake Bortles, Jax QB	27	Andy Vu	Blake Bortles	QB	13	17.5	Sunday morning	3
+Patrick Gowey	7	Ari	Chris Johnson, Ari RB	27	Andy Vu	Chris Johnson	RB	18.2	10.5	Monday evening	3
+Patrick Gowey	7	Car	Jonathan Stewart, Car RB	27	Andy Vu	Jonathan Stewart	RB	12.5	9.4	Sunday evening	3
+Patrick Gowey	7	Jax	Allen Hurns, Jax WR	27	Andy Vu	Allen Hurns	WR	11.3	7.9	Sunday morning	3
+Patrick Gowey	7	Ind	Donte Moncrief, Ind WR	27	Andy Vu	Donte Moncrief	WR	9.4	9.5	Sunday morning	3
+Patrick Gowey	7	KC	Travis Kelce, KC TE	27	Andy Vu	Travis Kelce	TE	7.3	7.7	Sunday morning	3
+Patrick Gowey	7	Mia	Jarvis Landry, Mia WR	27	Andy Vu	Jarvis Landry	WR	20.8	9.8	Sunday morning	3
+Patrick Gowey	7	Car	Panthers D/ST D/ST	27	Andy Vu	Panthers D/ST	D/ST	8	8.6	Sunday evening	3
+Patrick Gowey	7	NE	Stephen Gostkowski, NE K	27	Andy Vu	Stephen Gostkowski	K	13	8.5	Sunday morning	3
+Andy Vu	7	Mia	Ryan Tannehill, Mia QB	27	Patrick Gowey	Ryan Tannehill	QB	27.6	17.7	Sunday morning	3
+Andy Vu	7	Min	Adrian Peterson, Min RB	27	Patrick Gowey	Adrian Peterson	RB	11	15.8	Sunday morning	3
+Andy Vu	7	NO	Mark Ingram, NO RB	27	Patrick Gowey	Mark Ingram	RB	20.8	11.8	Sunday morning	3
+Andy Vu	7	Phi	Jordan Matthews, Phi WR	27	Patrick Gowey	Jordan Matthews	WR	1.4	9.9	Sunday evening	3
+Andy Vu	7	NYJ	Brandon Marshall, NYJ WR	27	Patrick Gowey	Brandon Marshall	WR	6.7	11.2	Sunday morning	3
+Andy Vu	7	Mia	Jordan Cameron, Mia TE	27	Patrick Gowey	Jordan Cameron	TE	2.3	7.2	Sunday morning	3
+Andy Vu	7	Ind	Frank Gore, Ind RB  Q	27	Patrick Gowey	Frank Gore	RB	7.5	12.5	Sunday morning	3
+Andy Vu	7	NYJ	Jets D/ST D/ST	27	Patrick Gowey	Jets D/ST	D/ST	1	4.5	Sunday morning	3
+Andy Vu	7	Dal	Dan Bailey, Dal K	27	Patrick Gowey	Dan Bailey	K	9	7.2	Sunday afternoon	3
+trevor lemmons	7	Ind	Andrew Luck*, Ind QB  O	28	Alonso Prato	Andrew Luck	QB	24	21.7	Sunday morning	4
+trevor lemmons	7	Phi	DeMarco Murray, Phi RB	28	Alonso Prato	DeMarco Murray	RB	7	12.3	Sunday evening	4
+trevor lemmons	7	NYJ	Chris Ivory, NYJ RB	28	Alonso Prato	Chris Ivory	RB	11.3	13	Sunday morning	4
+trevor lemmons	7	Hou	DeAndre Hopkins, Hou WR	28	Alonso Prato	DeAndre Hopkins	WR	5	12.9	Sunday morning	4
+trevor lemmons	7	Ari	Larry Fitzgerald, Ari WR	28	Alonso Prato	Larry Fitzgerald	WR	3.9	12.4	Monday evening	4
+trevor lemmons	7	NO	Benjamin Watson, NO TE	28	Alonso Prato	Benjamin Watson	TE	5.9	5.7	Sunday morning	4
+trevor lemmons	7	Ind	T.Y. Hilton, Ind WR	28	Alonso Prato	T.Y. Hilton	WR	27	9.9	Sunday morning	4
+trevor lemmons	7	Sea	Seahawks D/ST D/ST	28	Alonso Prato	Seahawks D/ST	D/ST	13	11.7	Thursday evening	4
+trevor lemmons	7	NYG	Josh Brown, NYG K	28	Alonso Prato	Josh Brown	K	10	8.9	Sunday afternoon	4
+Alonso Prato	7	Ari	Carson Palmer, Ari QB	28	trevor lemmons	Carson Palmer	QB	19.2	19.6	Monday evening	4
+Alonso Prato	7	Oak	Latavius Murray, Oak RB	28	trevor lemmons	Latavius Murray	RB	14.6	13.1	Sunday afternoon	4
+Alonso Prato	7	Wsh	Alfred Morris, Wsh RB  Q	28	trevor lemmons	Alfred Morris	RB	0.7	10	Sunday morning	4
+Alonso Prato	7	Pit	Antonio Brown, Pit WR	28	trevor lemmons	Antonio Brown	WR	13	10.3	Sunday morning	4
+Alonso Prato	7	SD	Keenan Allen*, SD WR  IR	28	trevor lemmons	Keenan Allen	WR	8.9	11.6	Sunday afternoon	4
+Alonso Prato	7	Sea	Jimmy Graham, Sea TE	28	trevor lemmons	Jimmy Graham	TE	3.1	8.1	Thursday evening	4
+Alonso Prato	7	NO	Brandin Cooks, NO WR	28	trevor lemmons	Brandin Cooks	WR	8.1	8.2	Sunday morning	4
+Alonso Prato	7	Buf	Bills D/ST D/ST	28	trevor lemmons	Bills D/ST	D/ST	11	9.4	Sunday morning	4
+Alonso Prato	7	Det	Matt Prater, Det K	28	trevor lemmons	Matt Prater	K	7	8.1	Sunday morning	4
+Patrick Gowey	8	GB	Aaron Rodgers, GB QB	29	Patrick OBerry	Aaron Rodgers	QB	6.2	18.3	Sunday evening	1
+Patrick Gowey	8	Chi	Matt Forte*, Chi RB  O	29	Patrick OBerry	Matt Forte	RB	6.9	16.5	Sunday morning	1
+Patrick Gowey	8	Ari	Chris Johnson, Ari RB	29	Patrick OBerry	Chris Johnson	RB	6.9	12.4	Sunday morning	1
+Patrick Gowey	8	Mia	Jarvis Landry, Mia WR	29	Patrick OBerry	Jarvis Landry	WR	7.1	9.8	Thursday evening	1
+Patrick Gowey	8	Ind	Donte Moncrief, Ind WR	29	Patrick OBerry	Donte Moncrief	WR	1.8	9.1	Monday evening	1
+Patrick Gowey	8	KC	Travis Kelce, KC TE	29	Patrick OBerry	Travis Kelce	TE	10.9	7.4	Sunday morning	1
+Patrick Gowey	8	Car	Jonathan Stewart, Car RB	29	Patrick OBerry	Jonathan Stewart	RB	12.3	12.1	Monday evening	1
+Patrick Gowey	8	Ari	Cardinals D/ST D/ST	29	Patrick OBerry	Cardinals D/ST	D/ST	7	10.3	Sunday morning	1
+Patrick Gowey	8	NE	Stephen Gostkowski, NE K	29	Patrick OBerry	Stephen Gostkowski	K	12	8.1	Thursday evening	1
+Patrick OBerry	8	SD	Philip Rivers, SD QB	29	Patrick Gowey	Philip Rivers	QB	24	19.8	Sunday morning	1
+Patrick OBerry	8	StL	Todd Gurley, StL RB	29	Patrick Gowey	Todd Gurley	RB	20.6	16.9	Sunday morning	1
+Patrick OBerry	8	Atl	Devonta Freeman, Atl RB  Q	29	Patrick Gowey	Devonta Freeman	RB	13.1	20.1	Sunday morning	1
+Patrick OBerry	8	Atl	Julio Jones, Atl WR	29	Patrick Gowey	Julio Jones	WR	20.2	14.5	Sunday morning	1
+Patrick OBerry	8	Den	Emmanuel Sanders*, Den WR  O	29	Patrick Gowey	Emmanuel Sanders	WR	2.2	12.3	Sunday evening	1
+Patrick OBerry	8	Cle	Gary Barnidge, Cle TE	29	Patrick Gowey	Gary Barnidge	TE	11.3	7.4	Sunday morning	1
+Patrick OBerry	8	SD	Danny Woodhead, SD RB	29	Patrick Gowey	Danny Woodhead	RB	4.5	9.1	Sunday morning	1
+Patrick OBerry	8	StL	Rams D/ST D/ST	29	Patrick Gowey	Rams D/ST	D/ST	12	10.9	Sunday morning	1
+Patrick OBerry	8	KC	Cairo Santos, KC K	29	Patrick Gowey	Cairo Santos	K	9	7.2	Sunday morning	1
+Reece Wade	8	NO	Drew Brees, NO QB	30	trevor lemmons	Drew Brees	QB	44.3	17.8	Sunday morning	2
+Reece Wade	8	Sea	Marshawn Lynch*, Sea RB  O	30	trevor lemmons	Marshawn Lynch	RB	8.2	13	Sunday afternoon	2
+Reece Wade	8	Bal	Justin Forsett*, Bal RB  O	30	trevor lemmons	Justin Forsett	RB	7.4	17.5	Sunday morning	2
+Reece Wade	8	Det	Calvin Johnson, Det WR  Q	30	trevor lemmons	Calvin Johnson	WR	8.5	11.6	Sunday morning	2
+Reece Wade	8	Den	Demaryius Thomas, Den WR	30	trevor lemmons	Demaryius Thomas	WR	16.8	12.4	Sunday evening	2
+Reece Wade	8	Dal	Jason Witten, Dal TE	30	trevor lemmons	Jason Witten	TE	1.6	6.3	Sunday afternoon	2
+Reece Wade	8	Hou	Arian Foster*, Hou RB  IR	30	trevor lemmons	Arian Foster	RB	0	0	Sunday morning	2
+Reece Wade	8	Den	Broncos D/ST D/ST	30	trevor lemmons	Broncos D/ST	D/ST	11	8.3	Sunday evening	2
+Reece Wade	8	Bal	Justin Tucker, Bal K	30	trevor lemmons	Justin Tucker	K	20	8.1	Sunday morning	2
+trevor lemmons	8	Ind	Andrew Luck*, Ind QB  O	30	Reece Wade	Andrew Luck	QB	14.7	17.4	Monday evening	2
+trevor lemmons	8	NYJ	Chris Ivory, NYJ RB	30	Reece Wade	Chris Ivory	RB	4.1	13.2	Sunday afternoon	2
+trevor lemmons	8	KC	Charcandrick West, KC RB  Q	30	Reece Wade	Charcandrick West	RB	18.2	11.7	Sunday morning	2
+trevor lemmons	8	Hou	DeAndre Hopkins, Hou WR	30	Reece Wade	DeAndre Hopkins	WR	15.4	13.3	Sunday morning	2
+trevor lemmons	8	Ari	Larry Fitzgerald, Ari WR	30	Reece Wade	Larry Fitzgerald	WR	12.4	10.4	Sunday morning	2
+trevor lemmons	8	NO	Benjamin Watson, NO TE	30	Reece Wade	Benjamin Watson	TE	20.7	6	Sunday morning	2
+trevor lemmons	8	Ind	T.Y. Hilton, Ind WR	30	Reece Wade	T.Y. Hilton	WR	1.5	10.2	Monday evening	2
+trevor lemmons	8	Sea	Seahawks D/ST D/ST	30	Reece Wade	Seahawks D/ST	D/ST	6	9.6	Sunday afternoon	2
+trevor lemmons	8	NYG	Josh Brown, NYG K	30	Reece Wade	Josh Brown	K	7	8.9	Sunday morning	2
+Samiha Verma	8	NE	Tom Brady, NE QB	31	Lauren Manibusan	Tom Brady	QB	30.3	21.4	Thursday evening	3
+Samiha Verma	8	NYG	Rashad Jennings, NYG RB	31	Lauren Manibusan	Rashad Jennings	RB	8.5	6.8	Sunday morning	3
+Samiha Verma	8	NE	LeGarrette Blount, NE RB	31	Lauren Manibusan	LeGarrette Blount	RB	7.4	11.3	Thursday evening	3
+Samiha Verma	8	NYG	Odell Beckham Jr., NYG WR	31	Lauren Manibusan	Odell Beckham Jr.	WR	31	12	Sunday morning	3
+Samiha Verma	8	NE	Julian Edelman*, NE WR  O	31	Lauren Manibusan	Julian Edelman	WR	20.1	11.5	Thursday evening	3
+Samiha Verma	8	NE	Rob Gronkowski, NE TE	31	Lauren Manibusan	Rob Gronkowski	TE	17.3	11.1	Thursday evening	3
+Samiha Verma	8	Bal	Steve Smith Sr.*, Bal WR  IR	31	Lauren Manibusan	Steve Smith Sr.	WR	8.2	8.9	Sunday morning	3
+Samiha Verma	8	Bal	Ravens D/ST D/ST	31	Lauren Manibusan	Ravens D/ST	D/ST	2	3.4	Sunday morning	3
+Samiha Verma	8	Den	Brandon McManus, Den K	31	Lauren Manibusan	Brandon McManus	K	11	8	Sunday evening	3
+Lauren Manibusan	8	Sea	Russell Wilson, Sea QB	31	Samiha Verma	Russell Wilson	QB	13.6	16.8	Sunday afternoon	3
+Lauren Manibusan	8	Pit	Le'Veon Bell*, Pit RB  IR	31	Samiha Verma	Le'Veon Bell	RB	5.8	17.2	Sunday morning	3
+Lauren Manibusan	8	Mia	Lamar Miller, Mia RB	31	Samiha Verma	Lamar Miller	RB	9.4	11.1	Thursday evening	3
+Lauren Manibusan	8	GB	Davante Adams, GB WR  Q	31	Samiha Verma	Davante Adams	WR	0.8	7.1	Sunday evening	3
+Lauren Manibusan	8	KC	Jeremy Maclin, KC WR	31	Samiha Verma	Jeremy Maclin	WR	9.5	11.2	Sunday morning	3
+Lauren Manibusan	8	Car	Greg Olsen, Car TE	31	Samiha Verma	Greg Olsen	TE	13.9	8.7	Monday evening	3
+Lauren Manibusan	8	Oak	Amari Cooper, Oak WR	31	Samiha Verma	Amari Cooper	WR	4.8	8.3	Sunday afternoon	3
+Lauren Manibusan	8	NE	Patriots D/ST D/ST	31	Samiha Verma	Patriots D/ST	D/ST	16	9.1	Thursday evening	3
+Lauren Manibusan	8	Sea	Steven Hauschka, Sea K	31	Samiha Verma	Steven Hauschka	K	6	8.5	Sunday afternoon	3
+Alonso Prato	8	Atl	Matt Ryan, Atl QB	32	Andy Vu	Matt Ryan	QB	20.1	19.6	Sunday morning	4
+Alonso Prato	8	Oak	Latavius Murray, Oak RB	32	Andy Vu	Latavius Murray	RB	11.9	8.4	Sunday afternoon	4
+Alonso Prato	8	Den	Ronnie Hillman, Den RB	32	Andy Vu	Ronnie Hillman	RB	17.5	8.4	Sunday evening	4
+Alonso Prato	8	Pit	Antonio Brown, Pit WR	32	Andy Vu	Antonio Brown	WR	10.7	13.6	Sunday morning	4
+Alonso Prato	8	SD	Keenan Allen*, SD WR  IR	32	Andy Vu	Keenan Allen	WR	9.5	12	Sunday morning	4
+Alonso Prato	8	Ten	Delanie Walker, Ten TE	32	Andy Vu	Delanie Walker	TE	6.2	8	Sunday morning	4
+Alonso Prato	8	Chi	Alshon Jeffery*, Chi WR  O	32	Andy Vu	Alshon Jeffery	WR	17.6	10.6	Sunday morning	4
+Alonso Prato	8	Min	Vikings D/ST D/ST	32	Andy Vu	Vikings D/ST	D/ST	7	8.8	Sunday morning	4
+Alonso Prato	8	Atl	Matt Bryant, Atl K	32	Andy Vu	Matt Bryant	K	8	8.2	Sunday morning	4
+Andy Vu	8	Mia	Ryan Tannehill, Mia QB	32	Alonso Prato	Ryan Tannehill	QB	7.9	16.5	Thursday evening	4
+Andy Vu	8	Min	Adrian Peterson, Min RB	32	Alonso Prato	Adrian Peterson	RB	10.9	13.8	Sunday morning	4
+Andy Vu	8	NO	Mark Ingram, NO RB	32	Alonso Prato	Mark Ingram	RB	11.9	12.6	Sunday morning	4
+Andy Vu	8	Cin	A.J. Green, Cin WR	32	Alonso Prato	A.J. Green	WR	17.8	11.8	Sunday morning	4
+Andy Vu	8	NYJ	Brandon Marshall, NYJ WR	32	Alonso Prato	Brandon Marshall	WR	10.8	11.2	Sunday afternoon	4
+Andy Vu	8	Mia	Jordan Cameron, Mia TE	32	Alonso Prato	Jordan Cameron	TE	3.4	6.9	Thursday evening	4
+Andy Vu	8	TB	Doug Martin, TB RB	32	Alonso Prato	Doug Martin	RB	7.8	11.2	Sunday morning	4
+Andy Vu	8	NYJ	Jets D/ST D/ST	32	Alonso Prato	Jets D/ST	D/ST	-6	7.6	Sunday afternoon	4
+Andy Vu	8	Dal	Dan Bailey, Dal K	32	Alonso Prato	Dan Bailey	K	14	7.3	Sunday afternoon	4
+Patrick OBerry	9	SD	Philip Rivers, SD QB	33	trevor lemmons	Philip Rivers	QB	15.2	20.2	Monday evening	1
+Patrick OBerry	9	StL	Todd Gurley, StL RB	33	trevor lemmons	Todd Gurley	RB	16.9	13.9	Sunday morning	1
+Patrick OBerry	9	Atl	Devonta Freeman, Atl RB  Q	33	trevor lemmons	Devonta Freeman	RB	13.9	21.3	Sunday afternoon	1
+Patrick OBerry	9	Atl	Julio Jones, Atl WR	33	trevor lemmons	Julio Jones	WR	13.7	13.1	Sunday afternoon	1
+Patrick OBerry	9	Den	Emmanuel Sanders*, Den WR  O	33	trevor lemmons	Emmanuel Sanders	WR	15	11.5	Sunday afternoon	1
+Patrick OBerry	9	Cle	Gary Barnidge, Cle TE	33	trevor lemmons	Gary Barnidge	TE	3.5	7.6	Thursday evening	1
+Patrick OBerry	9	Pit	DeAngelo Williams, Pit RB	33	trevor lemmons	DeAngelo Williams	RB	36.5	12.6	Sunday morning	1
+Patrick OBerry	9	StL	Rams D/ST D/ST	33	trevor lemmons	Rams D/ST	D/ST	5	10.7	Sunday morning	1
+Patrick OBerry	9	Chi	Robbie Gould, Chi K	33	trevor lemmons	Robbie Gould	K	0	7.8	Monday evening	1
+trevor lemmons	9	Buf	Tyrod Taylor, Buf QB  Q	33	Patrick OBerry	Tyrod Taylor	QB	15.6	16.7	Sunday morning	1
+trevor lemmons	9	Jax	T.J. Yeldon, Jax RB	33	Patrick OBerry	T.J. Yeldon	RB	10.1	7.9	Sunday morning	1
+trevor lemmons	9	NYJ	Chris Ivory, NYJ RB	33	Patrick OBerry	Chris Ivory	RB	16.8	13.7	Sunday morning	1
+trevor lemmons	9	Ind	T.Y. Hilton, Ind WR	33	Patrick OBerry	T.Y. Hilton	WR	8.2	0	Sunday afternoon	1
+trevor lemmons	9	Cle	Travis Benjamin, Cle WR	33	Patrick OBerry	Travis Benjamin	WR	2.2	7.9	Thursday evening	1
+trevor lemmons	9	NO	Benjamin Watson, NO TE	33	Patrick OBerry	Benjamin Watson	TE	6	6.3	Sunday morning	1
+trevor lemmons	9	Phi	DeMarco Murray, Phi RB	33	Patrick OBerry	DeMarco Murray	RB	22.1	12.7	Sunday evening	1
+trevor lemmons	9	Phi	Eagles D/ST D/ST	33	Patrick OBerry	Eagles D/ST	D/ST	9	6.7	Sunday evening	1
+trevor lemmons	9	NYG	Josh Brown, NYG K	33	Patrick OBerry	Josh Brown	K	17	7.9	Sunday afternoon	1
+Reece Wade	9	NO	Drew Brees, NO QB	34	Patrick Gowey	Drew Brees	QB	31.4	18.4	Sunday morning	2
+Reece Wade	9	Den	Demaryius Thomas, Den WR	34	Patrick Gowey	Demaryius Thomas	WR	5	12.9	Sunday afternoon	2
+Reece Wade	9	Dal	Jason Witten, Dal TE	34	Patrick Gowey	Jason Witten	TE	4.3	5.9	Sunday evening	2
+Reece Wade	9	Den	Broncos D/ST D/ST	34	Patrick Gowey	Broncos D/ST	D/ST	6	11.3	Sunday afternoon	2
+Patrick Gowey	9	GB	Aaron Rodgers, GB QB	34	Reece Wade	Aaron Rodgers	QB	33	19.5	Sunday morning	2
+Patrick Gowey	9	Cin	Jeremy Hill, Cin RB	34	Reece Wade	Jeremy Hill	RB	5.2	14.2	Thursday evening	2
+Patrick Gowey	9	Dal	Darren McFadden, Dal RB  Q	34	Reece Wade	Darren McFadden	RB	12.2	13	Sunday evening	2
+Patrick Gowey	9	Mia	Jarvis Landry, Mia WR	34	Reece Wade	Jarvis Landry	WR	9.1	9.2	Sunday morning	2
+Patrick Gowey	9	Pit	Martavis Bryant, Pit WR	34	Reece Wade	Martavis Bryant	WR	9.1	9.8	Sunday morning	2
+Patrick Gowey	9	Ten	Delanie Walker, Ten TE	34	Reece Wade	Delanie Walker	TE	23.5	7.4	Sunday morning	2
+Patrick Gowey	9	Chi	Jeremy Langford, Chi RB	34	Reece Wade	Jeremy Langford	RB	22.2	12.6	Monday evening	2
+Patrick Gowey	9	Atl	Falcons D/ST D/ST	34	Reece Wade	Falcons D/ST	D/ST	5	8.3	Sunday afternoon	2
+Patrick Gowey	9	NE	Stephen Gostkowski, NE K	34	Reece Wade	Stephen Gostkowski	K	9	8.5	Sunday morning	2
+Lauren Manibusan	9	Pit	Le'Veon Bell*, Pit RB  IR	35	Andy Vu	Le'Veon Bell	RB	0	0	Sunday morning	3
+Lauren Manibusan	9	Mia	Lamar Miller, Mia RB	35	Andy Vu	Lamar Miller	RB	26.1	11.3	Sunday morning	3
+Lauren Manibusan	9	GB	Davante Adams, GB WR  Q	35	Andy Vu	Davante Adams	WR	11.3	7.9	Sunday morning	3
+Lauren Manibusan	9	Car	Greg Olsen, Car TE	35	Andy Vu	Greg Olsen	TE	12.6	9.6	Sunday morning	3
+Lauren Manibusan	9	Oak	Amari Cooper, Oak WR	35	Andy Vu	Amari Cooper	WR	14.8	8.9	Sunday morning	3
+Lauren Manibusan	9	NE	Patriots D/ST D/ST	35	Andy Vu	Patriots D/ST	D/ST	10	7.7	Sunday morning	3
+Andy Vu	9	Pit	Ben Roethlisberger, Pit QB  P	35	Lauren Manibusan	Ben Roethlisberger	QB	21.4	18.9	Sunday morning	3
+Andy Vu	9	Min	Adrian Peterson, Min RB	35	Lauren Manibusan	Adrian Peterson	RB	20.3	11.3	Sunday morning	3
+Andy Vu	9	NO	Mark Ingram, NO RB	35	Lauren Manibusan	Mark Ingram	RB	9.6	14.1	Sunday morning	3
+Andy Vu	9	Cin	A.J. Green, Cin WR	35	Lauren Manibusan	A.J. Green	WR	5.3	12	Thursday evening	3
+Andy Vu	9	NYJ	Brandon Marshall, NYJ WR	35	Lauren Manibusan	Brandon Marshall	WR	10.4	10.9	Sunday morning	3
+Andy Vu	9	Mia	Jordan Cameron, Mia TE	35	Lauren Manibusan	Jordan Cameron	TE	0.6	5.9	Sunday morning	3
+Andy Vu	9	TB	Doug Martin, TB RB	35	Lauren Manibusan	Doug Martin	RB	2.3	13	Sunday afternoon	3
+Andy Vu	9	NYJ	Jets D/ST D/ST	35	Lauren Manibusan	Jets D/ST	D/ST	11	10.3	Sunday morning	3
+Andy Vu	9	Dal	Dan Bailey, Dal K	35	Lauren Manibusan	Dan Bailey	K	11	7.1	Sunday evening	3
+Alonso Prato	9	Atl	Matt Ryan, Atl QB	36	Samiha Verma	Matt Ryan	QB	16.3	16.8	Sunday afternoon	4
+Alonso Prato	9	Den	Ronnie Hillman, Den RB	36	Samiha Verma	Ronnie Hillman	RB	0.1	10.7	Sunday afternoon	4
+Alonso Prato	9	Ten	Antonio Andrews, Ten RB	36	Samiha Verma	Antonio Andrews	RB	11.1	10.7	Sunday morning	4
+Alonso Prato	9	Pit	Antonio Brown, Pit WR	36	Samiha Verma	Antonio Brown	WR	28.6	15.1	Sunday morning	4
+Alonso Prato	9	Oak	Michael Crabtree, Oak WR	36	Samiha Verma	Michael Crabtree	WR	22.8	10.2	Sunday morning	4
+Alonso Prato	9	SD	Antonio Gates, SD TE	36	Samiha Verma	Antonio Gates	TE	6.9	9.1	Monday evening	4
+Alonso Prato	9	Chi	Alshon Jeffery*, Chi WR  O	36	Samiha Verma	Alshon Jeffery	WR	15.1	11.6	Monday evening	4
+Alonso Prato	9	Min	Vikings D/ST D/ST	36	Samiha Verma	Vikings D/ST	D/ST	1	7.8	Sunday morning	4
+Alonso Prato	9	Atl	Matt Bryant, Atl K	36	Samiha Verma	Matt Bryant	K	11	9	Sunday afternoon	4
+Samiha Verma	9	NE	Tom Brady, NE QB	36	Alonso Prato	Tom Brady	QB	17.9	22	Sunday morning	4
+Samiha Verma	9	NYG	Rashad Jennings, NYG RB	36	Alonso Prato	Rashad Jennings	RB	4.7	6.2	Sunday afternoon	4
+Samiha Verma	9	NE	LeGarrette Blount, NE RB	36	Alonso Prato	LeGarrette Blount	RB	18.9	12.3	Sunday morning	4
+Samiha Verma	9	NYG	Odell Beckham Jr., NYG WR	36	Alonso Prato	Odell Beckham Jr.	WR	10.5	13.3	Sunday afternoon	4
+Samiha Verma	9	NE	Julian Edelman*, NE WR  O	36	Alonso Prato	Julian Edelman	WR	9.5	10.8	Sunday morning	4
+Samiha Verma	9	NE	Rob Gronkowski, NE TE	36	Alonso Prato	Rob Gronkowski	TE	4.7	11.1	Sunday morning	4
+Samiha Verma	9	Cin	Giovani Bernard, Cin RB	36	Alonso Prato	Giovani Bernard	RB	8.6	10.6	Thursday evening	4
+Samiha Verma	9	Den	Brandon McManus, Den K	36	Alonso Prato	Brandon McManus	K	6	8.3	Sunday afternoon	4
+Reece Wade	10	NO	Drew Brees, NO QB	37	Patrick OBerry	Drew Brees	QB	12.4	18.4	Sunday morning	1
+Reece Wade	10	Sea	Marshawn Lynch*, Sea RB  O	37	Patrick OBerry	Marshawn Lynch	RB	11	5.9	Sunday evening	1
+Reece Wade	10	Bal	Justin Forsett*, Bal RB  O	37	Patrick OBerry	Justin Forsett	RB	6.4	15	Sunday morning	1
+Reece Wade	10	Det	Calvin Johnson, Det WR  Q	37	Patrick OBerry	Calvin Johnson	WR	8.1	11.2	Sunday morning	1
+Reece Wade	10	Den	Demaryius Thomas, Den WR	37	Patrick OBerry	Demaryius Thomas	WR	7.1	12.5	Sunday afternoon	1
+Reece Wade	10	Dal	Jason Witten, Dal TE	37	Patrick OBerry	Jason Witten	TE	4.2	6.9	Sunday morning	1
+Reece Wade	10	Jax	Allen Robinson, Jax WR	37	Patrick OBerry	Allen Robinson	WR	11.1	11.9	Sunday morning	1
+Reece Wade	10	Den	Broncos D/ST D/ST	37	Patrick OBerry	Broncos D/ST	D/ST	1	10.5	Sunday afternoon	1
+Reece Wade	10	Bal	Justin Tucker, Bal K	37	Patrick OBerry	Justin Tucker	K	1	8.8	Sunday morning	1
+Patrick OBerry	10	Den	Peyton Manning*, Den QB  O	37	Reece Wade	Peyton Manning	QB	-6.6	16.1	Sunday afternoon	1
+Patrick OBerry	10	Buf	LeSean McCoy, Buf RB	37	Reece Wade	LeSean McCoy	RB	15.9	9	Thursday evening	1
+Patrick OBerry	10	StL	Todd Gurley, StL RB	37	Reece Wade	Todd Gurley	RB	14.9	17.6	Sunday morning	1
+Patrick OBerry	10	Den	Emmanuel Sanders*, Den WR  O	37	Reece Wade	Emmanuel Sanders	WR	0	8.8	Sunday afternoon	1
+Patrick OBerry	10	TB	Mike Evans, TB WR	37	Reece Wade	Mike Evans	WR	12.6	10.6	Sunday morning	1
+Patrick OBerry	10	Cle	Gary Barnidge, Cle TE	37	Reece Wade	Gary Barnidge	TE	12.5	8.1	Sunday morning	1
+Patrick OBerry	10	Pit	DeAngelo Williams, Pit RB	37	Reece Wade	DeAngelo Williams	RB	6.9	16.7	Sunday morning	1
+Patrick OBerry	10	StL	Rams D/ST D/ST	37	Reece Wade	Rams D/ST	D/ST	2	11.8	Sunday morning	1
+Patrick OBerry	10	Chi	Robbie Gould, Chi K	37	Reece Wade	Robbie Gould	K	13	7.9	Sunday morning	1
+trevor lemmons	10	Buf	Tyrod Taylor, Buf QB  Q	38	Patrick Gowey	Tyrod Taylor	QB	11.5	15.5	Thursday evening	2
+trevor lemmons	10	Jax	T.J. Yeldon, Jax RB	38	Patrick Gowey	T.J. Yeldon	RB	6.7	9.9	Sunday morning	2
+trevor lemmons	10	NYJ	Chris Ivory, NYJ RB	38	Patrick Gowey	Chris Ivory	RB	11.5	13.2	Thursday evening	2
+trevor lemmons	10	Hou	DeAndre Hopkins, Hou WR	38	Patrick Gowey	DeAndre Hopkins	WR	11.7	12.9	Monday evening	2
+trevor lemmons	10	Ari	Larry Fitzgerald, Ari WR	38	Patrick Gowey	Larry Fitzgerald	WR	13	10.5	Sunday evening	2
+trevor lemmons	10	NO	Benjamin Watson, NO TE	38	Patrick Gowey	Benjamin Watson	TE	1.9	6.1	Sunday morning	2
+trevor lemmons	10	KC	Charcandrick West, KC RB  Q	38	Patrick Gowey	Charcandrick West	RB	28.1	9.7	Sunday afternoon	2
+trevor lemmons	10	Phi	Eagles D/ST D/ST	38	Patrick Gowey	Eagles D/ST	D/ST	8	8.3	Sunday morning	2
+trevor lemmons	10	NYG	Josh Brown, NYG K	38	Patrick Gowey	Josh Brown	K	16	8.6	Sunday afternoon	2
+Patrick Gowey	10	GB	Aaron Rodgers, GB QB	38	trevor lemmons	Aaron Rodgers	QB	22.1	23.8	Sunday morning	2
+Patrick Gowey	10	Dal	Darren McFadden, Dal RB  Q	38	trevor lemmons	Darren McFadden	RB	5.8	15	Sunday morning	2
+Patrick Gowey	10	Chi	Jeremy Langford, Chi RB	38	trevor lemmons	Jeremy Langford	RB	30.2	10.5	Sunday morning	2
+Patrick Gowey	10	Dal	Dez Bryant, Dal WR  Q	38	trevor lemmons	Dez Bryant	WR	4.5	9.5	Sunday morning	2
+Patrick Gowey	10	Mia	Jarvis Landry, Mia WR	38	trevor lemmons	Jarvis Landry	WR	11.8	9.1	Sunday morning	2
+Patrick Gowey	10	KC	Travis Kelce, KC TE	38	trevor lemmons	Travis Kelce	TE	3.6	6.7	Sunday afternoon	2
+Patrick Gowey	10	GB	James Starks, GB RB	38	trevor lemmons	James Starks	RB	9.6	13.6	Sunday morning	2
+Patrick Gowey	10	Ari	Cardinals D/ST D/ST	38	trevor lemmons	Cardinals D/ST	D/ST	5	10	Sunday evening	2
+Patrick Gowey	10	NE	Stephen Gostkowski, NE K	38	trevor lemmons	Stephen Gostkowski	K	11	7.7	Sunday afternoon	2
+Alonso Prato	10	Ari	Carson Palmer, Ari QB	39	Lauren Manibusan	Carson Palmer	QB	20.3	16.3	Sunday evening	3
+Alonso Prato	10	Ten	Antonio Andrews, Ten RB	39	Lauren Manibusan	Antonio Andrews	RB	0.8	9.9	Sunday morning	3
+Alonso Prato	10	Wsh	Matt Jones, Wsh RB	39	Lauren Manibusan	Matt Jones	RB	24.7	11.7	Sunday morning	3
+Alonso Prato	10	Pit	Antonio Brown, Pit WR	39	Lauren Manibusan	Antonio Brown	WR	27.9	11.4	Sunday morning	3
+Alonso Prato	10	Oak	Michael Crabtree, Oak WR	39	Lauren Manibusan	Michael Crabtree	WR	5.5	11.8	Sunday afternoon	3
+Alonso Prato	10	Sea	Jimmy Graham, Sea TE	39	Lauren Manibusan	Jimmy Graham	TE	4.1	7.7	Sunday evening	3
+Alonso Prato	10	Chi	Alshon Jeffery*, Chi WR  O	39	Lauren Manibusan	Alshon Jeffery	WR	2.3	11.5	Sunday morning	3
+Alonso Prato	10	Car	Panthers D/ST D/ST	39	Lauren Manibusan	Panthers D/ST	D/ST	10	9.1	Sunday morning	3
+Alonso Prato	10	Hou	Nick Novak, Hou K	39	Lauren Manibusan	Nick Novak	K	4	9.1	Monday evening	3
+Lauren Manibusan	10	Sea	Russell Wilson, Sea QB	39	Alonso Prato	Russell Wilson	QB	16.8	16.4	Sunday evening	3
+Lauren Manibusan	10	Pit	Le'Veon Bell*, Pit RB  IR	39	Alonso Prato	Le'Veon Bell	RB	0	NA	Sunday morning	3
+Lauren Manibusan	10	Mia	Lamar Miller, Mia RB	39	Alonso Prato	Lamar Miller	RB	15.3	10.9	Sunday morning	3
+Lauren Manibusan	10	GB	Davante Adams, GB WR  Q	39	Alonso Prato	Davante Adams	WR	7.9	8.7	Sunday morning	3
+Lauren Manibusan	10	KC	Jeremy Maclin, KC WR	39	Alonso Prato	Jeremy Maclin	WR	1.7	8.9	Sunday afternoon	3
+Lauren Manibusan	10	Car	Greg Olsen, Car TE	39	Alonso Prato	Greg Olsen	TE	8	8.7	Sunday morning	3
+Lauren Manibusan	10	Oak	Amari Cooper, Oak WR	39	Alonso Prato	Amari Cooper	WR	7.9	10.3	Sunday afternoon	3
+Lauren Manibusan	10	NE	Patriots D/ST D/ST	39	Alonso Prato	Patriots D/ST	D/ST	2	7.4	Sunday afternoon	3
+Lauren Manibusan	10	Sea	Steven Hauschka, Sea K	39	Alonso Prato	Steven Hauschka	K	9	7.7	Sunday evening	3
+Andy Vu	10	Phi	Sam Bradford*, Phi QB  O	40	Samiha Verma	Sam Bradford	QB	13.4	14.7	Sunday morning	4
+Andy Vu	10	Min	Adrian Peterson, Min RB	40	Samiha Verma	Adrian Peterson	RB	27.6	14.3	Sunday afternoon	4
+Andy Vu	10	NO	Mark Ingram, NO RB	40	Samiha Verma	Mark Ingram	RB	9.8	14.4	Sunday morning	4
+Andy Vu	10	Cin	A.J. Green, Cin WR	40	Samiha Verma	A.J. Green	WR	4.7	13.2	Monday evening	4
+Andy Vu	10	NYJ	Brandon Marshall, NYJ WR	40	Samiha Verma	Brandon Marshall	WR	8.3	11.3	Thursday evening	4
+Andy Vu	10	Mia	Jordan Cameron, Mia TE	40	Samiha Verma	Jordan Cameron	TE	0.5	6	Sunday morning	4
+Andy Vu	10	TB	Doug Martin, TB RB	40	Samiha Verma	Doug Martin	RB	10.3	12.1	Sunday morning	4
+Andy Vu	10	NYJ	Jets D/ST D/ST	40	Samiha Verma	Jets D/ST	D/ST	6	9.6	Thursday evening	4
+Andy Vu	10	Dal	Dan Bailey, Dal K	40	Samiha Verma	Dan Bailey	K	8	7.6	Sunday morning	4
+Samiha Verma	10	NE	Tom Brady, NE QB	40	Andy Vu	Tom Brady	QB	18.3	23.3	Sunday afternoon	4
+Samiha Verma	10	NYG	Rashad Jennings, NYG RB	40	Andy Vu	Rashad Jennings	RB	5.1	5.7	Sunday afternoon	4
+Samiha Verma	10	NE	LeGarrette Blount, NE RB	40	Andy Vu	LeGarrette Blount	RB	13.7	12.5	Sunday afternoon	4
+Samiha Verma	10	NYG	Odell Beckham Jr., NYG WR	40	Andy Vu	Odell Beckham Jr.	WR	16.4	12.1	Sunday afternoon	4
+Samiha Verma	10	NE	Julian Edelman*, NE WR  O	40	Andy Vu	Julian Edelman	WR	5.3	12.2	Sunday afternoon	4
+Samiha Verma	10	NE	Rob Gronkowski, NE TE	40	Andy Vu	Rob Gronkowski	TE	17.3	11.8	Sunday afternoon	4
+Samiha Verma	10	Cin	Giovani Bernard, Cin RB	40	Andy Vu	Giovani Bernard	RB	7.9	10.8	Monday evening	4
+Samiha Verma	10	Bal	Ravens D/ST D/ST	40	Andy Vu	Ravens D/ST	D/ST	7	7.4	Sunday morning	4
+Samiha Verma	10	Den	Brandon McManus, Den K	40	Andy Vu	Brandon McManus	K	1	7.7	Sunday afternoon	4
+Lauren Manibusan	11	Sea	Russell Wilson, Sea QB	41	Patrick OBerry	Russell Wilson	QB	25.4	17.3	Sunday afternoon	1
+Lauren Manibusan	11	Mia	Lamar Miller, Mia RB	41	Patrick OBerry	Lamar Miller	RB	5.5	13.3	Sunday morning	1
+Lauren Manibusan	11	GB	Davante Adams, GB WR  Q	41	Patrick OBerry	Davante Adams	WR	3.6	9.1	Sunday morning	1
+Lauren Manibusan	11	KC	Jeremy Maclin, KC WR	41	Patrick OBerry	Jeremy Maclin	WR	2.9	8.6	Sunday evening	1
+Lauren Manibusan	11	Car	Greg Olsen, Car TE	41	Patrick OBerry	Greg Olsen	TE	11.4	9.1	Sunday morning	1
+Lauren Manibusan	11	Oak	Amari Cooper, Oak WR	41	Patrick OBerry	Amari Cooper	WR	0.4	10.9	Sunday morning	1
+Lauren Manibusan	11	NE	Patriots D/ST D/ST	41	Patrick OBerry	Patriots D/ST	D/ST	7	7.9	Monday evening	1
+Lauren Manibusan	11	Sea	Steven Hauschka, Sea K	41	Patrick OBerry	Steven Hauschka	K	5	8.7	Sunday afternoon	1
+Patrick OBerry	11	SD	Philip Rivers, SD QB	41	Lauren Manibusan	Philip Rivers	QB	5.9	18.1	Sunday evening	1
+Patrick OBerry	11	StL	Todd Gurley, StL RB	41	Lauren Manibusan	Todd Gurley	RB	10.6	15.1	Sunday morning	1
+Patrick OBerry	11	Atl	Devonta Freeman, Atl RB  Q	41	Lauren Manibusan	Devonta Freeman	RB	4.3	20.6	Sunday morning	1
+Patrick OBerry	11	Atl	Julio Jones, Atl WR	41	Lauren Manibusan	Julio Jones	WR	16	13.9	Sunday morning	1
+Patrick OBerry	11	TB	Mike Evans, TB WR	41	Lauren Manibusan	Mike Evans	WR	12.3	10.4	Sunday morning	1
+Patrick OBerry	11	Wsh	Jordan Reed, Wsh TE  Q	41	Lauren Manibusan	Jordan Reed	TE	2.6	7.3	Sunday morning	1
+Patrick OBerry	11	Buf	LeSean McCoy, Buf RB	41	Lauren Manibusan	LeSean McCoy	RB	18.3	11.2	Monday evening	1
+Patrick OBerry	11	StL	Rams D/ST D/ST	41	Lauren Manibusan	Rams D/ST	D/ST	5	7.5	Sunday morning	1
+Patrick OBerry	11	Chi	Robbie Gould, Chi K	41	Lauren Manibusan	Robbie Gould	K	10	7	Sunday morning	1
+Samiha Verma	11	NE	Tom Brady, NE QB	42	Patrick Gowey	Tom Brady	QB	13.1	21.9	Monday evening	2
+Samiha Verma	11	Den	C.J. Anderson, Den RB	42	Patrick Gowey	C.J. Anderson	RB	7.2	6.4	Sunday morning	2
+Samiha Verma	11	NE	LeGarrette Blount, NE RB	42	Patrick Gowey	LeGarrette Blount	RB	6.1	13.9	Monday evening	2
+Samiha Verma	11	NE	Rob Gronkowski, NE TE	42	Patrick Gowey	Rob Gronkowski	TE	3.7	11	Monday evening	2
+Samiha Verma	11	Cin	Giovani Bernard, Cin RB	42	Patrick Gowey	Giovani Bernard	RB	14.6	9.7	Sunday afternoon	2
+Samiha Verma	11	Bal	Ravens D/ST D/ST	42	Patrick Gowey	Ravens D/ST	D/ST	16	5.4	Sunday morning	2
+Samiha Verma	11	Den	Brandon McManus, Den K	42	Patrick Gowey	Brandon McManus	K	5	8.9	Sunday morning	2
+Patrick Gowey	11	GB	Aaron Rodgers, GB QB	42	Samiha Verma	Aaron Rodgers	QB	19.1	19.4	Sunday morning	2
+Patrick Gowey	11	Car	Jonathan Stewart, Car RB	42	Samiha Verma	Jonathan Stewart	RB	17.4	14.4	Sunday morning	2
+Patrick Gowey	11	Dal	Darren McFadden, Dal RB  Q	42	Samiha Verma	Darren McFadden	RB	14.9	16.2	Sunday morning	2
+Patrick Gowey	11	Mia	Jarvis Landry, Mia WR	42	Samiha Verma	Jarvis Landry	WR	6.6	9.5	Sunday morning	2
+Patrick Gowey	11	NE	Danny Amendola, NE WR  Q	42	Samiha Verma	Danny Amendola	WR	11.7	10.1	Monday evening	2
+Patrick Gowey	11	KC	Travis Kelce, KC TE	42	Samiha Verma	Travis Kelce	TE	4.6	7.6	Sunday evening	2
+Patrick Gowey	11	Dal	Dez Bryant, Dal WR  Q	42	Samiha Verma	Dez Bryant	WR	10.5	12.5	Sunday morning	2
+Patrick Gowey	11	Ari	Cardinals D/ST D/ST	42	Samiha Verma	Cardinals D/ST	D/ST	4	5.3	Sunday afternoon	2
+Patrick Gowey	11	NE	Stephen Gostkowski, NE K	42	Samiha Verma	Stephen Gostkowski	K	7	8.1	Monday evening	2
+Andy Vu	11	Phi	Sam Bradford*, Phi QB  O	43	trevor lemmons	Sam Bradford	QB	0	0	Sunday morning	3
+Andy Vu	11	Min	Adrian Peterson, Min RB	43	trevor lemmons	Adrian Peterson	RB	10.1	17	Sunday morning	3
+Andy Vu	11	Cin	A.J. Green, Cin WR	43	trevor lemmons	A.J. Green	WR	7.9	11.7	Sunday afternoon	3
+Andy Vu	11	NYJ	Brandon Marshall, NYJ WR	43	trevor lemmons	Brandon Marshall	WR	10.7	11.3	Sunday morning	3
+Andy Vu	11	Mia	Jordan Cameron, Mia TE	43	trevor lemmons	Jordan Cameron	TE	8.1	4.7	Sunday morning	3
+Andy Vu	11	TB	Doug Martin, TB RB	43	trevor lemmons	Doug Martin	RB	23.5	10.1	Sunday morning	3
+Andy Vu	11	NYJ	Jets D/ST D/ST	43	trevor lemmons	Jets D/ST	D/ST	2	6.3	Sunday morning	3
+Andy Vu	11	Dal	Dan Bailey, Dal K	43	trevor lemmons	Dan Bailey	K	6	8.2	Sunday morning	3
+trevor lemmons	11	Buf	Tyrod Taylor, Buf QB  Q	43	Andy Vu	Tyrod Taylor	QB	9.4	16.5	Monday evening	3
+trevor lemmons	11	NYJ	Chris Ivory, NYJ RB	43	Andy Vu	Chris Ivory	RB	4.5	12.8	Sunday morning	3
+trevor lemmons	11	KC	Charcandrick West, KC RB  Q	43	Andy Vu	Charcandrick West	RB	6.4	17.2	Sunday evening	3
+trevor lemmons	11	Hou	DeAndre Hopkins, Hou WR	43	Andy Vu	DeAndre Hopkins	WR	23.8	12	Sunday morning	3
+trevor lemmons	11	Ari	Larry Fitzgerald, Ari WR	43	Andy Vu	Larry Fitzgerald	WR	9	13.8	Sunday afternoon	3
+trevor lemmons	11	Cin	Tyler Eifert, Cin TE	43	Andy Vu	Tyler Eifert	TE	14.2	8.9	Sunday afternoon	3
+trevor lemmons	11	Jax	Allen Hurns, Jax WR	43	Andy Vu	Allen Hurns	WR	1.9	8.7	Thursday evening	3
+trevor lemmons	11	Sea	Seahawks D/ST D/ST	43	Andy Vu	Seahawks D/ST	D/ST	5	12.9	Sunday afternoon	3
+trevor lemmons	11	KC	Cairo Santos, KC K	43	Andy Vu	Cairo Santos	K	9	7.8	Sunday evening	3
+Alonso Prato	11	Ari	Carson Palmer, Ari QB	44	Reece Wade	Carson Palmer	QB	24.6	20.4	Sunday afternoon	4
+Alonso Prato	11	Oak	Latavius Murray, Oak RB	44	Reece Wade	Latavius Murray	RB	8.8	13.8	Sunday morning	4
+Alonso Prato	11	Ten	Antonio Andrews, Ten RB	44	Reece Wade	Antonio Andrews	RB	9.4	7.3	Thursday evening	4
+Alonso Prato	11	Oak	Michael Crabtree, Oak WR	44	Reece Wade	Michael Crabtree	WR	5	12.3	Sunday morning	4
+Alonso Prato	11	NYJ	Eric Decker, NYJ WR	44	Reece Wade	Eric Decker	WR	8.1	9.9	Sunday morning	4
+Alonso Prato	11	SD	Antonio Gates, SD TE	44	Reece Wade	Antonio Gates	TE	0.6	8.4	Sunday evening	4
+Alonso Prato	11	Chi	Alshon Jeffery*, Chi WR  O	44	Reece Wade	Alshon Jeffery	WR	0	0	Sunday morning	4
+Alonso Prato	11	Car	Panthers D/ST D/ST	44	Reece Wade	Panthers D/ST	D/ST	19	7.7	Sunday morning	4
+Alonso Prato	11	Hou	Nick Novak, Hou K	44	Reece Wade	Nick Novak	K	6	8.8	Sunday morning	4
+Reece Wade	11	Sea	Marshawn Lynch*, Sea RB  O	44	Alonso Prato	Marshawn Lynch	RB	0	0	Sunday afternoon	4
+Reece Wade	11	Bal	Justin Forsett*, Bal RB  O	44	Alonso Prato	Justin Forsett	RB	2.6	12.9	Sunday morning	4
+Reece Wade	11	Det	Calvin Johnson, Det WR  Q	44	Alonso Prato	Calvin Johnson	WR	8.8	12.5	Sunday morning	4
+Reece Wade	11	Den	Demaryius Thomas, Den WR	44	Alonso Prato	Demaryius Thomas	WR	11.9	9.9	Sunday morning	4
+Reece Wade	11	Dal	Jason Witten, Dal TE	44	Alonso Prato	Jason Witten	TE	2.7	7.7	Sunday morning	4
+Reece Wade	11	Jax	Allen Robinson, Jax WR	44	Alonso Prato	Allen Robinson	WR	11.3	11.5	Thursday evening	4
+Reece Wade	11	Den	Broncos D/ST D/ST	44	Alonso Prato	Broncos D/ST	D/ST	7	10.7	Sunday morning	4
+Reece Wade	11	Bal	Justin Tucker, Bal K	44	Alonso Prato	Justin Tucker	K	9	9	Sunday morning	4
