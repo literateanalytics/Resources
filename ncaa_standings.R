@@ -1,5 +1,17 @@
 # source('/Users/pgowey/GitHub/Resources/ncaa_standings.R')
 
+# https://tournament.fantasysports.yahoo.com/t1/1125965
+# https://tournament.fantasysports.yahoo.com/t1/1434165
+# https://tournament.fantasysports.yahoo.com/t1/2180263
+# https://tournament.fantasysports.yahoo.com/t1/1392971
+# https://tournament.fantasysports.yahoo.com/t1/2200240
+
+# http://games.espn.go.com/tournament-challenge-bracket/2016/en/entry?entryID=11563978
+# http://games.espn.go.com/tournament-challenge-bracket/2016/en/entry?entryID=12840967
+
+
+
+
 library(XML)
 library(ggplot2)
 library(dplyr)
