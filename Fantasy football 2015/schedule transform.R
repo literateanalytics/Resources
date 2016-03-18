@@ -1,4 +1,5 @@
 # data source: http://www.channelguidemagblog.com/index.php/2015/09/10/free-printable-2015-nfl-tv-schedule/
+# source('/Users/pgowey/Github/Resources/Fantasy Football 2015/schedule transform.R')
 
 library(dplyr)
 library(reshape2)
