@@ -1,0 +1,52 @@
+// Overall Sublime user settings
+
+{
+    "auto_complete_delay": 2000,
+    "caret_extra_bottom": 0.5,
+    "caret_extra_top": 0.5,
+    "caret_extra_width": 0,
+    "caret_style": "wide",
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "default":
+    {
+        "color": "brackethighlighter.default",
+        "icon": "dot",
+        "style": "underline"
+    },
+    "enable_tab_scrolling": true,
+    "font_size": 9,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "indent_guide_options":
+    [
+        "draw_active"
+    ],
+    "match_brackets_content": false,
+    "show_in_minimap": false,
+    "show_unmatched": true,
+    "translate_tabs_to_spaces": true
+}
+
+
+// Key bindings - user
+
+[
+    // use ctrl+tab to change tabs
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+    // use ctrl+alt+s to toggle search in selection
+    { "keys": ["ctrl+alt+s"], "command": "toggle_in_selection", "context":
+      [
+         { "key": "setting.is_widget", "operator": "equal", "operand": true }
+      ]
+    }
+]
+
+
+// Syntax specific - R
+{"word_separators": "/\\()\"'-:,;<>~!@#$%^&*|+=[]{}`~?"}
